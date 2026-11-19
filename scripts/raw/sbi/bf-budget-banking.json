@@ -1,0 +1,1104 @@
+{
+ "batches": [
+  {
+   "key": "bf-budget",
+   "name": "Union Budget & government schemes",
+   "questions": [
+    {
+     "q": "In November 2026 the Union Cabinet extended the Stand-Up India scheme up to which date?",
+     "options": [
+      "31 March 2031",
+      "31 March 2028",
+      "31 March 2030",
+      "31 December 2031"
+     ],
+     "answer": "A",
+     "explanation": "The Cabinet (11 Nov 2026) extended Stand-Up India for five years to 31 March 2031 with a Rs 4,111 crore credit guarantee corpus, to support 2.5 lakh more women, SC and ST entrepreneurs. The scheme was launched on 5 April 2016. Source: GKToday, 11 Nov 2026.",
+     "likely": 5,
+     "fact": "Stand-Up India was extended to 31 March 2031.",
+     "event_date": "2026-11-11",
+     "kind": "news",
+     "source_url": "https://www.gktoday.in/stand-up-india-scheme-extended-until-2031/",
+     "confidence": "high"
+    },
+    {
+     "q": "The GOBARdhan scheme approved by the Union Cabinet in August 2026 is India's national unified scheme for which fuel?",
+     "options": [
+      "Green hydrogen",
+      "Compressed biogas (CBG)",
+      "Ethanol",
+      "Liquefied natural gas (LNG)"
+     ],
+     "answer": "B",
+     "explanation": "On 6 Aug 2026 the Cabinet approved GOBARdhan as the national unified scheme for compressed biogas with Rs 23,731 crore for 2026-27 to 2035-36. GOBAR stands for Galvanizing Organic Bio-Agro Resources. Source: News On AIR, 6 Aug 2026.",
+     "likely": 5,
+     "fact": "GOBARdhan relates to compressed biogas / bioenergy from organic waste.",
+     "event_date": "2026-08-06",
+     "kind": "news",
+     "source_url": "https://newsonair.gov.in/cabinet-approves-gobardhan-scheme-marking-defining-moment-in-indias-clean-energy-journey/",
+     "confidence": "high"
+    },
+    {
+     "q": "Under Ayushman Bharat PM-JAY, post-hospitalisation expenses are covered for how many days?",
+     "options": [
+      "3 days",
+      "7 days",
+      "15 days",
+      "30 days"
+     ],
+     "answer": "C",
+     "explanation": "PM-JAY covers 3 days of pre-hospitalisation and 15 days of post-hospitalisation expenses, within the Rs 5 lakh per family per year cover. It was launched on 23 September 2018 at Ranchi. Source: Wikipedia (Ayushman Bharat Yojana), Nov 2026.",
+     "likely": 5,
+     "fact": "PM-JAY covers 15 days of post-hospitalisation expenses.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Ayushman_Bharat_Yojana",
+     "confidence": "high"
+    },
+    {
+     "q": "PM Surya Ghar: Muft Bijli Yojana, with an outlay of Rs 75,021 crore, is to be implemented up to which financial year?",
+     "options": [
+      "2025-26",
+      "2028-29",
+      "2029-30",
+      "2026-27"
+     ],
+     "answer": "D",
+     "explanation": "The Cabinet approved the scheme on 29 February 2024 with Rs 75,021 crore, to be implemented till FY 2026-27, for rooftop solar in 1 crore households. The Ministry of New and Renewable Energy runs it. Source: Wikipedia / MNRE, Nov 2026.",
+     "likely": 5,
+     "fact": "PM Surya Ghar is implemented till FY 2026-27.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Pradhan_Mantri_Surya_Ghar_Muft_Bijli_Yojana",
+     "confidence": "medium"
+    },
+    {
+     "q": "By a decision of September 2026, the monthly wage ceiling for mandatory EPF coverage was raised from Rs 15,000 to what amount?",
+     "options": [
+      "Rs 25,000",
+      "Rs 18,000",
+      "Rs 21,000",
+      "Rs 30,000"
+     ],
+     "answer": "A",
+     "explanation": "The ceiling rose to Rs 25,000 a month, effective 17 September 2026; it had been Rs 15,000 since September 2014. EPFO works under the Ministry of Labour and Employment. Source: Wikipedia (EPFO), Nov 2026; Labour Ministry notification, 17 Sep 2026.",
+     "likely": 5,
+     "fact": "EPF wage ceiling is Rs 25,000 a month from 17 Sep 2026.",
+     "event_date": "2026-09-17",
+     "kind": "news",
+     "source_url": "https://en.wikipedia.org/wiki/Employees%27_Provident_Fund_Organisation",
+     "confidence": "high"
+    },
+    {
+     "q": "According to MoSPI data released on 12 November 2026, what was India's CPI-based retail inflation for October 2026?",
+     "options": [
+      "4.82%",
+      "6.09%",
+      "5.54%",
+      "6.63%"
+     ],
+     "answer": "B",
+     "explanation": "October 2026 CPI inflation was 6.09%, up from 5.54% in September; food inflation was 8.94%. This is above the 6% upper limit of the RBI's 4% +/- 2% target band. Source: Trading Economics / MoSPI, 12 Nov 2026.",
+     "likely": 5,
+     "fact": "CPI inflation for October 2026 was 6.09%.",
+     "event_date": "2026-11-12",
+     "kind": "news",
+     "source_url": "https://tradingeconomics.com/india/inflation-cpi",
+     "confidence": "high"
+    },
+    {
+     "q": "In a GSTIN, which is 15 characters long, what do the ten characters after the two-digit state code represent?",
+     "options": [
+      "Aadhaar number",
+      "HSN code",
+      "PAN of the taxpayer",
+      "Date of registration"
+     ],
+     "answer": "C",
+     "explanation": "A GSTIN has 15 characters: 2 digits for the state code, 10 for the PAN, the 13th for the entity number, the 14th is 'Z' by default and the 15th is a check digit. Source: GST portal (gst.gov.in).",
+     "likely": 5,
+     "fact": "Characters 3 to 12 of a GSTIN are the PAN.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.gst.gov.in/",
+     "confidence": "medium"
+    },
+    {
+     "q": "The VISTAR scheme, approved by the Union Cabinet in November 2026 with about Rs 4,371 crore, belongs to which ministry?",
+     "options": [
+      "Ministry of Finance",
+      "Ministry of Electronics and Information Technology",
+      "Ministry of Science and Technology",
+      "Ministry of Statistics and Programme Implementation"
+     ],
+     "answer": "D",
+     "explanation": "VISTAR (Viksit Bharat Initiative for Statistical Transformation, Analytics & Research) was approved on 4 Nov 2026 for 2026-27 to 2030-31. It includes the 8th Economic Census. Source: News On AIR, 4 Nov 2026.",
+     "likely": 4,
+     "fact": "VISTAR is a MoSPI scheme.",
+     "event_date": "2026-11-04",
+     "kind": "news",
+     "source_url": "https://newsonair.gov.in/cabinet-approves-over-rs-4371-crore-vistar-scheme-to-modernise-indias-statistical-system/",
+     "confidence": "high"
+    },
+    {
+     "q": "The Pradhan Mantri Viksit Gram Swaraj Yojana, approved by the Cabinet in October 2026, aims to strengthen which institutions?",
+     "options": [
+      "Panchayati Raj institutions",
+      "Urban local bodies",
+      "Primary agricultural credit societies",
+      "Self-help groups"
+     ],
+     "answer": "A",
+     "explanation": "PM VGSY (28 Oct 2026) is a centrally sponsored scheme with Rs 7,395.55 crore for 2026-27 to 2030-31, covering over 2.55 lakh panchayats. Central share is Rs 4,869.48 crore. Source: DD News, 28 Oct 2026.",
+     "likely": 4,
+     "fact": "PM VGSY strengthens Panchayati Raj institutions.",
+     "event_date": "2026-10-28",
+     "kind": "news",
+     "source_url": "https://ddnews.gov.in/en/cabinet-approves-pm-viksit-gram-swaraj-yojana-with-outlay-of-rs-7395-crore",
+     "confidence": "high"
+    },
+    {
+     "q": "In October 2026 the Cabinet renamed the National Social Assistance Programme (NSAP) as what?",
+     "options": [
+      "Pradhan Mantri Samajik Suraksha Yojana",
+      "Pradhan Mantri Samajik Sahayata Yojana",
+      "Pradhan Mantri Jan Kalyan Yojana",
+      "Pradhan Mantri Garib Kalyan Pension Yojana"
+     ],
+     "answer": "B",
+     "explanation": "On 14 Oct 2026 the Cabinet continued NSAP for 2026-27 to 2030-31 with Rs 53,428 crore and renamed it. About 3.2 crore people benefit; it is run by the Department of Rural Development. Source: News On AIR, 14 Oct 2026.",
+     "likely": 4,
+     "fact": "NSAP was renamed Pradhan Mantri Samajik Sahayata Yojana.",
+     "event_date": "2026-10-14",
+     "kind": "news",
+     "source_url": "https://newsonair.gov.in/cabinet-approves-53428-crore-rupees-for-social-security-net/",
+     "confidence": "high"
+    },
+    {
+     "q": "For the October-December 2026 quarter, what is the interest rate on the Public Provident Fund (PPF)?",
+     "options": [
+      "7.5%",
+      "7.7%",
+      "7.1%",
+      "8.2%"
+     ],
+     "answer": "C",
+     "explanation": "Small savings rates were kept unchanged on 30 Sep 2026: PPF 7.1%, NSC 7.7%, KVP 7.5%, SCSS and Sukanya Samriddhi 8.2% each. Source: Business Today, 30 Sep 2026.",
+     "likely": 4,
+     "fact": "PPF rate for Oct-Dec 2026 is 7.1%.",
+     "event_date": "2026-09-30",
+     "kind": "news",
+     "source_url": "https://www.businesstoday.in/personal-finance/story/small-savings-scheme-interest-rates-unchanged-for-q3-fy27-check-ppf-scss-ssy-rates-558892-2026-09-30",
+     "confidence": "high"
+    },
+    {
+     "q": "Which body does Article 279A of the Constitution provide for?",
+     "options": [
+      "Finance Commission",
+      "NITI Aayog",
+      "Inter-State Council",
+      "GST Council"
+     ],
+     "answer": "D",
+     "explanation": "The GST Council was set up under Article 279A, added by the 101st Constitutional Amendment Act, 2016. The Union Finance Minister chairs it. GST began on 1 July 2017. Source: GST Council website.",
+     "likely": 4,
+     "fact": "The GST Council is set up under Article 279A.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://gstcouncil.gov.in/",
+     "confidence": "medium"
+    },
+    {
+     "q": "The Senior Citizens' Savings Scheme (SCSS) pays interest quarterly. What is the maximum amount an individual can deposit in it?",
+     "options": [
+      "Rs 30 lakh",
+      "Rs 9 lakh",
+      "Rs 15 lakh",
+      "Rs 50 lakh"
+     ],
+     "answer": "A",
+     "explanation": "The SCSS limit was raised from Rs 15 lakh to Rs 30 lakh from 1 April 2023. Minimum age is 60, tenure is 5 years (extendable by 3 years) and the rate is 8.2%. Source: National Savings Institute.",
+     "likely": 4,
+     "fact": "SCSS maximum deposit is Rs 30 lakh.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.nsiindia.gov.in/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Which body regulates the National Pension System (NPS), which needs a minimum Tier-I contribution of Rs 1,000 a year?",
+     "options": [
+      "SEBI",
+      "PFRDA",
+      "IRDAI",
+      "EPFO"
+     ],
+     "answer": "B",
+     "explanation": "The Pension Fund Regulatory and Development Authority regulates NPS and Atal Pension Yojana. NPS began on 1 January 2004 for government employees and opened to all citizens on 1 May 2009. Source: Wikipedia, checked Nov 2026.",
+     "likely": 4,
+     "fact": "PFRDA regulates NPS.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/National_Pension_System",
+     "confidence": "high"
+    },
+    {
+     "q": "Senior citizens aged 70 and above get how much annual health cover under Ayushman Vay Vandana (AB PM-JAY)?",
+     "options": [
+      "Rs 2 lakh",
+      "Rs 3 lakh",
+      "Rs 5 lakh",
+      "Rs 10 lakh"
+     ],
+     "answer": "C",
+     "explanation": "Since 29 October 2024 all citizens aged 70 and above get Rs 5 lakh a year regardless of income; families already covered get it as a separate top-up. The National Health Authority implements it. Source: Adda247, 30 Oct 2026.",
+     "likely": 4,
+     "fact": "Citizens aged 70+ get Rs 5 lakh cover under PM-JAY.",
+     "event_date": "static",
+     "kind": "news-static",
+     "source_url": "https://currentaffairs.adda247.com/ayushman-vay-vandana-scheme-completes-2-years-with-23-46-lakh-hospital-admissions/",
+     "confidence": "high"
+    },
+    {
+     "q": "As per NSO data released on 31 August 2026, India's real GDP grew by how much in April-June 2026 (Q1 of 2026-27)?",
+     "options": [
+      "6.9%",
+      "7.4%",
+      "8.6%",
+      "7.8%"
+     ],
+     "answer": "D",
+     "explanation": "Q1 FY27 real GDP growth was 7.8%. This is the latest quarterly figure, as the July-September data is due on 30 November 2026. Source: Trading Economics / NSO, 31 Aug 2026.",
+     "likely": 4,
+     "fact": "Q1 FY27 real GDP growth was 7.8%.",
+     "event_date": "2026-08-31",
+     "kind": "news",
+     "source_url": "https://tradingeconomics.com/india/gdp-growth-annual",
+     "confidence": "high"
+    },
+    {
+     "q": "In July 2026 the Cabinet continued PM-KISAN up to 2030-31. How much does an eligible farmer family get per year under it?",
+     "options": [
+      "Rs 6,000",
+      "Rs 4,000",
+      "Rs 8,000",
+      "Rs 12,000"
+     ],
+     "answer": "A",
+     "explanation": "PM-KISAN pays Rs 6,000 a year in three equal instalments of Rs 2,000 by DBT. The continuation for 2026-27 to 2030-31 has an outlay of Rs 3.15 lakh crore. Source: New India Samachar (PIB), 16-31 Aug 2026.",
+     "likely": 4,
+     "fact": "PM-KISAN gives Rs 6,000 a year; continued to 2030-31.",
+     "event_date": "2026-07-31",
+     "kind": "news-static",
+     "source_url": "https://newindiasamachar.pib.gov.in/WriteReadData/flipbook/2026/Aug/2nd/English/files/basic-html/page8.html",
+     "confidence": "high"
+    },
+    {
+     "q": "Which ministry will administer the unified GOBARdhan scheme (2026-27 to 2035-36) approved in August 2026?",
+     "options": [
+      "Ministry of Jal Shakti",
+      "Ministry of Petroleum and Natural Gas",
+      "Ministry of New and Renewable Energy",
+      "Ministry of Agriculture and Farmers Welfare"
+     ],
+     "answer": "B",
+     "explanation": "The Rs 23,731 crore scheme is administered by the Ministry of Petroleum and Natural Gas. GOBARdhan began in 2018 under Swachh Bharat Mission (Gramin) of the Department of Drinking Water and Sanitation. Source: GKToday, 7 Aug 2026.",
+     "likely": 4,
+     "fact": "The 2026 GOBARdhan scheme is administered by MoPNG.",
+     "event_date": "2026-08-06",
+     "kind": "news-static",
+     "source_url": "https://www.gktoday.in/cabinet-clears-rs-23731-crore-gobardhan-scheme-rs-8970-crore-assam-corridor/",
+     "confidence": "high"
+    },
+    {
+     "q": "The Union Budget 2026-27 set the fiscal deficit target for 2026-27 at what percentage of GDP?",
+     "options": [
+      "4.1%",
+      "4.4%",
+      "4.3%",
+      "4.9%"
+     ],
+     "answer": "C",
+     "explanation": "The target is 4.3% of GDP, against 4.4% in the revised estimate for 2025-26. Total expenditure is Rs 53.47 lakh crore and capital expenditure Rs 12.2 lakh crore. Source: PRS Legislative Research, Feb 2026.",
+     "likely": 4,
+     "fact": "Fiscal deficit target for 2026-27 is 4.3% of GDP.",
+     "event_date": "2026-02-01",
+     "kind": "static",
+     "source_url": "https://prsindia.org/budgets/parliament/union-budget-2026-27-analysis",
+     "confidence": "high"
+    },
+    {
+     "q": "Pradhan Mantri Surya Sarovar Yojana, approved by the Cabinet in July 2026 with Rs 5,070 crore, promotes which type of project?",
+     "options": [
+      "Rooftop solar for homes",
+      "Solar pumps for farmers",
+      "Offshore wind farms",
+      "Floating solar power projects"
+     ],
+     "answer": "D",
+     "explanation": "PM-SSY targets 5,000 MW of floating solar photovoltaic projects with energy storage. PM-KUSUM is for solar pumps and PM Surya Ghar for rooftop solar. Source: New India Samachar (PIB), 16-31 Aug 2026.",
+     "likely": 4,
+     "fact": "PM Surya Sarovar Yojana is for floating solar projects.",
+     "event_date": "2026-07-31",
+     "kind": "news",
+     "source_url": "https://newindiasamachar.pib.gov.in/WriteReadData/flipbook/2026/Aug/2nd/English/files/basic-html/page9.html",
+     "confidence": "high"
+    },
+    {
+     "q": "Gross GST collections for October 2026, released on 1 November 2026, were about how much?",
+     "options": [
+      "Rs 2.31 lakh crore",
+      "Rs 1.88 lakh crore",
+      "Rs 1.99 lakh crore",
+      "Rs 2.11 lakh crore"
+     ],
+     "answer": "A",
+     "explanation": "October 2026 gross GST was Rs 2,31,290 crore, up 22.9% from a year earlier and the second-highest monthly figure. The record is about Rs 2.43 lakh crore in April 2026. Source: Adda247, 2 Nov 2026.",
+     "likely": 4,
+     "fact": "Gross GST for October 2026 was about Rs 2.31 lakh crore.",
+     "event_date": "2026-11-01",
+     "kind": "news",
+     "source_url": "https://currentaffairs.adda247.com/indias-october-2026-gst-collections-rise-22-9-to-%e2%82%b92-31-lakh-crore/",
+     "confidence": "medium"
+    },
+    {
+     "q": "On 30 September 2026 the CCEA fixed the MSP of wheat for the 2027-28 marketing season at what price per quintal?",
+     "options": [
+      "Rs 2,425",
+      "Rs 2,610",
+      "Rs 2,585",
+      "Rs 2,700"
+     ],
+     "answer": "B",
+     "explanation": "Wheat MSP was raised by Rs 25 from Rs 2,585 to Rs 2,610 a quintal. The CACP recommends MSPs and the CCEA approves them. Source: Business Today, 30 Sep 2026.",
+     "likely": 4,
+     "fact": "Wheat MSP for RMS 2027-28 is Rs 2,610 per quintal.",
+     "event_date": "2026-09-30",
+     "kind": "news",
+     "source_url": "https://businesstoday.in/latest/economy/story/cabinet-clears-rs2-79-lakh-crore-package-rabi-msp-hike-pm-dhara-and-delhi-traffic-system-558824-2026-09-30",
+     "confidence": "high"
+    },
+    {
+     "q": "What is the annual premium for the Rs 2 lakh life cover under Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)?",
+     "options": [
+      "Rs 20",
+      "Rs 330",
+      "Rs 436",
+      "Rs 500"
+     ],
+     "answer": "C",
+     "explanation": "PMJJBY costs Rs 436 a year for ages 18 to 50. PMSBY gives Rs 2 lakh accident cover for Rs 20 a year for ages 18 to 70. Both were launched on 9 May 2015. Source: Adda247, 22 Aug 2026.",
+     "likely": 4,
+     "fact": "PMJJBY premium is Rs 436 a year.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://currentaffairs.adda247.com/social-security-retirement-pension-schemes-2026-upsc-epfo-apfc-complete-guide/",
+     "confidence": "high"
+    },
+    {
+     "q": "What is the entry age band for joining Atal Pension Yojana (APY)?",
+     "options": [
+      "18 to 50 years",
+      "18 to 60 years",
+      "21 to 45 years",
+      "18 to 40 years"
+     ],
+     "answer": "D",
+     "explanation": "APY is open to ages 18 to 40 and gives a guaranteed pension of Rs 1,000 to Rs 5,000 a month from age 60. PFRDA administers it; income-tax payers cannot join since 1 October 2022. Source: Adda247, 22 Aug 2026.",
+     "likely": 4,
+     "fact": "APY entry age is 18 to 40 years.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://currentaffairs.adda247.com/social-security-retirement-pension-schemes-2026-upsc-epfo-apfc-complete-guide/",
+     "confidence": "high"
+    },
+    {
+     "q": "Who presented the Union Budget 2026-27 on 1 February 2026, her ninth Budget in a row?",
+     "options": [
+      "Nirmala Sitharaman",
+      "Piyush Goyal",
+      "Pankaj Chaudhary",
+      "Arun Jaitley"
+     ],
+     "answer": "A",
+     "explanation": "Finance Minister Nirmala Sitharaman presented her 9th consecutive Budget on 1 February 2026. It was the first Budget prepared in Kartavya Bhawan. Source: Adda247 / Budget speech, Feb 2026.",
+     "likely": 3,
+     "fact": "Nirmala Sitharaman presented Budget 2026-27, her 9th in a row.",
+     "event_date": "2026-02-01",
+     "kind": "static",
+     "source_url": "https://currentaffairs.adda247.com/highlights-of-union-budget-2026-27/",
+     "confidence": "high"
+    },
+    {
+     "q": "After the GST rate rationalisation that took effect on 22 September 2025, what are the two main GST slabs?",
+     "options": [
+      "5% and 12%",
+      "5% and 18%",
+      "12% and 18%",
+      "12% and 28%"
+     ],
+     "answer": "B",
+     "explanation": "The 12% and 28% slabs were removed, leaving 5% and 18%, with a special 40% rate on luxury and sin goods. This was decided at the 56th GST Council meeting on 3 September 2025. Source: Wikipedia (GST India), Nov 2026.",
+     "likely": 3,
+     "fact": "Main GST slabs are 5% and 18%.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Goods_and_Services_Tax_(India)",
+     "confidence": "high"
+    },
+    {
+     "q": "The Income-tax Act, 2025, which replaced the Income-tax Act, 1961, came into force on which date?",
+     "options": [
+      "1 January 2026",
+      "1 February 2026",
+      "1 April 2026",
+      "1 April 2025"
+     ],
+     "answer": "C",
+     "explanation": "The new Act took effect on 1 April 2026 and uses a single 'tax year'. Budget 2026-27 also cut the MAT rate from 15% to 14%. Source: PRS / Adda247, Feb 2026.",
+     "likely": 3,
+     "fact": "Income-tax Act, 2025 came into force on 1 April 2026.",
+     "event_date": "2026-04-01",
+     "kind": "static",
+     "source_url": "https://prsindia.org/budgets/parliament/union-budget-2026-27-analysis",
+     "confidence": "high"
+    },
+    {
+     "q": "Who chaired the 16th Finance Commission, which kept the States' share of central taxes at 41% for 2026-31?",
+     "options": [
+      "N.K. Singh",
+      "Y.V. Reddy",
+      "Vijay Kelkar",
+      "Arvind Panagariya"
+     ],
+     "answer": "D",
+     "explanation": "Arvind Panagariya chaired the 16th Finance Commission; its award covers 2026-27 to 2030-31. N.K. Singh chaired the 15th. Finance Commissions are set up under Article 280. Source: Wikipedia, checked Nov 2026.",
+     "likely": 3,
+     "fact": "Arvind Panagariya chaired the 16th Finance Commission.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Finance_Commission",
+     "confidence": "high"
+    },
+    {
+     "q": "The Credit Guarantee Fund for Micro Units (CGFMU), continued by the Cabinet in November 2026 till 31 March 2031, guarantees loans under which scheme?",
+     "options": [
+      "Pradhan Mantri Mudra Yojana",
+      "PM SVANidhi",
+      "PM Vishwakarma",
+      "Kisan Credit Card"
+     ],
+     "answer": "A",
+     "explanation": "CGFMU got a Rs 5,000 crore corpus and covers Mudra loans up to Rs 20 lakh (Shishu, Kishor, Tarun, Tarun Plus). NCGTC manages the fund. Source: AffairsCloud, 13 Nov 2026.",
+     "likely": 3,
+     "fact": "CGFMU guarantees Mudra loans.",
+     "event_date": "2026-11-11",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-13-november-2026/",
+     "confidence": "high"
+    },
+    {
+     "q": "PM Vishwakarma, which completed three years on 17 September 2026, is run by which nodal ministry?",
+     "options": [
+      "Ministry of Textiles",
+      "Ministry of Micro, Small and Medium Enterprises",
+      "Ministry of Rural Development",
+      "Ministry of Labour and Employment"
+     ],
+     "answer": "B",
+     "explanation": "PM Vishwakarma was launched on 17 September 2023 for artisans of 18 traditional trades. It gives a Rs 15,000 toolkit incentive and loans of Rs 1 lakh and Rs 2 lakh at 5% interest. Source: AffairsCloud, 18 Sep 2026.",
+     "likely": 3,
+     "fact": "PM Vishwakarma is under the Ministry of MSME.",
+     "event_date": "static",
+     "kind": "news-static",
+     "source_url": "https://affairscloud.com/current-affairs-18-september-2026/",
+     "confidence": "high"
+    },
+    {
+     "q": "The 57th meeting of the GST Council was held in which month of 2026?",
+     "options": [
+      "June 2026",
+      "August 2026",
+      "October 2026",
+      "September 2026"
+     ],
+     "answer": "C",
+     "explanation": "The 57th GST Council met on 8 October 2026 in New Delhi, chaired by the Union Finance Minister. The 56th meeting (3 September 2025) approved the two-slab structure. Source: GST Council website, Oct 2026.",
+     "likely": 3,
+     "fact": "The 57th GST Council meeting was held in October 2026.",
+     "event_date": "2026-10-08",
+     "kind": "news",
+     "source_url": "https://gstcouncil.gov.in/",
+     "confidence": "high"
+    },
+    {
+     "q": "MSPs recommended by the CACP are announced by the government for how many mandated crops?",
+     "options": [
+      "14",
+      "18",
+      "25",
+      "22"
+     ],
+     "answer": "D",
+     "explanation": "MSP covers 22 mandated crops (14 kharif, 6 rabi and 2 commercial crops); sugarcane has a Fair and Remunerative Price. The CACP was set up in 1965. Source: Wikipedia, checked Nov 2026.",
+     "likely": 3,
+     "fact": "MSP is announced for 22 mandated crops.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Commission_for_Agricultural_Costs_and_Prices",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "key": "bf-banking",
+   "name": "Banking operations & terms",
+   "questions": [
+    {
+     "q": "Under the Liberalised Remittance Scheme (LRS), a resident individual can remit up to how much abroad in a financial year?",
+     "options": [
+      "USD 1,00,000",
+      "USD 2,50,000",
+      "USD 2,00,000",
+      "USD 5,00,000"
+     ],
+     "answer": "B",
+     "explanation": "The LRS limit is USD 2,50,000 per financial year, including for minors. The scheme began in February 2004 with a limit of USD 25,000. Source: RBI FAQ on LRS.",
+     "likely": 5,
+     "fact": "LRS limit is USD 250,000 per financial year.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/Scripts/FAQView.aspx?Id=115",
+     "confidence": "high"
+    },
+    {
+     "q": "Up to what amount is each depositor's money in a bank insured by the DICGC?",
+     "options": [
+      "Rs 1 lakh",
+      "Rs 2 lakh",
+      "Rs 5 lakh",
+      "Rs 10 lakh"
+     ],
+     "answer": "C",
+     "explanation": "Cover is Rs 5 lakh per depositor per bank since 4 February 2020 (earlier Rs 1 lakh). DICGC is a wholly owned subsidiary of the RBI. Source: Wikipedia, checked Nov 2026.",
+     "likely": 5,
+     "fact": "DICGC cover is Rs 5 lakh.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Deposit_Insurance_and_Credit_Guarantee_Corporation",
+     "confidence": "high"
+    },
+    {
+     "q": "A loan is classified as a non-performing asset (NPA) when interest or principal stays overdue for more than how many days?",
+     "options": [
+      "30 days",
+      "60 days",
+      "180 days",
+      "90 days"
+     ],
+     "answer": "D",
+     "explanation": "The 90-day norm applies to term loans. Before that the account is a Special Mention Account: SMA-0 (up to 30 days), SMA-1 (31-60) and SMA-2 (61-90). Source: Wikipedia, checked Nov 2026.",
+     "likely": 5,
+     "fact": "NPA norm is 90 days overdue.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Non-performing_asset",
+     "confidence": "high"
+    },
+    {
+     "q": "What is the minimum maturity period of a Certificate of Deposit (CD)?",
+     "options": [
+      "7 days",
+      "1 day",
+      "14 days",
+      "91 days"
+     ],
+     "answer": "A",
+     "explanation": "Banks issue CDs for 7 days to 1 year, in a minimum amount of Rs 5 lakh. Commercial paper also has a maturity of 7 days to 1 year. Source: RBI FAQ, checked Nov 2026.",
+     "likely": 5,
+     "fact": "Minimum maturity of a CD is 7 days.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/Scripts/FAQView.aspx?Id=79",
+     "confidence": "high"
+    },
+    {
+     "q": "How many public sector banks does India have at present, including State Bank of India?",
+     "options": [
+      "10",
+      "12",
+      "19",
+      "27"
+     ],
+     "answer": "B",
+     "explanation": "There are 12 public sector banks after ten banks were merged into four on 1 April 2020. There were 27 in 2017. Source: Wikipedia (Public sector banks in India), Nov 2026.",
+     "likely": 5,
+     "fact": "India has 12 public sector banks.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Public_sector_banks_in_India",
+     "confidence": "high"
+    },
+    {
+     "q": "A cheque is valid for how long from the date written on it?",
+     "options": [
+      "1 month",
+      "6 months",
+      "3 months",
+      "12 months"
+     ],
+     "answer": "C",
+     "explanation": "The RBI cut the validity of cheques, drafts and pay orders from 6 months to 3 months from 1 April 2012. Source: RBI.",
+     "likely": 5,
+     "fact": "A cheque is valid for 3 months.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Bouncing of a cheque for want of funds is an offence under which section of the Negotiable Instruments Act, 1881?",
+     "options": [
+      "Section 131",
+      "Section 141",
+      "Section 420",
+      "Section 138"
+     ],
+     "answer": "D",
+     "explanation": "Section 138 provides for imprisonment up to 2 years or a fine up to twice the cheque amount, or both. Source: Wikipedia, checked Nov 2026.",
+     "likely": 4,
+     "fact": "Cheque dishonour is punishable under Section 138 of the NI Act.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Negotiable_Instruments_Act,_1881",
+     "confidence": "high"
+    },
+    {
+     "q": "What does CASA stand for in banking?",
+     "options": [
+      "Current Account Savings Account",
+      "Cash Account Savings Account",
+      "Current Asset Savings Account",
+      "Credit Account Savings Account"
+     ],
+     "answer": "A",
+     "explanation": "CASA deposits are low-cost funds for a bank, so a high CASA ratio improves its margins. Source: RBI.",
+     "likely": 4,
+     "fact": "CASA is Current Account Savings Account.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/",
+     "confidence": "medium"
+    },
+    {
+     "q": "What does MCLR stand for?",
+     "options": [
+      "Minimum Cost of Lending Rate",
+      "Marginal Cost of Funds based Lending Rate",
+      "Marginal Credit and Lending Ratio",
+      "Market Cost Linked Lending Rate"
+     ],
+     "answer": "B",
+     "explanation": "MCLR replaced the base rate system from 1 April 2016. Since 1 October 2019 new floating-rate retail and MSME loans are linked to an external benchmark such as the repo rate. Source: RBI.",
+     "likely": 4,
+     "fact": "MCLR is Marginal Cost of Funds based Lending Rate.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Which of these is NOT a tenor at which Government of India Treasury Bills are issued?",
+     "options": [
+      "91 days",
+      "182 days",
+      "273 days",
+      "364 days"
+     ],
+     "answer": "C",
+     "explanation": "Treasury bills are issued for 91, 182 and 364 days at a discount and redeemed at face value. Source: RBI FAQ, checked Nov 2026.",
+     "likely": 4,
+     "fact": "T-bills are issued for 91, 182 and 364 days.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/Scripts/FAQView.aspx?Id=79",
+     "confidence": "high"
+    },
+    {
+     "q": "Under Basel III norms as applied by the RBI, what minimum CRAR must Indian banks keep, not counting the capital conservation buffer?",
+     "options": [
+      "8%",
+      "10.5%",
+      "11.5%",
+      "9%"
+     ],
+     "answer": "D",
+     "explanation": "The RBI requires 9% (the Basel minimum is 8%). With the 2.5% capital conservation buffer it becomes 11.5%. CRAR means Capital to Risk-weighted Assets Ratio. Source: RBI.",
+     "likely": 4,
+     "fact": "Minimum CRAR in India is 9%.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/",
+     "confidence": "medium"
+    },
+    {
+     "q": "The SARFAESI Act, which lets banks enforce security without going to court, was passed in which year?",
+     "options": [
+      "2002",
+      "1993",
+      "1999",
+      "2016"
+     ],
+     "answer": "A",
+     "explanation": "The SARFAESI Act is of 2002. The Recovery of Debts Act that set up Debts Recovery Tribunals is of 1993 and the Insolvency and Bankruptcy Code is of 2016. Source: Wikipedia, checked Nov 2026.",
+     "likely": 4,
+     "fact": "SARFAESI Act was passed in 2002.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Securitisation_and_Reconstruction_of_Financial_Assets_and_Enforcement_of_Security_Interest_Act,_2002",
+     "confidence": "high"
+    },
+    {
+     "q": "On 19 July 1969, how many commercial banks were nationalised?",
+     "options": [
+      "6",
+      "14",
+      "7",
+      "20"
+     ],
+     "answer": "B",
+     "explanation": "14 banks were nationalised on 19 July 1969 and 6 more on 15 April 1980. The Imperial Bank became State Bank of India on 1 July 1955. Source: Wikipedia, checked Nov 2026.",
+     "likely": 4,
+     "fact": "14 banks were nationalised in 1969.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Banking_in_India",
+     "confidence": "high"
+    },
+    {
+     "q": "What is the overall priority sector lending target for domestic commercial banks, as a share of Adjusted Net Bank Credit?",
+     "options": [
+      "18%",
+      "32%",
+      "40%",
+      "75%"
+     ],
+     "answer": "C",
+     "explanation": "Domestic commercial banks must lend 40% of ANBC to priority sectors, including 18% to agriculture. The target is 75% for regional rural banks and 60% for small finance banks. Source: RBI.",
+     "likely": 4,
+     "fact": "Overall PSL target is 40% of ANBC.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Under the Banking Laws (Amendment) Act, 2025, a depositor can name up to how many nominees for a bank deposit account?",
+     "options": [
+      "Two",
+      "Three",
+      "Five",
+      "Four"
+     ],
+     "answer": "D",
+     "explanation": "Up to four nominees, simultaneous or successive, are allowed from 1 November 2025. For lockers only successive nomination is allowed. Source: Ministry of Finance, Oct 2025.",
+     "likely": 4,
+     "fact": "Up to four nominees are allowed for a deposit account.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://financialservices.gov.in/",
+     "confidence": "medium"
+    },
+    {
+     "q": "The Prevention of Money Laundering Act (PMLA) was passed in which year?",
+     "options": [
+      "2002",
+      "1999",
+      "2005",
+      "2012"
+     ],
+     "answer": "A",
+     "explanation": "PMLA, 2002 came into force on 1 July 2005. FIU-IND receives cash and suspicious transaction reports under it; the Enforcement Directorate investigates. Source: Wikipedia, checked Nov 2026.",
+     "likely": 4,
+     "fact": "PMLA was passed in 2002.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Prevention_of_Money_Laundering_Act,_2002",
+     "confidence": "high"
+    },
+    {
+     "q": "Which body maintains the Central KYC Records Registry (CKYCR)?",
+     "options": [
+      "NPCI",
+      "CERSAI",
+      "UIDAI",
+      "CIBIL"
+     ],
+     "answer": "B",
+     "explanation": "CERSAI runs the CKYC registry, which gives each customer a 14-digit KYC identifier. Source: CERSAI.",
+     "likely": 4,
+     "fact": "CERSAI maintains the CKYC registry.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.cersai.org.in/",
+     "confidence": "medium"
+    },
+    {
+     "q": "What is the maximum balance an individual customer can hold in a payments bank at the end of the day?",
+     "options": [
+      "Rs 1 lakh",
+      "Rs 5 lakh",
+      "Rs 2 lakh",
+      "Rs 10 lakh"
+     ],
+     "answer": "C",
+     "explanation": "The limit was raised from Rs 1 lakh to Rs 2 lakh in April 2021. Payments banks cannot give loans or issue credit cards. Source: Wikipedia, checked Nov 2026.",
+     "likely": 4,
+     "fact": "Payments bank balance limit is Rs 2 lakh.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Payments_bank",
+     "confidence": "high"
+    },
+    {
+     "q": "How is the share capital of a Regional Rural Bank held by the Centre, the State Government and the sponsor bank?",
+     "options": [
+      "50:25:25",
+      "51:20:29",
+      "60:15:25",
+      "50:15:35"
+     ],
+     "answer": "D",
+     "explanation": "RRBs are owned 50% by the Centre, 15% by the State and 35% by the sponsor bank. They began on 2 October 1975; there are 28 RRBs after the 'One State, One RRB' mergers of 1 May 2025. Source: Wikipedia, checked Nov 2026.",
+     "likely": 4,
+     "fact": "RRB ownership is 50:15:35.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Regional_rural_bank",
+     "confidence": "high"
+    },
+    {
+     "q": "Oriental Bank of Commerce and United Bank of India were merged into which bank on 1 April 2020?",
+     "options": [
+      "Punjab National Bank",
+      "Canara Bank",
+      "Union Bank of India",
+      "Indian Bank"
+     ],
+     "answer": "A",
+     "explanation": "On 1 April 2020 Syndicate Bank merged into Canara Bank, Andhra Bank and Corporation Bank into Union Bank of India, and Allahabad Bank into Indian Bank. Source: Wikipedia (Public sector banks in India).",
+     "likely": 4,
+     "fact": "OBC and United Bank merged into PNB.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Public_sector_banks_in_India",
+     "confidence": "high"
+    },
+    {
+     "q": "The Lead Bank Scheme was introduced in which year?",
+     "options": [
+      "1955",
+      "1969",
+      "1975",
+      "1982"
+     ],
+     "answer": "B",
+     "explanation": "It was introduced in December 1969 after the Gadgil Study Group and the Nariman Committee. One bank leads banking development in each district. Source: RBI.",
+     "likely": 3,
+     "fact": "Lead Bank Scheme began in 1969.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/",
+     "confidence": "medium"
+    },
+    {
+     "q": "How many characters does an IFSC (Indian Financial System Code) have?",
+     "options": [
+      "9",
+      "10",
+      "11",
+      "15"
+     ],
+     "answer": "C",
+     "explanation": "An IFSC has 11 characters: the first four identify the bank, the fifth is zero and the last six identify the branch. MICR code has 9 digits. Source: Wikipedia, checked Nov 2026.",
+     "likely": 3,
+     "fact": "IFSC has 11 characters.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Indian_Financial_System_Code",
+     "confidence": "high"
+    },
+    {
+     "q": "A bank included in the Second Schedule of which Act is called a scheduled bank?",
+     "options": [
+      "Banking Regulation Act, 1949",
+      "Companies Act, 2013",
+      "Negotiable Instruments Act, 1881",
+      "Reserve Bank of India Act, 1934"
+     ],
+     "answer": "D",
+     "explanation": "Scheduled banks are listed in the Second Schedule of the RBI Act, 1934 and must keep CRR with the RBI. Source: Wikipedia, checked Nov 2026.",
+     "likely": 3,
+     "fact": "Scheduled banks are in the Second Schedule of the RBI Act, 1934.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Banking_in_India",
+     "confidence": "high"
+    },
+    {
+     "q": "Which account lets an NRI keep foreign earnings in rupees with principal and interest fully repatriable and tax-free in India?",
+     "options": [
+      "NRE account",
+      "NRO account",
+      "BSBD account",
+      "Escrow account"
+     ],
+     "answer": "A",
+     "explanation": "NRE accounts are rupee accounts, fully repatriable and tax-free. NRO accounts hold Indian income; FCNR(B) accounts are term deposits in foreign currency for 1 to 5 years. Source: RBI.",
+     "likely": 3,
+     "fact": "NRE accounts are fully repatriable and tax-free.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/",
+     "confidence": "medium"
+    },
+    {
+     "q": "What is the minimum balance required in a Basic Savings Bank Deposit Account (BSBDA)?",
+     "options": [
+      "Rs 100",
+      "Nil",
+      "Rs 500",
+      "Rs 1,000"
+     ],
+     "answer": "B",
+     "explanation": "A BSBDA needs no minimum balance and comes with a free ATM or debit card. PMJDY accounts are BSBD accounts. Source: RBI.",
+     "likely": 3,
+     "fact": "BSBDA has no minimum balance.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Which authority hears corporate insolvency cases under the Insolvency and Bankruptcy Code, 2016?",
+     "options": [
+      "Debts Recovery Tribunal",
+      "Securities Appellate Tribunal",
+      "National Company Law Tribunal",
+      "Banking Ombudsman"
+     ],
+     "answer": "C",
+     "explanation": "NCLT handles companies and LLPs; the Debts Recovery Tribunal handles individuals and partnership firms. IBBI is the regulator. Source: Wikipedia, checked Nov 2026.",
+     "likely": 3,
+     "fact": "NCLT is the adjudicating authority for corporate insolvency.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Insolvency_and_Bankruptcy_Code,_2016",
+     "confidence": "high"
+    },
+    {
+     "q": "National Asset Reconstruction Company Ltd (NARCL) is commonly known as India's what?",
+     "options": [
+      "Shadow bank",
+      "Payments bank",
+      "Bridge bank",
+      "Bad bank"
+     ],
+     "answer": "D",
+     "explanation": "NARCL buys large stressed loans from banks; public sector banks hold 51% of it. India Debt Resolution Company Ltd (IDRCL) resolves the assets. Source: Ministry of Finance.",
+     "likely": 3,
+     "fact": "NARCL is called the bad bank.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://financialservices.gov.in/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Which three banks are classified by the RBI as Domestic Systemically Important Banks (D-SIBs)?",
+     "options": [
+      "SBI, HDFC Bank and ICICI Bank",
+      "SBI, PNB and Bank of Baroda",
+      "SBI, Axis Bank and ICICI Bank",
+      "HDFC Bank, ICICI Bank and Kotak Mahindra Bank"
+     ],
+     "answer": "A",
+     "explanation": "SBI, HDFC Bank and ICICI Bank are D-SIBs ('too big to fail') and must hold extra CET1 capital. Source: RBI.",
+     "likely": 3,
+     "fact": "D-SIBs are SBI, HDFC Bank and ICICI Bank.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/",
+     "confidence": "medium"
+    },
+    {
+     "q": "The capital conservation buffer under Basel III is what percentage of risk-weighted assets?",
+     "options": [
+      "1.5%",
+      "2.5%",
+      "2%",
+      "4.5%"
+     ],
+     "answer": "B",
+     "explanation": "The buffer is 2.5% of risk-weighted assets, held as Common Equity Tier 1 capital. The Basel Committee is based at the BIS in Basel, Switzerland. Source: Wikipedia, checked Nov 2026.",
+     "likely": 3,
+     "fact": "Capital conservation buffer is 2.5%.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Basel_III",
+     "confidence": "high"
+    },
+    {
+     "q": "What does NIM stand for in a bank's results?",
+     "options": [
+      "Net Income Margin",
+      "Nominal Interest Margin",
+      "Net Interest Margin",
+      "Net Investment Margin"
+     ],
+     "answer": "C",
+     "explanation": "NIM is net interest income (interest earned minus interest paid) as a percentage of interest-earning assets. Source: RBI.",
+     "likely": 3,
+     "fact": "NIM is Net Interest Margin.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/",
+     "confidence": "medium"
+    },
+    {
+     "q": "The money market deals in funds and instruments with a maturity of up to how long?",
+     "options": [
+      "Three months",
+      "Three years",
+      "Five years",
+      "One year"
+     ],
+     "answer": "D",
+     "explanation": "Money market instruments (call money, T-bills, CP, CD) mature within one year. Longer-term funds are raised in the capital market. Source: RBI FAQ, checked Nov 2026.",
+     "likely": 3,
+     "fact": "Money market covers maturities up to one year.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/Scripts/FAQView.aspx?Id=79",
+     "confidence": "high"
+    },
+    {
+     "q": "What does LCR stand for under Basel III?",
+     "options": [
+      "Liquidity Coverage Ratio",
+      "Loan Coverage Ratio",
+      "Liquid Capital Reserve",
+      "Leverage Capital Ratio"
+     ],
+     "answer": "A",
+     "explanation": "LCR requires banks to hold high-quality liquid assets to cover net cash outflows for 30 days; the minimum is 100%. Source: Wikipedia, checked Nov 2026.",
+     "likely": 3,
+     "fact": "LCR is Liquidity Coverage Ratio.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Basel_III",
+     "confidence": "high"
+    }
+   ]
+  }
+ ]
+}

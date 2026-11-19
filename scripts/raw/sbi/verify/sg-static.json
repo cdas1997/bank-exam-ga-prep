@@ -1,0 +1,622 @@
+{
+ "verdicts": [
+  {
+   "key": "sg-banking",
+   "index": 0,
+   "q": "State Bank of India came into being on 1 July 1955 by taking over which bank?",
+   "verdict": "ok",
+   "note": "Static fact; confirmed.",
+   "source_url": "https://sbi.bank.in"
+  },
+  {
+   "key": "sg-banking",
+   "index": 1,
+   "q": "Who is the Chairman of State Bank of India as of November 2026?",
+   "verdict": "ok",
+   "note": "Setty took charge 28 Aug 2024 as 27th chairman for 3 years; Pioneer (28 Sep 2026) still refers to Chairman C S Setty; no successor reported.",
+   "source_url": "https://dailypioneer.com/news/slug-lite/customer-first-and-nation-always-sbis-growth-mantra-chairman?year=2026"
+  },
+  {
+   "key": "sg-banking",
+   "index": 2,
+   "q": "The 14 major commercial banks were nationalised in India on which date?",
+   "verdict": "ok",
+   "note": "Standard fact; confirmed.",
+   "source_url": "https://bankofbaroda.bank.in/about-us/history"
+  },
+  {
+   "key": "sg-banking",
+   "index": 3,
+   "q": "NABARD was set up in 1982 on the recommendation of which committee?",
+   "verdict": "ok",
+   "note": "CRAFICARD/Sivaraman, 12 July 1982, Act 61 of 1981; confirmed.",
+   "source_url": "https://www.nabard.org/content.aspx?id=2"
+  },
+  {
+   "key": "sg-banking",
+   "index": 4,
+   "q": "The headquarters of the Small Industries Development Bank of India (SIDBI) is in which city?",
+   "verdict": "ok",
+   "note": "SIDBI HO Lucknow, est. 2 April 1990; confirmed.",
+   "source_url": "https://www.sidbi.in/en"
+  },
+  {
+   "key": "sg-banking",
+   "index": 5,
+   "q": "SEBI, set up as a non-statutory body on 12 April 1988, became a statutory body in which year?",
+   "verdict": "ok",
+   "note": "SEBI Act 1992 in force 30 Jan 1992; confirmed.",
+   "source_url": "https://www.sebi.gov.in/about-sebi.html"
+  },
+  {
+   "key": "sg-banking",
+   "index": 6,
+   "q": "The Deposit Insurance Corporation (1962) and the Credit Guarantee Corporation of India (1971) were merged to form DICGC in which year?",
+   "verdict": "ok",
+   "note": "DICGC formed 15 July 1978; confirmed.",
+   "source_url": "https://www.dicgc.org.in/about-us"
+  },
+  {
+   "key": "sg-banking",
+   "index": 7,
+   "q": "Which of the following organisation-headquarters pairs is correctly matched?",
+   "verdict": "ok",
+   "note": "Only IFSCA-GIFT City correct (NHB New Delhi; LIC, DICGC Mumbai). Exactly one pair correct.",
+   "source_url": "https://ifsca.gov.in/Pages/Contents/AboutIFSCA"
+  },
+  {
+   "key": "sg-banking",
+   "index": 8,
+   "q": "The headquarters of the Asian Development Bank (ADB) is in which country?",
+   "verdict": "ok",
+   "note": "ADB Manila; 69 members; Kanda president (re-elected 1 Sep 2026 for second 5-year term from 24 Nov 2026).",
+   "source_url": "https://www.adb.org/news/masato-kanda-reelected-adb-president-5-year-term"
+  },
+  {
+   "key": "sg-banking",
+   "index": 9,
+   "q": "The New Development Bank (NDB), set up by the BRICS countries, has its headquarters in which city?",
+   "verdict": "ok",
+   "note": "NDB Shanghai; Rousseff president; 18th BRICS Summit New Delhi 12-13 Sep 2026 confirmed.",
+   "source_url": "https://newsonair.gov.in/india-to-host-18th-brics-summit-on-sept-12-13-in-new-delhi/"
+  },
+  {
+   "key": "sg-banking",
+   "index": 10,
+   "q": "The Imperial Bank of India was formed in which year by merging the three Presidency banks?",
+   "verdict": "ok",
+   "note": "Imperial Bank formed 27 Jan 1921; confirmed.",
+   "source_url": "https://sbi.bank.in"
+  },
+  {
+   "key": "sg-banking",
+   "index": 11,
+   "q": "Which bank, set up in 2013, was merged with State Bank of India on 1 April 2017 along with five associate banks?",
+   "verdict": "ok",
+   "note": "BMB merged with SBI 1 Apr 2017 with five associates; confirmed.",
+   "source_url": "https://en.wikipedia.org/wiki/Bharatiya_Mahila_Bank"
+  },
+  {
+   "key": "sg-banking",
+   "index": 12,
+   "q": "Which associate bank was the first to be merged with State Bank of India, in 2008?",
+   "verdict": "ok",
+   "note": "State Bank of Saurashtra merged 2008, Indore 2010; confirmed.",
+   "source_url": "https://en.wikipedia.org/wiki/State_Bank_of_India"
+  },
+  {
+   "key": "sg-banking",
+   "index": 13,
+   "q": "In SBI's digital banking platform 'YONO', what does YONO stand for?",
+   "verdict": "ok",
+   "note": "YONO = You Only Need One, launched Nov 2017; confirmed.",
+   "source_url": "https://sbi.bank.in"
+  },
+  {
+   "key": "sg-banking",
+   "index": 14,
+   "q": "The creation of State Bank of India in 1955 was recommended by which committee?",
+   "verdict": "ok",
+   "note": "AIRCS Committee of Direction (A. D. Gorwala, appointed Aug 1951, report 1954) recommended converting Imperial Bank into a state-associated bank; confirmed.",
+   "source_url": "https://www.cenfa.org/how-rural-credit-crunch-played-a-role-in-the-birth-of-the-state-bank-of-india/"
+  },
+  {
+   "key": "sg-banking",
+   "index": 15,
+   "q": "Which of the following bank-headquarters pairs is correctly matched?",
+   "verdict": "ok",
+   "note": "UCO Kolkata only correct pair (BoM Pune, Canara Bengaluru, Indian Bank Chennai).",
+   "source_url": "https://uco.bank.in/en/about-us"
+  },
+  {
+   "key": "sg-banking",
+   "index": 16,
+   "q": "Which of the following bank-tagline pairs is correctly matched?",
+   "verdict": "ok",
+   "note": "Bank of Baroda's own international pages still use 'India's International Bank'; distractor taglines belong to UCO, Central Bank, SBI. Exactly one pair correct.",
+   "source_url": "https://bankofbaroda.bank.in/business-banking/international-banking"
+  },
+  {
+   "key": "sg-banking",
+   "index": 17,
+   "q": "Punjab National Bank opened for business on 12 April 1895 in which city?",
+   "verdict": "ok",
+   "note": "PNB opened 12 Apr 1895 at Lahore; confirmed.",
+   "source_url": "https://pnb.bank.in/Origin-of-PNB.html"
+  },
+  {
+   "key": "sg-banking",
+   "index": 18,
+   "q": "Which bank, founded in 1911 by Sir Sorabji Pochkhanawala, was the first Indian commercial bank wholly owned and managed by Indians?",
+   "verdict": "ok",
+   "note": "Central Bank of India 1911, Pochkhanawala; confirmed.",
+   "source_url": "https://www.centralbank.bank.in/en/about-us"
+  },
+  {
+   "key": "sg-banking",
+   "index": 19,
+   "q": "Prathama Bank, India's first Regional Rural Bank, was set up on 2 October 1975 at which place?",
+   "verdict": "ok",
+   "note": "Prathama Bank Moradabad 1975; 28 RRBs since 1 May 2025 consolidation, still 28; confirmed.",
+   "source_url": "https://newsonair.gov.in/finance-ministry-merges-26-rrbs-under-one-state-one-rrb-plan"
+  },
+  {
+   "key": "sg-banking",
+   "index": 20,
+   "q": "India Post Payments Bank (IPPB) works under which department of the Government of India?",
+   "verdict": "ok",
+   "note": "IPPB under Department of Posts, launched 1 Sep 2018; confirmed.",
+   "source_url": "https://www.ippbonline.com"
+  },
+  {
+   "key": "sg-banking",
+   "index": 21,
+   "q": "When the Reserve Bank of India began operations on 1 April 1935, its Central Office was first located in which city?",
+   "verdict": "ok",
+   "note": "RBI Central Office Calcutta, moved to Bombay 1937; confirmed.",
+   "source_url": "https://www.rbi.org.in/Scripts/AboutusDisplay.aspx"
+  },
+  {
+   "key": "sg-banking",
+   "index": 22,
+   "q": "Life Insurance Corporation of India (LIC) was created on which date?",
+   "verdict": "ok",
+   "note": "LIC 1 Sep 1956; GIC 22 Nov 1972; confirmed.",
+   "source_url": "https://licindia.in/web/guest/history"
+  },
+  {
+   "key": "sg-banking",
+   "index": 23,
+   "q": "Which of the following cities does NOT have an India Government Mint?",
+   "verdict": "ok",
+   "note": "SPMCIL mints Mumbai, Kolkata, Hyderabad, Noida; Nashik has presses; confirmed.",
+   "source_url": "https://www.spmcil.com/en/"
+  },
+  {
+   "key": "sg-banking",
+   "index": 24,
+   "q": "Which is the oldest stock exchange in Asia, founded in 1875?",
+   "verdict": "ok",
+   "note": "BSE 1875 oldest in Asia; confirmed.",
+   "source_url": "https://www.bseindia.com"
+  },
+  {
+   "key": "sg-banking",
+   "index": 25,
+   "q": "How many member countries does the International Monetary Fund (IMF) have?",
+   "verdict": "ok",
+   "note": "IMF factsheet: 191 members; no new member found by Nov 2026.",
+   "source_url": "https://www.imf.org/en/About/Factsheets/IMF-at-a-Glance"
+  },
+  {
+   "key": "sg-banking",
+   "index": 26,
+   "q": "Who is the Managing Director of the International Monetary Fund (IMF)?",
+   "verdict": "ok",
+   "note": "Georgieva led the IMF/WB Annual Meetings in Bangkok, Oct 2026; still MD.",
+   "source_url": "https://www.imf.org/en/news/articles/2026/10/16/101626-managing-director-annual-meetings-plenary"
+  },
+  {
+   "key": "sg-banking",
+   "index": 27,
+   "q": "The Bank for International Settlements (BIS), established in 1930, is headquartered in which city?",
+   "verdict": "ok",
+   "note": "BIS site: Basel, 1930, owned by 63 central banks.",
+   "source_url": "https://www.bis.org/about/index.htm"
+  },
+  {
+   "key": "sg-banking",
+   "index": 28,
+   "q": "The Financial Action Task Force (FATF), set up in 1989, has its headquarters in which city?",
+   "verdict": "ok",
+   "note": "FATF Paris; Vivek Aggarwal became first Indian FATF Vice-President on 1 July 2026 (FATF site).",
+   "source_url": "https://www.fatf-gafi.org/en/the-fatf/fatf-presidency/Vivek-Aggarwal.html"
+  },
+  {
+   "key": "sg-banking",
+   "index": 29,
+   "q": "The World Trade Organization (WTO), established on 1 January 1995, is located in which city?",
+   "verdict": "ok",
+   "note": "WTO Geneva, 166 members (Uzbekistan accession not completed as of Nov 2026); Okonjo-Iweala DG.",
+   "source_url": "https://daryo.uz/en/2026/11/04/negotiations-will-not-be-easy-uzbekistan-aims-to-join-wto-in-2027-as-talks-continue/"
+  },
+  {
+   "key": "sg-banking",
+   "index": 30,
+   "q": "The Asian Infrastructure Investment Bank (AIIB), which began operations in 2016, is headquartered in which city?",
+   "verdict": "ok",
+   "note": "AIIB site: Beijing, 111 approved members, USD 100 bn.",
+   "source_url": "https://www.aiib.org/en/about-aiib/index.html"
+  },
+  {
+   "key": "sg-banking",
+   "index": 31,
+   "q": "Bank of Baroda was founded in 1908 by which ruler?",
+   "verdict": "ok",
+   "note": "BoB founded 20 July 1908 by Sayajirao Gaekwad III; confirmed.",
+   "source_url": "https://bankofbaroda.bank.in/about-us/history"
+  },
+  {
+   "key": "sg-geography",
+   "index": 0,
+   "q": "Sukhna Lake, added to the list of Ramsar sites in October 2026, is located in which city?",
+   "verdict": "ok",
+   "note": "Sukhna and Sauj Jheel added Oct 2026; tally 103 confirmed by AIR and multiple outlets.",
+   "source_url": "https://newsonair.gov.in/with-inclusion-of-sukhna-lake-and-sauj-jheel-indias-ramsar-tally-reaches-103/"
+  },
+  {
+   "key": "sg-geography",
+   "index": 1,
+   "q": "Which state has the highest number of Ramsar sites in India?",
+   "verdict": "ok",
+   "note": "State-wise list of 103: Tamil Nadu 20, Uttar Pradesh 14.",
+   "source_url": "https://vajiramandravi.com/upsc-exam/ramsar-sites-in-india/"
+  },
+  {
+   "key": "sg-geography",
+   "index": 2,
+   "q": "Sarnath, inscribed in July 2026 as India's 45th UNESCO World Heritage Site, is located in which state?",
+   "verdict": "ok",
+   "note": "Sarnath inscribed 25 July 2026 at 48th WHC session, Busan, as India's 45th site; UP.",
+   "source_url": "https://newsonair.gov.in/ancient-buddhist-site-of-sarnath-inscribed-on-unesco-world-heritage-list/"
+  },
+  {
+   "key": "sg-geography",
+   "index": 3,
+   "q": "Buxa Tiger Reserve, where a tigress was released in October 2026 to start a tiger reintroduction programme, is in which state?",
+   "verdict": "ok",
+   "note": "Tigress T138 from Valmiki TR released in Buxa TR, West Bengal, on 2 Oct 2026; Buxa declared tiger reserve 1983.",
+   "source_url": "https://www.outlookindia.com/national/tigress-released-in-bengals-buxa-tiger-reserve-plans-afoot-for-three-more-by-end-of-year"
+  },
+  {
+   "key": "sg-geography",
+   "index": 4,
+   "q": "The Kishau Dam project, for which six states signed an agreement on 15 September 2026, is on which river?",
+   "verdict": "ok",
+   "note": "Six-state Kishau agreement signed 15 Sep 2026; 232.6 m dam on the Tons; signatories confirmed.",
+   "source_url": "https://www.business-standard.com/india-news/six-states-sign-agreement-for-long-pending-kishau-multipurpose-project-126091500684_1.html"
+  },
+  {
+   "key": "sg-geography",
+   "index": 5,
+   "q": "Pong Dam in Himachal Pradesh is built on which river?",
+   "verdict": "ok",
+   "note": "Pong Dam on Beas; confirmed.",
+   "source_url": "https://en.wikipedia.org/wiki/Pong_Dam"
+  },
+  {
+   "key": "sg-geography",
+   "index": 6,
+   "q": "'Ambaji Mohanthal', a temple prasad that received a GI tag in October 2026, belongs to which state?",
+   "verdict": "fix",
+   "note": "GI grant date is reported inconsistently (8 Oct vs 11 Oct, when the certificate was handed over); the explanation's precise '8 October' is not reliable. Key (Gujarat) confirmed.",
+   "fix": {
+    "explanation": "Ambaji Mohanthal, the besan-based prasad of the Ambaji Temple in Banaskantha district, Gujarat, received the GI tag in October 2026 under Class 30 (foodstuffs/sweets); the applicant was the Shree Arasuri Ambaji Mata Devasthan Trust. A GI registration is valid for 10 years and can be renewed. Source: Manorama Yearbook, 13 Oct 2026; Adda247, Oct 2026."
+   },
+   "source_url": "https://www.manoramayearbook.in/current-affairs/india/2026/10/13/ambaji-temple-mohanthal-prasad-gi-tag.html"
+  },
+  {
+   "key": "sg-geography",
+   "index": 7,
+   "q": "Wangala, the 'Festival of the Hundred Drums', is a harvest festival of which tribe?",
+   "verdict": "ok",
+   "note": "Wangala, Garo; confirmed.",
+   "source_url": "https://en.wikipedia.org/wiki/Wangala"
+  },
+  {
+   "key": "sg-geography",
+   "index": 8,
+   "q": "The Godavari, India's second-longest river, rises near Trimbakeshwar in which state?",
+   "verdict": "ok",
+   "note": "Godavari rises at Trimbakeshwar, Maharashtra; confirmed.",
+   "source_url": "https://en.wikipedia.org/wiki/Godavari_River"
+  },
+  {
+   "key": "sg-geography",
+   "index": 9,
+   "q": "Which was India's first national park, established in 1936?",
+   "verdict": "ok",
+   "note": "Corbett (Hailey NP) 1936; confirmed.",
+   "source_url": "https://en.wikipedia.org/wiki/Jim_Corbett_National_Park"
+  },
+  {
+   "key": "sg-geography",
+   "index": 10,
+   "q": "Which were India's first Ramsar sites, designated in 1981?",
+   "verdict": "ok",
+   "note": "Chilika and Keoladeo 1981; Sundarban largest; confirmed.",
+   "source_url": "https://vajiramandravi.com/upsc-exam/ramsar-sites-in-india/"
+  },
+  {
+   "key": "sg-geography",
+   "index": 11,
+   "q": "Tehri Dam, the tallest dam in India, is built on which river?",
+   "verdict": "ok",
+   "note": "Tehri on Bhagirathi; confirmed.",
+   "source_url": "https://en.wikipedia.org/wiki/Tehri_Dam"
+  },
+  {
+   "key": "sg-geography",
+   "index": 12,
+   "q": "The world's highest railway bridge, opened in June 2025, is built over which river in Jammu and Kashmir?",
+   "verdict": "ok",
+   "note": "Chenab bridge, 359 m, opened 6 June 2025; confirmed.",
+   "source_url": "https://en.wikipedia.org/wiki/Chenab_Rail_Bridge"
+  },
+  {
+   "key": "sg-geography",
+   "index": 13,
+   "q": "Kudankulam Nuclear Power Plant, India's largest nuclear power station, is in which state?",
+   "verdict": "ok",
+   "note": "Kudankulam, Tamil Nadu; confirmed.",
+   "source_url": "https://en.wikipedia.org/wiki/Kudankulam_Nuclear_Power_Plant"
+  },
+  {
+   "key": "sg-geography",
+   "index": 14,
+   "q": "Sattriya is a classical dance form of which state?",
+   "verdict": "ok",
+   "note": "Sattriya, Assam, classical status 2000; confirmed.",
+   "source_url": "https://en.wikipedia.org/wiki/Sattriya"
+  },
+  {
+   "key": "sg-geography",
+   "index": 15,
+   "q": "The Hornbill Festival, held from 1 to 10 December every year, is celebrated in which state?",
+   "verdict": "ok",
+   "note": "Hornbill Festival, Nagaland; confirmed.",
+   "source_url": "https://en.wikipedia.org/wiki/Hornbill_Festival"
+  },
+  {
+   "key": "sg-geography",
+   "index": 16,
+   "q": "Vizhinjam International Seaport, India's first deep-water transshipment port, is in which state?",
+   "verdict": "ok",
+   "note": "Vizhinjam, Kerala, commissioned 2 May 2025; confirmed.",
+   "source_url": "https://en.wikipedia.org/wiki/Vizhinjam_International_Seaport_Thiruvananthapuram"
+  },
+  {
+   "key": "sg-geography",
+   "index": 17,
+   "q": "Which was the first Indian product to receive a Geographical Indication (GI) tag?",
+   "verdict": "ok",
+   "note": "Darjeeling Tea first GI (2004); confirmed.",
+   "source_url": "https://en.wikipedia.org/wiki/Darjeeling_tea"
+  },
+  {
+   "key": "sg-geography",
+   "index": 18,
+   "q": "Veerangana Durgavati Tiger Reserve, earlier known as Nauradehi Wildlife Sanctuary, is in which state?",
+   "verdict": "ok",
+   "note": "Nauradehi/VDTR, Madhya Pradesh, notified 2023; confirmed.",
+   "source_url": "https://en.wikipedia.org/wiki/Veerangana_Durgavati_Tiger_Reserve"
+  },
+  {
+   "key": "sg-geography",
+   "index": 19,
+   "q": "Nanda Devi Biosphere Reserve is located in which state?",
+   "verdict": "fix",
+   "note": "Explanation wrong: Nanda Devi Biosphere Reserve was declared on 18 Jan 1988 (1982 is the national park's year).",
+   "fix": {
+    "explanation": "Nanda Devi Biosphere Reserve, in Chamoli (with parts of Pithoragarh and Bageshwar) districts of Uttarakhand, was declared in January 1988 and joined UNESCO's World Network of Biosphere Reserves in 2004. Nanda Devi National Park (1982) and Valley of Flowers National Park together form a UNESCO World Heritage Site (1988, extended 2005). Source: Lok Sabha answer (eparlib); UNESCO."
+   },
+   "source_url": "https://en.unesco.org/biosphere/aspac/nanda-devi"
+  },
+  {
+   "key": "sg-geography",
+   "index": 20,
+   "q": "The Dree festival, celebrated on 5 July, belongs to the Apatani tribe of which state?",
+   "verdict": "ok",
+   "note": "Dree, Apatani, Arunachal; confirmed.",
+   "source_url": "https://en.wikipedia.org/wiki/Dree_Festival"
+  },
+  {
+   "key": "sg-geography",
+   "index": 21,
+   "q": "Which Indian city is known as the 'Pink City'?",
+   "verdict": "ok",
+   "note": "Jaipur Pink City; confirmed.",
+   "source_url": "https://en.wikipedia.org/wiki/Jaipur"
+  },
+  {
+   "key": "sg-general",
+   "index": 0,
+   "q": "National Unity Day (Rashtriya Ekta Diwas) is observed on 31 October to mark the birth anniversary of which leader?",
+   "verdict": "ok",
+   "note": "Patel birth anniversary, observed since 2014; confirmed.",
+   "source_url": "https://en.wikipedia.org/wiki/National_Unity_Day_(India)"
+  },
+  {
+   "key": "sg-general",
+   "index": 1,
+   "q": "What was the theme of Vigilance Awareness Week 2026, observed from 26 October to 1 November 2026?",
+   "verdict": "ok",
+   "note": "CVC Circular 05/09/26 dated 18 Sep 2026: 'Probity for Prosperity', 26 Oct-1 Nov 2026; distractors are 2025/2024/2023 themes.",
+   "source_url": "https://www.staffnews.in/2026/09/observance-of-vigilance-awareness-week-2026.html"
+  },
+  {
+   "key": "sg-general",
+   "index": 2,
+   "q": "Constitution Day (Samvidhan Divas) is observed in India on which date?",
+   "verdict": "ok",
+   "note": "26 November; confirmed.",
+   "source_url": "https://en.wikipedia.org/wiki/Constitution_Day_(India)"
+  },
+  {
+   "key": "sg-general",
+   "index": 3,
+   "q": "India's State Emblem is adapted from the Lion Capital of Ashoka found at which place, a UNESCO World Heritage Site since July 2026?",
+   "verdict": "ok",
+   "note": "Lion Capital of Sarnath; Sarnath inscribed July 2026 confirmed.",
+   "source_url": "https://newsonair.gov.in/ancient-buddhist-site-of-sarnath-inscribed-on-unesco-world-heritage-list/"
+  },
+  {
+   "key": "sg-general",
+   "index": 4,
+   "q": "Under which Article of the Constitution does the President constitute the Finance Commission?",
+   "verdict": "ok",
+   "note": "Article 280; 16th FC Panagariya; confirmed.",
+   "source_url": "https://en.wikipedia.org/wiki/Finance_Commission"
+  },
+  {
+   "key": "sg-general",
+   "index": 5,
+   "q": "World Savings Day (World Thrift Day) was established in 1924 and is observed globally on which date?",
+   "verdict": "ok",
+   "note": "31 October, Milan 1924; confirmed.",
+   "source_url": "https://en.wikipedia.org/wiki/World_Savings_Day"
+  },
+  {
+   "key": "sg-general",
+   "index": 6,
+   "q": "What was the theme of World Food Day, observed on 16 October 2026?",
+   "verdict": "ok",
+   "note": "FAO pages: 2026 theme 'Innovate today. Nourish tomorrow.'; distractors are 2025/2024/2023 themes.",
+   "source_url": "https://www.fao.org/worldfoodday-campaign/about/en/"
+  },
+  {
+   "key": "sg-general",
+   "index": 7,
+   "q": "United Nations Day is observed every year on which date?",
+   "verdict": "ok",
+   "note": "24 October; confirmed.",
+   "source_url": "https://en.wikipedia.org/wiki/United_Nations_Day"
+  },
+  {
+   "key": "sg-general",
+   "index": 8,
+   "q": "National Education Day is observed on 11 November to mark the birth anniversary of whom?",
+   "verdict": "ok",
+   "note": "Maulana Azad, 11 Nov; confirmed.",
+   "source_url": "https://en.wikipedia.org/wiki/National_Education_Day_(India)"
+  },
+  {
+   "key": "sg-general",
+   "index": 9,
+   "q": "National Milk Day is observed on 26 November to mark the birth anniversary of whom?",
+   "verdict": "ok",
+   "note": "Kurien, 26 Nov 1921; confirmed.",
+   "source_url": "https://en.wikipedia.org/wiki/Verghese_Kurien"
+  },
+  {
+   "key": "sg-general",
+   "index": 10,
+   "q": "Who is the Chief Justice of India as of November 2026?",
+   "verdict": "ok",
+   "note": "Surya Kant 53rd CJI from 24 Nov 2025, term to 9 Feb 2027; still CJI (Business Standard, 10 Nov 2026).",
+   "source_url": "https://www.sci.gov.in/judge/justice-surya-kant/"
+  },
+  {
+   "key": "sg-general",
+   "index": 11,
+   "q": "Who is the Comptroller and Auditor General (CAG) of India as of November 2026?",
+   "verdict": "ok",
+   "note": "K. Sanjay Murthy sworn in 21 Nov 2024, active as CAG on Audit Diwas Nov 2026; Gyanesh Kumar CEC (term to Jan 2029).",
+   "source_url": "https://www.cag.gov.in/en/cag-of-india"
+  },
+  {
+   "key": "sg-general",
+   "index": 12,
+   "q": "Which of the following has the United Nations declared 2026 to be?",
+   "verdict": "ok",
+   "note": "2026 International Year of the Woman Farmer; distractor years correct.",
+   "source_url": "https://www.fao.org/woman-farmer-2026/en"
+  },
+  {
+   "key": "sg-general",
+   "index": 13,
+   "q": "Victoria is the capital of which Indian Ocean island country, visited by the Prime Minister in June 2026?",
+   "verdict": "ok",
+   "note": "PM's State Visit to Seychelles 27-29 June 2026 (Guest of Honour at 50th National Day); Victoria capital.",
+   "source_url": "https://www.pmindia.gov.in/en/news_updates/state-visit-of-pm-to-seychelles/"
+  },
+  {
+   "key": "sg-general",
+   "index": 14,
+   "q": "Bishkek, which hosted the SCO Summit on 31 August-1 September 2026, is the capital of which country?",
+   "verdict": "fix",
+   "note": "Stem date '31 August-1 September' is shaky: most sources give 1 September 2026 as the Council of Heads of State meeting (events ran 30 Aug-1 Sep). Reworded stem; key (Kyrgyzstan) confirmed.",
+   "fix": {
+    "q": "Bishkek, which hosted the 26th SCO Summit (Council of Heads of State) in September 2026, is the capital of which country?",
+    "explanation": "Bishkek is the capital of Kyrgyzstan; its currency is the som. The 26th SCO Council of Heads of State met there on 1 September 2026, and Pakistan took over the rotating SCO chairmanship. The 2025 SCO summit was in Tianjin, China. Source: SCO Secretariat / GKToday, 1 Sep 2026."
+   },
+   "source_url": "https://www.gktoday.in/26th-sco-summit-held-in-bishkek/"
+  },
+  {
+   "key": "sg-general",
+   "index": 15,
+   "q": "What is the currency of the Philippines, which hosted the ASEAN-India and East Asia Summits in Manila in November 2026?",
+   "verdict": "ok",
+   "note": "23rd ASEAN-India and 21st EAS held in Manila on 17 Nov 2026; Philippines chairs ASEAN 2026; peso.",
+   "source_url": "https://newsonair.gov.in/pm-modi-to-attend-23rd-asean-india-summit-and-21st-east-asia-summit-in-manila-today/"
+  },
+  {
+   "key": "sg-general",
+   "index": 16,
+   "q": "What is the capital of New Zealand, with which India raised ties to a Strategic Partnership during the PM's July 2026 visit?",
+   "verdict": "ok",
+   "note": "AIR 12 Jul 2026: ties elevated to Strategic Partnership; Auckland event; Luxon PM.",
+   "source_url": "https://newsonair.gov.in/prime-minister-modi-concludes-new-zealand-visit-departs-for-india/"
+  },
+  {
+   "key": "sg-general",
+   "index": 17,
+   "q": "What is the capital of Turkiye, the country hosting COP31 at Antalya in November 2026?",
+   "verdict": "ok",
+   "note": "Ankara capital; COP31 dates given in brief.",
+   "source_url": "https://en.wikipedia.org/wiki/Turkey"
+  },
+  {
+   "key": "sg-general",
+   "index": 18,
+   "q": "Children's Day is celebrated in India on which date?",
+   "verdict": "ok",
+   "note": "14 November; confirmed.",
+   "source_url": "https://en.wikipedia.org/wiki/Children%27s_Day_(India)"
+  },
+  {
+   "key": "sg-general",
+   "index": 19,
+   "q": "Who was the first Speaker of the Lok Sabha?",
+   "verdict": "ok",
+   "note": "Mavalankar first Speaker; Om Birla still Speaker (2026 reports, removal motion defeated Mar 2026).",
+   "source_url": "https://scroll.in/latest/1091321/oppositions-motion-to-remove-lok-sabha-speaker-defeated"
+  },
+  {
+   "key": "sg-general",
+   "index": 20,
+   "q": "Which was India's first satellite, launched in 1975?",
+   "verdict": "ok",
+   "note": "Aryabhata 19 Apr 1975; confirmed.",
+   "source_url": "https://en.wikipedia.org/wiki/Aryabhata_(satellite)"
+  },
+  {
+   "key": "sg-general",
+   "index": 21,
+   "q": "What is the currency of Indonesia, where the Prime Minister made a State Visit in July 2026?",
+   "verdict": "ok",
+   "note": "State Visit to Indonesia 6-8 July 2026 (joint statement), then Australia; rupiah.",
+   "source_url": "https://www.narendramodi.in/prime-minister-narendra-modi-arrives-in-jakarta-6th-july-twenty-twenty-six-607077"
+  }
+ ]
+}

@@ -22,6 +22,29 @@ export function examCountdown(examIso: string, now: number): ExamCountdown | nul
   return { daysLeft, label };
 }
 
+export type ExamPhase = { kind: 'before'; daysLeft: number } | { kind: 'during' } | { kind: 'after' };
+
+function localDay(iso: string): number | null {
+  const [y, m, d] = iso.split('-').map(Number);
+  return y && m && d ? new Date(y, m - 1, d).getTime() : null;
+}
+
+/** Where today falls against an exam that runs from `startIso` to `endIso` (the same day for a one-day exam). */
+export function examPhase(startIso: string, endIso: string, now: number): ExamPhase | null {
+  const start = localDay(startIso);
+  const end = localDay(endIso);
+  if (start === null || end === null) return null;
+  const today = startOfDay(now);
+  if (today < start) return { kind: 'before', daysLeft: Math.round((start - today) / DAY_MS) };
+  return today <= end ? { kind: 'during' } : { kind: 'after' };
+}
+
+export function phaseLabel(phase: ExamPhase): string {
+  if (phase.kind === 'during') return 'Exam today';
+  if (phase.kind === 'after') return 'Exam over';
+  return `${phase.daysLeft} ${phase.daysLeft === 1 ? 'day' : 'days'} to exam`;
+}
+
 export function formatClock(totalSecs: number): string {
   const s = Math.max(0, Math.round(totalSecs));
   return `${String(Math.floor(s / 60)).padStart(2, '0')}:${String(s % 60).padStart(2, '0')}`;

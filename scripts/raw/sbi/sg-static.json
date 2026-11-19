@@ -1,0 +1,1314 @@
+{
+ "batches": [
+  {
+   "key": "sg-banking",
+   "name": "Banking & financial static",
+   "questions": [
+    {
+     "q": "State Bank of India came into being on 1 July 1955 by taking over which bank?",
+     "options": [
+      "Bank of Hindustan",
+      "Imperial Bank of India",
+      "Allahabad Bank",
+      "Bank of Calcutta"
+     ],
+     "answer": "B",
+     "explanation": "The Imperial Bank of India became the State Bank of India on 1 July 1955 under the State Bank of India Act, 1955. 1 July is observed as SBI's foundation day; SBI is headquartered in Mumbai. Source: Wikipedia (State Bank of India), read Nov 2026.",
+     "likely": 5,
+     "fact": "SBI was formed on 1 July 1955 from the Imperial Bank of India.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/State_Bank_of_India",
+     "confidence": "high"
+    },
+    {
+     "q": "Who is the Chairman of State Bank of India as of November 2026?",
+     "options": [
+      "Dinesh Kumar Khara",
+      "Challa Sreenivasulu Setty",
+      "Rajnish Kumar",
+      "Ashwini Kumar Tewari"
+     ],
+     "answer": "B",
+     "explanation": "C. S. Setty became SBI's 27th Chairman on 28 August 2024, succeeding Dinesh Kumar Khara. SBI's first woman chairperson was Arundhati Bhattacharya (2013). Source: Wikipedia (Challa Sreenivasulu Setty), read Nov 2026.",
+     "likely": 5,
+     "fact": "C. S. Setty is the Chairman of SBI (since 28 August 2024).",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Challa_Sreenivasulu_Setty",
+     "confidence": "high"
+    },
+    {
+     "q": "The 14 major commercial banks were nationalised in India on which date?",
+     "options": [
+      "1 July 1955",
+      "19 July 1969",
+      "15 April 1980",
+      "1 January 1949"
+     ],
+     "answer": "B",
+     "explanation": "Fourteen banks were nationalised on 19 July 1969; six more followed on 15 April 1980. RBI itself was nationalised in 1949. Source: Bank of Baroda (history page), read Nov 2026.",
+     "likely": 5,
+     "fact": "14 banks were nationalised on 19 July 1969.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://bankofbaroda.bank.in/about-us/history",
+     "confidence": "high"
+    },
+    {
+     "q": "NABARD was set up in 1982 on the recommendation of which committee?",
+     "options": [
+      "Narasimham Committee",
+      "B. Sivaraman Committee (CRAFICARD)",
+      "Malhotra Committee",
+      "Pherwani Committee"
+     ],
+     "answer": "B",
+     "explanation": "NABARD was created on the recommendation of CRAFICARD, chaired by B. Sivaraman, under Act 61 of 1981, and came into existence on 12 July 1982. Its head office is in Mumbai. Source: NABARD (About Us), read Nov 2026.",
+     "likely": 5,
+     "fact": "NABARD was set up on the recommendation of the B. Sivaraman Committee (CRAFICARD).",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.nabard.org/content.aspx?id=2",
+     "confidence": "high"
+    },
+    {
+     "q": "The headquarters of the Small Industries Development Bank of India (SIDBI) is in which city?",
+     "options": [
+      "Mumbai",
+      "New Delhi",
+      "Lucknow",
+      "Hyderabad"
+     ],
+     "answer": "C",
+     "explanation": "SIDBI's head office is at 15, Ashok Marg, Lucknow, Uttar Pradesh. It was set up on 2 April 1990 as the principal financial institution for MSMEs. Source: SIDBI website, read Nov 2026.",
+     "likely": 5,
+     "fact": "SIDBI is headquartered in Lucknow.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.sidbi.in/en",
+     "confidence": "high"
+    },
+    {
+     "q": "SEBI, set up as a non-statutory body on 12 April 1988, became a statutory body in which year?",
+     "options": [
+      "1988",
+      "1990",
+      "1992",
+      "1995"
+     ],
+     "answer": "C",
+     "explanation": "The SEBI Act, 1992 came into force on 30 January 1992, giving SEBI statutory powers. SEBI's head office is in Mumbai. Source: SEBI (About SEBI), read Nov 2026.",
+     "likely": 5,
+     "fact": "SEBI became a statutory body in 1992.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.sebi.gov.in/about-sebi.html",
+     "confidence": "high"
+    },
+    {
+     "q": "The Deposit Insurance Corporation (1962) and the Credit Guarantee Corporation of India (1971) were merged to form DICGC in which year?",
+     "options": [
+      "1971",
+      "1975",
+      "1978",
+      "1982"
+     ],
+     "answer": "C",
+     "explanation": "DIC began on 1 January 1962 and CGCI on 14 January 1971; they merged on 15 July 1978 to form DICGC. DICGC is a wholly owned subsidiary of RBI, based in Mumbai. Source: DICGC (About Us), read Nov 2026.",
+     "likely": 5,
+     "fact": "DICGC was formed on 15 July 1978.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.dicgc.org.in/about-us",
+     "confidence": "high"
+    },
+    {
+     "q": "Which of the following organisation-headquarters pairs is correctly matched?",
+     "options": [
+      "National Housing Bank - Mumbai",
+      "IFSCA - GIFT City, Gandhinagar",
+      "Life Insurance Corporation of India - New Delhi",
+      "DICGC - New Delhi"
+     ],
+     "answer": "B",
+     "explanation": "IFSCA's head office is in GIFT City, Gandhinagar, Gujarat. NHB is in New Delhi, while LIC and DICGC are in Mumbai. Source: IFSCA website, read Nov 2026.",
+     "likely": 5,
+     "fact": "IFSCA is headquartered at GIFT City, Gandhinagar.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://ifsca.gov.in/Pages/Contents/AboutIFSCA",
+     "confidence": "high"
+    },
+    {
+     "q": "The headquarters of the Asian Development Bank (ADB) is in which country?",
+     "options": [
+      "Japan",
+      "China",
+      "Philippines",
+      "Singapore"
+     ],
+     "answer": "C",
+     "explanation": "ADB, established in 1966, is headquartered at Mandaluyong, Metro Manila, Philippines. It has 69 members and its President is Masato Kanda of Japan. Source: Wikipedia (Asian Development Bank), read Nov 2026.",
+     "likely": 5,
+     "fact": "ADB is headquartered in Manila, Philippines.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Asian_Development_Bank",
+     "confidence": "high"
+    },
+    {
+     "q": "The New Development Bank (NDB), set up by the BRICS countries, has its headquarters in which city?",
+     "options": [
+      "Beijing",
+      "Shanghai",
+      "New Delhi",
+      "Johannesburg"
+     ],
+     "answer": "B",
+     "explanation": "NDB was established by BRICS in 2015 and is based in Shanghai, China. Its President is Dilma Rousseff; K. V. Kamath of India was its first President. India hosted the BRICS Summit in September 2026. Source: Wikipedia (New Development Bank), read Nov 2026.",
+     "likely": 5,
+     "fact": "NDB is headquartered in Shanghai.",
+     "event_date": "static",
+     "kind": "news-static",
+     "source_url": "https://en.wikipedia.org/wiki/New_Development_Bank",
+     "confidence": "high"
+    },
+    {
+     "q": "The Imperial Bank of India was formed in which year by merging the three Presidency banks?",
+     "options": [
+      "1806",
+      "1921",
+      "1935",
+      "1949"
+     ],
+     "answer": "B",
+     "explanation": "The Banks of Bengal, Bombay and Madras were amalgamated on 27 January 1921 to form the Imperial Bank of India. The Bank of Calcutta (later Bank of Bengal) dates from 1806. Source: Wikipedia (Imperial Bank of India), read Nov 2026.",
+     "likely": 4,
+     "fact": "The Imperial Bank of India was formed in 1921.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Imperial_Bank_of_India",
+     "confidence": "high"
+    },
+    {
+     "q": "Which bank, set up in 2013, was merged with State Bank of India on 1 April 2017 along with five associate banks?",
+     "options": [
+      "Bharatiya Mahila Bank",
+      "State Bank of Saurashtra",
+      "State Bank of Indore",
+      "Vijaya Bank"
+     ],
+     "answer": "A",
+     "explanation": "Bharatiya Mahila Bank (founded 19 November 2013) and five associate banks merged with SBI on 1 April 2017. The five were State Banks of Bikaner and Jaipur, Hyderabad, Mysore, Patiala and Travancore. Source: Wikipedia (Bharatiya Mahila Bank), read Nov 2026.",
+     "likely": 4,
+     "fact": "Bharatiya Mahila Bank merged with SBI on 1 April 2017.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Bharatiya_Mahila_Bank",
+     "confidence": "high"
+    },
+    {
+     "q": "Which associate bank was the first to be merged with State Bank of India, in 2008?",
+     "options": [
+      "State Bank of Indore",
+      "State Bank of Saurashtra",
+      "State Bank of Patiala",
+      "State Bank of Mysore"
+     ],
+     "answer": "B",
+     "explanation": "State Bank of Saurashtra merged with SBI on 13 August 2008; State Bank of Indore followed in 2010. The remaining five associates merged on 1 April 2017. Source: Wikipedia (State Bank of India), read Nov 2026.",
+     "likely": 4,
+     "fact": "State Bank of Saurashtra merged with SBI in 2008.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/State_Bank_of_India",
+     "confidence": "high"
+    },
+    {
+     "q": "In SBI's digital banking platform 'YONO', what does YONO stand for?",
+     "options": [
+      "Your Own Net Office",
+      "You Only Need One",
+      "Your One New Option",
+      "You Open New Opportunities"
+     ],
+     "answer": "B",
+     "explanation": "YONO means 'You Only Need One'. SBI launched it in November 2017. Source: Wikipedia (YONO), read Nov 2026.",
+     "likely": 4,
+     "fact": "YONO stands for You Only Need One.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/YONO",
+     "confidence": "high"
+    },
+    {
+     "q": "The creation of State Bank of India in 1955 was recommended by which committee?",
+     "options": [
+      "Hilton Young Commission",
+      "All India Rural Credit Survey Committee",
+      "Narasimham Committee",
+      "Sivaraman Committee"
+     ],
+     "answer": "B",
+     "explanation": "The All India Rural Credit Survey Committee (chaired by A. D. Gorwala, report 1954) recommended a state-partnered commercial bank, leading to SBI. The Hilton Young Commission led to the RBI. Source: RBI history / standard banking references.",
+     "likely": 4,
+     "fact": "The All India Rural Credit Survey Committee recommended creating SBI.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/Scripts/briefhistory.aspx",
+     "confidence": "medium"
+    },
+    {
+     "q": "Which of the following bank-headquarters pairs is correctly matched?",
+     "options": [
+      "Bank of Maharashtra - Mumbai",
+      "UCO Bank - Kolkata",
+      "Canara Bank - Mangaluru",
+      "Indian Bank - Bengaluru"
+     ],
+     "answer": "B",
+     "explanation": "UCO Bank (founded 1943) is headquartered in Kolkata. Bank of Maharashtra is in Pune, Canara Bank in Bengaluru and Indian Bank in Chennai. Source: UCO Bank (About Us), read Nov 2026.",
+     "likely": 4,
+     "fact": "UCO Bank is headquartered in Kolkata.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://uco.bank.in/en/about-us",
+     "confidence": "high"
+    },
+    {
+     "q": "Which of the following bank-tagline pairs is correctly matched?",
+     "options": [
+      "Punjab National Bank - Honours Your Trust",
+      "Bank of Baroda - India's International Bank",
+      "Canara Bank - Central to You Since 1911",
+      "Bank of India - The Banker to Every Indian"
+     ],
+     "answer": "B",
+     "explanation": "'India's International Bank' is Bank of Baroda's tagline. 'Honours Your Trust' belongs to UCO Bank, 'Central to You Since 1911' to Central Bank of India and 'The Banker to Every Indian' to SBI. Source: Wikipedia (Bank of Baroda), read Nov 2026.",
+     "likely": 4,
+     "fact": "Bank of Baroda's tagline is 'India's International Bank'.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Bank_of_Baroda",
+     "confidence": "medium"
+    },
+    {
+     "q": "Punjab National Bank opened for business on 12 April 1895 in which city?",
+     "options": [
+      "Amritsar",
+      "Lahore",
+      "Delhi",
+      "Karachi"
+     ],
+     "answer": "B",
+     "explanation": "PNB was registered on 19 May 1894 and opened at Anarkali Bazar, Lahore. Lala Lajpat Rai was the first to open an account; its corporate office is now in Dwarka, New Delhi. Source: PNB (Origin of PNB), read Nov 2026.",
+     "likely": 4,
+     "fact": "PNB started business in Lahore in 1895.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://pnb.bank.in/Origin-of-PNB.html",
+     "confidence": "high"
+    },
+    {
+     "q": "Which bank, founded in 1911 by Sir Sorabji Pochkhanawala, was the first Indian commercial bank wholly owned and managed by Indians?",
+     "options": [
+      "Bank of India",
+      "Central Bank of India",
+      "Indian Bank",
+      "Punjab & Sind Bank"
+     ],
+     "answer": "B",
+     "explanation": "Central Bank of India was established in 1911; Sir Pherozeshah Mehta was its first Chairman. Its head office is in Mumbai. Source: Central Bank of India (About Us), read Nov 2026.",
+     "likely": 4,
+     "fact": "Central Bank of India (1911) was the first Indian commercial bank wholly owned and managed by Indians.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.centralbank.bank.in/en/about-us",
+     "confidence": "high"
+    },
+    {
+     "q": "Prathama Bank, India's first Regional Rural Bank, was set up on 2 October 1975 at which place?",
+     "options": [
+      "Gorakhpur",
+      "Moradabad",
+      "Bhiwani",
+      "Jaipur"
+     ],
+     "answer": "B",
+     "explanation": "Prathama Bank was set up at Moradabad, Uttar Pradesh, sponsored by Syndicate Bank. RRBs are owned 50% by the Centre, 35% by the sponsor bank and 15% by the state; there are 28 RRBs now. Source: Wikipedia (Regional rural bank), read Nov 2026.",
+     "likely": 4,
+     "fact": "The first RRB, Prathama Bank, was set up at Moradabad in 1975.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Regional_rural_bank",
+     "confidence": "high"
+    },
+    {
+     "q": "India Post Payments Bank (IPPB) works under which department of the Government of India?",
+     "options": [
+      "Department of Financial Services",
+      "Department of Posts",
+      "Department of Telecommunications",
+      "Department of Economic Affairs"
+     ],
+     "answer": "B",
+     "explanation": "IPPB is wholly owned by the Government of India under the Department of Posts, Ministry of Communications. It is based in New Delhi and was launched nationally on 1 September 2018. Source: Wikipedia (India Post Payments Bank), read Nov 2026.",
+     "likely": 4,
+     "fact": "IPPB is under the Department of Posts.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/India_Post_Payments_Bank",
+     "confidence": "high"
+    },
+    {
+     "q": "When the Reserve Bank of India began operations on 1 April 1935, its Central Office was first located in which city?",
+     "options": [
+      "Mumbai",
+      "Kolkata",
+      "New Delhi",
+      "Chennai"
+     ],
+     "answer": "B",
+     "explanation": "RBI's Central Office was first set up in Kolkata and moved permanently to Mumbai in 1937. RBI was nationalised in 1949. Source: RBI (About Us), read Nov 2026.",
+     "likely": 4,
+     "fact": "RBI's Central Office was initially in Kolkata.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/Scripts/AboutusDisplay.aspx",
+     "confidence": "high"
+    },
+    {
+     "q": "Life Insurance Corporation of India (LIC) was created on which date?",
+     "options": [
+      "1 July 1955",
+      "1 September 1956",
+      "19 July 1969",
+      "22 November 1972"
+     ],
+     "answer": "B",
+     "explanation": "LIC was created on 1 September 1956 under the LIC Act passed in June 1956, with Rs 5 crore capital from the Government. Its corporate office 'Yogakshema' is in Mumbai; GIC was incorporated on 22 November 1972. Source: LIC (History), read Nov 2026.",
+     "likely": 4,
+     "fact": "LIC was created on 1 September 1956.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://licindia.in/web/guest/history",
+     "confidence": "high"
+    },
+    {
+     "q": "Which of the following cities does NOT have an India Government Mint?",
+     "options": [
+      "Mumbai",
+      "Hyderabad",
+      "Noida",
+      "Nashik"
+     ],
+     "answer": "D",
+     "explanation": "SPMCIL's four mints are at Mumbai, Kolkata, Hyderabad and Noida. Nashik has the Currency Note Press and India Security Press; Dewas has the Bank Note Press and Narmadapuram the Security Paper Mill. Source: SPMCIL website, read Nov 2026.",
+     "likely": 4,
+     "fact": "India Government Mints are at Mumbai, Kolkata, Hyderabad and Noida.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.spmcil.com/en/",
+     "confidence": "high"
+    },
+    {
+     "q": "Which is the oldest stock exchange in Asia, founded in 1875?",
+     "options": [
+      "National Stock Exchange",
+      "BSE (Bombay Stock Exchange)",
+      "Calcutta Stock Exchange",
+      "Tokyo Stock Exchange"
+     ],
+     "answer": "B",
+     "explanation": "BSE was founded on 9 July 1875 as the Native Share & Stock Brokers' Association in Mumbai. Its benchmark index is the Sensex; NSE's is the Nifty 50. Source: Wikipedia (BSE Limited), read Nov 2026.",
+     "likely": 4,
+     "fact": "BSE, founded in 1875, is Asia's oldest stock exchange.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/BSE_Limited",
+     "confidence": "high"
+    },
+    {
+     "q": "How many member countries does the International Monetary Fund (IMF) have?",
+     "options": [
+      "189",
+      "190",
+      "191",
+      "193"
+     ],
+     "answer": "C",
+     "explanation": "The IMF has 191 members; it was conceived at the Bretton Woods Conference in July 1944 and is based in Washington, D.C. The World Bank's IBRD has 189 members. Source: IMF (IMF at a Glance), read Nov 2026.",
+     "likely": 4,
+     "fact": "The IMF has 191 member countries.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.imf.org/en/About/Factsheets/IMF-at-a-Glance",
+     "confidence": "high"
+    },
+    {
+     "q": "Who is the Managing Director of the International Monetary Fund (IMF)?",
+     "options": [
+      "Christine Lagarde",
+      "Kristalina Georgieva",
+      "Ajay Banga",
+      "Ngozi Okonjo-Iweala"
+     ],
+     "answer": "B",
+     "explanation": "Kristalina Georgieva of Bulgaria has been IMF Managing Director since 1 October 2019; her second term began on 1 October 2024. Ajay Banga heads the World Bank and Ngozi Okonjo-Iweala the WTO. Source: IMF (senior officials), read Nov 2026.",
+     "likely": 4,
+     "fact": "Kristalina Georgieva is the IMF Managing Director.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.imf.org/en/About/senior-officials/Bios/kristalina-georgieva",
+     "confidence": "high"
+    },
+    {
+     "q": "The Bank for International Settlements (BIS), established in 1930, is headquartered in which city?",
+     "options": [
+      "Geneva",
+      "Basel",
+      "Zurich",
+      "Brussels"
+     ],
+     "answer": "B",
+     "explanation": "BIS is based in Basel, Switzerland, and is owned by 63 central banks. The Basel norms on bank capital are named after the city. Source: BIS (About BIS), read Nov 2026.",
+     "likely": 4,
+     "fact": "BIS is headquartered in Basel.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.bis.org/about/index.htm",
+     "confidence": "high"
+    },
+    {
+     "q": "The Financial Action Task Force (FATF), set up in 1989, has its headquarters in which city?",
+     "options": [
+      "Paris",
+      "Geneva",
+      "Vienna",
+      "Washington, D.C."
+     ],
+     "answer": "A",
+     "explanation": "FATF was founded at the G7 Summit in Paris in 1989 and its secretariat is in Paris. India took up the FATF Vice-Presidency for the first time in July 2026. Source: Wikipedia (Financial Action Task Force), read Nov 2026.",
+     "likely": 4,
+     "fact": "FATF is headquartered in Paris.",
+     "event_date": "static",
+     "kind": "news-static",
+     "source_url": "https://en.wikipedia.org/wiki/Financial_Action_Task_Force",
+     "confidence": "high"
+    },
+    {
+     "q": "The World Trade Organization (WTO), established on 1 January 1995, is located in which city?",
+     "options": [
+      "New York",
+      "Geneva",
+      "Brussels",
+      "The Hague"
+     ],
+     "answer": "B",
+     "explanation": "The WTO is in Geneva, Switzerland, and has 166 members. Its Director-General is Ngozi Okonjo-Iweala. Source: WTO (What is the WTO), read Nov 2026.",
+     "likely": 4,
+     "fact": "The WTO is headquartered in Geneva.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.wto.org/english/thewto_e/whatis_e/whatis_e.htm",
+     "confidence": "high"
+    },
+    {
+     "q": "The Asian Infrastructure Investment Bank (AIIB), which began operations in 2016, is headquartered in which city?",
+     "options": [
+      "Shanghai",
+      "Beijing",
+      "Manila",
+      "Tokyo"
+     ],
+     "answer": "B",
+     "explanation": "AIIB is based in Beijing, has 111 approved members and is capitalised at USD 100 billion. Source: AIIB (About AIIB), read Nov 2026.",
+     "likely": 4,
+     "fact": "AIIB is headquartered in Beijing.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.aiib.org/en/about-aiib/index.html",
+     "confidence": "high"
+    },
+    {
+     "q": "Bank of Baroda was founded in 1908 by which ruler?",
+     "options": [
+      "Maharaja Sayajirao Gaekwad III",
+      "Maharaja Ranjit Singh",
+      "Krishnaraja Wadiyar IV",
+      "Maharaja Ganga Singh"
+     ],
+     "answer": "A",
+     "explanation": "Bank of Baroda was founded on 20 July 1908 by Maharaja Sayajirao Gaekwad III at Baroda (Vadodara), where it is still headquartered. Dena Bank and Vijaya Bank merged into it in 2019. Source: Bank of Baroda (history page), read Nov 2026.",
+     "likely": 3,
+     "fact": "Bank of Baroda was founded by Sayajirao Gaekwad III in 1908.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://bankofbaroda.bank.in/about-us/history",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "key": "sg-geography",
+   "name": "Geography & culture",
+   "questions": [
+    {
+     "q": "Sukhna Lake, added to the list of Ramsar sites in October 2026, is located in which city?",
+     "options": [
+      "Chandigarh",
+      "Bhopal",
+      "Udaipur",
+      "Srinagar"
+     ],
+     "answer": "A",
+     "explanation": "Sukhna Lake (Chandigarh) and Sauj Jheel (Uttar Pradesh) were added on 15 October 2026, taking India's Ramsar tally to 103. Source: News On AIR, 15 Oct 2026.",
+     "likely": 5,
+     "fact": "Sukhna Lake, a Ramsar site since October 2026, is in Chandigarh.",
+     "event_date": "2026-10-15",
+     "kind": "news-static",
+     "source_url": "https://newsonair.gov.in/with-inclusion-of-sukhna-lake-and-sauj-jheel-indias-ramsar-tally-reaches-103/",
+     "confidence": "high"
+    },
+    {
+     "q": "Which state has the highest number of Ramsar sites in India?",
+     "options": [
+      "Uttar Pradesh",
+      "Tamil Nadu",
+      "Odisha",
+      "Punjab"
+     ],
+     "answer": "B",
+     "explanation": "Tamil Nadu has 20 Ramsar sites, followed by Uttar Pradesh with 14. India has 103 Ramsar sites as of October 2026. Source: Wikipedia (List of Ramsar sites in India), read Nov 2026.",
+     "likely": 5,
+     "fact": "Tamil Nadu has the most Ramsar sites (20).",
+     "event_date": "2026-10",
+     "kind": "news-static",
+     "source_url": "https://en.wikipedia.org/wiki/List_of_Ramsar_sites_in_India",
+     "confidence": "high"
+    },
+    {
+     "q": "Sarnath, inscribed in July 2026 as India's 45th UNESCO World Heritage Site, is located in which state?",
+     "options": [
+      "Bihar",
+      "Uttar Pradesh",
+      "Madhya Pradesh",
+      "Odisha"
+     ],
+     "answer": "B",
+     "explanation": "Sarnath lies about 8 km from Varanasi in Uttar Pradesh; the Buddha gave his first sermon here. It was inscribed at the 48th World Heritage Committee session in Busan, South Korea. Source: Wikipedia (Sarnath), read Nov 2026.",
+     "likely": 5,
+     "fact": "Sarnath is in Uttar Pradesh, near Varanasi.",
+     "event_date": "2026-07",
+     "kind": "news-static",
+     "source_url": "https://en.wikipedia.org/wiki/Sarnath",
+     "confidence": "high"
+    },
+    {
+     "q": "Buxa Tiger Reserve, where a tigress was released in October 2026 to start a tiger reintroduction programme, is in which state?",
+     "options": [
+      "Assam",
+      "West Bengal",
+      "Bihar",
+      "Odisha"
+     ],
+     "answer": "B",
+     "explanation": "Buxa Tiger Reserve is in West Bengal and was declared a tiger reserve in 1983. The tigress came from Valmiki Tiger Reserve, Bihar. Source: Drishti IAS, 6 Oct 2026.",
+     "likely": 4,
+     "fact": "Buxa Tiger Reserve is in West Bengal.",
+     "event_date": "2026-10",
+     "kind": "news-static",
+     "source_url": "https://www.drishtiias.com/statepcs/06-10-2026/west-bengal",
+     "confidence": "medium"
+    },
+    {
+     "q": "The Kishau Dam project, for which six states signed an agreement on 15 September 2026, is on which river?",
+     "options": [
+      "Tons",
+      "Sutlej",
+      "Chenab",
+      "Sharda"
+     ],
+     "answer": "A",
+     "explanation": "Kishau is a 232.6 m dam on the Tons, a tributary of the Yamuna, on the Uttarakhand-Himachal Pradesh border. The signatories were UP, Uttarakhand, Himachal Pradesh, Rajasthan, Delhi and Haryana. Source: Drishti IAS, 16 Sep 2026.",
+     "likely": 4,
+     "fact": "Kishau Dam is on the Tons river.",
+     "event_date": "2026-09-15",
+     "kind": "news-static",
+     "source_url": "https://www.drishtiias.com/statepcs/16-09-2026",
+     "confidence": "medium"
+    },
+    {
+     "q": "Pong Dam in Himachal Pradesh is built on which river?",
+     "options": [
+      "Ravi",
+      "Sutlej",
+      "Beas",
+      "Chenab"
+     ],
+     "answer": "C",
+     "explanation": "Pong Dam (Beas Dam) is on the Beas in Kangra district; its reservoir is Maharana Pratap Sagar. Bhakra Dam is on the Sutlej. Source: Wikipedia (Pong Dam), read Nov 2026.",
+     "likely": 4,
+     "fact": "Pong Dam is on the Beas river.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Pong_Dam",
+     "confidence": "high"
+    },
+    {
+     "q": "'Ambaji Mohanthal', a temple prasad that received a GI tag in October 2026, belongs to which state?",
+     "options": [
+      "Rajasthan",
+      "Gujarat",
+      "Maharashtra",
+      "Madhya Pradesh"
+     ],
+     "answer": "B",
+     "explanation": "Ambaji Mohanthal of the Ambaji Temple, Banaskantha district, Gujarat, got the GI tag on 8 October 2026. A GI registration is valid for 10 years. Source: GKToday, 12 Oct 2026; Adda247, 10 Oct 2026.",
+     "likely": 4,
+     "fact": "Ambaji Mohanthal (GI tag, Oct 2026) is from Gujarat.",
+     "event_date": "2026-10-08",
+     "kind": "news-static",
+     "source_url": "https://www.gktoday.in/ambaji-mohanthal-prasad-receives-gi-tag/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Wangala, the 'Festival of the Hundred Drums', is a harvest festival of which tribe?",
+     "options": [
+      "Khasi",
+      "Garo",
+      "Bhil",
+      "Apatani"
+     ],
+     "answer": "B",
+     "explanation": "The Garo tribe, mainly of Meghalaya, celebrates Wangala to thank the sun god Misi Saljong. Source: Wikipedia (Wangala), read Nov 2026.",
+     "likely": 4,
+     "fact": "Wangala is the harvest festival of the Garo tribe.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Wangala",
+     "confidence": "high"
+    },
+    {
+     "q": "The Godavari, India's second-longest river, rises near Trimbakeshwar in which state?",
+     "options": [
+      "Madhya Pradesh",
+      "Maharashtra",
+      "Telangana",
+      "Karnataka"
+     ],
+     "answer": "B",
+     "explanation": "The Godavari rises at Brahmagiri near Trimbakeshwar, Nashik district, Maharashtra, and flows 1,465 km to the Bay of Bengal. It is called the Dakshina Ganga. Source: Wikipedia (Godavari River), read Nov 2026.",
+     "likely": 4,
+     "fact": "The Godavari originates near Trimbakeshwar, Nashik, Maharashtra.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Godavari_River",
+     "confidence": "high"
+    },
+    {
+     "q": "Which was India's first national park, established in 1936?",
+     "options": [
+      "Kaziranga National Park",
+      "Jim Corbett National Park",
+      "Kanha National Park",
+      "Gir National Park"
+     ],
+     "answer": "B",
+     "explanation": "Jim Corbett National Park in Nainital district, Uttarakhand, was set up in 1936 as Hailey National Park. Madhya Pradesh has the most national parks. Source: Wikipedia (Jim Corbett National Park), read Nov 2026.",
+     "likely": 4,
+     "fact": "Jim Corbett National Park (1936) was India's first national park.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Jim_Corbett_National_Park",
+     "confidence": "high"
+    },
+    {
+     "q": "Which were India's first Ramsar sites, designated in 1981?",
+     "options": [
+      "Chilika Lake and Keoladeo National Park",
+      "Wular Lake and Loktak Lake",
+      "Sambhar Lake and Harike Lake",
+      "Sundarbans and Bhitarkanika"
+     ],
+     "answer": "A",
+     "explanation": "Chilika Lake (Odisha) and Keoladeo National Park (Rajasthan) were designated on 1 October 1981. The largest Indian Ramsar site is the Sundarban Wetland, West Bengal. Source: Wikipedia (List of Ramsar sites in India), read Nov 2026.",
+     "likely": 4,
+     "fact": "Chilika Lake and Keoladeo National Park were India's first Ramsar sites (1981).",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/List_of_Ramsar_sites_in_India",
+     "confidence": "high"
+    },
+    {
+     "q": "Tehri Dam, the tallest dam in India, is built on which river?",
+     "options": [
+      "Alaknanda",
+      "Bhagirathi",
+      "Mahanadi",
+      "Narmada"
+     ],
+     "answer": "B",
+     "explanation": "Tehri Dam (260.5 m) is on the Bhagirathi in Uttarakhand and is run by THDC India. Source: Wikipedia (Tehri Dam), read Nov 2026.",
+     "likely": 4,
+     "fact": "Tehri Dam is on the Bhagirathi river.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Tehri_Dam",
+     "confidence": "high"
+    },
+    {
+     "q": "The world's highest railway bridge, opened in June 2025, is built over which river in Jammu and Kashmir?",
+     "options": [
+      "Jhelum",
+      "Chenab",
+      "Ravi",
+      "Indus"
+     ],
+     "answer": "B",
+     "explanation": "The Chenab Rail Bridge in Reasi district stands 359 m above the riverbed on the Jammu-Baramulla line. It was opened on 6 June 2025. Source: Wikipedia (Chenab Rail Bridge), read Nov 2026.",
+     "likely": 4,
+     "fact": "The world's highest rail bridge is over the Chenab.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Chenab_Rail_Bridge",
+     "confidence": "high"
+    },
+    {
+     "q": "Kudankulam Nuclear Power Plant, India's largest nuclear power station, is in which state?",
+     "options": [
+      "Tamil Nadu",
+      "Karnataka",
+      "Gujarat",
+      "Maharashtra"
+     ],
+     "answer": "A",
+     "explanation": "Kudankulam is in Tirunelveli district, Tamil Nadu, run by NPCIL with Russian reactors. Kaiga is in Karnataka, Kakrapar in Gujarat and Tarapur in Maharashtra. Source: Wikipedia (Kudankulam Nuclear Power Plant), read Nov 2026.",
+     "likely": 4,
+     "fact": "Kudankulam Nuclear Power Plant is in Tamil Nadu.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Kudankulam_Nuclear_Power_Plant",
+     "confidence": "high"
+    },
+    {
+     "q": "Sattriya is a classical dance form of which state?",
+     "options": [
+      "Odisha",
+      "Assam",
+      "Manipur",
+      "Kerala"
+     ],
+     "answer": "B",
+     "explanation": "Sattriya comes from Assam and is attributed to the saint Sankaradeva; Sangeet Natak Akademi recognised it as classical in 2000. Source: Wikipedia (Sattriya), read Nov 2026.",
+     "likely": 4,
+     "fact": "Sattriya is the classical dance of Assam.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Sattriya",
+     "confidence": "high"
+    },
+    {
+     "q": "The Hornbill Festival, held from 1 to 10 December every year, is celebrated in which state?",
+     "options": [
+      "Nagaland",
+      "Mizoram",
+      "Arunachal Pradesh",
+      "Meghalaya"
+     ],
+     "answer": "A",
+     "explanation": "The Hornbill Festival is held at Kisama Heritage Village near Kohima, Nagaland, and is called the 'Festival of Festivals'. It began in 2000. Source: Wikipedia (Hornbill Festival), read Nov 2026.",
+     "likely": 4,
+     "fact": "The Hornbill Festival is held in Nagaland.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Hornbill_Festival",
+     "confidence": "high"
+    },
+    {
+     "q": "Vizhinjam International Seaport, India's first deep-water transshipment port, is in which state?",
+     "options": [
+      "Tamil Nadu",
+      "Kerala",
+      "Gujarat",
+      "Odisha"
+     ],
+     "answer": "B",
+     "explanation": "Vizhinjam port is in Thiruvananthapuram district, Kerala, and was inaugurated on 2 May 2025. It is operated by an Adani Ports subsidiary. Source: Wikipedia (Vizhinjam International Seaport), read Nov 2026.",
+     "likely": 4,
+     "fact": "Vizhinjam port is in Kerala.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Vizhinjam_International_Seaport_Thiruvananthapuram",
+     "confidence": "high"
+    },
+    {
+     "q": "Which was the first Indian product to receive a Geographical Indication (GI) tag?",
+     "options": [
+      "Darjeeling Tea",
+      "Basmati Rice",
+      "Kanchipuram Silk",
+      "Alphonso Mango"
+     ],
+     "answer": "A",
+     "explanation": "Darjeeling Tea of West Bengal got India's first GI tag in 2004. The GI Registry is in Chennai. Source: Wikipedia (Darjeeling tea), read Nov 2026.",
+     "likely": 4,
+     "fact": "Darjeeling Tea was India's first GI-tagged product.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Darjeeling_tea",
+     "confidence": "high"
+    },
+    {
+     "q": "Veerangana Durgavati Tiger Reserve, earlier known as Nauradehi Wildlife Sanctuary, is in which state?",
+     "options": [
+      "Madhya Pradesh",
+      "Rajasthan",
+      "Chhattisgarh",
+      "Gujarat"
+     ],
+     "answer": "A",
+     "explanation": "The reserve (Nauradehi) lies in Sagar and Damoh districts of Madhya Pradesh and was notified in 2023. India's first cheetahs were brought to Kuno National Park, also in Madhya Pradesh, in September 2022. Source: Wikipedia (Veerangana Durgavati Tiger Reserve), read Nov 2026.",
+     "likely": 3,
+     "fact": "Veerangana Durgavati Tiger Reserve is in Madhya Pradesh.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Veerangana_Durgavati_Tiger_Reserve",
+     "confidence": "high"
+    },
+    {
+     "q": "Nanda Devi Biosphere Reserve is located in which state?",
+     "options": [
+      "Himachal Pradesh",
+      "Uttarakhand",
+      "Sikkim",
+      "Arunachal Pradesh"
+     ],
+     "answer": "B",
+     "explanation": "Nanda Devi Biosphere Reserve is in Chamoli district, Uttarakhand, and was established in 1982. Nanda Devi and Valley of Flowers National Parks form a UNESCO World Heritage Site. Source: Wikipedia (Nanda Devi Biosphere Reserve), read Nov 2026.",
+     "likely": 3,
+     "fact": "Nanda Devi Biosphere Reserve is in Uttarakhand.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Nanda_Devi_Biosphere_Reserve",
+     "confidence": "high"
+    },
+    {
+     "q": "The Dree festival, celebrated on 5 July, belongs to the Apatani tribe of which state?",
+     "options": [
+      "Arunachal Pradesh",
+      "Nagaland",
+      "Sikkim",
+      "Tripura"
+     ],
+     "answer": "A",
+     "explanation": "The Apatani of the Ziro valley, Arunachal Pradesh, celebrate Dree as an agricultural festival. Source: Wikipedia (Dree Festival), read Nov 2026.",
+     "likely": 3,
+     "fact": "Dree is the Apatani festival of Arunachal Pradesh.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Dree_Festival",
+     "confidence": "high"
+    },
+    {
+     "q": "Which Indian city is known as the 'Pink City'?",
+     "options": [
+      "Jodhpur",
+      "Jaipur",
+      "Udaipur",
+      "Mysuru"
+     ],
+     "answer": "B",
+     "explanation": "Jaipur was painted pink in 1876 to welcome the Prince of Wales. It was founded in 1727 by Sawai Jai Singh II and became a UNESCO World Heritage city in 2019. Source: Wikipedia (Jaipur), read Nov 2026.",
+     "likely": 3,
+     "fact": "Jaipur is called the Pink City.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Jaipur",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "key": "sg-general",
+   "name": "Countries, important days & general facts",
+   "questions": [
+    {
+     "q": "National Unity Day (Rashtriya Ekta Diwas) is observed on 31 October to mark the birth anniversary of which leader?",
+     "options": [
+      "Jawaharlal Nehru",
+      "Sardar Vallabhbhai Patel",
+      "B. R. Ambedkar",
+      "Lal Bahadur Shastri"
+     ],
+     "answer": "B",
+     "explanation": "31 October is Sardar Patel's birth anniversary and has been observed as National Unity Day since 2014. Vigilance Awareness Week is held in the week in which this day falls. Source: Wikipedia (National Unity Day), read Nov 2026; CVC circular, 18 Sep 2026.",
+     "likely": 5,
+     "fact": "National Unity Day, 31 October, marks Sardar Patel's birth anniversary.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/National_Unity_Day_(India)",
+     "confidence": "high"
+    },
+    {
+     "q": "What was the theme of Vigilance Awareness Week 2026, observed from 26 October to 1 November 2026?",
+     "options": [
+      "Probity for Prosperity",
+      "Vigilance: Our Shared Responsibility",
+      "Culture of Integrity for Nation's Prosperity",
+      "Say No to Corruption; Commit to the Nation"
+     ],
+     "answer": "A",
+     "explanation": "The Central Vigilance Commission set 'Probity for Prosperity' as the 2026 theme (Circular No. 05/09/26). The other options are themes of 2025, 2024 and 2023. Source: CVC circular, 18 Sep 2026.",
+     "likely": 5,
+     "fact": "Vigilance Awareness Week 2026 theme: Probity for Prosperity.",
+     "event_date": "2026-10-26",
+     "kind": "news",
+     "source_url": "https://www.staffnews.in/2026/09/observance-of-vigilance-awareness-week-2026.html",
+     "confidence": "high"
+    },
+    {
+     "q": "Constitution Day (Samvidhan Divas) is observed in India on which date?",
+     "options": [
+      "26 January",
+      "26 November",
+      "15 August",
+      "2 October"
+     ],
+     "answer": "B",
+     "explanation": "The Constituent Assembly adopted the Constitution on 26 November 1949; it came into force on 26 January 1950. The day has been observed since 2015. It is also called National Law Day. Source: Wikipedia (Constitution Day), read Nov 2026.",
+     "likely": 5,
+     "fact": "Constitution Day is 26 November.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Constitution_Day_(India)",
+     "confidence": "high"
+    },
+    {
+     "q": "India's State Emblem is adapted from the Lion Capital of Ashoka found at which place, a UNESCO World Heritage Site since July 2026?",
+     "options": [
+      "Sanchi",
+      "Sarnath",
+      "Bodh Gaya",
+      "Vaishali"
+     ],
+     "answer": "B",
+     "explanation": "The Lion Capital was raised at Sarnath around 250 BCE and is kept in the Sarnath museum. The motto below the emblem is 'Satyameva Jayate'. Source: Wikipedia (Sarnath), read Nov 2026.",
+     "likely": 5,
+     "fact": "The State Emblem is adapted from the Lion Capital of Ashoka at Sarnath.",
+     "event_date": "2026-07",
+     "kind": "news-static",
+     "source_url": "https://en.wikipedia.org/wiki/Sarnath",
+     "confidence": "high"
+    },
+    {
+     "q": "Under which Article of the Constitution does the President constitute the Finance Commission?",
+     "options": [
+      "Article 112",
+      "Article 148",
+      "Article 280",
+      "Article 324"
+     ],
+     "answer": "C",
+     "explanation": "Article 280 provides for the Finance Commission; the 16th is chaired by Arvind Panagariya. Article 243-I covers State Finance Commissions, 112 the Budget, 148 the CAG and 324 the Election Commission. Source: Wikipedia (Finance Commission), read Nov 2026.",
+     "likely": 5,
+     "fact": "The Finance Commission is constituted under Article 280.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Finance_Commission",
+     "confidence": "high"
+    },
+    {
+     "q": "World Savings Day (World Thrift Day) was established in 1924 and is observed globally on which date?",
+     "options": [
+      "24 October",
+      "31 October",
+      "16 October",
+      "4 December"
+     ],
+     "answer": "B",
+     "explanation": "It was established on 31 October 1924 at the first International Savings Bank Congress in Milan, Italy. Source: Wikipedia (World Savings Day), read Nov 2026.",
+     "likely": 4,
+     "fact": "World Savings Day is observed on 31 October.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/World_Savings_Day",
+     "confidence": "high"
+    },
+    {
+     "q": "What was the theme of World Food Day, observed on 16 October 2026?",
+     "options": [
+      "Innovate today. Nourish tomorrow.",
+      "Hand in Hand for Better Foods and a Better Future",
+      "Right to foods for a better life and a better future",
+      "Water is life, water is food"
+     ],
+     "answer": "A",
+     "explanation": "FAO's 2026 theme is 'Innovate today. Nourish tomorrow.' World Food Day marks FAO's founding on 16 October 1945; FAO is based in Rome. Source: FAO World Food Day page, read Nov 2026.",
+     "likely": 4,
+     "fact": "World Food Day 2026 theme: Innovate today. Nourish tomorrow.",
+     "event_date": "2026-10-16",
+     "kind": "news",
+     "source_url": "https://www.fao.org/world-food-day/en",
+     "confidence": "high"
+    },
+    {
+     "q": "United Nations Day is observed every year on which date?",
+     "options": [
+      "24 October",
+      "10 December",
+      "26 June",
+      "21 September"
+     ],
+     "answer": "A",
+     "explanation": "The UN Charter came into force on 24 October 1945. The UN is headquartered in New York. Source: Wikipedia (United Nations Day), read Nov 2026.",
+     "likely": 4,
+     "fact": "UN Day is 24 October.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/United_Nations_Day",
+     "confidence": "high"
+    },
+    {
+     "q": "National Education Day is observed on 11 November to mark the birth anniversary of whom?",
+     "options": [
+      "Dr S. Radhakrishnan",
+      "Maulana Abul Kalam Azad",
+      "Dr A. P. J. Abdul Kalam",
+      "Swami Vivekananda"
+     ],
+     "answer": "B",
+     "explanation": "Maulana Azad was India's first Education Minister; the day has been observed since 2008. Teachers' Day (5 September) marks Dr Radhakrishnan's birthday. Source: Wikipedia (National Education Day), read Nov 2026.",
+     "likely": 4,
+     "fact": "National Education Day (11 November) marks Maulana Azad's birth anniversary.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/National_Education_Day_(India)",
+     "confidence": "high"
+    },
+    {
+     "q": "National Milk Day is observed on 26 November to mark the birth anniversary of whom?",
+     "options": [
+      "M. S. Swaminathan",
+      "Verghese Kurien",
+      "Norman Borlaug",
+      "Tribhuvandas Patel"
+     ],
+     "answer": "B",
+     "explanation": "Dr Verghese Kurien is called the Father of the White Revolution. He was born on 26 November 1921 at Kozhikode. Source: Wikipedia (Verghese Kurien), read Nov 2026.",
+     "likely": 4,
+     "fact": "National Milk Day (26 November) marks Verghese Kurien's birth anniversary.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Verghese_Kurien",
+     "confidence": "high"
+    },
+    {
+     "q": "Who is the Chief Justice of India as of November 2026?",
+     "options": [
+      "Justice Sanjiv Khanna",
+      "Justice B. R. Gavai",
+      "Justice Surya Kant",
+      "Justice Vikram Nath"
+     ],
+     "answer": "C",
+     "explanation": "Justice Surya Kant became the 53rd CJI on 24 November 2025, succeeding Justice B. R. Gavai. H. J. Kania was the first CJI. Source: Wikipedia (Chief Justice of India), read Nov 2026.",
+     "likely": 4,
+     "fact": "Justice Surya Kant is the 53rd Chief Justice of India.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Chief_Justice_of_India",
+     "confidence": "high"
+    },
+    {
+     "q": "Who is the Comptroller and Auditor General (CAG) of India as of November 2026?",
+     "options": [
+      "Girish Chandra Murmu",
+      "K. Sanjay Murthy",
+      "Rajiv Mehrishi",
+      "Gyanesh Kumar"
+     ],
+     "answer": "B",
+     "explanation": "K. Sanjay Murthy is the 15th CAG, in office since 21 November 2024; the CAG is appointed under Article 148. Gyanesh Kumar is the Chief Election Commissioner. Source: CAG website, read Nov 2026.",
+     "likely": 4,
+     "fact": "K. Sanjay Murthy is the CAG of India.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://cag.gov.in/en",
+     "confidence": "high"
+    },
+    {
+     "q": "Which of the following has the United Nations declared 2026 to be?",
+     "options": [
+      "International Year of the Woman Farmer",
+      "International Year of Millets",
+      "International Year of Cooperatives",
+      "International Year of Quantum Science and Technology"
+     ],
+     "answer": "A",
+     "explanation": "2026 is the International Year of the Woman Farmer. Millets was 2023; Cooperatives and Quantum Science were 2025. Source: FAO (IYWF 2026), read Nov 2026.",
+     "likely": 4,
+     "fact": "2026 is the International Year of the Woman Farmer.",
+     "event_date": "2026",
+     "kind": "news-static",
+     "source_url": "https://www.fao.org/woman-farmer-2026/en",
+     "confidence": "high"
+    },
+    {
+     "q": "Victoria is the capital of which Indian Ocean island country, visited by the Prime Minister in June 2026?",
+     "options": [
+      "Mauritius",
+      "Seychelles",
+      "Maldives",
+      "Comoros"
+     ],
+     "answer": "B",
+     "explanation": "Victoria is the capital of Seychelles; its currency is the Seychellois rupee and it became independent on 29 June 1976. Source: Wikipedia (Seychelles), read Nov 2026.",
+     "likely": 4,
+     "fact": "Victoria is the capital of Seychelles.",
+     "event_date": "2026-06",
+     "kind": "news-static",
+     "source_url": "https://en.wikipedia.org/wiki/Seychelles",
+     "confidence": "medium"
+    },
+    {
+     "q": "Bishkek, which hosted the SCO Summit on 31 August-1 September 2026, is the capital of which country?",
+     "options": [
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Tajikistan",
+      "Uzbekistan"
+     ],
+     "answer": "B",
+     "explanation": "Bishkek is the capital of Kyrgyzstan; its currency is the som. The 2025 SCO summit was in Tianjin, China. Source: Wikipedia (list of PM's international trips), read Nov 2026.",
+     "likely": 4,
+     "fact": "Bishkek is the capital of Kyrgyzstan.",
+     "event_date": "2026-08-31",
+     "kind": "news-static",
+     "source_url": "https://en.wikipedia.org/wiki/List_of_international_prime_ministerial_trips_made_by_Narendra_Modi",
+     "confidence": "medium"
+    },
+    {
+     "q": "What is the currency of the Philippines, which hosted the ASEAN-India and East Asia Summits in Manila in November 2026?",
+     "options": [
+      "Ringgit",
+      "Peso",
+      "Baht",
+      "Rupiah"
+     ],
+     "answer": "B",
+     "explanation": "The Philippine peso is the currency and Manila the capital; the Philippines chairs ASEAN in 2026. Ringgit is Malaysia's, baht Thailand's and rupiah Indonesia's. Source: DeshGujarat, 12 Nov 2026.",
+     "likely": 4,
+     "fact": "The currency of the Philippines is the peso.",
+     "event_date": "2026-11-17",
+     "kind": "news-static",
+     "source_url": "https://deshgujarat.com/2026/11/12/pm-modi-to-visit-philippines-on-nov-16-17-attend-asean-india-and-east-asia-summits/",
+     "confidence": "medium"
+    },
+    {
+     "q": "What is the capital of New Zealand, with which India raised ties to a Strategic Partnership during the PM's July 2026 visit?",
+     "options": [
+      "Auckland",
+      "Wellington",
+      "Christchurch",
+      "Canberra"
+     ],
+     "answer": "B",
+     "explanation": "Wellington is the capital; the PM's events were in Auckland, the largest city. The currency is the New Zealand dollar and the PM is Christopher Luxon. Source: News On AIR, 12 Jul 2026.",
+     "likely": 4,
+     "fact": "Wellington is the capital of New Zealand.",
+     "event_date": "2026-07",
+     "kind": "news-static",
+     "source_url": "https://newsonair.gov.in/prime-minister-modi-concludes-new-zealand-visit-departs-for-india/",
+     "confidence": "high"
+    },
+    {
+     "q": "What is the capital of Turkiye, the country hosting COP31 at Antalya in November 2026?",
+     "options": [
+      "Istanbul",
+      "Ankara",
+      "Izmir",
+      "Antalya"
+     ],
+     "answer": "B",
+     "explanation": "Ankara is the capital; Istanbul is the largest city. The currency is the Turkish lira. COP31 runs 9-20 November 2026. Source: standard reference.",
+     "likely": 4,
+     "fact": "Ankara is the capital of Turkiye.",
+     "event_date": "2026-11",
+     "kind": "news-static",
+     "source_url": "https://en.wikipedia.org/wiki/Turkey",
+     "confidence": "medium"
+    },
+    {
+     "q": "Children's Day is celebrated in India on which date?",
+     "options": [
+      "14 November",
+      "20 November",
+      "5 September",
+      "12 January"
+     ],
+     "answer": "A",
+     "explanation": "14 November is Jawaharlal Nehru's birth anniversary. World Children's Day is observed on 20 November. Source: Wikipedia (Children's Day, India), read Nov 2026.",
+     "likely": 3,
+     "fact": "Children's Day in India is 14 November.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Children%27s_Day_(India)",
+     "confidence": "high"
+    },
+    {
+     "q": "Who was the first Speaker of the Lok Sabha?",
+     "options": [
+      "G. V. Mavalankar",
+      "Sukumar Sen",
+      "M. A. Ayyangar",
+      "Hukam Singh"
+     ],
+     "answer": "A",
+     "explanation": "Ganesh Vasudev Mavalankar was Speaker from 1952 to 1956. Om Birla is the present Speaker; the Speaker is chosen under Article 93. Source: Wikipedia (Speaker of the Lok Sabha), read Nov 2026.",
+     "likely": 3,
+     "fact": "G. V. Mavalankar was the first Lok Sabha Speaker.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Speaker_of_the_Lok_Sabha",
+     "confidence": "high"
+    },
+    {
+     "q": "Which was India's first satellite, launched in 1975?",
+     "options": [
+      "Bhaskara",
+      "Aryabhata",
+      "Rohini",
+      "INSAT-1A"
+     ],
+     "answer": "B",
+     "explanation": "Aryabhata was launched on 19 April 1975 from the Soviet Union. Mangalyaan (2013) was India's first Mars orbiter. Source: Wikipedia (Aryabhata satellite), read Nov 2026.",
+     "likely": 3,
+     "fact": "Aryabhata (1975) was India's first satellite.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Aryabhata_(satellite)",
+     "confidence": "high"
+    },
+    {
+     "q": "What is the currency of Indonesia, where the Prime Minister made a State Visit in July 2026?",
+     "options": [
+      "Rupiah",
+      "Ringgit",
+      "Dong",
+      "Kyat"
+     ],
+     "answer": "A",
+     "explanation": "Indonesia's currency is the rupiah; the PM visited on 6-8 July 2026 before going to Australia and New Zealand. Ringgit is Malaysia's, dong Vietnam's and kyat Myanmar's. Source: News On AIR, 8 Jul 2026.",
+     "likely": 3,
+     "fact": "The currency of Indonesia is the rupiah.",
+     "event_date": "2026-07",
+     "kind": "news-static",
+     "source_url": "https://newsonair.gov.in/pm-modi-concludes-indonesia-visit-departs-for-australia-for-second-leg-of-his-three-country-tour/",
+     "confidence": "high"
+    }
+   ]
+  }
+ ]
+}

@@ -1,4 +1,5 @@
 import { useState } from 'react';
+import type { PdfNames } from '@/lib/types';
 import { errorCode, type DownloadsCapability } from '@/services/claudeHost';
 import { pdfFilename, pdfHref } from './pdf';
 import type { SaveTarget } from './useSaveTarget';
@@ -26,17 +27,18 @@ async function loadPdf(href: string): Promise<Blob> {
 }
 
 type ExportPdfProps = {
+  pdf: PdfNames;
   categoryKey: string | null;
   categoryName: string | null;
   appearance: 'button' | 'link';
   target: SaveTarget;
 };
 
-export function ExportPdf({ categoryKey, categoryName, appearance, target }: ExportPdfProps) {
+export function ExportPdf({ pdf, categoryKey, categoryName, appearance, target }: ExportPdfProps) {
   const [busy, setBusy] = useState(false);
   const [message, setMessage] = useState<string | null>(null);
-  const href = pdfHref(categoryKey);
-  const filename = pdfFilename(categoryName);
+  const href = pdfHref(pdf, categoryKey);
+  const filename = pdfFilename(pdf, categoryName);
   const label = appearance === 'button' ? 'Export as PDF' : 'Export this category as PDF';
   const className = appearance === 'button' ? 'btn btn-primary' : 'textlink';
   const srName = appearance === 'link' && categoryName ? <span className="sr-only"> ({categoryName})</span> : null;

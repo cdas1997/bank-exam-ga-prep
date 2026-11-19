@@ -3,36 +3,43 @@ import { PageHead } from '@/components/layout/PageHead';
 import { Button, ButtonLink } from '@/components/ui/Button';
 import { EmptyState } from '@/components/ui/EmptyState';
 import { formatClock } from '@/lib/dates';
-import { MOCK_CONFIG, WEAK_MOCK_MIN_ANSWERS, isLiveRunning } from '@/lib/mock';
-import { MockType, type Bank, type LiveMock, type MockRecord } from '@/lib/types';
+import { MOCK_CONFIG, WEAK_MOCK_MIN_ANSWERS, isLiveRunning, mockLabel } from '@/lib/mock';
+import { describeMarking, formatPlain } from '@/lib/scoring';
+import { MockType, type Exam, type LiveMock, type MockRecord } from '@/lib/types';
 import { navigate } from '@/hooks/useHashRoute';
 import { useNow } from '@/hooks/useNow';
 import { profileStore } from '@/store/profileStore';
 import { MockHistoryTable } from './MockHistoryTable';
+import { SetGrid } from './SetGrid';
 
-type MocksPageProps = { bank: Bank; answeredCount: number; mocks: readonly MockRecord[]; live: LiveMock | null };
+type MocksPageProps = { exam: Exam; answeredCount: number; mocks: readonly MockRecord[]; live: LiveMock | null };
 
-const ORDER: readonly MockType[] = [MockType.Full, MockType.Quick, MockType.Weak];
+const RANDOM_MOCKS: readonly MockType[] = [MockType.Full, MockType.Quick, MockType.Weak];
+/** A bank with fixed paper sets offers those as its full papers. */
+const SHORT_MOCKS: readonly MockType[] = [MockType.Quick, MockType.Weak];
 
-export function MocksPage({ bank, answeredCount, mocks, live }: MocksPageProps) {
+export function MocksPage({ exam, answeredCount, mocks, live }: MocksPageProps) {
+  const { bank } = exam;
   const now = useNow(1000);
   const running = isLiveRunning(live, now) ? live : null;
+  const marks = describeMarking(exam.marking);
+  const hasSets = bank.sets.length > 0;
 
-  function handleStart(type: MockType): void {
-    profileStore.startMock(type);
-    navigate({ name: 'mock' });
+  function handleStart(type: MockType, setNo: number | null = null): void {
+    if (profileStore.startMock(type, setNo)) navigate({ name: 'mock' });
   }
 
   return (
     <>
       <PageHead title="Mock tests">
-        Timed tests marked the IBPS way: +1.2 for a right answer, −0.30 (a quarter of 1.2) for a wrong one, nothing for a skipped one.
+        Timed tests marked the {exam.body} way: +{marks.right} for a right answer, −{marks.wrong} (a quarter of {marks.right}) for a
+        wrong one, nothing for a skipped one.
       </PageHead>
       <main className="wrap stack">
         {running ? (
           <div className="resume">
             <span>
-              <b>{MOCK_CONFIG[running.type].label} in progress</b>
+              <b>{mockLabel(running)} in progress</b>
               <br />
               <span className="small">
                 {formatClock((running.endsAt - now) / 1000)} left · {Object.keys(running.responses).length} of {running.questionIds.length} answered
@@ -43,8 +50,23 @@ export function MocksPage({ bank, answeredCount, mocks, live }: MocksPageProps) 
             </ButtonLink>
           </div>
         ) : null}
+        {hasSets ? (
+          <section className="stack-sm">
+            <div className="sechead">
+              <h2 className="h2">{bank.sets.length} full sets</h2>
+              <span className="small muted">
+                Each set is one full paper: 50 questions, {MOCK_CONFIG.set.seconds / 60} minutes, {formatPlain(exam.maxMarks)} marks
+              </span>
+            </div>
+            <SetGrid sets={bank.sets} mocks={mocks} maxMarks={exam.maxMarks} disabled={Boolean(running)} onStart={(setNo) => handleStart(MockType.Set, setNo)} />
+            <p className="small muted">
+              Every set has the topic mix of the real section. After the result you can review each question and reattempt the
+              set; every attempt is saved below.
+            </p>
+          </section>
+        ) : null}
         <section className="mocktypes">
-          {ORDER.map((type) => {
+          {(hasSets ? SHORT_MOCKS : RANDOM_MOCKS).map((type) => {
             const cfg = MOCK_CONFIG[type];
             const locked = type === MockType.Weak && answeredCount < WEAK_MOCK_MIN_ANSWERS;
             return (
@@ -74,7 +96,7 @@ export function MocksPage({ bank, answeredCount, mocks, live }: MocksPageProps) 
             {mocks.length ? <span className="small muted">Open any mock to review every question</span> : null}
           </div>
           {mocks.length ? (
-            <MockHistoryTable mocks={mocks} />
+            <MockHistoryTable mocks={mocks} marking={exam.marking} />
           ) : (
             <EmptyState>Your finished mocks will be listed here, each with a full question-by-question review.</EmptyState>
           )}

@@ -17,7 +17,7 @@ function isStringArray(v: unknown): v is string[] {
 }
 
 function isMockType(v: unknown): v is MockType {
-  return v === MockType.Full || v === MockType.Quick || v === MockType.Weak;
+  return v === MockType.Full || v === MockType.Quick || v === MockType.Weak || v === MockType.Set;
 }
 
 function parseAnswers(v: unknown): Answers {
@@ -45,11 +45,14 @@ function parseMock(v: unknown): MockRecord | null {
   const maxMarks = num(v, 'maxMarks');
   const usedMs = num(v, 'usedMs');
   const limitSecs = num(v, 'limitSecs');
+  const setNo = num(v, 'setNo');
   if (startedAt === null || right === null || wrong === null || skipped === null) return null;
   if (net === null || maxMarks === null || usedMs === null || limitSecs === null) return null;
+  if (v.type === MockType.Set && setNo === null) return null;
   return {
     id: v.id,
     type: v.type,
+    setNo: v.type === MockType.Set ? setNo : null,
     questionIds: v.questionIds,
     responses: v.responses,
     seconds: v.seconds,
@@ -72,12 +75,15 @@ function parseLive(v: unknown): LiveMock | null {
   const endsAt = num(v, 'endsAt');
   const limitSecs = num(v, 'limitSecs');
   const questionShownAt = num(v, 'questionShownAt');
+  const setNo = num(v, 'setNo');
   if (index === null || startedAt === null || endsAt === null || limitSecs === null || questionShownAt === null) return null;
+  if (v.type === MockType.Set && setNo === null) return null;
   const marked: Record<string, true> = {};
   for (const k of Object.keys(v.marked)) marked[k] = true;
   return {
     id: v.id,
     type: v.type,
+    setNo: v.type === MockType.Set ? setNo : null,
     questionIds: v.questionIds,
     responses: v.responses,
     seconds: v.seconds,

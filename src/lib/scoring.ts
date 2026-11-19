@@ -1,8 +1,6 @@
-import type { Answers, Question } from './types';
+import type { Answers, Marking, Question } from './types';
 
-export const MARK_RIGHT = 1.2;
-/** IBPS deducts a quarter of the question's marks: 0.25 x 1.2 */
-export const MARK_WRONG = 0.3;
+/** 35 minutes for 50 questions, in both exams. */
 export const EXAM_PACE_SECS = 42;
 
 export type SetStats = { right: number; wrong: number; done: number; total: number };
@@ -28,8 +26,18 @@ export function setStats(questions: readonly Question[], answers: Answers): SetS
   return { right, wrong, done: right + wrong, total: questions.length };
 }
 
-export function netMarks(right: number, wrong: number): number {
-  return right * MARK_RIGHT - wrong * MARK_WRONG;
+export function netMarks(right: number, wrong: number, marking: Marking): number {
+  return right * marking.right - wrong * marking.wrong;
+}
+
+/** "+1.2 for a right answer, −0.30 for a wrong one" style figures: marks without padding, the penalty to two places. */
+export function describeMarking(marking: Marking): { right: string; wrong: string } {
+  return { right: formatPlain(marking.right), wrong: marking.wrong.toFixed(2) };
+}
+
+/** A whole-paper figure without padding: 50, 60, 1.2. */
+export function formatPlain(n: number): string {
+  return String(Math.round(n * 100) / 100);
 }
 
 export function percent(part: number, whole: number): number {

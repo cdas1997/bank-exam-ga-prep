@@ -2,14 +2,14 @@ import { Footer } from '@/components/layout/Footer';
 import { PageHead } from '@/components/layout/PageHead';
 import { EmptyState } from '@/components/ui/EmptyState';
 import { navigate } from '@/hooks/useHashRoute';
-import type { Bank } from '@/lib/types';
+import type { Exam } from '@/lib/types';
 import { ExportPdf } from './ExportPdf';
 import { useSaveTarget } from './useSaveTarget';
 import { QaCategory } from './QaCategory';
 
 const ALL = 'all';
 
-type QaPageProps = { bank: Bank; categoryKey: string | null };
+type QaPageProps = { exam: Exam; categoryKey: string | null };
 
 function scrollToCategory(key: string): void {
   const reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
@@ -18,7 +18,8 @@ function scrollToCategory(key: string): void {
   section?.focus({ preventScroll: true });
 }
 
-export function QaPage({ bank, categoryKey }: QaPageProps) {
+export function QaPage({ exam, categoryKey }: QaPageProps) {
+  const { bank } = exam;
   const current = categoryKey ? bank.topicByKey.get(categoryKey) : undefined;
   const topics = current ? [current] : bank.topics;
   const saveTarget = useSaveTarget();
@@ -48,7 +49,7 @@ export function QaPage({ bank, categoryKey }: QaPageProps) {
               ))}
             </select>
           </div>
-          <ExportPdf categoryKey={current?.key ?? null} categoryName={current?.name ?? null} appearance="button" target={saveTarget} />
+          <ExportPdf pdf={exam.pdf} categoryKey={current?.key ?? null} categoryName={current?.name ?? null} appearance="button" target={saveTarget} />
         </div>
         {categoryKey && !current ? <EmptyState>That category does not exist. Pick one from the list above.</EmptyState> : null}
         {current ? null : (
@@ -62,7 +63,7 @@ export function QaPage({ bank, categoryKey }: QaPageProps) {
           </nav>
         )}
         {topics.map((t) => (
-          <QaCategory key={t.key} topic={t} saveTarget={current ? null : saveTarget} />
+          <QaCategory key={t.key} topic={t} pdf={exam.pdf} saveTarget={current ? null : saveTarget} />
         ))}
         <Footer checked={bank.checked} />
       </main>

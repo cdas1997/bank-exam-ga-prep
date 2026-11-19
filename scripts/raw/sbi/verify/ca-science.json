@@ -1,0 +1,356 @@
+{
+ "verdicts": [
+  {
+   "key": "ca-science",
+   "index": 0,
+   "q": "The NVS-03 satellite, launched by ISRO's GSLV-F18 on 30 October 2026, belongs to which satellite system?",
+   "verdict": "ok",
+   "note": "ISRO GSLV-F18 page confirms NVS-03, 20th GSLV flight, SLP, L1 added to L5/S; launch date per brief.",
+   "source_url": "https://www.isro.gov.in/ISRO_EN/Mission_GSLVF18.html"
+  },
+  {
+   "key": "ca-science",
+   "index": 1,
+   "q": "India's total number of Ramsar sites rose to how many in October 2026?",
+   "verdict": "ok",
+   "note": "103 after Sukhna Wetland and Sauj Jheel on 15 Oct 2026 confirmed; 100th Surha Tal 5 Jun 2026, 101st Glaw Lake 3 Aug 2026, 26 sites in 2014 confirmed.",
+   "source_url": "https://newsonair.gov.in/with-inclusion-of-sukhna-lake-and-sauj-jheel-indias-ramsar-tally-reaches-103/"
+  },
+  {
+   "key": "ca-science",
+   "index": 2,
+   "q": "What is the full form of NavIC, the satellite system for which ISRO launched NVS-03 in October 2026?",
+   "verdict": "ok",
+   "note": "Static fact; NavIC = Navigation with Indian Constellation, ex-IRNSS, 1,500 km beyond boundary.",
+   "source_url": "https://www.isro.gov.in/SatelliteNavigationServices.html"
+  },
+  {
+   "key": "ca-science",
+   "index": 3,
+   "q": "The Ramsar Convention on wetlands, under which India got two more sites in October 2026, was adopted in 1971 in a city of which country?",
+   "verdict": "ok",
+   "note": "Static fact: Ramsar, Iran, 1971; India party 1 Feb 1982; Chilika and Keoladeo first sites (1981).",
+   "source_url": "https://newindiasamachar.pib.gov.in/WriteReadData/flipbook/2026/Jul/1st/English/files/basic-html/page42.html"
+  },
+  {
+   "key": "ca-science",
+   "index": 4,
+   "q": "Which state has the highest number of Ramsar sites in India?",
+   "verdict": "ok",
+   "note": "Tamil Nadu 20 (unchanged since Feb 2025; no TN designation in 2026, Perungulam only a candidate), UP 14 after Sauj Jheel (Surha Tal was UP's 13th), total 103; Vajiram state list updated Nov 2026 agrees.",
+   "source_url": "https://vajiramandravi.com/upsc-exam/ramsar-sites-in-india/"
+  },
+  {
+   "key": "ca-science",
+   "index": 5,
+   "q": "Sukhna Lake, designated a Ramsar site on 15 October 2026, is located in:",
+   "verdict": "fix",
+   "note": "Keyed answer right. Explanation assigns Sukhna 103rd and Sauj Jheel 102nd; no official source gives that order (Ramsar site numbers are Sukhna 2602, Sauj Jheel 2603, if anything the reverse). Removed the ordinal claims.",
+   "source_url": "https://theprint.in/environment/chandigarh-first-ramsar-site-sukhna-lake-68-year-old-reservoir/3073778/",
+   "fix": {
+    "explanation": "Sukhna Wetland, a reservoir created in 1958 at the foot of the Shivaliks, is Chandigarh's first Ramsar site. It was designated on 15 October 2026 together with Sauj Jheel in Mainpuri district, Uttar Pradesh, taking India's total to 103. Mainpuri is now the only district with two Ramsar sites (the other is Saman Bird Sanctuary). Source: News On AIR, 15-16 Oct 2026."
+   }
+  },
+  {
+   "key": "ca-science",
+   "index": 6,
+   "q": "Cyclone Arnab, which hit the Andhra Pradesh coast near Yanam on 28 October 2026, was named by which country?",
+   "verdict": "ok",
+   "note": "Arnab contributed by Bangladesh (multiple sources); landfall near Yanam 28 Oct 2026 confirmed; Murasu (India) and Akvan (Iran) follow in the WMO/ESCAP list; Arnab was the first named NIO storm after Ditwah (2025).",
+   "source_url": "https://www.deccanherald.com/india/explained-cyclone-arnab-who-named-this-storm-and-what-does-it-mean-4196915"
+  },
+  {
+   "key": "ca-science",
+   "index": 7,
+   "q": "Which satellite, launched by GSLV-F17 on 4 September 2026, is India's first imaging satellite in geosynchronous orbit?",
+   "verdict": "ok",
+   "note": "EOS-05 on GSLV-F17, 4 Sep 2026, ISRO's first imaging satellite for GEO, 19th GSLV flight, ISRO's first success of 2026 after PSLV-C62 failed 12 Jan (The Week).",
+   "source_url": "https://www.isro.gov.in/ISRO_EN/Mission_GSLVF17.html"
+  },
+  {
+   "key": "ca-science",
+   "index": 8,
+   "q": "Which company built Vikram-1, which on 18 July 2026 became India's first privately developed rocket to reach orbit?",
+   "verdict": "ok",
+   "note": "Space.com confirms Skyroot (Hyderabad), Aagaman mission, 18 Jul 2026, India third country with private orbital launch capability after US and China.",
+   "source_url": "https://www.aljazeera.com/news/2026/7/18/india-achieves-milestone-with-launch-of-first-private-sector-orbital-rocket"
+  },
+  {
+   "key": "ca-science",
+   "index": 9,
+   "q": "The joint military exercise 'Yudh Abhyas', whose 22nd edition began on 15 September 2026, is held between India and which country?",
+   "verdict": "ok",
+   "note": "News On AIR: 22nd edition at Auli and Mahajan FFR, 600 personnel from each side; began 15 Sep 2026.",
+   "source_url": "https://newsonair.gov.in/india-us-joint-military-exercise-yudh-abhyas-begins-at-auli-in-uttarakhand-mahajan-field-firing-range-in-rajasthan/"
+  },
+  {
+   "key": "ca-science",
+   "index": 10,
+   "q": "Which of the following joint military exercises is correctly matched with India's partner country?",
+   "verdict": "ok",
+   "note": "18th Nomadic Elephant at Pithoragarh 21 Sep-3 Oct 2026 confirmed; distractor pairings all wrong (MAITREE Thailand, SLINEX Sri Lanka, AUSTRAHIND Australia).",
+   "source_url": "https://newsonair.gov.in/18th-india-mongolia-joint-military-exercise-nomadic-elephant-begins-in-pithoragarh/"
+  },
+  {
+   "key": "ca-science",
+   "index": 11,
+   "q": "Pralay, flight-tested by DRDO on 5 November 2026 from Dr APJ Abdul Kalam Island, is what type of weapon?",
+   "verdict": "ok",
+   "note": "Pralay quasi-ballistic test 5 Nov 2026 from Dr APJ Abdul Kalam Island, user evaluation trials, RCI lead lab.",
+   "source_url": "https://swarajyamag.com/defence/india-successfully-tests-quasi-ballistic-missile-pralay-off-odisha-coast-paving-way-for-induction-into-armed-forces"
+  },
+  {
+   "key": "ca-science",
+   "index": 12,
+   "q": "INS Samarthak, commissioned at Karwar on 16 October 2026 as the first major warship built by an Indian private shipyard, was built by:",
+   "verdict": "fix",
+   "note": "L&T, Kattupalli, 16 Oct 2026 at Karwar confirmed. But the 'first major warship built by an Indian private shipyard' tag is contested (MoD/Open describe it only as the first of the multi-purpose vessels) and it also gives the answer away, since L&T is the only private yard among the options. Reworded stem to the MPV fact.",
+   "source_url": "https://openthemagazine.com/india/indian-navy-commissions-indigenous-multi-purpose-warship-ins-samarthak",
+   "fix": {
+    "q": "INS Samarthak, the Indian Navy's first Multi-Purpose Vessel, commissioned at Karwar on 16 October 2026, was built by:",
+    "explanation": "INS Samarthak was built by Larsen & Toubro at its Kattupalli shipyard near Chennai and commissioned at Naval Base Karwar in the presence of Vice-President C. P. Radhakrishnan. It will be used for weapons and sensor trials, maritime surveillance and as a mothership for uncrewed systems; its sister ship is Utkarsh. Source: Open / PTI, 16 Oct 2026."
+   }
+  },
+  {
+   "key": "ca-science",
+   "index": 13,
+   "q": "INS Mahendragiri, commissioned into the Indian Navy at Visakhapatnam on 11 July 2026, is a stealth frigate of which project?",
+   "verdict": "ok",
+   "note": "Sixth P17A frigate, MDL-built, commissioned by Rajnath Singh at Visakhapatnam 11 Jul 2026; Dunagiri June 2026.",
+   "source_url": "https://www.marineinsight.com/indian-navy-commissions-sixth-indigenous-project-17a-stealth-guided-missile-frigate-ins-mahendragiri/"
+  },
+  {
+   "key": "ca-science",
+   "index": 14,
+   "q": "Glaw Lake, which became India's 101st Ramsar site on 3 August 2026, is the first Ramsar site of which state?",
+   "verdict": "ok",
+   "note": "Glaw Lake, Lohit district, Kamlang TR, 101st site and Arunachal's first, 3 Aug 2026.",
+   "source_url": "https://newsonair.gov.in/glaw-lake-of-arunachal-pradesh-designated-as-101st-ramsar-site-first-in-the-state/"
+  },
+  {
+   "key": "ca-science",
+   "index": 15,
+   "q": "Which wetland became India's 100th Ramsar site in June 2026?",
+   "verdict": "ok",
+   "note": "Surha Tal 100th on 5 Jun 2026 (Ballia); Shekha Jheel 99th; Patna Bird Sanctuary and Chhari-Dhand added 31 Jan 2026.",
+   "source_url": "https://newsonair.gov.in/pm-modi-welcomes-designation-of-surha-tal-as-indias-100th-ramsar-site/"
+  },
+  {
+   "key": "ca-science",
+   "index": 16,
+   "q": "What is the name of the half-humanoid robot that ISRO plans to fly on the first uncrewed Gaganyaan mission (G1)?",
+   "verdict": "fix",
+   "note": "Key right; G1 has not flown as of 18 Nov 2026 (Business Today: scheduled for December 2026). Explanation had a reviewer note ('check whether G1 has launched'); replaced with the current status.",
+   "source_url": "https://www.businesstoday.in/latest/trends/photo/gaganyaans-first-test-flight-is-set-for-december-what-flies-what-it-tests-and-when-astronauts-follow-568238-2026-11-18",
+   "fix": {
+    "explanation": "Vyommitra, ISRO's half-humanoid robot, will fly in place of astronauts on G1, the first uncrewed Gaganyaan flight, on the human-rated LVM3 (HLVM3) from Sriharikota. As of 18 November 2026 ISRO Chairman V. Narayanan had G1 scheduled for December 2026; the first crewed flight is targeted for 2027. Source: Business Today, 18 Nov 2026."
+   }
+  },
+  {
+   "key": "ca-science",
+   "index": 17,
+   "q": "Who is the Chairman of ISRO, under whom GSLV-F17 and GSLV-F18 were launched in 2026?",
+   "verdict": "ok",
+   "note": "V. Narayanan still chairman (cited as ISRO Chairman in Sep and Nov 2026 reports); took over Jan 2025.",
+   "source_url": "https://www.theweek.in/news/sci-tech/2026/09/04/isro-successfully-launches-gslv-f-17-carrying-eos-05-satellite-why-its-a-milestone-for-india.html"
+  },
+  {
+   "key": "ca-science",
+   "index": 18,
+   "q": "The Satish Dhawan Space Centre at Sriharikota, from where GSLV-F18 lifted off on 30 October 2026, is in which state?",
+   "verdict": "ok",
+   "note": "Static fact; SDSC SHAR in Andhra Pradesh; GSLV-F18 from SLP.",
+   "source_url": "https://www.isro.gov.in/ISRO_EN/Mission_GSLVF18.html"
+  },
+  {
+   "key": "ca-science",
+   "index": 19,
+   "q": "The Singapore-India Maritime Bilateral Exercise (SIMBEX), whose 33rd edition was held from 21 to 26 October 2026, took place at:",
+   "verdict": "ok",
+   "note": "33rd SIMBEX at Visakhapatnam, harbour phase 21-23 Oct, sea phase 24-26 Oct 2026.",
+   "source_url": "https://ddindia.co.in/2026/10/33rd-india-singapore-maritime-exercise-simbex-2026-begins-in-visakhapatnam/"
+  },
+  {
+   "key": "ca-science",
+   "index": 20,
+   "q": "Exercise Tarang Shakti 2026, held at Jodhpur from 26 September to 12 October 2026, was hosted by which force?",
+   "verdict": "ok",
+   "note": "IAF-hosted second edition, Jodhpur, 26 Sep-12 Oct 2026, seven foreign air forces, ~32 observers, 'Power in Partnership'.",
+   "source_url": "https://newsonair.gov.in/tarang-shakti-2026-multinational-air-exercise-to-begin-on-26th-september-in-jodhpur/"
+  },
+  {
+   "key": "ca-science",
+   "index": 21,
+   "q": "Madhya Pradesh's Nauradehi sanctuary became India's third home for cheetahs in October 2026. From which country did the first cheetahs of Project Cheetah come in September 2022?",
+   "verdict": "ok",
+   "note": "Namibia 8 cheetahs 17 Sep 2022; South Africa 12 in Feb 2023; Botswana 9 on 28 Feb 2026; fourth anniversary Sep 2026 (52 cheetahs).",
+   "source_url": "https://newsonair.gov.in/indias-cheetah-population-rises-to-52-four-years-after-reintroduction/"
+  },
+  {
+   "key": "ca-science",
+   "index": 22,
+   "q": "Which state has the highest number of tiger reserves in India?",
+   "verdict": "ok",
+   "note": "Still 58 tiger reserves (Madhav 58th, Mar 2025); MP has 9; no 59th found as of Nov 2026.",
+   "source_url": "https://ntca.gov.in/tiger-reserves/"
+  },
+  {
+   "key": "ca-science",
+   "index": 23,
+   "q": "The Defence Acquisition Council (DAC), which cleared proposals worth about Rs 2.12 lakh crore on 26 October 2026, is chaired by the:",
+   "verdict": "ok",
+   "note": "DAC chaired by Rajnath Singh cleared ~Rs 2.12 lakh crore on 26 Oct 2026 and ~Rs 1.10 lakh crore on 7 Sep 2026.",
+   "source_url": "https://newsonair.gov.in/defence-acquisition-council-clears-capital-acquisition-proposals-worth-around-%E2%82%B92-12-lakh-crore/"
+  },
+  {
+   "key": "ca-science",
+   "index": 24,
+   "q": "Kusha, which DRDO flight-tested for the first time on 23 July 2026, is a:",
+   "verdict": "ok",
+   "note": "Maiden Kusha LR-SAM flight test 23 Jul 2026 from Dr APJ Abdul Kalam Island.",
+   "source_url": "https://www.businesstoday.in/india/story/giant-leap-in-air-defence-india-successfully-tests-kusha-missile-for-first-time-544888-2026-07-23"
+  },
+  {
+   "key": "ca-science",
+   "index": 25,
+   "q": "Cyclone Murasu made landfall near Ongole in early November 2026. In which state is this?",
+   "verdict": "fix",
+   "note": "Key right. Landfall was in the early hours of 3 November (IMD), not '2-3 November'; tightened explanation.",
+   "source_url": "https://newsonair.gov.in/severe-cyclonic-storm-murasu-makes-landfall-between-nellore-and-narsapur-in-south-andhra-pradesh-coast/",
+   "fix": {
+    "explanation": "Severe Cyclonic Storm Murasu crossed the south Andhra Pradesh coast between Nellore and Narsapur, near Ongole, in the early hours of 3 November 2026, less than a week after Cyclone Arnab hit the same state near Yanam on 28 October. Murasu is a name contributed by India; Arnab was given by Bangladesh. Source: News On AIR (IMD), 3 Nov 2026."
+   }
+  },
+  {
+   "key": "ca-science",
+   "index": 26,
+   "q": "The 'Agni-4' ballistic missile was test-fired on 6 August 2026 from the Integrated Test Range at Chandipur. Chandipur is in which state?",
+   "verdict": "ok",
+   "note": "Agni-4 test 6 Aug 2026 from ITR Chandipur, Odisha, under SFC.",
+   "source_url": "https://newsonair.gov.in/india-successfully-test-fires-medium-range-agni-4-ballistic-missile-in-odisha/"
+  },
+  {
+   "key": "ca-science",
+   "index": 27,
+   "q": "INS Nipun, commissioned into the Indian Navy at Mumbai on 31 August 2026, is a:",
+   "verdict": "ok",
+   "note": "INS Nipun, second Nistar-class DSV, HSL-built, commissioned at Naval Dockyard Mumbai 31 Aug 2026.",
+   "source_url": "https://newsonair.gov.in/indian-navy-commissions-ins-nipun-at-naval-dockyard-mumbai/"
+  },
+  {
+   "key": "ca-science",
+   "index": 28,
+   "q": "On 21 June 2026 the Prime Minister commissioned INS Dunagiri, INS Sanshodhak and INS Agray at Kolkata. Which shipyard built all three?",
+   "verdict": "ok",
+   "note": "PM commissioned all three at SMP Kolkata on 21 Jun 2026; Dunagiri (P17A GRSE ship), Sanshodhak (SVL, GRSE), Agray (Arnala-class ASW SWC, GRSE).",
+   "source_url": "https://www.pmindia.gov.in/en/news_updates/pm-commissions-three-indigenously-designed-and-built-naval-ships-ins-dunagiri-ins-sanshodhak-and-ins-agray-at-syama-prasad-mookerjee-port-kolkata-west-bengal/"
+  },
+  {
+   "key": "ca-science",
+   "index": 29,
+   "q": "The Border Roads Organisation (BRO), which held its Strategic Infrastructure Conclave in New Delhi in July 2026, was set up in which year?",
+   "verdict": "ok",
+   "note": "BRO formed 7 May 1960 (static, certain), under MoD, motto correct; Strategic Infrastructure Conclave held New Delhi 15-16 Jul 2026, addressed by Rajnath Singh.",
+   "source_url": "https://ddindia.co.in/2026/07/border-infrastructure-to-remain-crucial-in-future-warfare-rajnath-singh/"
+  },
+  {
+   "key": "ca-science",
+   "index": 30,
+   "q": "NISAR, the Earth-observation satellite launched by GSLV-F16 on 30 July 2025, is a joint mission of ISRO and:",
+   "verdict": "ok",
+   "note": "Static: NISAR, NASA-ISRO, GSLV-F16, 30 Jul 2025.",
+   "source_url": "https://www.isro.gov.in/ISRO_EN/LaunchMissions.html"
+  },
+  {
+   "key": "ca-science",
+   "index": 31,
+   "q": "The headquarters of the Indian Space Research Organisation (ISRO) is in:",
+   "verdict": "ok",
+   "note": "Static: ISRO HQ Bengaluru, formed 15 Aug 1969.",
+   "source_url": "https://www.isro.gov.in/profile.html"
+  },
+  {
+   "key": "ca-science",
+   "index": 32,
+   "q": "The India Semiconductor Mission, whose second phase (ISM 2.0) was approved by the Cabinet in July 2026, works under which ministry?",
+   "verdict": "fix",
+   "note": "Key (MeitY) right; ISM 2.0 approved 15 Jul 2026 with Rs 1.27 lakh crore vs Rs 76,000 crore confirmed. Explanation contained an internal note '(as recorded in the repo fact file)'; cleaned.",
+   "source_url": "https://www.businesstoday.in/latest/economy/story/cabinet-approves-semicon-2-with-budget-outlay-of-rs-1-27-lakh-crore-543132-2026-07-15",
+   "fix": {
+    "explanation": "The India Semiconductor Mission is run by the Ministry of Electronics and Information Technology (MeitY). The Cabinet approved ISM 2.0 (Semicon 2.0) on 15 July 2026 with an outlay of about Rs 1.27 lakh crore, against Rs 76,000 crore for the first phase; chip design is its first focus area. Source: Business Today, 15 Jul 2026."
+   }
+  },
+  {
+   "key": "ca-science",
+   "index": 33,
+   "q": "In October 2026, cheetahs were released at Nauradehi, making it India's third cheetah habitat after Kuno and Gandhi Sagar. In which state is Nauradehi?",
+   "verdict": "ok",
+   "note": "CM Mohan Yadav released two cheetahs at Veerangana Durgavati TR (Nauradehi), Sagar, on 7 Oct 2026; third habitat after Kuno and Gandhi Sagar.",
+   "source_url": "https://theprint.in/india/mp-cheetahs-get-3rd-habitat-as-cm-yadav-releases-2-cheetahs-in-veerangana-durgavati-tiger-reserve/3064638/"
+  },
+  {
+   "key": "ca-science",
+   "index": 34,
+   "q": "India took part in CBD COP-17 at Yerevan, Armenia, in October 2026. Where is the Secretariat of the Convention on Biological Diversity located?",
+   "verdict": "ok",
+   "note": "CBD COP17 Yerevan 19-30 Oct 2026 (cbd.int); secretariat Montreal; in force 29 Dec 1993.",
+   "source_url": "https://www.cbd.int/documents/CBD/COP/17/L1"
+  },
+  {
+   "key": "ca-science",
+   "index": 35,
+   "q": "The 17th Conference of the Parties (COP17) of the UN Convention to Combat Desertification was held from 17 to 28 August 2026 in which country?",
+   "verdict": "ok",
+   "note": "UNCCD COP17 Ulaanbaatar 17-28 Aug 2026, theme 'Restoring Land, Restoring Hope'; COP16 Riyadh 2024.",
+   "source_url": "https://unric.org/en/unccd-cop17-to-be-held-in-ulaanbaatar-mongolia-from-17-28-august-2026/"
+  },
+  {
+   "key": "ca-science",
+   "index": 36,
+   "q": "Ahead of COP31, the Environment Minister said in November 2026 that India has restored about 22 million hectares of degraded land. What is India's total land restoration target?",
+   "verdict": "ok",
+   "note": "News On AIR 3 Nov 2026: target 26 mha, ~22 mha restored, climate finance key priority at COP31.",
+   "source_url": "https://newsonair.gov.in/india-to-pursue-solution-orientated-equitable-climate-action-at-cop31-in-antalya-says-environment-minister/"
+  },
+  {
+   "key": "ca-science",
+   "index": 37,
+   "q": "India's 500 MWe Prototype Fast Breeder Reactor, which attained first criticality in April 2026, is located at:",
+   "verdict": "ok",
+   "note": "PFBR criticality 6 Apr 2026 (DAE/PIB 7 Apr), BHAVINI, IGCAR design.",
+   "source_url": "https://www.pib.gov.in/PressReleasePage.aspx?PRID=2249537&lang=1"
+  },
+  {
+   "key": "ca-science",
+   "index": 38,
+   "q": "RudraM-II, flight-tested by DRDO and the Indian Air Force in June 2026, is what type of missile?",
+   "verdict": "ok",
+   "note": "RudraM-II air-to-surface missile flight-tested from Su-30MKI on 2 Jun 2026; RCI lead lab.",
+   "source_url": "https://newsonair.gov.in/india-successfully-flight-tests-indigenous-rudram-ii-air-to-surface-missile/"
+  },
+  {
+   "key": "ca-science",
+   "index": 39,
+   "q": "LineShine, ranked the world's fastest supercomputer in the TOP500 lists of June and November 2026, is in which country?",
+   "verdict": "ok",
+   "note": "TOP500 Nov 2026 (68th list, 16 Nov): LineShine, NSC Shenzhen, 2,198.4 PF; El Capitan, Frontier, Aurora 2-4.",
+   "source_url": "https://top500.org/lists/top500/2026/11/"
+  },
+  {
+   "key": "ca-science",
+   "index": 40,
+   "q": "MMX, launched on 20 October 2026 to bring back samples from Phobos, a moon of Mars, is a mission of which country's space agency?",
+   "verdict": "ok",
+   "note": "JAXA MMX launched on H3 F10 at 4:41 JST 20 Oct 2026 from Tanegashima; return 2031.",
+   "source_url": "https://www.mmx.jaxa.jp/en/"
+  },
+  {
+   "key": "ca-science",
+   "index": 41,
+   "q": "The Nancy Grace Roman Space Telescope, launched on 30 August 2026 to study dark energy and exoplanets, belongs to which space agency?",
+   "verdict": "ok",
+   "note": "NASA: Roman launched on Falcon Heavy from KSC LC-39A on 30 Aug 2026.",
+   "source_url": "https://science.nasa.gov/mission/roman-space-telescope/roman-launch/"
+  }
+ ]
+}

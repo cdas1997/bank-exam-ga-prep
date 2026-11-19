@@ -1,0 +1,724 @@
+{
+ "batches": [
+  {
+   "key": "ca-reports",
+   "name": "Reports, indices & books",
+   "questions": [
+    {
+     "q": "In its World Economic Outlook of October 2026, the IMF projected India's GDP growth for FY2026-27 at:",
+     "options": [
+      "6.4%",
+      "6.6%",
+      "7.0%",
+      "7.4%"
+     ],
+     "answer": "C",
+     "explanation": "The IMF raised India's FY27 forecast to 7.0% from 6.4% (July) and FY28 to 7.0%. The report, 'Resilience Under Strain, Urgent Choices', puts world growth at 3.1% in 2026. Source: IMF / IANS, 13 Oct 2026.",
+     "likely": 5,
+     "fact": "IMF WEO October 2026 projects India's FY2026-27 growth at 7.0%.",
+     "event_date": "2026-10-13",
+     "kind": "news",
+     "source_url": "https://www.thehansindia.com/business/imf-raises-indias-growth-forecast-to-7-pc-keeps-it-among-fastest-growing-major-economies-1131988",
+     "confidence": "high"
+    },
+    {
+     "q": "What was India's rank among 122 countries in the Global Hunger Index 2026, released in October 2026?",
+     "options": [
+      "94th",
+      "100th",
+      "102nd",
+      "105th"
+     ],
+     "answer": "B",
+     "explanation": "India ranked 100th of 122 with a score of 24.1, in the 'serious' category; it was 102nd of 123 in 2025. India's child wasting rate (19%) is the highest in the report. Source: globalhungerindex.org, Oct 2026.",
+     "likely": 5,
+     "fact": "India ranked 100th of 122 countries in the Global Hunger Index 2026 (score 24.1, serious).",
+     "event_date": "2026-10-14",
+     "kind": "news",
+     "source_url": "https://www.globalhungerindex.org/india.html",
+     "confidence": "high"
+    },
+    {
+     "q": "Which city ranked first in the Super Swachh League at the Swachh Survekshan 2025-26 awards, presented by the President on 11 November 2026?",
+     "options": [
+      "Indore",
+      "Surat",
+      "Navi Mumbai",
+      "Vijayawada"
+     ],
+     "answer": "C",
+     "explanation": "Navi Mumbai ranked first, followed by Surat and Vijayawada. It was the 10th edition, run by the Ministry of Housing and Urban Affairs and covering 4,751 cities; the awards were given at Vigyan Bhawan, New Delhi. Source: DD India, 12 Nov 2026.",
+     "likely": 5,
+     "fact": "Navi Mumbai ranked first in the Super Swachh League in Swachh Survekshan 2025-26.",
+     "event_date": "2026-11-11",
+     "kind": "news",
+     "source_url": "https://ddindia.co.in/2026/11/president-droupadi-murmu-honours-indias-cleanest-cities-at-swachh-survekshan-awards-2025-26/",
+     "confidence": "high"
+    },
+    {
+     "q": "What was India's rank among 139 economies in the Global Innovation Index 2026?",
+     "options": [
+      "35th",
+      "38th",
+      "39th",
+      "40th"
+     ],
+     "answer": "B",
+     "explanation": "India stayed 38th of 139 economies and leads the lower-middle-income group and Central and Southern Asia. Switzerland is 1st for the 16th year, then Sweden and the USA. Source: WIPO, Nov 2026.",
+     "likely": 5,
+     "fact": "India ranked 38th of 139 economies in the Global Innovation Index 2026.",
+     "event_date": "2026-11",
+     "kind": "news",
+     "source_url": "https://www.wipo.int/web-publications/global-innovation-index-2026/en/gii-2026-results.html",
+     "confidence": "high"
+    },
+    {
+     "q": "In the Climate Change Performance Index (CCPI) 2027, released at COP31 in Antalya in November 2026, India was ranked:",
+     "options": [
+      "10th",
+      "23rd",
+      "28th",
+      "33rd"
+     ],
+     "answer": "C",
+     "explanation": "India slipped five places to 28th (it was 23rd last year and 10th in CCPI 2025). The top three ranks stay vacant, so Denmark at 4th is the best-ranked country. The index is prepared by Germanwatch and NewClimate Institute. Source: Down To Earth, 12 Nov 2026.",
+     "likely": 5,
+     "fact": "India ranked 28th in the Climate Change Performance Index 2027.",
+     "event_date": "2026-11-11",
+     "kind": "news",
+     "source_url": "https://www.downtoearth.org.in/amp/story/climate-change/cop31-india-slips-five-places-to-28th-in-global-climate-action-ranking-finds-ccpi-2027-report",
+     "confidence": "high"
+    },
+    {
+     "q": "What was India's rank among 145 countries in the World Economic Forum's Global Gender Gap Index 2026?",
+     "options": [
+      "127th",
+      "129th",
+      "131st",
+      "135th"
+     ],
+     "answer": "C",
+     "explanation": "India stayed at 131st of 145, having closed 64.5% of its gender gap. The report was released on 16 September 2026 and is the 20th edition. Source: Daily Pioneer (PTI), 16 Sep 2026.",
+     "likely": 5,
+     "fact": "India ranked 131st of 145 in the Global Gender Gap Index 2026.",
+     "event_date": "2026-09-16",
+     "kind": "news",
+     "source_url": "https://dailypioneer.com/news/india-global-gender-gap-index-2026-rank-131",
+     "confidence": "high"
+    },
+    {
+     "q": "The Global Innovation Index is published by which organisation?",
+     "options": [
+      "World Economic Forum",
+      "World Intellectual Property Organization",
+      "UNESCO",
+      "World Trade Organization"
+     ],
+     "answer": "B",
+     "explanation": "WIPO, a UN agency based in Geneva, publishes the index; the 2026 edition is the 19th. Switzerland topped it and India was 38th. Source: WIPO, Nov 2026.",
+     "likely": 4,
+     "fact": "The Global Innovation Index is published by WIPO.",
+     "event_date": "2026-11",
+     "kind": "news-static",
+     "source_url": "https://www.wipo.int/web-publications/global-innovation-index-2026/en/gii-2026-results.html",
+     "confidence": "high"
+    },
+    {
+     "q": "Which country topped the Global Gender Gap Index 2026 for the 17th year in a row?",
+     "options": [
+      "Finland",
+      "Norway",
+      "Iceland",
+      "Sweden"
+     ],
+     "answer": "C",
+     "explanation": "Iceland (93% of the gap closed) was first, followed by Finland and Norway. The index is published by the World Economic Forum, based in Geneva. Source: Daily Pioneer (PTI), 16 Sep 2026.",
+     "likely": 4,
+     "fact": "Iceland topped the Global Gender Gap Index 2026.",
+     "event_date": "2026-09-16",
+     "kind": "news",
+     "source_url": "https://dailypioneer.com/news/india-global-gender-gap-index-2026-rank-131",
+     "confidence": "high"
+    },
+    {
+     "q": "Who is India's richest person according to the M3M Hurun India Rich List 2026?",
+     "options": [
+      "Mukesh Ambani",
+      "Gautam Adani",
+      "L. N. Mittal",
+      "Cyrus Poonawalla"
+     ],
+     "answer": "B",
+     "explanation": "Gautam Adani and family topped the list with Rs 9.23 lakh crore, ahead of Mukesh Ambani (Rs 8.63 lakh crore) and L. N. Mittal (Rs 3.39 lakh crore). It was the 15th edition. Source: Hurun India, 23 Sep 2026.",
+     "likely": 4,
+     "fact": "Gautam Adani topped the M3M Hurun India Rich List 2026.",
+     "event_date": "2026-09-23",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-25-september-2026/",
+     "confidence": "high"
+    },
+    {
+     "q": "In the Henley Passport Index of October 2026, the Indian passport was ranked:",
+     "options": [
+      "77th",
+      "80th",
+      "84th",
+      "90th"
+     ],
+     "answer": "C",
+     "explanation": "India moved up one place to 84th, with visa-free access to 55 destinations (57 a year earlier). The index ranks 199 passports using IATA data. Source: Business Today, 14 Oct 2026.",
+     "likely": 4,
+     "fact": "India ranked 84th in the Henley Passport Index of October 2026.",
+     "event_date": "2026-10-09",
+     "kind": "news",
+     "source_url": "https://www.businesstoday.in/nri/story/henley-passport-index-2026-indian-passport-climbs-to-84th-rank-visa-free-countries-falls-to-55-561651-2026-10-14",
+     "confidence": "high"
+    },
+    {
+     "q": "Which country's passport was ranked the most powerful in the Henley Passport Index of October 2026?",
+     "options": [
+      "Japan",
+      "Singapore",
+      "United Arab Emirates",
+      "Sweden"
+     ],
+     "answer": "B",
+     "explanation": "Singapore is first with visa-free access to 193 destinations. Japan, South Korea and the UAE share second place with 188 each, and Sweden is third. Source: Business Today, 14 Oct 2026.",
+     "likely": 4,
+     "fact": "Singapore topped the Henley Passport Index of October 2026.",
+     "event_date": "2026-10-09",
+     "kind": "news",
+     "source_url": "https://www.businesstoday.in/nri/story/henley-passport-index-2026-indian-passport-climbs-to-84th-rank-visa-free-countries-falls-to-55-561651-2026-10-14",
+     "confidence": "high"
+    },
+    {
+     "q": "The World Bank, in its South Asia update of October 2026, raised India's growth forecast for FY2026-27 to:",
+     "options": [
+      "6.6%",
+      "6.9%",
+      "7.1%",
+      "7.5%"
+     ],
+     "answer": "C",
+     "explanation": "The World Bank raised the FY27 forecast to 7.1% from 6.6% and projects 7.2% for FY28. This figure was confirmed on one exam compilation only, so recheck it before the exam. Source: AffairsCloud, 8 Oct 2026.",
+     "likely": 4,
+     "fact": "The World Bank's October 2026 update projects India's FY27 growth at 7.1%.",
+     "event_date": "2026-10",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-8-october-2026/",
+     "confidence": "medium"
+    },
+    {
+     "q": "In its Asian Development Outlook of September 2026, the Asian Development Bank raised India's FY2026-27 growth forecast to:",
+     "options": [
+      "6.6%",
+      "6.9%",
+      "7.0%",
+      "7.3%"
+     ],
+     "answer": "C",
+     "explanation": "ADB raised the forecast to 7.0% from 6.6% (July) and sees 7.1% in FY28. ADB is headquartered in Manila. This figure was confirmed on one exam compilation only. Source: AffairsCloud, 26 Sep 2026.",
+     "likely": 4,
+     "fact": "ADB's September 2026 outlook projects India's FY27 growth at 7.0%.",
+     "event_date": "2026-09",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-26-september-2026/",
+     "confidence": "medium"
+    },
+    {
+     "q": "The OECD's Interim Economic Outlook of September 2026 raised India's growth forecast for FY2026-27 to:",
+     "options": [
+      "6.3%",
+      "6.7%",
+      "7.1%",
+      "7.4%"
+     ],
+     "answer": "C",
+     "explanation": "The OECD raised the forecast from 6.3% to 7.1% and projects 6.5% for FY28. The OECD is headquartered in Paris. Source: OECD Interim Report, Sep 2026.",
+     "likely": 4,
+     "fact": "OECD's September 2026 interim outlook projects India's FY27 growth at 7.1%.",
+     "event_date": "2026-09",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-27-28-september-2026/",
+     "confidence": "high"
+    },
+    {
+     "q": "Which rating agency upgraded India's sovereign rating from 'BBB+' to 'A-' in September 2026?",
+     "options": [
+      "Moody's Ratings",
+      "Fitch Ratings",
+      "Japan Credit Rating Agency",
+      "S&P Global Ratings"
+     ],
+     "answer": "C",
+     "explanation": "JCR, based in Tokyo, upgraded India to A- with a stable outlook on 2 September 2026. Moody's rates India Baa3 and S&P rates it BBB. Source: Japan Credit Rating Agency, 2 Sep 2026.",
+     "likely": 4,
+     "fact": "Japan Credit Rating Agency upgraded India to A- on 2 September 2026.",
+     "event_date": "2026-09-02",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-6-7-september-2026/",
+     "confidence": "high"
+    },
+    {
+     "q": "What was India's rank among 180 countries in the World Press Freedom Index 2026?",
+     "options": [
+      "151st",
+      "157th",
+      "159th",
+      "161st"
+     ],
+     "answer": "B",
+     "explanation": "India fell to 157th from 151st in 2025. The index is published by Reporters Without Borders (RSF), based in Paris. Source: Scroll, 30 Apr 2026.",
+     "likely": 4,
+     "fact": "India ranked 157th of 180 in the World Press Freedom Index 2026.",
+     "event_date": "2026-04-30",
+     "kind": "news",
+     "source_url": "https://scroll.in/latest/1092488/india-ranks-157-out-of-180-countries-in-2026-world-press-freedom-index",
+     "confidence": "high"
+    },
+    {
+     "q": "What was India's rank among 163 countries in the Global Peace Index 2026?",
+     "options": [
+      "115th",
+      "116th",
+      "127th",
+      "135th"
+     ],
+     "answer": "C",
+     "explanation": "India was ranked 127th with a score of 2.409. Iceland is the most peaceful country, followed by New Zealand and Switzerland; Russia is last. Source: Outlook Traveller, Jun 2026.",
+     "likely": 4,
+     "fact": "India ranked 127th of 163 in the Global Peace Index 2026.",
+     "event_date": "2026-06",
+     "kind": "news",
+     "source_url": "https://www.outlooktraveller.com/News/global-peace-index-2026-the-10-most-peaceful-countries-in-the-world-right-now",
+     "confidence": "high"
+    },
+    {
+     "q": "India got its best-ever rank in the SDG Index of the Sustainable Development Report 2026. What was the rank?",
+     "options": [
+      "94th",
+      "99th",
+      "109th",
+      "112th"
+     ],
+     "answer": "A",
+     "explanation": "India rose to 94th from 99th in 2025, with a score of 68.3. Finland is first, then Sweden and Denmark. The report is published by the UN Sustainable Development Solutions Network (SDSN). Source: SDSN, Jun 2026.",
+     "likely": 4,
+     "fact": "India ranked 94th in the SDG Index 2026.",
+     "event_date": "2026-06",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-5-6-july-2026/",
+     "confidence": "high"
+    },
+    {
+     "q": "What was India's rank in the World Economic Forum's Travel and Tourism Development Index 2026?",
+     "options": [
+      "31st",
+      "39th",
+      "45th",
+      "54th"
+     ],
+     "answer": "A",
+     "explanation": "India rose nine places to 31st of 110 economies with a score of 4.42. Japan topped the index, followed by the USA and Spain. Source: WEF, Sep 2026.",
+     "likely": 4,
+     "fact": "India ranked 31st in the WEF Travel and Tourism Development Index 2026.",
+     "event_date": "2026-09",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-27-28-september-2026/",
+     "confidence": "high"
+    },
+    {
+     "q": "Which is the highest-ranked Indian institution in the QS World University Rankings 2027, at 118th place?",
+     "options": [
+      "IIT Bombay",
+      "IISc Bengaluru",
+      "IIT Delhi",
+      "IIT Madras"
+     ],
+     "answer": "C",
+     "explanation": "IIT Delhi rose to 118th from 123rd; 52 Indian institutions are ranked. MIT is first in the world. Source: All India Radio News, 18 Jun 2026.",
+     "likely": 4,
+     "fact": "IIT Delhi (118th) is the top Indian institution in QS World University Rankings 2027.",
+     "event_date": "2026-06-18",
+     "kind": "news",
+     "source_url": "https://newsonair.gov.in/iit-delhi-remains-indias-highest-ranked-institution-in-qs-world-university-rankings-2027/",
+     "confidence": "high"
+    },
+    {
+     "q": "Which bank was named the 'World's Best Consumer Bank 2026' by Global Finance magazine?",
+     "options": [
+      "HDFC Bank",
+      "State Bank of India",
+      "DBS Bank",
+      "ICICI Bank"
+     ],
+     "answer": "B",
+     "explanation": "SBI won the title for the second year in a row and was also named Best Bank in India. DBS was named Best Corporate Bank and Santander the World's Best Bank. Source: AffairsCloud, 20 Oct 2026.",
+     "likely": 4,
+     "fact": "SBI was named World's Best Consumer Bank 2026 by Global Finance.",
+     "event_date": "2026-10",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-20-october-2026/",
+     "confidence": "medium"
+    },
+    {
+     "q": "The 'Emissions Gap Report', whose 2026 edition was released in October 2026, is published by:",
+     "options": [
+      "World Meteorological Organization",
+      "United Nations Environment Programme",
+      "Intergovernmental Panel on Climate Change",
+      "International Energy Agency"
+     ],
+     "answer": "B",
+     "explanation": "UNEP, headquartered in Nairobi, publishes the report each year before the COP climate summit; 2026 was the 17th edition. Source: UNEP, Oct 2026.",
+     "likely": 4,
+     "fact": "The Emissions Gap Report is published by UNEP.",
+     "event_date": "2026-10",
+     "kind": "news-static",
+     "source_url": "https://affairscloud.com/current-affairs-24-october-2026/",
+     "confidence": "high"
+    },
+    {
+     "q": "Who is the author of the autobiography 'Triumph of the Indian Republic: My Life, My Struggles', released in August 2026?",
+     "options": [
+      "Pranab Mukherjee",
+      "Ram Nath Kovind",
+      "M. Venkaiah Naidu",
+      "Pratibha Patil"
+     ],
+     "answer": "B",
+     "explanation": "Former President Ram Nath Kovind, the 14th President (2017-2022), wrote it; it was released on 12 August 2026 at Vigyan Bhawan, New Delhi. Source: Adda247 and AffairsCloud, 12-13 Aug 2026.",
+     "likely": 4,
+     "fact": "Ram Nath Kovind wrote 'Triumph of the Indian Republic: My Life, My Struggles'.",
+     "event_date": "2026-08-12",
+     "kind": "news",
+     "source_url": "https://currentaffairs.adda247.com/pm-modi-releases-ram-nath-kovinds-autobiography/",
+     "confidence": "medium"
+    },
+    {
+     "q": "'The Second Orbit: Belief of a Man... Dreams of 1.4 Billion Hearts', released in June 2026, is the memoir of which astronaut?",
+     "options": [
+      "Rakesh Sharma",
+      "Shubhanshu Shukla",
+      "Prasanth Balakrishnan Nair",
+      "Sunita Williams"
+     ],
+     "answer": "B",
+     "explanation": "Group Captain Shubhanshu Shukla flew on Axiom-4 and is the first Indian to visit the International Space Station. Air Chief Marshal A. P. Singh released the book in New Delhi. Source: Adda247 and AffairsCloud, Jun 2026.",
+     "likely": 4,
+     "fact": "'The Second Orbit' is the memoir of Shubhanshu Shukla.",
+     "event_date": "2026-06",
+     "kind": "news",
+     "source_url": "https://currentaffairs.adda247.com/the-second-orbit-belief-of-a-man-dreams-of-1-4-billion-hearts-memoir-released-by-air-chief-marshal-amar-preet-singh/",
+     "confidence": "medium"
+    },
+    {
+     "q": "'Belonging: A Journey of Love', a memoir published on 10 November 2026, is written by:",
+     "options": [
+      "Sonia Gandhi",
+      "Priyanka Gandhi Vadra",
+      "Sheila Dikshit",
+      "Mamata Banerjee"
+     ],
+     "answer": "A",
+     "explanation": "Sonia Gandhi's memoir is published by HarperCollins India. She became Congress president in 1998. Source: Adda247 and AffairsCloud, 10-12 Nov 2026.",
+     "likely": 4,
+     "fact": "Sonia Gandhi wrote the memoir 'Belonging: A Journey of Love'.",
+     "event_date": "2026-11-10",
+     "kind": "news",
+     "source_url": "https://currentaffairs.adda247.com/sonia-gandhis-memoir-belonging-a-journey-of-love-to-be-published-worldwide/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Moody's Ratings, in a report of November 2026, raised its forecast of India's GDP growth for FY2026-27 to:",
+     "options": [
+      "6.0%",
+      "6.5%",
+      "7.0%",
+      "7.5%"
+     ],
+     "answer": "C",
+     "explanation": "Moody's raised the FY27 forecast to 7% in its Global Macro Outlook 2027-28. It rates India Baa3 with a stable outlook. Source: Adda247 and AffairsCloud, 11-13 Nov 2026.",
+     "likely": 3,
+     "fact": "Moody's raised India's FY27 growth forecast to 7% in November 2026.",
+     "event_date": "2026-11",
+     "kind": "news",
+     "source_url": "https://currentaffairs.adda247.com/moodys-raises-indias-fy27-growth-forecast-to-7-from-6-5/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Which country topped the World Press Freedom Index 2026 for the tenth year in a row?",
+     "options": [
+      "Denmark",
+      "Norway",
+      "Estonia",
+      "Netherlands"
+     ],
+     "answer": "B",
+     "explanation": "Norway was first, followed by the Netherlands and Estonia. India was 157th of 180. Source: Scroll, 30 Apr 2026.",
+     "likely": 3,
+     "fact": "Norway topped the World Press Freedom Index 2026.",
+     "event_date": "2026-04-30",
+     "kind": "news",
+     "source_url": "https://scroll.in/latest/1092488/india-ranks-157-out-of-180-countries-in-2026-world-press-freedom-index",
+     "confidence": "high"
+    },
+    {
+     "q": "The Global Peace Index is released every year by which body?",
+     "options": [
+      "Institute for Economics and Peace",
+      "Stockholm International Peace Research Institute",
+      "Transparency International",
+      "Amnesty International"
+     ],
+     "answer": "A",
+     "explanation": "The Institute for Economics and Peace (IEP), based in Sydney, publishes the index; 2026 was its 20th edition. Iceland topped it and India was 127th. Source: Outlook Traveller, Jun 2026.",
+     "likely": 3,
+     "fact": "The Global Peace Index is published by the Institute for Economics and Peace.",
+     "event_date": "2026-06",
+     "kind": "news-static",
+     "source_url": "https://www.outlooktraveller.com/News/global-peace-index-2026-the-10-most-peaceful-countries-in-the-world-right-now",
+     "confidence": "high"
+    },
+    {
+     "q": "What was India's rank in the World Economic Forum's Energy Transition Index 2026?",
+     "options": [
+      "63rd",
+      "67th",
+      "70th",
+      "76th"
+     ],
+     "answer": "C",
+     "explanation": "India rose two places to 70th. Sweden topped the index for the third year in a row, followed by Finland and Denmark. Source: Daily Pioneer, 19 Jun 2026.",
+     "likely": 3,
+     "fact": "India ranked 70th in the WEF Energy Transition Index 2026.",
+     "event_date": "2026-06-18",
+     "kind": "news",
+     "source_url": "https://dailypioneer.com/news/india-emerges-top-global-energy-gainer-report",
+     "confidence": "high"
+    },
+    {
+     "q": "Which is the highest-ranked Indian institution in the Times Higher Education World University Rankings 2027?",
+     "options": [
+      "IIT Delhi",
+      "IISc Bengaluru",
+      "Jawaharlal Nehru University",
+      "IIT Bombay"
+     ],
+     "answer": "B",
+     "explanation": "IISc Bengaluru is India's best at 254th. The University of Oxford is first for the 11th year in a row; 2,297 universities are ranked. Source: The Daily Jagran, 30 Sep 2026.",
+     "likely": 3,
+     "fact": "IISc Bengaluru is the top Indian institution in THE World University Rankings 2027.",
+     "event_date": "2026-09-30",
+     "kind": "news",
+     "source_url": "https://www.thedailyjagran.com/education/news/the-world-university-rankings-2027-oxford-secures-top-spot-for-11th-straight-year-iisc-bengaluru-leads-india-at-254th-place-10331043",
+     "confidence": "high"
+    },
+    {
+     "q": "Which economy ranked first in the IMD World Competitiveness Ranking 2026?",
+     "options": [
+      "Switzerland",
+      "Singapore",
+      "Hong Kong",
+      "Denmark"
+     ],
+     "answer": "B",
+     "explanation": "Singapore returned to first place, with Hong Kong second and Switzerland third among 70 economies. IMD is a business school in Lausanne, Switzerland. Source: IMD, Jun 2026.",
+     "likely": 3,
+     "fact": "Singapore topped the IMD World Competitiveness Ranking 2026.",
+     "event_date": "2026-06",
+     "kind": "news",
+     "source_url": "https://www.imd.org/news/strong-institutions-are-economies-greatest-buffer-against-economic-shocks-imd-world-competitiveness-ranking-finds",
+     "confidence": "high"
+    },
+    {
+     "q": "According to the SIPRI Yearbook 2026, about how many nuclear warheads did India have in January 2026?",
+     "options": [
+      "164",
+      "172",
+      "180",
+      "190"
+     ],
+     "answer": "D",
+     "explanation": "SIPRI put India's stockpile at about 190 warheads, up from 180 a year earlier. The world total is 12,187 warheads. SIPRI is based in Stockholm. Source: The Week, 9 Jun 2026.",
+     "likely": 3,
+     "fact": "SIPRI Yearbook 2026 estimates India has about 190 nuclear warheads.",
+     "event_date": "2026-06-08",
+     "kind": "news",
+     "source_url": "https://www.theweek.in/news/defence/2026/06/09/india-expands-nuclear-arsenal-to-190-warheads-deploys-some-for-first-time-sipri.html",
+     "confidence": "high"
+    },
+    {
+     "q": "In the latest Human Development Report of the UNDP (2025), what is India's rank among 193 countries on the Human Development Index?",
+     "options": [
+      "126th",
+      "130th",
+      "132nd",
+      "134th"
+     ],
+     "answer": "B",
+     "explanation": "India is 130th with an HDI value of 0.685 (medium category); Iceland is first. The 2026 report is due only on 1 December 2026, after the exam. Source: UNDP, hdr.undp.org.",
+     "likely": 3,
+     "fact": "India ranks 130th of 193 on the HDI in the latest (2025) Human Development Report.",
+     "event_date": "2025-05",
+     "kind": "news-static",
+     "source_url": "https://hdr.undp.org/",
+     "confidence": "high"
+    },
+    {
+     "q": "Which state topped NITI Aayog's first Investment Friendliness Index (IFI) 2026?",
+     "options": [
+      "Maharashtra",
+      "Tamil Nadu",
+      "Gujarat",
+      "Karnataka"
+     ],
+     "answer": "C",
+     "explanation": "Gujarat was first with a score of 56.6, followed by Maharashtra and Tamil Nadu. NITI Aayog was set up on 1 January 2015. Source: NITI Aayog, Jul 2026.",
+     "likely": 3,
+     "fact": "Gujarat topped NITI Aayog's Investment Friendliness Index 2026.",
+     "event_date": "2026-07",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-19-20-july-2026/",
+     "confidence": "high"
+    },
+    {
+     "q": "What was GIFT City's rank in the 40th Global Financial Centres Index (GFCI 40), released in September 2026?",
+     "options": [
+      "37th",
+      "43rd",
+      "46th",
+      "52nd"
+     ],
+     "answer": "A",
+     "explanation": "GIFT City rose nine places from 46th to 37th. New York is first, followed by London and Hong Kong. The index is published by Z/Yen and the China Development Institute. Source: Z/Yen, Sep 2026.",
+     "likely": 3,
+     "fact": "GIFT City ranked 37th in GFCI 40.",
+     "event_date": "2026-09",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-19-20-21-september-2026/",
+     "confidence": "high"
+    },
+    {
+     "q": "Which country was ranked the happiest in the World Happiness Report 2026?",
+     "options": [
+      "Denmark",
+      "Iceland",
+      "Finland",
+      "Sweden"
+     ],
+     "answer": "C",
+     "explanation": "Finland topped the report for the ninth year in a row; India was 116th. The report is published by the Wellbeing Research Centre, University of Oxford, with Gallup and UN SDSN. Source: World Happiness Report, Mar 2026.",
+     "likely": 3,
+     "fact": "Finland topped the World Happiness Report 2026.",
+     "event_date": "2026-03",
+     "kind": "news",
+     "source_url": "https://www.worldhappiness.report/ed/2026/",
+     "confidence": "high"
+    },
+    {
+     "q": "'The State of Food Security and Nutrition in the World' (SOFI) report is led by which organisation?",
+     "options": [
+      "World Bank",
+      "Food and Agriculture Organization",
+      "World Economic Forum",
+      "Oxfam"
+     ],
+     "answer": "B",
+     "explanation": "FAO, based in Rome, brings out SOFI with IFAD, UNICEF, WFP and WHO. SOFI 2026 was released in July 2026. Source: FAO, Jul 2026.",
+     "likely": 3,
+     "fact": "SOFI is published by FAO with IFAD, UNICEF, WFP and WHO.",
+     "event_date": "2026-07",
+     "kind": "news-static",
+     "source_url": "https://affairscloud.com/current-affairs-24-july-2026/",
+     "confidence": "high"
+    },
+    {
+     "q": "The 'World Development Report', whose 2026 edition is on artificial intelligence, is published by:",
+     "options": [
+      "International Monetary Fund",
+      "World Bank",
+      "UNDP",
+      "World Economic Forum"
+     ],
+     "answer": "B",
+     "explanation": "The World Bank publishes it; the 2026 edition is 'The Promise of Artificial Intelligence'. The IMF publishes the World Economic Outlook. Source: Adda247 and AffairsCloud, Oct 2026.",
+     "likely": 3,
+     "fact": "The World Development Report is published by the World Bank.",
+     "event_date": "2026-10",
+     "kind": "news-static",
+     "source_url": "https://currentaffairs.adda247.com/world-development-report-2026-the-promise-of-artificial-intelligence/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Who released former President Ram Nath Kovind's autobiography in New Delhi on 12 August 2026?",
+     "options": [
+      "President Droupadi Murmu",
+      "Vice-President C. P. Radhakrishnan",
+      "Prime Minister Narendra Modi",
+      "Lok Sabha Speaker Om Birla"
+     ],
+     "answer": "C",
+     "explanation": "PM Narendra Modi released the book at Vigyan Bhawan. Kovind also headed the High-Level Committee on One Nation, One Election. Source: Adda247 and AffairsCloud, 12-13 Aug 2026.",
+     "likely": 3,
+     "fact": "PM Narendra Modi released Ram Nath Kovind's autobiography on 12 August 2026.",
+     "event_date": "2026-08-12",
+     "kind": "news",
+     "source_url": "https://currentaffairs.adda247.com/pm-modi-releases-ram-nath-kovinds-autobiography/",
+     "confidence": "medium"
+    },
+    {
+     "q": "'Sabr: Finding My Way in Cricket and Life', released in November 2026, is the autobiography of which cricketer?",
+     "options": [
+      "Moeen Ali",
+      "Usman Khawaja",
+      "Hashim Amla",
+      "Rashid Khan"
+     ],
+     "answer": "B",
+     "explanation": "Usman Khawaja, Australia's first Muslim Test cricketer, retired from international cricket in January 2026. The book is published by Penguin Australia. Source: Adda247 and AffairsCloud, Nov 2026.",
+     "likely": 3,
+     "fact": "'Sabr' is the autobiography of Usman Khawaja.",
+     "event_date": "2026-11",
+     "kind": "news",
+     "source_url": "https://currentaffairs.adda247.com/usman-khawajas-sabr-book-2026-meaning-author-and-key-revelations/",
+     "confidence": "medium"
+    },
+    {
+     "q": "The book 'Cashless Nation: How UPI Changed Everything', released by the Finance Minister in September 2026, is written by Santanu Paul and:",
+     "options": [
+      "Dilip Asbe",
+      "B. Sambamurthy",
+      "Nandan Nilekani",
+      "Raghuram Rajan"
+     ],
+     "answer": "B",
+     "explanation": "Santanu Paul and B. Sambamurthy wrote the book; Nirmala Sitharaman released it in Bengaluru. UPI was launched by NPCI in 2016. Confirmed on one exam compilation only. Source: AffairsCloud, 29 Sep 2026.",
+     "likely": 3,
+     "fact": "'Cashless Nation: How UPI Changed Everything' is by Santanu Paul and B. Sambamurthy.",
+     "event_date": "2026-09",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-29-september-2026/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Who wrote the book 'The Evolution of TV News in India', released in October 2026?",
+     "options": [
+      "Prannoy Roy",
+      "Harsaran Bir Kaur Pandey",
+      "Mrinal Pande",
+      "Rajdeep Sardesai"
+     ],
+     "answer": "B",
+     "explanation": "Harsaran Bir Kaur Pandey, a former Doordarshan producer, wrote it; former Prasar Bharati chairman Surya Prakash released it in New Delhi. Source: Adda247 and AffairsCloud, Oct 2026.",
+     "likely": 2,
+     "fact": "Harsaran Bir Kaur Pandey wrote 'The Evolution of TV News in India'.",
+     "event_date": "2026-10",
+     "kind": "news",
+     "source_url": "https://currentaffairs.adda247.com/surya-prakash-releases-the-evolution-of-tv-news-in-india-by-harsaran-bir-kaur-pandey/",
+     "confidence": "medium"
+    }
+   ]
+  }
+ ]
+}

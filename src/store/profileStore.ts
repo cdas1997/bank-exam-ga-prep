@@ -1,26 +1,40 @@
 import { useSyncExternalStore } from 'react';
-import { bank, knownQuestionIds } from '@/data';
+import { examByKey } from '@/data';
 import { accrueTime, createLiveMock, finishLiveMock, goToQuestion } from '@/lib/mock';
 import { emptyProfile } from '@/lib/profile';
-import type { LiveMock, MockRecord, MockType, Profile, StudyMode } from '@/lib/types';
-import { getCurrentUser, loadProfile, saveProfile, setCurrentUser } from '@/services/storage';
+import { MockType, type Exam, type ExamKey, type LiveMock, type MockRecord, type Profile, type StudyMode } from '@/lib/types';
+import { getCurrentExam, getCurrentUser, loadProfile, saveProfile, setCurrentExam, setCurrentUser } from '@/services/storage';
 
-const MAX_MOCKS_KEPT = 30;
+/** Enough for every paper set to be taken several times without the oldest attempts dropping out. */
+const MAX_MOCKS_KEPT = 80;
 
-export type ProfileState = { user: string | null; profile: Profile; storageOk: boolean };
+export type ProfileState = { user: string | null; examKey: ExamKey | null; profile: Profile; storageOk: boolean };
+
+function readProfile(user: string | null, exam: Exam | null): Profile {
+  return user && exam ? loadProfile({ name: user, examKey: exam.key }, exam.knownIds) : emptyProfile();
+}
 
 function initialState(): ProfileState {
   const user = getCurrentUser();
-  return { user, profile: user ? loadProfile(user, knownQuestionIds) : emptyProfile(), storageOk: true };
+  const exam = user ? examByKey(getCurrentExam()) : null;
+  return { user, examKey: exam?.key ?? null, profile: readProfile(user, exam), storageOk: true };
 }
 
 let state: ProfileState = initialState();
 const listeners = new Set<() => void>();
 
-function commit(profile: Profile): void {
-  const storageOk = state.user ? saveProfile(state.user, profile) : true;
-  state = { ...state, profile, storageOk };
+function activeExam(): Exam | null {
+  return examByKey(state.examKey);
+}
+
+function emit(next: ProfileState): void {
+  state = next;
   listeners.forEach((l) => l());
+}
+
+function commit(profile: Profile): void {
+  const storageOk = state.user && state.examKey ? saveProfile({ name: state.user, examKey: state.examKey }, profile) : true;
+  emit({ ...state, profile, storageOk });
 }
 
 function update(fn: (p: Profile) => Profile): void {
@@ -35,15 +49,27 @@ export const profileStore = {
   getState(): ProfileState {
     return state;
   },
+  /** Signing in always leads to the exam choice. */
   login(name: string): void {
     setCurrentUser(name);
-    state = { user: name, profile: loadProfile(name, knownQuestionIds), storageOk: true };
-    listeners.forEach((l) => l());
+    setCurrentExam(null);
+    emit({ user: name, examKey: null, profile: emptyProfile(), storageOk: true });
   },
   logout(): void {
     setCurrentUser(null);
-    state = { user: null, profile: emptyProfile(), storageOk: true };
-    listeners.forEach((l) => l());
+    setCurrentExam(null);
+    emit({ user: null, examKey: null, profile: emptyProfile(), storageOk: true });
+  },
+  selectExam(examKey: ExamKey): void {
+    const exam = examByKey(examKey);
+    if (!state.user || !exam) return;
+    setCurrentExam(exam.key);
+    emit({ ...state, examKey: exam.key, profile: readProfile(state.user, exam), storageOk: true });
+  },
+  /** Back to the exam choice; the course's progress stays saved. */
+  leaveExam(): void {
+    setCurrentExam(null);
+    emit({ ...state, examKey: null, profile: emptyProfile(), storageOk: true });
   },
   answer(questionId: string, choice: number): void {
     const now = Date.now();
@@ -56,9 +82,14 @@ export const profileStore = {
   setMode(mode: StudyMode): void {
     update((p) => ({ ...p, mode }));
   },
-  startMock(type: MockType): void {
+  /** Starts a timed mock. `setNo` names the paper for MockType.Set. Returns false when there is nothing to start. */
+  startMock(type: MockType, setNo: number | null = null): boolean {
+    const exam = activeExam();
+    if (!exam) return false;
+    if (type === MockType.Set && !exam.bank.sets.some((s) => s.n === setNo)) return false;
     const now = Date.now();
-    update((p) => ({ ...p, live: createLiveMock({ type, bank, answers: p.answers, random: Math.random, now }) }));
+    update((p) => ({ ...p, live: createLiveMock({ type, setNo, bank: exam.bank, answers: p.answers, random: Math.random, now }) }));
+    return true;
   },
   updateLive(fn: (live: LiveMock) => LiveMock): void {
     update((p) => (p.live ? { ...p, live: fn(p.live) } : p));
@@ -73,8 +104,9 @@ export const profileStore = {
   },
   finishLive(): MockRecord | null {
     const live = state.profile.live;
-    if (!live) return null;
-    const record = finishLiveMock(live, bank, Date.now());
+    const exam = activeExam();
+    if (!live || !exam) return null;
+    const record = finishLiveMock(live, exam, Date.now());
     update((p) => ({ ...p, live: null, mocks: [record, ...p.mocks].slice(0, MAX_MOCKS_KEPT) }));
     return record;
   },

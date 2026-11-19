@@ -5,7 +5,7 @@ import { ConfirmBox } from '@/components/ui/ConfirmBox';
 import { navigate } from '@/hooks/useHashRoute';
 import { useNow } from '@/hooks/useNow';
 import { formatClock } from '@/lib/dates';
-import { MOCK_CONFIG, PaletteState, paletteState } from '@/lib/mock';
+import { PaletteState, mockLabel, paletteState } from '@/lib/mock';
 import type { Bank, LiveMock } from '@/lib/types';
 import { profileStore } from '@/store/profileStore';
 
@@ -71,7 +71,7 @@ export function RunningMock({ bank, live }: RunningMockProps) {
     <>
       <TopBar>
         <span className="mock-pos">
-          {MOCK_CONFIG[live.type].label} · Q {live.index + 1}/{live.questionIds.length}
+          {mockLabel(live)} · Q {live.index + 1}/{live.questionIds.length}
         </span>
         <span className={`timer${left <= WARN_SECS ? ' warn' : ''}`} role="timer" aria-label="Time left">
           {formatClock(left)}

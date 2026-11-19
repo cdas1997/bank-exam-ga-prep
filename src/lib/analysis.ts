@@ -1,10 +1,7 @@
 import { isHot } from './bank';
 import { dayKey, examCountdown, startOfDay } from './dates';
-import { MOCK_CONFIG } from './mock';
-import { MARK_WRONG, choiceOf, netMarks, percent, setStats } from './scoring';
-import { MockType, SetFilter, type Answers, type Bank, type MockRecord, type Topic } from './types';
-
-const EXAM_MAX = 60;
+import { choiceOf, netMarks, percent, setStats } from './scoring';
+import { MockType, SetFilter, type Answers, type Bank, type Marking, type MockRecord, type Topic } from './types';
 
 export type DayActivity = { key: string; shortLabel: string; longLabel: string; count: number };
 
@@ -67,17 +64,21 @@ export function recommendTopics(bank: Bank, answers: Answers, limit = 3): Recomm
 
 export type ScoreEstimate = { score: number; basedOn: number; fullMocksOnly: boolean };
 
-/** Average of the last three mocks (full mocks preferred), scaled to the 60-mark section. */
-export function estimateScore(mocks: readonly MockRecord[]): ScoreEstimate | null {
-  const full = mocks.filter((m) => m.type === MockType.Full).slice(0, 3);
+function isFullPaper(m: MockRecord): boolean {
+  return m.type === MockType.Full || m.type === MockType.Set;
+}
+
+/** Average of the last three mocks (full papers preferred), scaled to the marks of the real section. */
+export function estimateScore(mocks: readonly MockRecord[], examMax: number): ScoreEstimate | null {
+  const full = mocks.filter(isFullPaper).slice(0, 3);
   const basis = full.length ? full : mocks.slice(0, 3);
   if (!basis.length) return null;
-  const score = basis.reduce((sum, m) => sum + scaledTo60(m), 0) / basis.length;
+  const score = basis.reduce((sum, m) => sum + scaledToExam(m, examMax), 0) / basis.length;
   return { score, basedOn: basis.length, fullMocksOnly: full.length > 0 };
 }
 
-export function scaledTo60(m: MockRecord): number {
-  return m.maxMarks ? (m.net * EXAM_MAX) / m.maxMarks : 0;
+export function scaledToExam(m: MockRecord, examMax: number): number {
+  return m.maxMarks ? (m.net * examMax) / m.maxMarks : 0;
 }
 
 /** Average seconds per answered mock question. */
@@ -94,8 +95,8 @@ export function mockPace(mocks: readonly MockRecord[]): number | null {
   return count ? total / count : null;
 }
 
-export function marksLostToNegative(mocks: readonly MockRecord[]): number {
-  return mocks.reduce((sum, m) => sum + m.wrong * MARK_WRONG, 0);
+export function marksLostToNegative(mocks: readonly MockRecord[], marking: Marking): number {
+  return mocks.reduce((sum, m) => sum + m.wrong * marking.wrong, 0);
 }
 
 export type DailyTarget = { target: number; doneToday: number; remaining: number; studyDays: number };
@@ -112,7 +113,7 @@ export function dailyTarget(bank: Bank, answers: Answers, now: number): DailyTar
 
 export type TopicResult = { topic: Topic; right: number; wrong: number; skipped: number; net: number };
 
-export function mockTopicBreakdown(mock: MockRecord, bank: Bank): TopicResult[] {
+export function mockTopicBreakdown(mock: MockRecord, bank: Bank, marking: Marking): TopicResult[] {
   const byTopic = new Map<string, TopicResult>();
   for (const id of mock.questionIds) {
     const q = bank.byId.get(id);
@@ -123,14 +124,25 @@ export function mockTopicBreakdown(mock: MockRecord, bank: Bank): TopicResult[] 
     if (r === undefined) row.skipped += 1;
     else if (r === q.answer) row.right += 1;
     else row.wrong += 1;
-    row.net = netMarks(row.right, row.wrong);
+    row.net = netMarks(row.right, row.wrong, marking);
     byTopic.set(topic.key, row);
   }
   return [...byTopic.values()].sort((a, b) => a.net - b.net);
 }
 
-export function mockLabel(type: MockType): string {
-  return MOCK_CONFIG[type].label;
+export type SetHistory = { attempts: number; best: number | null; last: number | null };
+
+/** Attempts, best net score and latest net score for one paper set. `mocks` is newest first. */
+export function setHistory(mocks: readonly MockRecord[], setNo: number): SetHistory {
+  const taken = mocks.filter((m) => m.type === MockType.Set && m.setNo === setNo);
+  if (!taken.length) return { attempts: 0, best: null, last: null };
+  return { attempts: taken.length, best: Math.max(...taken.map((m) => m.net)), last: taken[0]?.net ?? null };
+}
+
+/** 1 for the first time this set was taken, 2 for the next, and so on; null for other mocks. */
+export function attemptNumber(mock: MockRecord, mocks: readonly MockRecord[]): number | null {
+  if (mock.type !== MockType.Set || mock.setNo === null) return null;
+  return mocks.filter((m) => m.type === MockType.Set && m.setNo === mock.setNo && m.startedAt <= mock.startedAt).length;
 }
 
 export function accuracyOf(right: number, wrong: number): number {

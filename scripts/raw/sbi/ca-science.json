@@ -1,0 +1,724 @@
+{
+ "batches": [
+  {
+   "key": "ca-science",
+   "name": "Science, defence & environment",
+   "questions": [
+    {
+     "q": "The NVS-03 satellite, launched by ISRO's GSLV-F18 on 30 October 2026, belongs to which satellite system?",
+     "options": [
+      "Cartosat",
+      "NavIC",
+      "GSAT",
+      "Oceansat"
+     ],
+     "answer": "B",
+     "explanation": "NVS-03 is the third second-generation satellite of NavIC, India's regional navigation system. It flew on GSLV-F18, the 20th GSLV flight, from the Second Launch Pad at Sriharikota, and adds an L1 signal to the L5 and S bands. Source: ISRO, 30 Oct 2026.",
+     "likely": 5,
+     "fact": "GSLV-F18 launched the NavIC navigation satellite NVS-03 on 30 October 2026.",
+     "event_date": "2026-10-30",
+     "kind": "news",
+     "source_url": "https://www.isro.gov.in/ISRO_EN/Mission_GSLVF18.html",
+     "confidence": "high"
+    },
+    {
+     "q": "India's total number of Ramsar sites rose to how many in October 2026?",
+     "options": [
+      "96",
+      "98",
+      "101",
+      "103"
+     ],
+     "answer": "D",
+     "explanation": "Sukhna Lake (Chandigarh) and Sauj Jheel (Uttar Pradesh) were added on 15 October 2026, taking the total to 103. The 100th site came in June 2026 and the 101st (Glaw Lake) in August 2026; India had 26 sites in 2014. Source: News On AIR, 15 Oct 2026.",
+     "likely": 5,
+     "fact": "India has 103 Ramsar sites after Sukhna Lake and Sauj Jheel were added on 15 October 2026.",
+     "event_date": "2026-10-15",
+     "kind": "news",
+     "source_url": "https://newsonair.gov.in/with-inclusion-of-sukhna-lake-and-sauj-jheel-indias-ramsar-tally-reaches-103/",
+     "confidence": "high"
+    },
+    {
+     "q": "What is the full form of NavIC, the satellite system for which ISRO launched NVS-03 in October 2026?",
+     "options": [
+      "Navigation with Indian Constellation",
+      "National Vehicle Information Centre",
+      "Navigation via Indian Communication",
+      "Network of Indian Cartography"
+     ],
+     "answer": "A",
+     "explanation": "NavIC means Navigation with Indian Constellation; it was earlier called IRNSS (Indian Regional Navigation Satellite System). It covers India and up to 1,500 km beyond its boundary. Source: ISRO.",
+     "likely": 5,
+     "fact": "NavIC stands for Navigation with Indian Constellation.",
+     "event_date": "static",
+     "kind": "news-static",
+     "source_url": "https://www.isro.gov.in/SatelliteNavigationServices.html",
+     "confidence": "high"
+    },
+    {
+     "q": "The Ramsar Convention on wetlands, under which India got two more sites in October 2026, was adopted in 1971 in a city of which country?",
+     "options": [
+      "Switzerland",
+      "Iraq",
+      "Iran",
+      "Egypt"
+     ],
+     "answer": "C",
+     "explanation": "The Convention was adopted in 1971 at Ramsar, Iran. India became a party on 1 February 1982, and its first sites (1981) were Chilika Lake and Keoladeo National Park. Source: PIB New India Samachar, 1-15 Jul 2026.",
+     "likely": 5,
+     "fact": "The Ramsar Convention was adopted in 1971 at Ramsar in Iran.",
+     "event_date": "static",
+     "kind": "news-static",
+     "source_url": "https://newindiasamachar.pib.gov.in/WriteReadData/flipbook/2026/Jul/1st/English/files/basic-html/page42.html",
+     "confidence": "high"
+    },
+    {
+     "q": "Which state has the highest number of Ramsar sites in India?",
+     "options": [
+      "Uttar Pradesh",
+      "Tamil Nadu",
+      "Odisha",
+      "Gujarat"
+     ],
+     "answer": "B",
+     "explanation": "Tamil Nadu has 20 of India's 103 Ramsar sites, followed by Uttar Pradesh with 14. The Sundarban Wetland in West Bengal is the largest site. Source: Wikipedia list of Ramsar sites in India, as of 16 Oct 2026.",
+     "likely": 4,
+     "fact": "Tamil Nadu has the most Ramsar sites (20) among Indian states.",
+     "event_date": "static",
+     "kind": "news-static",
+     "source_url": "https://en.wikipedia.org/wiki/List_of_Ramsar_sites_in_India",
+     "confidence": "medium"
+    },
+    {
+     "q": "Sukhna Lake, designated a Ramsar site on 15 October 2026, is located in:",
+     "options": [
+      "Punjab",
+      "Haryana",
+      "Himachal Pradesh",
+      "Chandigarh"
+     ],
+     "answer": "D",
+     "explanation": "Sukhna Lake is Chandigarh's first Ramsar site and India's 103rd. Sauj Jheel in Mainpuri district, Uttar Pradesh, was designated the same day as the 102nd. Source: News On AIR, 15-16 Oct 2026.",
+     "likely": 4,
+     "fact": "Sukhna Lake, a Ramsar site since 15 October 2026, is in Chandigarh.",
+     "event_date": "2026-10-15",
+     "kind": "news",
+     "source_url": "https://newsonair.gov.in/indias-ramsar-site-tally-reaches-103-with-inclusion-of-chandigarhs-sukhna-lake-ups-sauj-jheel-says-union-minister-kirti-vardhan-singh/",
+     "confidence": "high"
+    },
+    {
+     "q": "Cyclone Arnab, which hit the Andhra Pradesh coast near Yanam on 28 October 2026, was named by which country?",
+     "options": [
+      "India",
+      "Thailand",
+      "Bangladesh",
+      "Iran"
+     ],
+     "answer": "C",
+     "explanation": "Arnab, the first cyclonic storm of 2026 in the North Indian Ocean, took a name given by Bangladesh. The next two names on the list are Murasu (India) and Akvan (Iran). Source: Down To Earth, 29 Oct 2026; IMD list of cyclone names.",
+     "likely": 4,
+     "fact": "The name of Cyclone Arnab (October 2026) was contributed by Bangladesh.",
+     "event_date": "2026-10-28",
+     "kind": "news",
+     "source_url": "https://www.downtoearth.org.in/natural-disasters/cyclone-arnabs-aftermath-lives-lost-heavy-rainfall-and-inland-weakening",
+     "confidence": "medium"
+    },
+    {
+     "q": "Which satellite, launched by GSLV-F17 on 4 September 2026, is India's first imaging satellite in geosynchronous orbit?",
+     "options": [
+      "EOS-05",
+      "EOS-09",
+      "CMS-03",
+      "NVS-02"
+     ],
+     "answer": "A",
+     "explanation": "EOS-05 is an Earth observation satellite and India's first imaging satellite for geosynchronous orbit. GSLV-F17 was the 19th GSLV flight and ISRO's first successful launch of 2026, after PSLV-C62 failed in January. Source: ISRO; The Week, 4 Sep 2026.",
+     "likely": 4,
+     "fact": "EOS-05, launched by GSLV-F17 on 4 September 2026, is India's first imaging satellite in geosynchronous orbit.",
+     "event_date": "2026-09-04",
+     "kind": "news",
+     "source_url": "https://www.isro.gov.in/ISRO_EN/Mission_GSLVF17.html",
+     "confidence": "high"
+    },
+    {
+     "q": "Which company built Vikram-1, which on 18 July 2026 became India's first privately developed rocket to reach orbit?",
+     "options": [
+      "Agnikul Cosmos",
+      "Pixxel",
+      "Dhruva Space",
+      "Skyroot Aerospace"
+     ],
+     "answer": "D",
+     "explanation": "Hyderabad-based Skyroot Aerospace launched Vikram-1 from Sriharikota on its 'Aagaman' mission. India became the third country with private orbital launch capability, after the US and China. Source: Space.com, 18 Jul 2026.",
+     "likely": 4,
+     "fact": "Skyroot Aerospace's Vikram-1 made India's first private orbital launch on 18 July 2026.",
+     "event_date": "2026-07-18",
+     "kind": "news",
+     "source_url": "https://www.space.com/space-exploration/launches-spacecraft/skyroot-aerospace-india-first-private-orbital-launch-vikram-1",
+     "confidence": "high"
+    },
+    {
+     "q": "The joint military exercise 'Yudh Abhyas', whose 22nd edition began on 15 September 2026, is held between India and which country?",
+     "options": [
+      "Russia",
+      "United States",
+      "France",
+      "United Kingdom"
+     ],
+     "answer": "B",
+     "explanation": "Yudh Abhyas is the India-US army exercise. The 2026 edition was held at Auli (Uttarakhand) and Mahajan Field Firing Range (Rajasthan) with 600 troops from each side. Source: MP-IDSA Defence Newsletter, Sep 2026.",
+     "likely": 4,
+     "fact": "Yudh Abhyas is the India-US joint military exercise; its 22nd edition began on 15 September 2026.",
+     "event_date": "2026-09-15",
+     "kind": "news",
+     "source_url": "https://idsa.in/wp-content/uploads/2024/06/Defence-Newsletter-September-2026.pdf",
+     "confidence": "high"
+    },
+    {
+     "q": "Which of the following joint military exercises is correctly matched with India's partner country?",
+     "options": [
+      "MAITREE - Malaysia",
+      "SLINEX - Singapore",
+      "Nomadic Elephant - Mongolia",
+      "AUSTRAHIND - Austria"
+     ],
+     "answer": "C",
+     "explanation": "Nomadic Elephant (18th edition, Pithoragarh, September 2026) is with Mongolia. MAITREE is with Thailand, SLINEX is the naval exercise with Sri Lanka, and AUSTRAHIND is with Australia. Source: MP-IDSA Defence Newsletters, Aug-Oct 2026.",
+     "likely": 4,
+     "fact": "Exercise Nomadic Elephant is held between India and Mongolia.",
+     "event_date": "2026-09-21",
+     "kind": "news",
+     "source_url": "https://idsa.in/wp-content/uploads/2024/06/Defence-Newsletter-September-2026.pdf",
+     "confidence": "high"
+    },
+    {
+     "q": "Pralay, flight-tested by DRDO on 5 November 2026 from Dr APJ Abdul Kalam Island, is what type of weapon?",
+     "options": [
+      "Anti-tank guided missile",
+      "Air-to-air missile",
+      "Heavyweight torpedo",
+      "Quasi-ballistic missile"
+     ],
+     "answer": "D",
+     "explanation": "Pralay is an indigenous quasi-ballistic missile developed by Research Centre Imarat, Hyderabad. The test was part of user evaluation trials off the Odisha coast. Source: News On AIR, 5 Nov 2026.",
+     "likely": 4,
+     "fact": "Pralay, tested on 5 November 2026, is an indigenous quasi-ballistic missile.",
+     "event_date": "2026-11-05",
+     "kind": "news",
+     "source_url": "https://newsonair.gov.in/drdo-successfully-tests-indigenously-developed-pralay-missile/",
+     "confidence": "high"
+    },
+    {
+     "q": "INS Samarthak, commissioned at Karwar on 16 October 2026 as the first major warship built by an Indian private shipyard, was built by:",
+     "options": [
+      "Larsen & Toubro",
+      "Mazagon Dock Shipbuilders",
+      "Garden Reach Shipbuilders & Engineers",
+      "Cochin Shipyard"
+     ],
+     "answer": "A",
+     "explanation": "INS Samarthak is the first Multi-Purpose Vessel of the Navy, built by L&T at Kattupalli. Source: MP-IDSA Defence Newsletter, Oct 2026.",
+     "likely": 4,
+     "fact": "INS Samarthak, the Navy's first Multi-Purpose Vessel, was built by L&T and commissioned on 16 October 2026.",
+     "event_date": "2026-10-16",
+     "kind": "news",
+     "source_url": "https://idsa.in/wp-content/uploads/2024/06/Defence-Newsletter-October-2026.pdf",
+     "confidence": "high"
+    },
+    {
+     "q": "INS Mahendragiri, commissioned into the Indian Navy at Visakhapatnam on 11 July 2026, is a stealth frigate of which project?",
+     "options": [
+      "Project 15B",
+      "Project 17A",
+      "Project 75",
+      "Project 28"
+     ],
+     "answer": "B",
+     "explanation": "INS Mahendragiri is the sixth of seven Project 17A (Nilgiri-class) frigates and was built by Mazagon Dock Shipbuilders, Mumbai. INS Dunagiri, the fifth, was commissioned in June 2026. Source: MP-IDSA Defence Newsletter, Jul 2026.",
+     "likely": 4,
+     "fact": "INS Mahendragiri is a Project 17A stealth frigate commissioned on 11 July 2026.",
+     "event_date": "2026-07-11",
+     "kind": "news",
+     "source_url": "https://idsa.in/wp-content/uploads/2024/06/Defence-Newsletter-July-2026.pdf",
+     "confidence": "high"
+    },
+    {
+     "q": "Glaw Lake, which became India's 101st Ramsar site on 3 August 2026, is the first Ramsar site of which state?",
+     "options": [
+      "Assam",
+      "Nagaland",
+      "Arunachal Pradesh",
+      "Sikkim"
+     ],
+     "answer": "C",
+     "explanation": "Glaw Lake is in Lohit district of Arunachal Pradesh, inside Kamlang Tiger Reserve. Source: DD News, 3 Aug 2026.",
+     "likely": 4,
+     "fact": "Glaw Lake in Arunachal Pradesh became India's 101st Ramsar site on 3 August 2026.",
+     "event_date": "2026-08-03",
+     "kind": "news",
+     "source_url": "https://en.wikipedia.org/wiki/List_of_Ramsar_sites_in_India",
+     "confidence": "high"
+    },
+    {
+     "q": "Which wetland became India's 100th Ramsar site in June 2026?",
+     "options": [
+      "Shekha Jheel Bird Sanctuary",
+      "Jai Prakash Narayan Bird Sanctuary (Surha Tal)",
+      "Chhari-Dhand",
+      "Patna Bird Sanctuary"
+     ],
+     "answer": "B",
+     "explanation": "The Jai Prakash Narayan Bird Sanctuary (Surha Tal) is in Ballia district, Uttar Pradesh. Shekha Jheel was the 99th site; Patna Bird Sanctuary and Chhari-Dhand were added in January 2026. Source: PIB New India Samachar, 1-15 Jul 2026.",
+     "likely": 4,
+     "fact": "Jai Prakash Narayan Bird Sanctuary (Surha Tal) in Ballia, Uttar Pradesh, is India's 100th Ramsar site.",
+     "event_date": "2026-06-05",
+     "kind": "news",
+     "source_url": "https://newindiasamachar.pib.gov.in/WriteReadData/flipbook/2026/Jul/1st/English/files/basic-html/page42.html",
+     "confidence": "high"
+    },
+    {
+     "q": "What is the name of the half-humanoid robot that ISRO plans to fly on the first uncrewed Gaganyaan mission (G1)?",
+     "options": [
+      "Pragyan",
+      "Manav",
+      "Vyommitra",
+      "Vikram"
+     ],
+     "answer": "C",
+     "explanation": "Vyommitra will fly in place of astronauts on G1, which will use the human-rated HLVM3 rocket. As of mid-October 2026 the flight was scheduled for late 2026 and the first crewed mission for 2027; check whether G1 has launched. Source: The Week, 17 Oct 2026.",
+     "likely": 4,
+     "fact": "The half-humanoid robot Vyommitra will fly on Gaganyaan's first uncrewed mission, G1.",
+     "event_date": "2026-10-16",
+     "kind": "news-static",
+     "source_url": "https://www.theweek.in/news/sci-tech/2026/10/17/are-we-closer-to-uncrewed-gaganyaan-launch-mission-clears-key-test.amp.html",
+     "confidence": "high"
+    },
+    {
+     "q": "Who is the Chairman of ISRO, under whom GSLV-F17 and GSLV-F18 were launched in 2026?",
+     "options": [
+      "S. Somanath",
+      "K. Sivan",
+      "A. S. Kiran Kumar",
+      "V. Narayanan"
+     ],
+     "answer": "D",
+     "explanation": "V. Narayanan has headed ISRO since January 2025, succeeding S. Somanath. The ISRO Chairman is also Secretary, Department of Space. Source: The Week, 4 Sep 2026.",
+     "likely": 4,
+     "fact": "V. Narayanan is the Chairman of ISRO.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.theweek.in/news/sci-tech/2026/09/04/isro-successfully-launches-gslv-f-17-carrying-eos-05-satellite-why-its-a-milestone-for-india.html",
+     "confidence": "high"
+    },
+    {
+     "q": "The Satish Dhawan Space Centre at Sriharikota, from where GSLV-F18 lifted off on 30 October 2026, is in which state?",
+     "options": [
+      "Andhra Pradesh",
+      "Tamil Nadu",
+      "Kerala",
+      "Odisha"
+     ],
+     "answer": "A",
+     "explanation": "Sriharikota is in Andhra Pradesh and is India's main spaceport; GSLV-F18 used its Second Launch Pad. Source: ISRO; The Week, 4 Sep 2026.",
+     "likely": 4,
+     "fact": "The Satish Dhawan Space Centre, Sriharikota, is in Andhra Pradesh.",
+     "event_date": "static",
+     "kind": "news-static",
+     "source_url": "https://www.theweek.in/news/sci-tech/2026/09/04/isro-successfully-launches-gslv-f-17-carrying-eos-05-satellite-why-its-a-milestone-for-india.html",
+     "confidence": "high"
+    },
+    {
+     "q": "The Singapore-India Maritime Bilateral Exercise (SIMBEX), whose 33rd edition was held from 21 to 26 October 2026, took place at:",
+     "options": [
+      "Kochi",
+      "Mumbai",
+      "Port Blair",
+      "Visakhapatnam"
+     ],
+     "answer": "D",
+     "explanation": "SIMBEX-2026 between the Indian Navy and the Republic of Singapore Navy was held at Visakhapatnam. Source: MP-IDSA Defence Newsletter, Oct 2026.",
+     "likely": 4,
+     "fact": "The 33rd SIMBEX (India-Singapore naval exercise) was held at Visakhapatnam on 21-26 October 2026.",
+     "event_date": "2026-10-21",
+     "kind": "news",
+     "source_url": "https://idsa.in/wp-content/uploads/2024/06/Defence-Newsletter-October-2026.pdf",
+     "confidence": "high"
+    },
+    {
+     "q": "Exercise Tarang Shakti 2026, held at Jodhpur from 26 September to 12 October 2026, was hosted by which force?",
+     "options": [
+      "Indian Army",
+      "Indian Air Force",
+      "Indian Navy",
+      "Indian Coast Guard"
+     ],
+     "answer": "B",
+     "explanation": "Tarang Shakti is the Indian Air Force's multinational air exercise. Its second edition brought air forces of seven partner countries and 32 observer nations under the theme 'Power in Partnership'. Source: MP-IDSA Defence Newsletter, Oct 2026.",
+     "likely": 4,
+     "fact": "The Indian Air Force hosted the second edition of Exercise Tarang Shakti at Jodhpur from 26 September to 12 October 2026.",
+     "event_date": "2026-09-26",
+     "kind": "news",
+     "source_url": "https://idsa.in/wp-content/uploads/2024/06/Defence-Newsletter-October-2026.pdf",
+     "confidence": "high"
+    },
+    {
+     "q": "Madhya Pradesh's Nauradehi sanctuary became India's third home for cheetahs in October 2026. From which country did the first cheetahs of Project Cheetah come in September 2022?",
+     "options": [
+      "South Africa",
+      "Botswana",
+      "Namibia",
+      "Kenya"
+     ],
+     "answer": "C",
+     "explanation": "Eight cheetahs from Namibia were released at Kuno National Park, Madhya Pradesh, on 17 September 2022. South Africa sent 12 in 2023 and Botswana 9 in February 2026; the project completed four years in September 2026. Source: Free Press Journal, 16 Sep 2026.",
+     "likely": 4,
+     "fact": "Project Cheetah began on 17 September 2022 with eight cheetahs from Namibia.",
+     "event_date": "2026-09-17",
+     "kind": "news-static",
+     "source_url": "https://www.freepressjournal.in/bhopal/4-years-of-project-cheetah-kuno-records-52-survivors-including-32-born-in-india",
+     "confidence": "high"
+    },
+    {
+     "q": "Which state has the highest number of tiger reserves in India?",
+     "options": [
+      "Maharashtra",
+      "Karnataka",
+      "Uttarakhand",
+      "Madhya Pradesh"
+     ],
+     "answer": "D",
+     "explanation": "Madhya Pradesh has 9 of India's 58 tiger reserves; the latest, Madhav (58th), was notified in 2025. Project Tiger was launched in 1973. Source: NTCA list of tiger reserves.",
+     "likely": 4,
+     "fact": "Madhya Pradesh has the most tiger reserves (9 of 58).",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://ntca.gov.in/tiger-reserves/",
+     "confidence": "high"
+    },
+    {
+     "q": "The Defence Acquisition Council (DAC), which cleared proposals worth about Rs 2.12 lakh crore on 26 October 2026, is chaired by the:",
+     "options": [
+      "Defence Minister",
+      "Prime Minister",
+      "Chief of Defence Staff",
+      "Defence Secretary"
+     ],
+     "answer": "A",
+     "explanation": "The DAC is headed by the Defence Minister (Rajnath Singh) and gives Acceptance of Necessity for capital purchases. It also cleared about Rs 1.10 lakh crore on 7 September 2026. Source: MP-IDSA Defence Newsletter, Oct 2026.",
+     "likely": 4,
+     "fact": "The Defence Acquisition Council is chaired by the Defence Minister.",
+     "event_date": "2026-10-26",
+     "kind": "news-static",
+     "source_url": "https://idsa.in/wp-content/uploads/2024/06/Defence-Newsletter-October-2026.pdf",
+     "confidence": "high"
+    },
+    {
+     "q": "Kusha, which DRDO flight-tested for the first time on 23 July 2026, is a:",
+     "options": [
+      "Long-range surface-to-air missile",
+      "Submarine-launched ballistic missile",
+      "Anti-tank guided missile",
+      "Air-to-air missile"
+     ],
+     "answer": "A",
+     "explanation": "Kusha is an indigenous long-range surface-to-air missile meant to hit aircraft, cruise missiles and drones. It was tested from Dr APJ Abdul Kalam Island, Odisha. Source: MP-IDSA Defence Newsletter, Jul 2026.",
+     "likely": 4,
+     "fact": "Kusha is a long-range surface-to-air missile first flight-tested on 23 July 2026.",
+     "event_date": "2026-07-23",
+     "kind": "news",
+     "source_url": "https://idsa.in/wp-content/uploads/2024/06/Defence-Newsletter-July-2026.pdf",
+     "confidence": "high"
+    },
+    {
+     "q": "Cyclone Murasu made landfall near Ongole in early November 2026. In which state is this?",
+     "options": [
+      "Odisha",
+      "Tamil Nadu",
+      "Andhra Pradesh",
+      "West Bengal"
+     ],
+     "answer": "C",
+     "explanation": "Severe Cyclonic Storm Murasu crossed the south Andhra Pradesh coast on 2-3 November 2026, days after Cyclone Arnab hit the same state. Murasu is a name given by India. Source: Al Jazeera, 2 Nov 2026; IMD bulletin, 4 Nov 2026.",
+     "likely": 3,
+     "fact": "Cyclone Murasu made landfall on the Andhra Pradesh coast near Ongole in early November 2026.",
+     "event_date": "2026-11-03",
+     "kind": "news",
+     "source_url": "https://www.aljazeera.com/news/2026/11/2/thousands-evacuated-as-india-braces-for-second-cyclone-in-a-week",
+     "confidence": "high"
+    },
+    {
+     "q": "The 'Agni-4' ballistic missile was test-fired on 6 August 2026 from the Integrated Test Range at Chandipur. Chandipur is in which state?",
+     "options": [
+      "Andhra Pradesh",
+      "Odisha",
+      "Tamil Nadu",
+      "Gujarat"
+     ],
+     "answer": "B",
+     "explanation": "The Integrated Test Range is at Chandipur in Balasore district, Odisha; Dr APJ Abdul Kalam Island is nearby. Agni missiles are surface-to-surface ballistic missiles developed by DRDO. Source: MP-IDSA Defence Newsletter, Aug 2026.",
+     "likely": 3,
+     "fact": "Agni-4 was test-fired on 6 August 2026 from the Integrated Test Range, Chandipur, Odisha.",
+     "event_date": "2026-08-06",
+     "kind": "news-static",
+     "source_url": "https://idsa.in/wp-content/uploads/2024/06/Defence-Newsletter-August-2026.pdf",
+     "confidence": "high"
+    },
+    {
+     "q": "INS Nipun, commissioned into the Indian Navy at Mumbai on 31 August 2026, is a:",
+     "options": [
+      "Stealth frigate",
+      "Survey vessel",
+      "Fleet tanker",
+      "Diving Support Vessel"
+     ],
+     "answer": "D",
+     "explanation": "INS Nipun is the second Diving Support Vessel of the Nistar class, built by Hindustan Shipyard Limited, Visakhapatnam. It is used for deep-sea diving and submarine rescue. Source: MP-IDSA Defence Newsletter, Aug 2026.",
+     "likely": 3,
+     "fact": "INS Nipun, commissioned on 31 August 2026, is the second Nistar-class Diving Support Vessel.",
+     "event_date": "2026-08-31",
+     "kind": "news",
+     "source_url": "https://idsa.in/wp-content/uploads/2024/06/Defence-Newsletter-August-2026.pdf",
+     "confidence": "high"
+    },
+    {
+     "q": "On 21 June 2026 the Prime Minister commissioned INS Dunagiri, INS Sanshodhak and INS Agray at Kolkata. Which shipyard built all three?",
+     "options": [
+      "Mazagon Dock Shipbuilders, Mumbai",
+      "Hindustan Shipyard, Visakhapatnam",
+      "Garden Reach Shipbuilders & Engineers, Kolkata",
+      "Cochin Shipyard, Kochi"
+     ],
+     "answer": "C",
+     "explanation": "GRSE built INS Dunagiri (stealth frigate), INS Sanshodhak (large survey vessel) and INS Agray (anti-submarine warfare shallow water craft). Source: MP-IDSA Defence Newsletter, Jun 2026.",
+     "likely": 3,
+     "fact": "GRSE, Kolkata, built INS Dunagiri, INS Sanshodhak and INS Agray, commissioned on 21 June 2026.",
+     "event_date": "2026-06-21",
+     "kind": "news",
+     "source_url": "https://idsa.in/wp-content/uploads/2024/06/Defence-Newsletter-June-2026.pdf",
+     "confidence": "high"
+    },
+    {
+     "q": "The Border Roads Organisation (BRO), which held its Strategic Infrastructure Conclave in New Delhi in July 2026, was set up in which year?",
+     "options": [
+      "1948",
+      "1958",
+      "1960",
+      "1971"
+     ],
+     "answer": "C",
+     "explanation": "BRO was formed on 7 May 1960 and works under the Ministry of Defence, with headquarters in New Delhi. Its motto is 'Shramena Sarvam Sadhyam'. Source: MP-IDSA Defence Newsletter, Jul 2026 (conclave); Wikipedia (founding date).",
+     "likely": 3,
+     "fact": "The Border Roads Organisation was set up in 1960.",
+     "event_date": "2026-07-15",
+     "kind": "news-static",
+     "source_url": "https://en.wikipedia.org/wiki/Border_Roads_Organisation",
+     "confidence": "medium"
+    },
+    {
+     "q": "NISAR, the Earth-observation satellite launched by GSLV-F16 on 30 July 2025, is a joint mission of ISRO and:",
+     "options": [
+      "NASA",
+      "ESA",
+      "JAXA",
+      "CNES"
+     ],
+     "answer": "A",
+     "explanation": "NISAR stands for NASA-ISRO Synthetic Aperture Radar. It was launched from Sriharikota on GSLV-F16. Source: ISRO launch missions list.",
+     "likely": 3,
+     "fact": "NISAR is a joint mission of ISRO and NASA, launched on 30 July 2025.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.isro.gov.in/ISRO_EN/LaunchMissions.html",
+     "confidence": "high"
+    },
+    {
+     "q": "The headquarters of the Indian Space Research Organisation (ISRO) is in:",
+     "options": [
+      "Thiruvananthapuram",
+      "Bengaluru",
+      "Hyderabad",
+      "Ahmedabad"
+     ],
+     "answer": "B",
+     "explanation": "ISRO was formed on 15 August 1969 and has its headquarters in Bengaluru. It is part of the Department of Space. Source: ISRO profile page.",
+     "likely": 3,
+     "fact": "ISRO is headquartered in Bengaluru.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.isro.gov.in/profile.html",
+     "confidence": "high"
+    },
+    {
+     "q": "The India Semiconductor Mission, whose second phase (ISM 2.0) was approved by the Cabinet in July 2026, works under which ministry?",
+     "options": [
+      "Ministry of Science and Technology",
+      "Ministry of Commerce and Industry",
+      "Ministry of Heavy Industries",
+      "Ministry of Electronics and Information Technology"
+     ],
+     "answer": "D",
+     "explanation": "ISM is run by MeitY. ISM 2.0 was approved on 15 July 2026 with about Rs 1.27 lakh crore, against Rs 76,000 crore for the first phase. Source: Business Standard, 15 Jul 2026 (as recorded in the repo fact file).",
+     "likely": 3,
+     "fact": "The India Semiconductor Mission works under the Ministry of Electronics and Information Technology.",
+     "event_date": "2026-07-15",
+     "kind": "news-static",
+     "source_url": "https://ism.gov.in/",
+     "confidence": "medium"
+    },
+    {
+     "q": "In October 2026, cheetahs were released at Nauradehi, making it India's third cheetah habitat after Kuno and Gandhi Sagar. In which state is Nauradehi?",
+     "options": [
+      "Rajasthan",
+      "Gujarat",
+      "Madhya Pradesh",
+      "Chhattisgarh"
+     ],
+     "answer": "C",
+     "explanation": "Nauradehi is in Madhya Pradesh, as are Kuno National Park and Gandhi Sagar Sanctuary. Two cheetahs were released in the presence of Chief Minister Mohan Yadav. Source: IANS, 8 Oct 2026.",
+     "likely": 3,
+     "fact": "Nauradehi in Madhya Pradesh became India's third cheetah habitat in October 2026.",
+     "event_date": "2026-10",
+     "kind": "news",
+     "source_url": "https://www.newkerala.com/news/a/mps-nauradehi-sanctuary-becomes-3rd-cheetah-habitat-india-422.htm",
+     "confidence": "medium"
+    },
+    {
+     "q": "India took part in CBD COP-17 at Yerevan, Armenia, in October 2026. Where is the Secretariat of the Convention on Biological Diversity located?",
+     "options": [
+      "Bonn",
+      "Geneva",
+      "Nairobi",
+      "Montreal"
+     ],
+     "answer": "D",
+     "explanation": "The CBD Secretariat is in Montreal, Canada. The Convention was signed at the 1992 Rio Earth Summit and came into force on 29 December 1993; COP-17 ran from 19 to 30 October 2026. Source: cbd.int.",
+     "likely": 3,
+     "fact": "The Secretariat of the Convention on Biological Diversity is in Montreal, Canada.",
+     "event_date": "2026-10-19",
+     "kind": "news-static",
+     "source_url": "https://www.cbd.int/secretariat",
+     "confidence": "high"
+    },
+    {
+     "q": "The 17th Conference of the Parties (COP17) of the UN Convention to Combat Desertification was held from 17 to 28 August 2026 in which country?",
+     "options": [
+      "Mongolia",
+      "Saudi Arabia",
+      "Armenia",
+      "Kenya"
+     ],
+     "answer": "A",
+     "explanation": "UNCCD COP17 was held in Ulaanbaatar, Mongolia, on the theme 'Restoring Land. Restoring Hope'. COP16 was in Riyadh, Saudi Arabia, in 2024. Source: unccd.int.",
+     "likely": 3,
+     "fact": "UNCCD COP17 was held in Ulaanbaatar, Mongolia, from 17 to 28 August 2026.",
+     "event_date": "2026-08-17",
+     "kind": "news",
+     "source_url": "https://www.unccd.int/cop17",
+     "confidence": "high"
+    },
+    {
+     "q": "Ahead of COP31, the Environment Minister said in November 2026 that India has restored about 22 million hectares of degraded land. What is India's total land restoration target?",
+     "options": [
+      "13 million hectares",
+      "21 million hectares",
+      "26 million hectares",
+      "50 million hectares"
+     ],
+     "answer": "C",
+     "explanation": "India has committed to restore 26 million hectares of degraded land by 2030. Bhupender Yadav also said climate finance would be India's key priority at COP31. Source: News On AIR, 3 Nov 2026.",
+     "likely": 3,
+     "fact": "India's land restoration target is 26 million hectares, of which about 22 million hectares is done.",
+     "event_date": "2026-11-03",
+     "kind": "news",
+     "source_url": "https://newsonair.gov.in/india-to-pursue-solution-orientated-equitable-climate-action-at-cop31-in-antalya-says-environment-minister/",
+     "confidence": "high"
+    },
+    {
+     "q": "India's 500 MWe Prototype Fast Breeder Reactor, which attained first criticality in April 2026, is located at:",
+     "options": [
+      "Tarapur",
+      "Rawatbhata",
+      "Kalpakkam",
+      "Kakrapar"
+     ],
+     "answer": "C",
+     "explanation": "The PFBR at Kalpakkam, Tamil Nadu, attained criticality on 6 April 2026. It was built by BHAVINI, designed by IGCAR, and uses MOX fuel with liquid sodium coolant. Source: Department of Atomic Energy, 7 Apr 2026.",
+     "likely": 3,
+     "fact": "The Prototype Fast Breeder Reactor is at Kalpakkam, Tamil Nadu, and attained first criticality on 6 April 2026.",
+     "event_date": "2026-04-06",
+     "kind": "news-static",
+     "source_url": "https://dae.gov.in/prototype-fast-breeder-reactor-at-kalpakkam-tamil-nadu-attains-first-criticality/",
+     "confidence": "high"
+    },
+    {
+     "q": "RudraM-II, flight-tested by DRDO and the Indian Air Force in June 2026, is what type of missile?",
+     "options": [
+      "Surface-to-air missile",
+      "Air-to-surface missile",
+      "Anti-tank guided missile",
+      "Submarine-launched missile"
+     ],
+     "answer": "B",
+     "explanation": "RudraM-II is an indigenous air-to-surface missile developed with Research Centre Imarat, Hyderabad, as the nodal laboratory. Source: MP-IDSA Defence Newsletter, Jun 2026.",
+     "likely": 3,
+     "fact": "RudraM-II is an air-to-surface missile tested in June 2026.",
+     "event_date": "2026-06",
+     "kind": "news",
+     "source_url": "https://idsa.in/wp-content/uploads/2024/06/Defence-Newsletter-June-2026.pdf",
+     "confidence": "high"
+    },
+    {
+     "q": "LineShine, ranked the world's fastest supercomputer in the TOP500 lists of June and November 2026, is in which country?",
+     "options": [
+      "United States",
+      "Japan",
+      "Germany",
+      "China"
+     ],
+     "answer": "D",
+     "explanation": "LineShine at the National Supercomputing Centre in Shenzhen, China, scored 2.198 exaflops and displaced the US system El Capitan. El Capitan, Frontier and Aurora (all US) follow it. Source: TOP500, Nov 2026.",
+     "likely": 3,
+     "fact": "China's LineShine is the world's fastest supercomputer in the June and November 2026 TOP500 lists.",
+     "event_date": "2026-06",
+     "kind": "news",
+     "source_url": "https://top500.org/lists/top500/2026/11/",
+     "confidence": "high"
+    },
+    {
+     "q": "MMX, launched on 20 October 2026 to bring back samples from Phobos, a moon of Mars, is a mission of which country's space agency?",
+     "options": [
+      "Japan",
+      "China",
+      "United Arab Emirates",
+      "South Korea"
+     ],
+     "answer": "A",
+     "explanation": "JAXA launched the Martian Moons eXploration (MMX) spacecraft on an H3 rocket from Tanegashima Space Center. Samples are due back on Earth in 2031. Source: JAXA, 20 Oct 2026.",
+     "likely": 3,
+     "fact": "Japan's JAXA launched the MMX mission to the Martian moon Phobos on 20 October 2026.",
+     "event_date": "2026-10-20",
+     "kind": "news",
+     "source_url": "https://global.jaxa.jp/press/2026/10/20261020-1_e.html",
+     "confidence": "high"
+    },
+    {
+     "q": "The Nancy Grace Roman Space Telescope, launched on 30 August 2026 to study dark energy and exoplanets, belongs to which space agency?",
+     "options": [
+      "ESA",
+      "JAXA",
+      "NASA",
+      "CNSA"
+     ],
+     "answer": "C",
+     "explanation": "NASA lists the Roman Space Telescope's launch as 30 August 2026; it is now in commissioning. Source: NASA Science, Nov 2026.",
+     "likely": 2,
+     "fact": "NASA's Nancy Grace Roman Space Telescope was launched on 30 August 2026.",
+     "event_date": "2026-08-30",
+     "kind": "news",
+     "source_url": "https://science.nasa.gov/mission/roman-space-telescope/",
+     "confidence": "high"
+    }
+   ]
+  }
+ ]
+}

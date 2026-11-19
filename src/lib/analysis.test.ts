@@ -1,19 +1,26 @@
 import { describe, expect, it } from 'vitest';
-import { activityByDay, dailyTarget, estimateScore, recommendTopics } from './analysis';
-import { makeTestBank } from './testBank';
+import { activityByDay, dailyTarget, estimateScore, marksLostToNegative, recommendTopics } from './analysis';
+import { SBI_MARKING, makeTestBank } from './testBank';
 import { MockType, SetFilter, type MockRecord } from './types';
 
 function mock(type: MockRecord['type'], net: number, maxMarks: number): MockRecord {
-  return { id: `m${net}`, type, startedAt: 0, questionIds: [], responses: {}, seconds: {}, right: 0, wrong: 0, skipped: 0, net, maxMarks, usedMs: 0, limitSecs: 0 };
+  return { id: `m${net}`, type, setNo: type === MockType.Set ? 1 : null, startedAt: 0, questionIds: [], responses: {}, seconds: {}, right: 0, wrong: 0, skipped: 0, net, maxMarks, usedMs: 0, limitSecs: 0 };
 }
 
 describe('analysis', () => {
   const bank = makeTestBank(10);
 
   it('estimates the score from full mocks, scaled to 60', () => {
-    expect(estimateScore([])).toBeNull();
-    const estimate = estimateScore([mock(MockType.Quick, 24, 24), mock(MockType.Full, 30, 60), mock(MockType.Full, 45, 60)]);
+    expect(estimateScore([], 60)).toBeNull();
+    const estimate = estimateScore([mock(MockType.Quick, 24, 24), mock(MockType.Full, 30, 60), mock(MockType.Full, 45, 60)], 60);
     expect(estimate).toEqual({ score: 37.5, basedOn: 2, fullMocksOnly: true });
+  });
+
+  it('counts paper sets as full mocks and scales to the 50-mark SBI section', () => {
+    const estimate = estimateScore([mock(MockType.Quick, 20, 20), mock(MockType.Set, 40, 50), mock(MockType.Set, 30, 50)], 50);
+    expect(estimate).toEqual({ score: 35, basedOn: 2, fullMocksOnly: true });
+    expect(estimateScore([mock(MockType.Quick, 15, 20)], 50)).toEqual({ score: 37.5, basedOn: 1, fullMocksOnly: false });
+    expect(marksLostToNegative([{ ...mock(MockType.Set, 30, 50), wrong: 8 }], SBI_MARKING)).toBe(2);
   });
 
   it('points a weak topic at its wrong answers', () => {

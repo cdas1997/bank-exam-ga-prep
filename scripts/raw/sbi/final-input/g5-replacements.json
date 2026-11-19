@@ -1,0 +1,289 @@
+{
+ "questions": [
+  {
+   "id": "5b0e5d09e8",
+   "topic": "National & international news",
+   "q": "The Supreme Court (Number of Judges) Amendment Ordinance of May 2026 was promulgated by the President under which Article of the Constitution?",
+   "options": [
+    "Article 213",
+    "Article 123",
+    "Article 143",
+    "Article 72"
+   ],
+   "answer": "B",
+   "explanation": "Article 123 lets the President promulgate Ordinances when Parliament is not in session; Article 213 gives the same power to Governors. Parliament replaced the Ordinance with an Act in August 2026. Source: SCC Online, 2026."
+  },
+  {
+   "id": "4df49c4d56",
+   "topic": "Banking operations & terms",
+   "q": "What does LCR stand for under Basel III?",
+   "options": [
+    "Liquid Capital Reserve",
+    "Liquidity Coverage Ratio",
+    "Leverage Capital Ratio",
+    "Loan Coverage Ratio"
+   ],
+   "answer": "B",
+   "explanation": "LCR requires banks to hold high-quality liquid assets to cover net cash outflows for 30 days; the minimum is 100%. Source: Wikipedia, checked Nov 2026."
+  },
+  {
+   "id": "a2b95529b7",
+   "topic": "Union Budget & government schemes",
+   "q": "Who presented the Union Budget 2026-27 on 1 February 2026, her ninth Budget in a row?",
+   "options": [
+    "Nirmala Sitharaman",
+    "Piyush Goyal",
+    "Pankaj Chaudhary",
+    "Arun Jaitley"
+   ],
+   "answer": "A",
+   "explanation": "Finance Minister Nirmala Sitharaman presented her 9th consecutive Budget on 1 February 2026. It was the first Budget prepared in Kartavya Bhawan. Source: Adda247 / Budget speech, Feb 2026."
+  },
+  {
+   "id": "6ad0aaa0e4",
+   "topic": "Union Budget & government schemes",
+   "q": "After the GST rate rationalisation that took effect on 22 September 2025, what are the two main GST slabs?",
+   "options": [
+    "5% and 18%",
+    "12% and 18%",
+    "12% and 28%",
+    "5% and 12%"
+   ],
+   "answer": "A",
+   "explanation": "The 12% and 28% slabs were removed, leaving 5% and 18%, with a special 40% rate on luxury and sin goods. This was decided at the 56th GST Council meeting on 3 September 2025. Source: Wikipedia (GST India), Nov 2026."
+  },
+  {
+   "id": "ca79ba622b",
+   "topic": "Union Budget & government schemes",
+   "q": "The Income-tax Act, 2025, which replaced the Income-tax Act, 1961, came into force on which date?",
+   "options": [
+    "1 February 2026",
+    "1 April 2025",
+    "1 January 2026",
+    "1 April 2026"
+   ],
+   "answer": "D",
+   "explanation": "The new Act took effect on 1 April 2026 and uses a single 'tax year'. Budget 2026-27 also cut the MAT rate from 15% to 14%. Source: PRS / Adda247, Feb 2026."
+  },
+  {
+   "id": "4c963b1740",
+   "topic": "Geography & culture",
+   "q": "Nanda Devi Biosphere Reserve is located in which state?",
+   "options": [
+    "Sikkim",
+    "Arunachal Pradesh",
+    "Himachal Pradesh",
+    "Uttarakhand"
+   ],
+   "answer": "D",
+   "explanation": "Nanda Devi Biosphere Reserve, in Chamoli (with parts of Pithoragarh and Bageshwar) districts of Uttarakhand, was declared in January 1988 and joined UNESCO's World Network of Biosphere Reserves in 2004. Nanda Devi National Park (1982) and Valley of Flowers National Park together form a UNESCO World Heritage Site (1988, extended 2005). Source: Lok Sabha answer (eparlib); UNESCO."
+  },
+  {
+   "id": "6d32c60ab5",
+   "topic": "Countries, important days & general facts",
+   "q": "Children's Day is celebrated in India on which date?",
+   "options": [
+    "12 January",
+    "20 November",
+    "14 November",
+    "5 September"
+   ],
+   "answer": "C",
+   "explanation": "14 November is Jawaharlal Nehru's birth anniversary. World Children's Day is observed on 20 November. Source: Wikipedia (Children's Day, India), read Nov 2026."
+  },
+  {
+   "id": "0fe1cdb2d1",
+   "topic": "Countries, important days & general facts",
+   "q": "Who was the first Speaker of the Lok Sabha?",
+   "options": [
+    "Hukam Singh",
+    "M. A. Ayyangar",
+    "G. V. Mavalankar",
+    "Sukumar Sen"
+   ],
+   "answer": "C",
+   "explanation": "Ganesh Vasudev Mavalankar was Speaker from 1952 to 1956. Om Birla is the present Speaker; the Speaker is chosen under Article 93. Source: Wikipedia (Speaker of the Lok Sabha), read Nov 2026."
+  },
+  {
+   "id": "c385b56930",
+   "topic": "Countries, important days & general facts",
+   "q": "Which was India's first satellite, launched in 1975?",
+   "options": [
+    "Rohini",
+    "Bhaskara",
+    "INSAT-1A",
+    "Aryabhata"
+   ],
+   "answer": "D",
+   "explanation": "Aryabhata was launched on 19 April 1975 from the Soviet Union. Mangalyaan (2013) was India's first Mars orbiter. Source: Wikipedia (Aryabhata satellite), read Nov 2026."
+  },
+  {
+   "id": "43e1159f12",
+   "topic": "Banking operations & terms",
+   "q": "The Lead Bank Scheme was introduced in which year?",
+   "options": [
+    "1955",
+    "1969",
+    "1975",
+    "1982"
+   ],
+   "answer": "B",
+   "explanation": "It was introduced in December 1969 after the Gadgil Study Group and the Nariman Committee. One bank leads banking development in each district. Source: RBI.",
+   "spare": true
+  },
+  {
+   "id": "b262be0473",
+   "topic": "Banking operations & terms",
+   "q": "Which account lets an NRI keep foreign earnings in rupees with principal and interest fully repatriable and tax-free in India?",
+   "options": [
+    "NRE account",
+    "NRO account",
+    "BSBD account",
+    "Escrow account"
+   ],
+   "answer": "A",
+   "explanation": "NRE accounts are rupee accounts, fully repatriable and tax-free. NRO accounts hold Indian income; FCNR(B) accounts are term deposits in foreign currency for 1 to 5 years. Source: RBI.",
+   "spare": true
+  },
+  {
+   "id": "556454970f",
+   "topic": "Banking operations & terms",
+   "q": "What is the minimum balance required in a Basic Savings Bank Deposit Account (BSBDA)?",
+   "options": [
+    "Rs 100",
+    "Nil",
+    "Rs 500",
+    "Rs 1,000"
+   ],
+   "answer": "B",
+   "explanation": "A BSBDA needs no minimum balance and comes with a free ATM or debit card. PMJDY accounts are BSBD accounts. Source: RBI.",
+   "spare": true
+  },
+  {
+   "id": "f5cb6d1818",
+   "topic": "Union Budget & government schemes",
+   "q": "Who chaired the 16th Finance Commission, which kept the States' share of central taxes at 41% for 2026-31?",
+   "options": [
+    "N.K. Singh",
+    "Y.V. Reddy",
+    "Vijay Kelkar",
+    "Arvind Panagariya"
+   ],
+   "answer": "D",
+   "explanation": "Arvind Panagariya chaired the 16th Finance Commission; its award covers 2026-27 to 2030-31. N.K. Singh chaired the 15th. Finance Commissions are set up under Article 280. Source: Wikipedia, checked Nov 2026.",
+   "spare": true
+  },
+  {
+   "id": "e825ffea56",
+   "topic": "Union Budget & government schemes",
+   "q": "The Credit Guarantee Fund for Micro Units (CGFMU), continued by the Cabinet in November 2026 till 31 March 2031, guarantees loans under which scheme?",
+   "options": [
+    "Pradhan Mantri Mudra Yojana",
+    "PM SVANidhi",
+    "PM Vishwakarma",
+    "Kisan Credit Card"
+   ],
+   "answer": "A",
+   "explanation": "CGFMU got a Rs 5,000 crore corpus and covers Mudra loans up to Rs 20 lakh (Shishu, Kishor, Tarun, Tarun Plus). NCGTC manages the fund. Source: AffairsCloud, 13 Nov 2026.",
+   "spare": true
+  },
+  {
+   "id": "307edc0c53",
+   "topic": "Union Budget & government schemes",
+   "q": "PM Vishwakarma, which completed three years on 17 September 2026, is run by which nodal ministry?",
+   "options": [
+    "Ministry of Textiles",
+    "Ministry of Micro, Small and Medium Enterprises",
+    "Ministry of Rural Development",
+    "Ministry of Labour and Employment"
+   ],
+   "answer": "B",
+   "explanation": "PM Vishwakarma was launched on 17 September 2023 for artisans of 18 traditional trades. It gives a Rs 15,000 toolkit incentive and loans of Rs 1 lakh and Rs 2 lakh at 5% interest. Source: AffairsCloud, 18 Sep 2026.",
+   "spare": true
+  },
+  {
+   "id": "23fe9bda38",
+   "topic": "National & international news",
+   "q": "The Viksit Bharat Shiksha Adhishthan Bill, 2025, referred to a Joint Parliamentary Committee, proposes one higher-education regulator in place of UGC, AICTE and which other body?",
+   "options": [
+    "NCERT",
+    "NCTE",
+    "NAAC",
+    "CBSE"
+   ],
+   "answer": "B",
+   "explanation": "The Bill would replace the University Grants Commission, the All India Council for Technical Education and the National Council for Teacher Education. It was introduced in the Lok Sabha on 15 December 2025. Source: SCC Online, 21 Aug 2026.",
+   "spare": true
+  },
+  {
+   "id": "b1f5d36234",
+   "topic": "National & international news",
+   "q": "The National Co-operative Development Corporation (NCDC), whose Act was amended in the Monsoon Session 2026, works under which ministry?",
+   "options": [
+    "Ministry of Agriculture and Farmers Welfare",
+    "Ministry of Cooperation",
+    "Ministry of Rural Development",
+    "Ministry of Finance"
+   ],
+   "answer": "B",
+   "explanation": "NCDC is a statutory body under the Ministry of Cooperation, set up under the NCDC Act, 1962, with headquarters in New Delhi. The 2026 amendment widens the activities it can fund. Source: PRS Session Wrap, Monsoon Session 2026.",
+   "spare": true
+  },
+  {
+   "id": "08839163dc",
+   "topic": "National & international news",
+   "q": "The 10th India Mobile Congress was held at Yashobhoomi, New Delhi, in October 2026. It is organised by the Department of Telecommunications and which industry body?",
+   "options": [
+    "NASSCOM",
+    "COAI",
+    "FICCI",
+    "TRAI"
+   ],
+   "answer": "B",
+   "explanation": "India Mobile Congress is organised jointly by the DoT and the Cellular Operators Association of India. The 2026 edition ran from 7 to 10 October with the theme 'Scale Without Boundaries'. Source: AffairsCloud, 14 Oct 2026.",
+   "spare": true
+  },
+  {
+   "id": "df4881f7f6",
+   "topic": "Countries, important days & general facts",
+   "q": "What is the currency of Indonesia, where the Prime Minister made a State Visit in July 2026?",
+   "options": [
+    "Rupiah",
+    "Ringgit",
+    "Dong",
+    "Kyat"
+   ],
+   "answer": "A",
+   "explanation": "Indonesia's currency is the rupiah; the PM visited on 6-8 July 2026 before going to Australia and New Zealand. Ringgit is Malaysia's, dong Vietnam's and kyat Myanmar's. Source: News On AIR, 8 Jul 2026.",
+   "spare": true
+  },
+  {
+   "id": "e8d588cebd",
+   "topic": "Geography & culture",
+   "q": "The Dree festival, celebrated on 5 July, belongs to the Apatani tribe of which state?",
+   "options": [
+    "Arunachal Pradesh",
+    "Nagaland",
+    "Sikkim",
+    "Tripura"
+   ],
+   "answer": "A",
+   "explanation": "The Apatani of the Ziro valley, Arunachal Pradesh, celebrate Dree as an agricultural festival. Source: Wikipedia (Dree Festival), read Nov 2026.",
+   "spare": true
+  },
+  {
+   "id": "355eeee025",
+   "topic": "Geography & culture",
+   "q": "Which Indian city is known as the 'Pink City'?",
+   "options": [
+    "Jodhpur",
+    "Jaipur",
+    "Udaipur",
+    "Mysuru"
+   ],
+   "answer": "B",
+   "explanation": "Jaipur was painted pink in 1876 to welcome the Prince of Wales. It was founded in 1727 by Sawai Jai Singh II and became a UNESCO World Heritage city in 2019. Source: Wikipedia (Jaipur), read Nov 2026.",
+   "spare": true
+  }
+ ]
+}

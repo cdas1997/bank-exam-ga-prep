@@ -1,0 +1,477 @@
+{
+ "verdicts": [
+  {
+   "key": "bf-budget",
+   "index": 0,
+   "q": "In November 2026 the Union Cabinet extended the Stand-Up India scheme up to which date?",
+   "verdict": "ok",
+   "note": "Confirmed 11 Nov 2026 extension to 31 Mar 2031, Rs 4,111 cr corpus, 2.5 lakh target on GKToday and AffairsCloud 13 Nov 2026.",
+   "source_url": "https://affairscloud.com/current-affairs-13-november-2026/"
+  },
+  {
+   "key": "bf-budget",
+   "index": 1,
+   "q": "The GOBARdhan scheme approved by the Union Cabinet in August 2026 is India's national unified scheme for which fuel?",
+   "verdict": "ok",
+   "note": "Confirmed on News On AIR 6 Aug 2026: CBG, Rs 23,731 cr, 2026-27 to 2035-36.",
+   "source_url": "https://newsonair.gov.in/cabinet-approves-gobardhan-scheme-marking-defining-moment-in-indias-clean-energy-journey/"
+  },
+  {
+   "key": "bf-budget",
+   "index": 2,
+   "q": "Under Ayushman Bharat PM-JAY, post-hospitalisation expenses are covered for how many days?",
+   "verdict": "ok",
+   "note": "Evergreen: PM-JAY 3 days pre / 15 days post hospitalisation; launched 23 Sep 2018 Ranchi. Certain knowledge."
+  },
+  {
+   "key": "bf-budget",
+   "index": 3,
+   "q": "PM Surya Ghar: Muft Bijli Yojana, with an outlay of Rs 75,021 crore, is to be implemented up to which financial year?",
+   "verdict": "ok",
+   "note": "PIB Cabinet release of 29 Feb 2024 gave Rs 75,021 cr till FY 2026-27 (own knowledge); Bing News search found no extension or outlay change as of Nov 2026; Wikipedia confirms outlay and MNRE.",
+   "source_url": "https://www.bing.com/news/search?q=PM+Surya+Ghar+Muft+Bijli+Yojana+extended+2027"
+  },
+  {
+   "key": "bf-budget",
+   "index": 4,
+   "q": "By a decision of September 2026, the monthly wage ceiling for mandatory EPF coverage was raised from Rs 15,000 to what amount?",
+   "verdict": "ok",
+   "note": "Bing News: ET and Mint report EPFO/Labour Ministry notified Rs 25,000 ceiling effective 17 Sep 2026.",
+   "source_url": "https://www.bing.com/news/search?q=EPF+wage+ceiling+25000"
+  },
+  {
+   "key": "bf-budget",
+   "index": 5,
+   "q": "According to MoSPI data released on 12 November 2026, what was India's CPI-based retail inflation for October 2026?",
+   "verdict": "ok",
+   "note": "6.09% Oct 2026 (Sep 5.54%, food 8.94%) on Trading Economics; CNBCTV18, News18, Oneindia headlines confirm 6.09% above RBI 6% limit.",
+   "source_url": "https://www.bing.com/news/search?q=CPI+inflation+October+2026+6.09"
+  },
+  {
+   "key": "bf-budget",
+   "index": 6,
+   "q": "In a GSTIN, which is 15 characters long, what do the ten characters after the two-digit state code represent?",
+   "verdict": "ok",
+   "note": "Evergreen GSTIN structure; certain knowledge."
+  },
+  {
+   "key": "bf-budget",
+   "index": 7,
+   "q": "The VISTAR scheme, approved by the Union Cabinet in November 2026 with about Rs 4,371 crore, belongs to which ministry?",
+   "verdict": "ok",
+   "note": "Confirmed on News On AIR 4 Nov 2026 (MoSPI, Rs 4,371 cr, 2026-27 to 2030-31, full form); 8th Economic Census confirmed via Moneycontrol/Business Standard headlines.",
+   "source_url": "https://newsonair.gov.in/cabinet-approves-over-rs-4371-crore-vistar-scheme-to-modernise-indias-statistical-system/"
+  },
+  {
+   "key": "bf-budget",
+   "index": 8,
+   "q": "The Pradhan Mantri Viksit Gram Swaraj Yojana, approved by the Cabinet in October 2026, aims to strengthen which institutions?",
+   "verdict": "ok",
+   "note": "Confirmed on DD News 28 Oct 2026: Rs 7,395.55 cr, central share Rs 4,869.48 cr, 2.55 lakh panchayats, strengthens Gram Panchayats.",
+   "source_url": "https://ddnews.gov.in/en/cabinet-approves-pm-viksit-gram-swaraj-yojana-with-outlay-of-rs-7395-crore"
+  },
+  {
+   "key": "bf-budget",
+   "index": 9,
+   "q": "In October 2026 the Cabinet renamed the National Social Assistance Programme (NSAP) as what?",
+   "verdict": "ok",
+   "note": "Confirmed on News On AIR 14 Oct 2026: renamed PM Samajik Sahayata Yojana, Rs 53,428 cr, 3.2 crore beneficiaries. DoRD is from own knowledge.",
+   "source_url": "https://newsonair.gov.in/cabinet-approves-53428-crore-rupees-for-social-security-net/"
+  },
+  {
+   "key": "bf-budget",
+   "index": 10,
+   "q": "For the October-December 2026 quarter, what is the interest rate on the Public Provident Fund (PPF)?",
+   "verdict": "ok",
+   "note": "Confirmed on Business Today 30 Sep 2026: PPF 7.1, NSC 7.7, KVP 7.5, SCSS/SSY 8.2 for Oct-Dec 2026.",
+   "source_url": "https://www.businesstoday.in/personal-finance/story/small-savings-scheme-interest-rates-unchanged-for-q3-fy27-check-ppf-scss-ssy-rates-558892-2026-09-30"
+  },
+  {
+   "key": "bf-budget",
+   "index": 11,
+   "q": "Which body does Article 279A of the Constitution provide for?",
+   "verdict": "ok",
+   "note": "Evergreen: Art 279A, 101st Amendment 2016; certain knowledge."
+  },
+  {
+   "key": "bf-budget",
+   "index": 12,
+   "q": "The Senior Citizens' Savings Scheme (SCSS) pays interest quarterly. What is the maximum amount an individual can deposit in it?",
+   "verdict": "ok",
+   "note": "Rs 30 lakh since 1 Apr 2023 (own knowledge); Bing News snippets (MSN, NDTV Profit, Mint, Oct-Nov 2026) still cite Rs 30 lakh cap.",
+   "source_url": "https://www.bing.com/news/search?q=Senior+Citizens+Savings+Scheme+deposit+limit+30+lakh+2026"
+  },
+  {
+   "key": "bf-budget",
+   "index": 13,
+   "q": "Which body regulates the National Pension System (NPS), which needs a minimum Tier-I contribution of Rs 1,000 a year?",
+   "verdict": "ok",
+   "note": "Evergreen; certain knowledge."
+  },
+  {
+   "key": "bf-budget",
+   "index": 14,
+   "q": "Senior citizens aged 70 and above get how much annual health cover under Ayushman Vay Vandana (AB PM-JAY)?",
+   "verdict": "ok",
+   "note": "Evergreen since 29 Oct 2024; certain knowledge."
+  },
+  {
+   "key": "bf-budget",
+   "index": 15,
+   "q": "As per NSO data released on 31 August 2026, India's real GDP grew by how much in April-June 2026 (Q1 of 2026-27)?",
+   "verdict": "ok",
+   "note": "Confirmed on Trading Economics: Q1 FY27 7.8%, released 31 Aug 2026, next release 30 Nov 2026.",
+   "source_url": "https://tradingeconomics.com/india/gdp-growth-annual"
+  },
+  {
+   "key": "bf-budget",
+   "index": 16,
+   "q": "In July 2026 the Cabinet continued PM-KISAN up to 2030-31. How much does an eligible farmer family get per year under it?",
+   "verdict": "ok",
+   "note": "Confirmed on New India Samachar page and ANI 31 Jul 2026: continued 2026-27 to 2030-31, Rs 3.15 lakh cr, Rs 6,000/yr.",
+   "source_url": "https://www.bing.com/news/search?q=Cabinet+PM-KISAN+continuation+2026-27+to+2030-31"
+  },
+  {
+   "key": "bf-budget",
+   "index": 17,
+   "q": "Which ministry will administer the unified GOBARdhan scheme (2026-27 to 2035-36) approved in August 2026?",
+   "verdict": "ok",
+   "note": "GKToday 7 Aug 2026 states the scheme is administered by MoPNG; 2018 SBM-G origin from own knowledge.",
+   "source_url": "https://www.gktoday.in/cabinet-clears-rs-23731-crore-gobardhan-scheme-rs-8970-crore-assam-corridor/"
+  },
+  {
+   "key": "bf-budget",
+   "index": 18,
+   "q": "The Union Budget 2026-27 set the fiscal deficit target for 2026-27 at what percentage of GDP?",
+   "verdict": "ok",
+   "note": "Confirmed on PRS: 4.3% target, 4.4% RE 2025-26, expenditure Rs 53,47,315 cr, capex Rs 12.2 lakh cr.",
+   "source_url": "https://prsindia.org/budgets/parliament/union-budget-2026-27-analysis"
+  },
+  {
+   "key": "bf-budget",
+   "index": 19,
+   "q": "Pradhan Mantri Surya Sarovar Yojana, approved by the Cabinet in July 2026 with Rs 5,070 crore, promotes which type of project?",
+   "verdict": "ok",
+   "note": "Confirmed: New India Samachar page and ANI/Business Standard (31 Jul 2026): Rs 5,070 cr, 5,000 MW floating solar with storage.",
+   "source_url": "https://www.bing.com/news/search?q=Surya+Sarovar+Yojana+floating+solar+cabinet"
+  },
+  {
+   "key": "bf-budget",
+   "index": 20,
+   "q": "Gross GST collections for October 2026, released on 1 November 2026, were about how much?",
+   "verdict": "ok",
+   "note": "Confirmed Rs 2,31,290 cr, +22.9%, second-highest (Adda247, HT/MSN, ET); April 2026 record Rs 2.43 lakh cr per News18.",
+   "source_url": "https://www.bing.com/news/search?q=October+GST+collection+2.31+lakh+crore"
+  },
+  {
+   "key": "bf-budget",
+   "index": 21,
+   "q": "On 30 September 2026 the CCEA fixed the MSP of wheat for the 2027-28 marketing season at what price per quintal?",
+   "verdict": "ok",
+   "note": "Confirmed on Business Today 30 Sep 2026: Rs 2,610 (prev Rs 2,585).",
+   "source_url": "https://businesstoday.in/latest/economy/story/cabinet-clears-rs2-79-lakh-crore-package-rabi-msp-hike-pm-dhara-and-delhi-traffic-system-558824-2026-09-30"
+  },
+  {
+   "key": "bf-budget",
+   "index": 22,
+   "q": "What is the annual premium for the Rs 2 lakh life cover under Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)?",
+   "verdict": "ok",
+   "note": "Evergreen; Rs 436 since June 2022; certain knowledge."
+  },
+  {
+   "key": "bf-budget",
+   "index": 23,
+   "q": "What is the entry age band for joining Atal Pension Yojana (APY)?",
+   "verdict": "ok",
+   "note": "Evergreen; certain knowledge."
+  },
+  {
+   "key": "bf-budget",
+   "index": 24,
+   "q": "Who presented the Union Budget 2026-27 on 1 February 2026, her ninth Budget in a row?",
+   "verdict": "ok",
+   "note": "Adda247 confirms Sitharaman and Kartavya Bhawan; 9th consecutive (Jul 2019 to Feb 2026, incl. interim 2024) by count.",
+   "source_url": "https://currentaffairs.adda247.com/highlights-of-union-budget-2026-27/"
+  },
+  {
+   "key": "bf-budget",
+   "index": 25,
+   "q": "After the GST rate rationalisation that took effect on 22 September 2025, what are the two main GST slabs?",
+   "verdict": "ok",
+   "note": "Evergreen since 22 Sep 2025; certain knowledge."
+  },
+  {
+   "key": "bf-budget",
+   "index": 26,
+   "q": "The Income-tax Act, 2025, which replaced the Income-tax Act, 1961, came into force on which date?",
+   "verdict": "ok",
+   "note": "Own knowledge (Act notified Aug 2025, effective 1 Apr 2026); PRS confirms MAT 15% to 14%.",
+   "source_url": "https://prsindia.org/budgets/parliament/union-budget-2026-27-analysis"
+  },
+  {
+   "key": "bf-budget",
+   "index": 27,
+   "q": "Who chaired the 16th Finance Commission, which kept the States' share of central taxes at 41% for 2026-31?",
+   "verdict": "ok",
+   "note": "Panagariya chair (own knowledge); 41% retained for 5 years confirmed by Tribune and Deccan Herald headlines.",
+   "source_url": "https://www.bing.com/news/search?q=16th+Finance+Commission+41+per+cent+states+share+Panagariya"
+  },
+  {
+   "key": "bf-budget",
+   "index": 28,
+   "q": "The Credit Guarantee Fund for Micro Units (CGFMU), continued by the Cabinet in November 2026 till 31 March 2031, guarantees loans under which scheme?",
+   "verdict": "ok",
+   "note": "Confirmed on AffairsCloud 13 Nov 2026: till 31 Mar 2031, Rs 5,000 cr, Mudra loans up to Rs 20 lakh, NCGTC.",
+   "source_url": "https://affairscloud.com/current-affairs-13-november-2026/"
+  },
+  {
+   "key": "bf-budget",
+   "index": 29,
+   "q": "PM Vishwakarma, which completed three years on 17 September 2026, is run by which nodal ministry?",
+   "verdict": "ok",
+   "note": "Evergreen; certain knowledge."
+  },
+  {
+   "key": "bf-budget",
+   "index": 30,
+   "q": "The 57th meeting of the GST Council was held in which month of 2026?",
+   "verdict": "ok",
+   "note": "gstcouncil.gov.in lists 57th meeting 08.10.2026; India.com/ANI confirm 8 Oct 2026, New Delhi.",
+   "source_url": "https://gstcouncil.gov.in/"
+  },
+  {
+   "key": "bf-budget",
+   "index": 31,
+   "q": "MSPs recommended by the CACP are announced by the government for how many mandated crops?",
+   "verdict": "ok",
+   "note": "Evergreen; certain knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 0,
+   "q": "Under the Liberalised Remittance Scheme (LRS), a resident individual can remit up to how much abroad in a financial year?",
+   "verdict": "ok",
+   "note": "Evergreen banking fact; confirmed from certain knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 1,
+   "q": "Up to what amount is each depositor's money in a bank insured by the DICGC?",
+   "verdict": "ok",
+   "note": "Rs 5 lakh still current; latest Bing News (Nov 2026) still Rs 5 lakh, increase only under consideration.",
+   "source_url": "https://www.bing.com/news/search?q=DICGC+deposit+insurance+cover+limit+raised"
+  },
+  {
+   "key": "bf-banking",
+   "index": 2,
+   "q": "A loan is classified as a non-performing asset (NPA) when interest or principal stays overdue for more than how many days?",
+   "verdict": "ok",
+   "note": "Evergreen banking fact; confirmed from certain knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 3,
+   "q": "What is the minimum maturity period of a Certificate of Deposit (CD)?",
+   "verdict": "ok",
+   "note": "Evergreen banking fact; confirmed from certain knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 4,
+   "q": "How many public sector banks does India have at present, including State Bank of India?",
+   "verdict": "ok",
+   "note": "12 PSBs; Bing News shows no merger approved in 2025-26 (FM said no roadmap, Feb 2026).",
+   "source_url": "https://www.bing.com/news/search?q=public+sector+banks+merger+2026"
+  },
+  {
+   "key": "bf-banking",
+   "index": 5,
+   "q": "A cheque is valid for how long from the date written on it?",
+   "verdict": "ok",
+   "note": "RBI circular Nov 2011, effective 1 Apr 2012; certain knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 6,
+   "q": "Bouncing of a cheque for want of funds is an offence under which section of the Negotiable Instruments Act, 1881?",
+   "verdict": "ok",
+   "note": "Evergreen banking fact; confirmed from certain knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 7,
+   "q": "What does CASA stand for in banking?",
+   "verdict": "ok",
+   "note": "Evergreen banking fact; confirmed from certain knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 8,
+   "q": "What does MCLR stand for?",
+   "verdict": "ok",
+   "note": "Evergreen banking fact; confirmed from certain knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 9,
+   "q": "Which of these is NOT a tenor at which Government of India Treasury Bills are issued?",
+   "verdict": "ok",
+   "note": "Evergreen banking fact; confirmed from certain knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 10,
+   "q": "Under Basel III norms as applied by the RBI, what minimum CRAR must Indian banks keep, not counting the capital conservation buffer?",
+   "verdict": "ok",
+   "note": "Evergreen banking fact; confirmed from certain knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 11,
+   "q": "The SARFAESI Act, which lets banks enforce security without going to court, was passed in which year?",
+   "verdict": "ok",
+   "note": "Evergreen banking fact; confirmed from certain knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 12,
+   "q": "On 19 July 1969, how many commercial banks were nationalised?",
+   "verdict": "ok",
+   "note": "Evergreen banking fact; confirmed from certain knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 13,
+   "q": "What is the overall priority sector lending target for domestic commercial banks, as a share of Adjusted Net Bank Credit?",
+   "verdict": "ok",
+   "note": "40% ANBC, 18% agri, RRB 75%, SFB 60% (cut from 75% by RBI June 2025); certain knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 14,
+   "q": "Under the Banking Laws (Amendment) Act, 2025, a depositor can name up to how many nominees for a bank deposit account?",
+   "verdict": "ok",
+   "note": "Banking Laws (Amendment) Act 2025 provisions effective 1 Nov 2025 per MoF release of Oct 2025; own knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 15,
+   "q": "The Prevention of Money Laundering Act (PMLA) was passed in which year?",
+   "verdict": "ok",
+   "note": "Evergreen banking fact; confirmed from certain knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 16,
+   "q": "Which body maintains the Central KYC Records Registry (CKYCR)?",
+   "verdict": "ok",
+   "note": "Evergreen banking fact; confirmed from certain knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 17,
+   "q": "What is the maximum balance an individual customer can hold in a payments bank at the end of the day?",
+   "verdict": "ok",
+   "note": "Evergreen banking fact; confirmed from certain knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 18,
+   "q": "How is the share capital of a Regional Rural Bank held by the Centre, the State Government and the sponsor bank?",
+   "verdict": "ok",
+   "note": "Evergreen banking fact; confirmed from certain knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 19,
+   "q": "Oriental Bank of Commerce and United Bank of India were merged into which bank on 1 April 2020?",
+   "verdict": "ok",
+   "note": "Evergreen banking fact; confirmed from certain knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 20,
+   "q": "The Lead Bank Scheme was introduced in which year?",
+   "verdict": "ok",
+   "note": "Evergreen banking fact; confirmed from certain knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 21,
+   "q": "How many characters does an IFSC (Indian Financial System Code) have?",
+   "verdict": "ok",
+   "note": "Evergreen banking fact; confirmed from certain knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 22,
+   "q": "A bank included in the Second Schedule of which Act is called a scheduled bank?",
+   "verdict": "ok",
+   "note": "Evergreen banking fact; confirmed from certain knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 23,
+   "q": "Which account lets an NRI keep foreign earnings in rupees with principal and interest fully repatriable and tax-free in India?",
+   "verdict": "ok",
+   "note": "Evergreen banking fact; confirmed from certain knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 24,
+   "q": "What is the minimum balance required in a Basic Savings Bank Deposit Account (BSBDA)?",
+   "verdict": "ok",
+   "note": "Evergreen banking fact; confirmed from certain knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 25,
+   "q": "Which authority hears corporate insolvency cases under the Insolvency and Bankruptcy Code, 2016?",
+   "verdict": "ok",
+   "note": "Evergreen banking fact; confirmed from certain knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 26,
+   "q": "National Asset Reconstruction Company Ltd (NARCL) is commonly known as India's what?",
+   "verdict": "ok",
+   "note": "Evergreen banking fact; confirmed from certain knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 27,
+   "q": "Which three banks are classified by the RBI as Domestic Systemically Important Banks (D-SIBs)?",
+   "verdict": "ok",
+   "note": "Evergreen banking fact; confirmed from certain knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 28,
+   "q": "The capital conservation buffer under Basel III is what percentage of risk-weighted assets?",
+   "verdict": "ok",
+   "note": "RBI Dec 2025 list retains SBI, HDFC Bank, ICICI Bank (Moneycontrol, Zee Business).",
+   "source_url": "https://www.bing.com/news/search?q=RBI+D-SIB+list+SBI+HDFC+ICICI"
+  },
+  {
+   "key": "bf-banking",
+   "index": 29,
+   "q": "What does NIM stand for in a bank's results?",
+   "verdict": "ok",
+   "note": "Evergreen banking fact; confirmed from certain knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 30,
+   "q": "The money market deals in funds and instruments with a maturity of up to how long?",
+   "verdict": "ok",
+   "note": "Evergreen banking fact; confirmed from certain knowledge."
+  },
+  {
+   "key": "bf-banking",
+   "index": 31,
+   "q": "What does LCR stand for under Basel III?",
+   "verdict": "ok",
+   "note": "Evergreen banking fact; confirmed from certain knowledge."
+  }
+ ]
+}

@@ -1,0 +1,546 @@
+{
+ "verdicts": [
+  {
+   "key": "bf-digital",
+   "index": 0,
+   "q": "NACH, operated by NPCI, is mainly used for which kind of payments?",
+   "verdict": "ok",
+   "note": "Static fact: NACH is NPCI's bulk/repetitive payment system that replaced ECS.",
+   "source_url": "https://en.wikipedia.org/wiki/National_Automated_Clearing_House"
+  },
+  {
+   "key": "bf-digital",
+   "index": 1,
+   "q": "As per NPCI data, UPI recorded its highest-ever monthly volume in October 2026. How many transactions did it process?",
+   "verdict": "ok",
+   "note": "Confirmed 25.47 bn transactions in Oct 2026 (record), Sep 24.07 bn, Aug 24.51 bn, +23% YoY on Entrepreneur India and Business Today reports of NPCI data.",
+   "source_url": "https://india.entrepreneur.com/business-news/upi-hits-record-25-47-bn-transactions-in-october-daily-value-crosses-inr-1-l-cr"
+  },
+  {
+   "key": "bf-digital",
+   "index": 2,
+   "q": "What was the total value of UPI transactions in October 2026, the first month in which the average daily value crossed Rs 1 lakh crore?",
+   "verdict": "ok",
+   "note": "Confirmed Rs 31.53 lakh crore in Oct 2026, average daily value Rs 1,01,707 crore (first time above Rs 1 lakh crore); Sep Rs 29.37 lakh crore.",
+   "source_url": "https://india.entrepreneur.com/business-news/upi-hits-record-25-47-bn-transactions-in-october-daily-value-crosses-inr-1-l-cr"
+  },
+  {
+   "key": "bf-digital",
+   "index": 3,
+   "q": "NPCI's proposed Merchant Discount Rate (MDR) on eligible person-to-merchant UPI payments above Rs 2,000, deferred in October 2026, is set at what rate?",
+   "verdict": "ok",
+   "note": "Confirmed 0.4% MDR on P2M above Rs 2,000, deferred on 13 Oct 2026 to 'immediately post Diwali at a date to be notified'; still no start date as of reports of 10-14 Nov 2026.",
+   "source_url": "https://indianstartupnews.com/news/mdr-on-upi-is-still-on-hold-but-npci-has-already-decided-how-part-of-it-will-be-spent-12806682"
+  },
+  {
+   "key": "bf-digital",
+   "index": 4,
+   "q": "Under the RBI's digital fraud compensation framework issued on 24 June 2026, a victim of a small-value digital fraud (loss up to Rs 50,000) gets how much?",
+   "verdict": "ok",
+   "note": "Confirmed on the RBI notification itself (RBI/2026-27/167, 24 Jun 2026): 85% of net loss or Rs 25,000 whichever is less, gross loss up to Rs 50,000, once in a lifetime, transactions on/after 1 Jan 2027, report within five calendar days.",
+   "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13543&Mode=0"
+  },
+  {
+   "key": "bf-digital",
+   "index": 5,
+   "q": "What is the minimum amount that can be sent through RTGS?",
+   "verdict": "ok",
+   "note": "RBI RTGS FAQ (updated 14 Oct 2026): minimum Rs 2 lakh, no upper ceiling, 24x7 since 14 Dec 2020.",
+   "source_url": "https://www.rbi.org.in/Scripts/FAQView.aspx?Id=65"
+  },
+  {
+   "key": "bf-digital",
+   "index": 6,
+   "q": "The IFSC used for NEFT and RTGS transfers has how many characters?",
+   "verdict": "ok",
+   "note": "RBI NEFT FAQ (2 Sep 2024): IFSC is 11 characters, first 4 bank, 5th is 0, last 6 branch.",
+   "source_url": "https://www.rbi.org.in/Scripts/FAQView.aspx?Id=60"
+  },
+  {
+   "key": "bf-digital",
+   "index": 7,
+   "q": "Which number is the national helpline for reporting cyber financial fraud in India?",
+   "verdict": "fix",
+   "note": "Explanation wrongly called 14444 the DigiSaathi helpline; DigiSaathi is 14431 (NPCI/RBI). Options unchanged (14444 stays as a plain distractor).",
+   "fix": {
+    "explanation": "1930 is the national cyber crime helpline, run by the Home Ministry's Indian Cyber Crime Coordination Centre (I4C) along with the portal cybercrime.gov.in. 155260 was the earlier fraud helpline number. The RBI-NPCI DigiSaathi helpline for digital payment queries is 14431, and 1947 is the Aadhaar (UIDAI) helpline. Source: Ministry of Home Affairs (I4C); NPCI DigiSaathi page."
+   },
+   "source_url": "https://www.npci.org.in/digisaathi"
+  },
+  {
+   "key": "bf-digital",
+   "index": 8,
+   "q": "NPCI was set up in 2008 as an initiative of the Reserve Bank of India and which other body?",
+   "verdict": "ok",
+   "note": "Static: NPCI set up in 2008 by RBI and IBA under the PSS Act, 2007; HQ Mumbai.",
+   "source_url": "https://en.wikipedia.org/wiki/National_Payments_Corporation_of_India"
+  },
+  {
+   "key": "bf-digital",
+   "index": 9,
+   "q": "In August 2026, NPCI International signed a pact so that Indian travellers can pay by UPI through the HUMO payment system. HUMO belongs to which country?",
+   "verdict": "ok",
+   "note": "Confirmed: NIPL signed with Uzbekistan's NIPC (HUMO operator) on 30 Aug 2026 for UZQR acceptance; Biometric Update calls it UPI's first entry into Central Asia.",
+   "source_url": "https://www.drishtiias.com/state-pcs-current-affairs/upi-expands-in-uzbekistan-through-partnership-with-humo"
+  },
+  {
+   "key": "bf-digital",
+   "index": 10,
+   "q": "The proposed MDR on UPI merchant payments is capped at what amount per transaction?",
+   "verdict": "ok",
+   "note": "Confirmed Rs 300 cap at Rs 75,000 and above; small merchants up to Rs 1 lakh a month via UPI QR (P2PM) exempt; start date still not notified.",
+   "source_url": "https://india.entrepreneur.com/business-news/upi-hits-record-25-47-bn-transactions-in-october-daily-value-crosses-inr-1-l-cr"
+  },
+  {
+   "key": "bf-digital",
+   "index": 11,
+   "q": "A UTR number for an RTGS transaction has how many characters?",
+   "verdict": "ok",
+   "note": "RBI RTGS FAQ confirms 22-character UTR; NEFT UTR is 16 characters (standard).",
+   "source_url": "https://www.rbi.org.in/Scripts/FAQView.aspx?Id=65"
+  },
+  {
+   "key": "bf-digital",
+   "index": 12,
+   "q": "UPI Tap & Pay, launched at Global Fintech Fest 2026 in September 2026, works on which technology?",
+   "verdict": "ok",
+   "note": "Confirmed: Tap & Pay unveiled by RBI Governor at GFF 2026 on 10 Sep 2026, NFC-based, no PIN for small payments under Rs 5,000; MyUPI launched alongside.",
+   "source_url": "https://www.businesstoday.in/technology/news/story/upi-gets-easier-npci-introduces-nfc-based-tap-pay-and-ai-powered-myupi-554950-2026-09-11"
+  },
+  {
+   "key": "bf-digital",
+   "index": 13,
+   "q": "In which year was UPI launched by NPCI?",
+   "verdict": "ok",
+   "note": "Static: UPI launched 11 Apr 2016 (pilot), app rollout 25 Aug 2016 with 21 banks.",
+   "source_url": "https://currentaffairs.adda247.com/upi-completes-10-years-key-milestones-statistics-global-reach-and-whats-next/"
+  },
+  {
+   "key": "bf-digital",
+   "index": 14,
+   "q": "The RBI regulates payment systems such as UPI, NEFT and RTGS under which Act?",
+   "verdict": "ok",
+   "note": "Static: PSS Act 2007. The Sept 2026 MDR framework rests on the Section 10A notification under that Act (S.O. 5067(E), 14 Sep 2026).",
+   "source_url": "https://www.moneylife.in/article/upi-transactions-above-2000-could-face-mdr-as-govt-redraws-nocharge-rule/81648.html"
+  },
+  {
+   "key": "bf-digital",
+   "index": 15,
+   "q": "What is the per-transaction limit for IMPS?",
+   "verdict": "ok",
+   "note": "IMPS cap Rs 5 lakh (NPCI Circular 103, Oct 2021), unchanged in 2026 per current bank/fintech guides; IMPS launched 22 Nov 2010.",
+   "source_url": "https://www.npci.org.in/PDF/npci/imps/circular/IMPS-Circular-103-Enhanced-Per-Transaction-Limit-for-IMPS-Transactions-from-Rs-2-Lakh-to-Rs-5-Lakh.pdf"
+  },
+  {
+   "key": "bf-digital",
+   "index": 16,
+   "q": "Since which date has NEFT been available round the clock, 24x7?",
+   "verdict": "ok",
+   "note": "Static: NEFT 24x7 from 16 Dec 2019; RTGS 24x7 from 14 Dec 2020 (RBI FAQ).",
+   "source_url": "https://www.rbi.org.in/Scripts/FAQView.aspx?Id=65"
+  },
+  {
+   "key": "bf-digital",
+   "index": 17,
+   "q": "NPCI is registered as which type of company?",
+   "verdict": "ok",
+   "note": "Static: NPCI is a Section 8 company. NTSL as fourth wholly owned subsidiary confirmed (Inc42, CRN Asia, Nov 2026).",
+   "source_url": "https://www.crnasia.com/india/news/2026/npci-sets-up-technology-subsidiary-to-expand-ai-blockchain-and-gcc-services"
+  },
+  {
+   "key": "bf-digital",
+   "index": 18,
+   "q": "What is the maximum balance that can be kept in a UPI Lite wallet?",
+   "verdict": "ok",
+   "note": "UPI Lite wallet Rs 5,000 / Rs 1,000 per txn per RBI circular of 4 Dec 2024; no 2025-26 revision found.",
+   "source_url": "https://www.business-standard.com/amp/finance/news/rbi-enhances-upi-lite-wallet-limits-updates-offline-payments-framework-124120401144_1.html"
+  },
+  {
+   "key": "bf-digital",
+   "index": 19,
+   "q": "In October 2026, the RBI excluded Paytm Payments Bank from which Schedule of the RBI Act, 1934, which lists scheduled banks?",
+   "verdict": "fix",
+   "note": "The exclusion notification is dated 31 Jul 2026; the RBI only announced it on 7 Oct 2026. Stem reworded so it does not say the exclusion happened in October; explanation adds the dates.",
+   "fix": {
+    "q": "In October 2026, the RBI announced that Paytm Payments Bank had been excluded from which Schedule of the RBI Act, 1934, the Schedule that lists scheduled banks?",
+    "explanation": "Scheduled banks are listed in the Second Schedule of the RBI Act, 1934. Paytm Payments Bank was excluded by an RBI notification dated 31 July 2026, announced in a press release on 7 October 2026. The RBI had cancelled its licence on 24 April 2026, and the Delhi High Court ordered its winding up in July 2026. Source: RBI press release, 7 Oct 2026."
+   },
+   "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63751"
+  },
+  {
+   "key": "bf-digital",
+   "index": 20,
+   "q": "In which year was the RuPay card network launched by NPCI?",
+   "verdict": "ok",
+   "note": "Static: RuPay launched 26 Mar 2012, dedicated to the nation May 2014.",
+   "source_url": "https://en.wikipedia.org/wiki/RuPay"
+  },
+  {
+   "key": "bf-digital",
+   "index": 21,
+   "q": "The Bharat Bill Payment System (BBPS) is now known by which name?",
+   "verdict": "ok",
+   "note": "Static: BBPS rebranded Bharat Connect (2024), run by NBBL; Sept 2026 multicurrency forex on Bharat Connect confirmed (Adda247, 11 Sep 2026).",
+   "source_url": "https://currentaffairs.adda247.com/upi-gets-tap-to-pay-and-unified-transaction-view-features/"
+  },
+  {
+   "key": "bf-digital",
+   "index": 22,
+   "q": "How many digits does the MICR code printed on a cheque have?",
+   "verdict": "ok",
+   "note": "Static: MICR is 9 digits (city-bank-branch).",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "key": "bf-digital",
+   "index": 23,
+   "q": "The RBI started the pilot of the retail Digital Rupee (e-Rupee Retail) on which date?",
+   "verdict": "ok",
+   "note": "Static: wholesale e-Rupee pilot 1 Nov 2022, retail 1 Dec 2022.",
+   "source_url": "https://en.wikipedia.org/wiki/Digital_rupee"
+  },
+  {
+   "key": "bf-digital",
+   "index": 24,
+   "q": "What is the maximum outstanding balance allowed in a full-KYC prepaid payment instrument (PPI) such as a wallet?",
+   "verdict": "ok",
+   "note": "Full-KYC PPI Rs 2 lakh (2021 Master Direction, still in force, updated 30 Sep 2026; April 2026 draft MD keeps Rs 2 lakh and is not yet final). Small PPI Rs 10,000.",
+   "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12094"
+  },
+  {
+   "key": "bf-digital",
+   "index": 25,
+   "q": "What is the base period of the RBI's Digital Payments Index (RBI-DPI)?",
+   "verdict": "ok",
+   "note": "Base March 2018 = 100 confirmed. Sep 2025 reading 516.76 (RBI PR 12 Feb 2026) is correct; no March 2026 reading found in three searches, so explanation figures stand as dated.",
+   "source_url": "https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62213"
+  },
+  {
+   "key": "bf-digital",
+   "index": 26,
+   "q": "Which was the first country outside India to accept UPI payments through the BHIM app, in July 2021?",
+   "verdict": "ok",
+   "note": "Static: Bhutan accepted BHIM UPI from 13 Jul 2021; France Feb 2024; Cambodia live 2 Jun 2026 (RBI PR).",
+   "source_url": "https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62857"
+  },
+  {
+   "key": "bf-digital",
+   "index": 27,
+   "q": "The 'UPI Vyapaar Saksham Scheme', issued through a circular dated 11 November 2026 to expand UPI acceptance among small merchants, is a scheme of which organisation?",
+   "verdict": "ok",
+   "note": "Confirmed NPCI's UPI Vyapaar Saksham Scheme by circular of 11 Nov 2026, funded by 5% of participants' MDR share for three years from MDR start (Inc42; Indian Startup News, 14 Nov 2026).",
+   "source_url": "https://indianstartupnews.com/news/mdr-on-upi-is-still-on-hold-but-npci-has-already-decided-how-part-of-it-will-be-spent-12806682"
+  },
+  {
+   "key": "bf-digital",
+   "index": 28,
+   "q": "In November 2026, NPCI announced its fourth wholly owned subsidiary, focused on AI, blockchain and digital public infrastructure. What is it called?",
+   "verdict": "fix",
+   "note": "NTSL was first unveiled as NPCI's fourth subsidiary at Global Fintech Fest 2025 (Drishti IAS, 10 Oct 2025); Nov 2026 was its formal set-up with an MD & CEO. Stem's 'announced in November 2026' is arguable, so the date claim is moved to the explanation.",
+   "fix": {
+    "q": "NPCI's fourth wholly owned subsidiary, set up to work on AI, blockchain and digital public infrastructure, is called what?",
+    "explanation": "NPCI Tech Solutions Ltd (NTSL) was first unveiled at Global Fintech Fest 2025 and formally set up in November 2026 with Vishal Kanvaty as MD & CEO. It joins NIPL (international payments), NBBL (Bharat Connect bill payments) and NBSL (BHIM app). Source: Inc42, 4 Nov 2026."
+   },
+   "source_url": "https://inc42.com/buzz/npci-expands-beyond-payments-with-ai-blockchain-focused-subsidiary/"
+  },
+  {
+   "key": "bf-digital",
+   "index": 29,
+   "q": "In October 2026, the Prime Minister inaugurated an RBI Data Centre and Cybersecurity Training Institute in which state?",
+   "verdict": "ok",
+   "note": "Confirmed: PM inaugurated RBI Data Centre and Cybersecurity Training Institute at Jatni near Bhubaneswar on 25 Oct 2026; will support RTGS and NEFT.",
+   "source_url": "https://newsonair.gov.in/pm-modi-inaugurates-rbi-data-centre-and-cybersecurity-training-institute-in-odisha/"
+  },
+  {
+   "key": "bf-digital",
+   "index": 30,
+   "q": "What is the per-transaction limit for UPI 123PAY, the UPI service for feature-phone users?",
+   "verdict": "ok",
+   "note": "UPI 123PAY limit raised to Rs 10,000 (RBI, Oct 2024); no later change found.",
+   "source_url": "https://inc42.com/buzz/rbi-increases-transaction-limits-for-upi123pay-upi-lite"
+  },
+  {
+   "key": "bf-digital",
+   "index": 31,
+   "q": "In June 2026, UPI acceptance went live in Cambodia. Indian travellers pay there by scanning which national QR code?",
+   "verdict": "ok",
+   "note": "Confirmed: UPI acceptance via KHQR in Cambodia launched 2 Jun 2026 at Phnom Penh through NIPL-ACLEDA (RBI press release).",
+   "source_url": "https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62857"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 0,
+   "q": "Which body regulates credit rating agencies in India?",
+   "verdict": "ok",
+   "note": "Static: SEBI regulates CRAs under 1999 regulations; CRISIL (1987) first.",
+   "source_url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=3&smid=0"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 1,
+   "q": "Mutual funds in India are regulated by which body?",
+   "verdict": "ok",
+   "note": "SEBI regulates MFs; SEBI (Mutual Funds) Regulations, 2026 in force from 1 Apr 2026 (Business Standard, Taxmann).",
+   "source_url": "https://www.taxmann.com/post/blog/sebi-notifies-mutual-funds-regulations-2026"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 2,
+   "q": "The National Stock Exchange (NSE) was set up on the recommendation of which committee?",
+   "verdict": "ok",
+   "note": "Static: Pherwani Committee recommended NSE; incorporated 1992, trading 1994.",
+   "source_url": "https://en.wikipedia.org/wiki/National_Stock_Exchange_of_India"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 3,
+   "q": "Who is the Chairman and Managing Director of SIDBI?",
+   "verdict": "ok",
+   "note": "SIDBI website names Manoj Mittal CMD (since July 2024, term to 26 Jul 2027); active as CMD at Aug 2026 AGM. Shaji K. V. confirmed NABARD chairman (NABARD site).",
+   "source_url": "https://www.sidbi.in/en/cmd"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 4,
+   "q": "The Financial Intelligence Unit-India (FIU-IND) works under which department of the Ministry of Finance?",
+   "verdict": "fix",
+   "note": "Department of Revenue confirmed. Director name confirmed on Business Standard (24 Jul 2026, 'IRS officer Satya Pal Kumar appointed FIU director') and IndianBureaucracy (five-year tenure, replacing Pankaj Kumar Mishra). No source supports Amit Mohan Govil. Explanation firmed up and re-sourced.",
+   "fix": {
+    "explanation": "FIU-IND, set up on 18 November 2004, is under the Department of Revenue and reports directly to the Economic Intelligence Council headed by the Finance Minister. IRS officer Satya Pal Kumar (2005 batch) was appointed its Director in July 2026 for a five-year term. Source: FIU-IND website; Business Standard, 24 Jul 2026."
+   },
+   "source_url": "https://www.indianbureaucracy.com/satya-pal-kumar-irs-appointed-as-director-financial-intelligence-unit-india/"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 5,
+   "q": "Which body recommends Minimum Support Prices (MSP) to the Government?",
+   "verdict": "ok",
+   "note": "Static: CACP recommends MSP; CCEA approves.",
+   "source_url": "https://en.wikipedia.org/wiki/Commission_for_Agricultural_Costs_and_Prices"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 6,
+   "q": "Who is the Chairman of SEBI?",
+   "verdict": "ok",
+   "note": "Tuhin Kanta Pandey still SEBI Chairman (speeches 15 and 31 Oct 2026); took charge 1 Mar 2025.",
+   "source_url": "https://newsonair.gov.in/capital-reforms-will-make-financial-markets-more-efficient-resilient-says-sebi-chairman-tuhin-kant-pandey/"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 7,
+   "q": "What is the ownership pattern of a Regional Rural Bank among the Central Government, the State Government and the sponsor bank?",
+   "verdict": "ok",
+   "note": "Static: RRB ownership 50:15:35.",
+   "source_url": "https://en.wikipedia.org/wiki/Regional_rural_bank"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 8,
+   "q": "After the 'One State, One RRB' amalgamation effective 1 May 2025, how many Regional Rural Banks does India have?",
+   "verdict": "fix",
+   "note": "The merged RRBs were in 10 states and one Union Territory, not 10 states.",
+   "fix": {
+    "explanation": "The number of RRBs fell from 43 to 28 when 26 RRBs in 10 states and one Union Territory were merged into 11, effective 1 May 2025, under 'One State, One RRB'. This was the fourth phase of RRB consolidation. Source: Finance Ministry / News On AIR, 8 Apr 2025."
+   },
+   "source_url": "https://newsonair.gov.in/finance-ministry-merges-26-rrbs-under-one-state-one-rrb-plan"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 9,
+   "q": "At its board meeting on 24 September 2026, SEBI approved the SEBI (Portfolio Managers) Regulations, 2026. They replace the regulations of which year?",
+   "verdict": "ok",
+   "note": "Confirmed: SEBI's 215th board meeting on 24 Sep 2026 approved PMS Regulations 2026 replacing the 2020 regulations; SEBI page lists them 'with effect from April 1, 2027'.",
+   "source_url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-portfolio-managers-regulations-2026-with-effect-from-april-1-2027-_105159.html"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 10,
+   "q": "Under SEBI rules, what is the minimum investment a client must make with a portfolio manager (PMS)?",
+   "verdict": "ok",
+   "note": "Confirmed Rs 50 lakh PMS minimum retained (Business Today, 13 Oct 2026); PRIM minimum Rs 25 lakh (Outlook Money).",
+   "source_url": "https://www.businesstoday.in/personal-finance/story/pms-minimum-investment-stays-at-rs50-lakh-who-gets-access-to-professional-wealth-management-561141-2026-10-13"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 11,
+   "q": "NABARD was set up in 1982 on the recommendation of which committee?",
+   "verdict": "ok",
+   "note": "Static: NABARD 12 Jul 1982 on CRAFICARD (B. Sivaraman) recommendation; Shaji K. V. confirmed chairman on NABARD site.",
+   "source_url": "https://www.nabard.org/team.aspx?id=9"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 12,
+   "q": "Who is the Chairman of NABARD?",
+   "verdict": "ok",
+   "note": "NABARD website names Dr. Shaji Krishnan V as Chairman; seen in office Oct 2026.",
+   "source_url": "https://www.nabard.org/team.aspx?id=9"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 13,
+   "q": "MUDRA (Micro Units Development and Refinance Agency) is a subsidiary of which institution?",
+   "verdict": "ok",
+   "note": "Static: MUDRA is a wholly owned subsidiary of SIDBI; PMMY launched 8 Apr 2015.",
+   "source_url": "https://en.wikipedia.org/wiki/Small_Industries_Development_Bank_of_India"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 14,
+   "q": "IRDAI was set up following the recommendations of which committee?",
+   "verdict": "ok",
+   "note": "Static Malhotra Committee fact; Ajay Seth confirmed IRDAI Chairman (took charge 1 Sep 2025, quoted as chairman late Oct 2026).",
+   "source_url": "https://www.business-standard.com/amp/industry/news/ajay-seth-assumes-charge-as-irdai-chairman-125090101069_1.html"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 15,
+   "q": "The National Pension System (NPS) and Atal Pension Yojana are regulated by which body?",
+   "verdict": "ok",
+   "note": "PFRDA regulates NPS/APY; Sivasubramanian Ramann chairperson since 20 Jun 2025, still in office Oct 2026.",
+   "source_url": "https://www.pfrda.org.in/documents/33652/86710/20-06-25-+Shri+Sivasubramanian+Ramann+assumes+charge+as+the+Chairperson%2C+PFRDA.pdf"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 16,
+   "q": "DICGC, which insures bank deposits up to Rs 5 lakh, is a wholly owned subsidiary of which institution?",
+   "verdict": "ok",
+   "note": "DICGC site: wholly owned RBI subsidiary, formed 15 Jul 1978. Cover still Rs 5 lakh; the Rs 7.5 lakh proposal (June 2026) has not been notified.",
+   "source_url": "https://www.dicgc.org.in/about-us"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 17,
+   "q": "Who chairs the Financial Stability and Development Council (FSDC)?",
+   "verdict": "ok",
+   "note": "Static: FSDC chaired by Finance Minister; set up Dec 2010.",
+   "source_url": "https://en.wikipedia.org/wiki/Financial_Stability_and_Development_Council"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 18,
+   "q": "Credit information companies such as TransUnion CIBIL are regulated by which body?",
+   "verdict": "ok",
+   "note": "Static: RBI regulates CICs under CICRA 2005; still four CICs, no new licence found in 2026.",
+   "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13582"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 19,
+   "q": "What is the maximum balance a customer can hold in a payments bank account at the end of the day?",
+   "verdict": "ok",
+   "note": "Payments bank cap Rs 2 lakh per RBI Payments Banks Directions updated 1 Apr 2026.",
+   "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=12074"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 20,
+   "q": "The RBI's list of Upper Layer NBFCs for 2026-27, released in August 2026, has how many NBFCs?",
+   "verdict": "ok",
+   "note": "RBI PR of 6 Aug 2026 lists 17 NBFCs for 2026-27 including REC, PFC, IRFC, HUDCO. (PNB Housing and Sammaan Capital continue separately under the five-year rule, but the list itself has 17.)",
+   "source_url": "https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63301"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 21,
+   "q": "The Financial Services Institutions Bureau (FSIB), reconstituted in October 2026, replaced which earlier body in 2022?",
+   "verdict": "ok",
+   "note": "Confirmed: ACC reconstituted FSIB with S.C.L. Das as part-time chairperson from 16 Oct 2026 for three years; FSIB replaced BBB from 1 Jul 2022.",
+   "source_url": "https://indianmasterminds.com/news/fsib-appointments-2026-scl-das-chairperson-members-243369/"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 22,
+   "q": "Which of these currencies is NOT part of the IMF's Special Drawing Rights (SDR) basket?",
+   "verdict": "ok",
+   "note": "Static: SDR basket USD, EUR, CNY, JPY, GBP.",
+   "source_url": "https://www.imf.org/en/About/Factsheets/Sheets/2023/special-drawing-rights-sdr"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 23,
+   "q": "The Financial Action Task Force (FATF) mainly works against which of the following?",
+   "verdict": "ok",
+   "note": "Static: FATF 1989, G7, Paris.",
+   "source_url": "https://en.wikipedia.org/wiki/Financial_Action_Task_Force"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 24,
+   "q": "Which arm of the World Bank Group gives concessional loans to the poorest countries?",
+   "verdict": "ok",
+   "note": "Static: IDA is the concessional arm.",
+   "source_url": "https://en.wikipedia.org/wiki/International_Development_Association"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 25,
+   "q": "After its IPO in September 2026, the National Stock Exchange (NSE) listed its own shares on which exchange?",
+   "verdict": "fix",
+   "note": "NSE shares were also admitted to trade on the Metropolitan Stock Exchange from 24 Sep 2026 ('permitted to trade'), so that distractor was arguably true; replaced. IPO size was about Rs 22,562 crore, not Rs 22,569 crore.",
+   "fix": {
+    "options": [
+     "BSE",
+     "NSE itself",
+     "Calcutta Stock Exchange",
+     "India International Exchange (India INX)"
+    ],
+    "answer": "A",
+    "explanation": "NSE listed on BSE on 24 September 2026 at Rs 1,800 after an IPO of about Rs 22,560 crore (all offer for sale, issue price Rs 1,785), because an exchange cannot list on itself. Its shares were also permitted to trade on the Metropolitan Stock Exchange from the same day. BSE itself is listed on NSE. Source: Kotak Neo / Angel One, 24 Sep 2026."
+   },
+   "source_url": "https://www.kotakneo.com/news/ipos/nse-ipo-shares-list-at-a-modest-premium/"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 26,
+   "q": "The SEBI (Mutual Funds) Regulations, 2026, in force from 1 April 2026, replaced the mutual fund regulations of which year?",
+   "verdict": "ok",
+   "note": "Confirmed the 2026 MF Regulations, in force 1 Apr 2026, replace the 1996 regulations (AZB, Mondaq, Business Standard).",
+   "source_url": "https://www.azbpartners.com/bank/mutual-fund-regulations-are-subject-to-market-new-regulations-from-april-1-2026/"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 27,
+   "q": "The 'Credit Risk-o-Meter', a six-level colour-coded tool for bonds introduced by a circular of 7 October 2026, is an initiative of which regulator?",
+   "verdict": "fix",
+   "note": "Highest band is 'B+ to D' (red), not 'B/C/D'. Explanation corrected and given two extra examinable facts.",
+   "fix": {
+    "explanation": "SEBI's Credit Risk-o-Meter shows the credit risk of rated debt securities on six colour-coded levels, from AAA (lowest credit risk, green) to B+ to D (high to very high risk of default, red). Where a security has several ratings, it shows the lowest, and the rules apply 45 days after the circular. Source: SEBI circular, 7 Oct 2026 / LiveLaw, 8 Oct 2026."
+   },
+   "source_url": "https://www.livelawbiz.com/securities-law/sebi/securities-and-exchange-board-of-india-introduced-six-tier-colour-coded-credit-risk-indicator-for-debt-securities-553649"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 28,
+   "q": "In October 2026, which bank became the second public sector bank, after SBI, to sponsor a pension fund under NPS?",
+   "verdict": "ok",
+   "note": "Confirmed: Bank of Baroda got PFRDA certificate of appointment as pension fund sponsor at NPS Divas, 1 Oct 2026; second PSB after SBI; BOB Pension Fund Management Co. with 80.10% stake.",
+   "source_url": "https://telanganatoday.com/bank-of-baroda-launches-pension-fund-business"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 29,
+   "q": "The Insolvency and Bankruptcy Board of India (IBBI) works under which ministry?",
+   "verdict": "ok",
+   "note": "Static: IBBI 1 Oct 2016 under MCA.",
+   "source_url": "https://en.wikipedia.org/wiki/Insolvency_and_Bankruptcy_Board_of_India"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 30,
+   "q": "'Pension Sahayak', an AI-enabled grievance platform launched in June 2026, belongs to which body?",
+   "verdict": "ok",
+   "note": "Confirmed: PFRDA launched AI-enabled Pension Sahayak on 22 Jun 2026, replacing CGMS (Outlook Business, Policy Edge).",
+   "source_url": "https://www.outlookbusiness.com/news/pfrda-launches-ai-powered-portal-to-transform-pension-grievance-redressal"
+  },
+  {
+   "key": "bf-regulators",
+   "index": 31,
+   "q": "The International Financial Services Centres Authority (IFSCA), the regulator for GIFT City's IFSC, was set up under an Act of which year?",
+   "verdict": "ok",
+   "note": "Static: IFSCA Act, 2019; HQ GIFT City, Gandhinagar.",
+   "source_url": "https://ifsca.gov.in/Pages/Contents/Chairperson"
+  }
+ ]
+}

@@ -1,0 +1,1356 @@
+{
+ "questions": [
+  {
+   "id": "430054c9d5",
+   "topic": "Science, defence & environment",
+   "q": "The NVS-03 satellite, launched by ISRO's GSLV-F18 on 30 October 2026, belongs to which satellite system?",
+   "options": [
+    "Oceansat",
+    "GSAT",
+    "NavIC",
+    "Cartosat"
+   ],
+   "answer": "C",
+   "explanation": "NVS-03 is the third second-generation satellite of NavIC, India's regional navigation system. It flew on GSLV-F18, the 20th GSLV flight, from the Second Launch Pad at Sriharikota, and adds an L1 signal to the L5 and S bands. Source: ISRO, 30 Oct 2026."
+  },
+  {
+   "id": "7f1a0bd1a1",
+   "topic": "Science, defence & environment",
+   "q": "India's total number of Ramsar sites rose to how many in October 2026?",
+   "options": [
+    "103",
+    "96",
+    "98",
+    "101"
+   ],
+   "answer": "A",
+   "explanation": "Sukhna Lake (Chandigarh) and Sauj Jheel (Uttar Pradesh) were added on 15 October 2026, taking the total to 103. The 100th site came in June 2026 and the 101st (Glaw Lake) in August 2026; India had 26 sites in 2014. Source: News On AIR, 15 Oct 2026."
+  },
+  {
+   "id": "882b6ac111",
+   "topic": "Science, defence & environment",
+   "q": "What is the full form of NavIC, the satellite system for which ISRO launched NVS-03 in October 2026?",
+   "options": [
+    "Navigation with Indian Constellation",
+    "Navigation via Indian Communication",
+    "National Vehicle Information Centre",
+    "Network of Indian Cartography"
+   ],
+   "answer": "A",
+   "explanation": "NavIC means Navigation with Indian Constellation; it was earlier called IRNSS (Indian Regional Navigation Satellite System). It covers India and up to 1,500 km beyond its boundary. Source: ISRO."
+  },
+  {
+   "id": "e720944cfe",
+   "topic": "Science, defence & environment",
+   "q": "The Ramsar Convention on wetlands, under which India got two more sites in October 2026, was adopted in 1971 in a city of which country?",
+   "options": [
+    "Egypt",
+    "Switzerland",
+    "Iran",
+    "Iraq"
+   ],
+   "answer": "C",
+   "explanation": "The Convention was adopted in 1971 at Ramsar, Iran. India became a party on 1 February 1982, and its first sites (1981) were Chilika Lake and Keoladeo National Park. Source: PIB New India Samachar, 1-15 Jul 2026."
+  },
+  {
+   "id": "9e9519332e",
+   "topic": "Science, defence & environment",
+   "q": "Sukhna Lake, designated a Ramsar site on 15 October 2026, is located in:",
+   "options": [
+    "Punjab",
+    "Chandigarh",
+    "Haryana",
+    "Himachal Pradesh"
+   ],
+   "answer": "B",
+   "explanation": "Sukhna Wetland, a reservoir created in 1958 at the foot of the Shivaliks, is Chandigarh's first Ramsar site. It was designated on 15 October 2026 together with Sauj Jheel in Mainpuri district, Uttar Pradesh, taking India's total to 103. Mainpuri is now the only district with two Ramsar sites (the other is Saman Bird Sanctuary). Source: News On AIR, 15-16 Oct 2026."
+  },
+  {
+   "id": "c8211fac7d",
+   "topic": "Science, defence & environment",
+   "q": "Which satellite, launched by GSLV-F17 on 4 September 2026, is India's first imaging satellite in geosynchronous orbit?",
+   "options": [
+    "EOS-09",
+    "CMS-03",
+    "EOS-05",
+    "NVS-02"
+   ],
+   "answer": "C",
+   "explanation": "EOS-05 is an Earth observation satellite and India's first imaging satellite for geosynchronous orbit. GSLV-F17 was the 19th GSLV flight and ISRO's first successful launch of 2026, after PSLV-C62 failed in January. Source: ISRO; The Week, 4 Sep 2026."
+  },
+  {
+   "id": "064a981647",
+   "topic": "Science, defence & environment",
+   "q": "Which company built Vikram-1, which on 18 July 2026 became India's first privately developed rocket to reach orbit?",
+   "options": [
+    "Dhruva Space",
+    "Pixxel",
+    "Agnikul Cosmos",
+    "Skyroot Aerospace"
+   ],
+   "answer": "D",
+   "explanation": "Hyderabad-based Skyroot Aerospace launched Vikram-1 from Sriharikota on its 'Aagaman' mission. India became the third country with private orbital launch capability, after the US and China. Source: Space.com, 18 Jul 2026."
+  },
+  {
+   "id": "1016d17f29",
+   "topic": "Science, defence & environment",
+   "q": "The joint military exercise 'Yudh Abhyas', whose 22nd edition began on 15 September 2026, is held between India and which country?",
+   "options": [
+    "United States",
+    "Russia",
+    "United Kingdom",
+    "France"
+   ],
+   "answer": "A",
+   "explanation": "Yudh Abhyas is the India-US army exercise. The 2026 edition was held at Auli (Uttarakhand) and Mahajan Field Firing Range (Rajasthan) with 600 troops from each side. Source: MP-IDSA Defence Newsletter, Sep 2026."
+  },
+  {
+   "id": "c9ada32de2",
+   "topic": "Science, defence & environment",
+   "q": "Which of the following joint military exercises is correctly matched with India's partner country?",
+   "options": [
+    "Nomadic Elephant - Mongolia",
+    "AUSTRAHIND - Austria",
+    "SLINEX - Singapore",
+    "MAITREE - Malaysia"
+   ],
+   "answer": "A",
+   "explanation": "Nomadic Elephant (18th edition, Pithoragarh, September 2026) is with Mongolia. MAITREE is with Thailand, SLINEX is the naval exercise with Sri Lanka, and AUSTRAHIND is with Australia. Source: MP-IDSA Defence Newsletters, Aug-Oct 2026."
+  },
+  {
+   "id": "c3ced21089",
+   "topic": "Science, defence & environment",
+   "q": "Pralay, flight-tested by DRDO on 5 November 2026 from Dr APJ Abdul Kalam Island, is what type of weapon?",
+   "options": [
+    "Quasi-ballistic missile",
+    "Anti-tank guided missile",
+    "Heavyweight torpedo",
+    "Air-to-air missile"
+   ],
+   "answer": "A",
+   "explanation": "Pralay is an indigenous quasi-ballistic missile developed by Research Centre Imarat, Hyderabad. The test was part of user evaluation trials off the Odisha coast. Source: News On AIR, 5 Nov 2026."
+  },
+  {
+   "id": "e9116e0169",
+   "topic": "Science, defence & environment",
+   "q": "INS Samarthak, the Indian Navy's first Multi-Purpose Vessel, commissioned at Karwar on 16 October 2026, was built by:",
+   "options": [
+    "Cochin Shipyard",
+    "Mazagon Dock Shipbuilders",
+    "Larsen & Toubro",
+    "Garden Reach Shipbuilders & Engineers"
+   ],
+   "answer": "C",
+   "explanation": "INS Samarthak was built by Larsen & Toubro at its Kattupalli shipyard near Chennai and commissioned at Naval Base Karwar in the presence of Vice-President C. P. Radhakrishnan. It will be used for weapons and sensor trials, maritime surveillance and as a mothership for uncrewed systems; its sister ship is Utkarsh. Source: Open / PTI, 16 Oct 2026."
+  },
+  {
+   "id": "c69dcec959",
+   "topic": "Science, defence & environment",
+   "q": "INS Mahendragiri, commissioned into the Indian Navy at Visakhapatnam on 11 July 2026, is a stealth frigate of which project?",
+   "options": [
+    "Project 28",
+    "Project 75",
+    "Project 15B",
+    "Project 17A"
+   ],
+   "answer": "D",
+   "explanation": "INS Mahendragiri is the sixth of seven Project 17A (Nilgiri-class) frigates and was built by Mazagon Dock Shipbuilders, Mumbai. INS Dunagiri, the fifth, was commissioned in June 2026. Source: MP-IDSA Defence Newsletter, Jul 2026."
+  },
+  {
+   "id": "a47f48da16",
+   "topic": "Science, defence & environment",
+   "q": "Glaw Lake, which became India's 101st Ramsar site on 3 August 2026, is the first Ramsar site of which state?",
+   "options": [
+    "Sikkim",
+    "Arunachal Pradesh",
+    "Assam",
+    "Nagaland"
+   ],
+   "answer": "B",
+   "explanation": "Glaw Lake is in Lohit district of Arunachal Pradesh, inside Kamlang Tiger Reserve. Source: DD News, 3 Aug 2026."
+  },
+  {
+   "id": "4b260c2782",
+   "topic": "Science, defence & environment",
+   "q": "Which wetland became India's 100th Ramsar site in June 2026?",
+   "options": [
+    "Patna Bird Sanctuary",
+    "Chhari-Dhand",
+    "Jai Prakash Narayan Bird Sanctuary (Surha Tal)",
+    "Shekha Jheel Bird Sanctuary"
+   ],
+   "answer": "C",
+   "explanation": "The Jai Prakash Narayan Bird Sanctuary (Surha Tal) is in Ballia district, Uttar Pradesh. Shekha Jheel was the 99th site; Patna Bird Sanctuary and Chhari-Dhand were added in January 2026. Source: PIB New India Samachar, 1-15 Jul 2026."
+  },
+  {
+   "id": "b4e14bf8b9",
+   "topic": "Science, defence & environment",
+   "q": "What is the name of the half-humanoid robot that ISRO plans to fly on the first uncrewed Gaganyaan mission (G1)?",
+   "options": [
+    "Pragyan",
+    "Vyommitra",
+    "Vikram",
+    "Manav"
+   ],
+   "answer": "B",
+   "explanation": "Vyommitra, ISRO's half-humanoid robot, will fly in place of astronauts on G1, the first uncrewed Gaganyaan flight, on the human-rated LVM3 (HLVM3) from Sriharikota. As of 18 November 2026 ISRO Chairman V. Narayanan had G1 scheduled for December 2026; the first crewed flight is targeted for 2027. Source: Business Today, 18 Nov 2026."
+  },
+  {
+   "id": "6a0aae96b6",
+   "topic": "Science, defence & environment",
+   "q": "Who is the Chairman of ISRO, under whom GSLV-F17 and GSLV-F18 were launched in 2026?",
+   "options": [
+    "S. Kiran Kumar",
+    "S. Somanath",
+    "V. Narayanan",
+    "K. Sivan"
+   ],
+   "answer": "C",
+   "explanation": "V. Narayanan has headed ISRO since January 2025, succeeding S. Somanath. The ISRO Chairman is also Secretary, Department of Space. Source: The Week, 4 Sep 2026."
+  },
+  {
+   "id": "35c095003f",
+   "topic": "Science, defence & environment",
+   "q": "The Satish Dhawan Space Centre at Sriharikota, from where GSLV-F18 lifted off on 30 October 2026, is in which state?",
+   "options": [
+    "Andhra Pradesh",
+    "Tamil Nadu",
+    "Odisha",
+    "Kerala"
+   ],
+   "answer": "A",
+   "explanation": "Sriharikota is in Andhra Pradesh and is India's main spaceport; GSLV-F18 used its Second Launch Pad. Source: ISRO; The Week, 4 Sep 2026."
+  },
+  {
+   "id": "15549285ab",
+   "topic": "Science, defence & environment",
+   "q": "The Singapore-India Maritime Bilateral Exercise (SIMBEX), whose 33rd edition was held from 21 to 26 October 2026, took place at:",
+   "options": [
+    "Port Blair",
+    "Mumbai",
+    "Kochi",
+    "Visakhapatnam"
+   ],
+   "answer": "D",
+   "explanation": "SIMBEX-2026 between the Indian Navy and the Republic of Singapore Navy was held at Visakhapatnam. Source: MP-IDSA Defence Newsletter, Oct 2026."
+  },
+  {
+   "id": "0031052c84",
+   "topic": "Science, defence & environment",
+   "q": "Exercise Tarang Shakti 2026, held at Jodhpur from 26 September to 12 October 2026, was hosted by which force?",
+   "options": [
+    "Indian Coast Guard",
+    "Indian Air Force",
+    "Indian Army",
+    "Indian Navy"
+   ],
+   "answer": "B",
+   "explanation": "Tarang Shakti is the Indian Air Force's multinational air exercise. Its second edition brought air forces of seven partner countries and 32 observer nations under the theme 'Power in Partnership'. Source: MP-IDSA Defence Newsletter, Oct 2026."
+  },
+  {
+   "id": "14eacb0732",
+   "topic": "Science, defence & environment",
+   "q": "Madhya Pradesh's Nauradehi sanctuary became India's third home for cheetahs in October 2026. From which country did the first cheetahs of Project Cheetah come in September 2022?",
+   "options": [
+    "South Africa",
+    "Botswana",
+    "Namibia",
+    "Kenya"
+   ],
+   "answer": "C",
+   "explanation": "Eight cheetahs from Namibia were released at Kuno National Park, Madhya Pradesh, on 17 September 2022. South Africa sent 12 in 2023 and Botswana 9 in February 2026; the project completed four years in September 2026. Source: Free Press Journal, 16 Sep 2026."
+  },
+  {
+   "id": "069c2d17ed",
+   "topic": "Science, defence & environment",
+   "q": "Which state has the highest number of tiger reserves in India?",
+   "options": [
+    "Maharashtra",
+    "Karnataka",
+    "Madhya Pradesh",
+    "Uttarakhand"
+   ],
+   "answer": "C",
+   "explanation": "Madhya Pradesh has 9 of India's 58 tiger reserves; the latest, Madhav (58th), was notified in 2025. Project Tiger was launched in 1973. Source: NTCA list of tiger reserves."
+  },
+  {
+   "id": "760c0b9a76",
+   "topic": "Science, defence & environment",
+   "q": "The Defence Acquisition Council (DAC), which cleared proposals worth about Rs 2.12 lakh crore on 26 October 2026, is chaired by the:",
+   "options": [
+    "Defence Minister",
+    "Prime Minister",
+    "Defence Secretary",
+    "Chief of Defence Staff"
+   ],
+   "answer": "A",
+   "explanation": "The DAC is headed by the Defence Minister (Rajnath Singh) and gives Acceptance of Necessity for capital purchases. It also cleared about Rs 1.10 lakh crore on 7 September 2026. Source: MP-IDSA Defence Newsletter, Oct 2026."
+  },
+  {
+   "id": "d971485734",
+   "topic": "Science, defence & environment",
+   "q": "Kusha, which DRDO flight-tested for the first time on 23 July 2026, is a:",
+   "options": [
+    "Submarine-launched ballistic missile",
+    "Air-to-air missile",
+    "Long-range surface-to-air missile",
+    "Anti-tank guided missile"
+   ],
+   "answer": "C",
+   "explanation": "Kusha is an indigenous long-range surface-to-air missile meant to hit aircraft, cruise missiles and drones. It was tested from Dr APJ Abdul Kalam Island, Odisha. Source: MP-IDSA Defence Newsletter, Jul 2026."
+  },
+  {
+   "id": "18b63eb176",
+   "topic": "Science, defence & environment",
+   "q": "Which state has the highest number of Ramsar sites in India?",
+   "options": [
+    "Gujarat",
+    "Uttar Pradesh",
+    "Tamil Nadu",
+    "Odisha"
+   ],
+   "answer": "C",
+   "explanation": "Tamil Nadu has 20 of India's 103 Ramsar sites, followed by Uttar Pradesh with 14. The Sundarban Wetland in West Bengal is the largest site. Source: Wikipedia list of Ramsar sites in India, as of 16 Oct 2026."
+  },
+  {
+   "id": "6b16fc90ae",
+   "topic": "Science, defence & environment",
+   "q": "Cyclone Arnab, which hit the Andhra Pradesh coast near Yanam on 28 October 2026, was named by which country?",
+   "options": [
+    "Bangladesh",
+    "Thailand",
+    "Iran",
+    "India"
+   ],
+   "answer": "A",
+   "explanation": "Arnab, the first cyclonic storm of 2026 in the North Indian Ocean, took a name given by Bangladesh. The next two names on the list are Murasu (India) and Akvan (Iran). Source: Down To Earth, 29 Oct 2026; IMD list of cyclone names."
+  },
+  {
+   "id": "a194ec325e",
+   "topic": "Science, defence & environment",
+   "q": "Cyclone Murasu made landfall near Ongole in early November 2026. In which state is this?",
+   "options": [
+    "West Bengal",
+    "Tamil Nadu",
+    "Andhra Pradesh",
+    "Odisha"
+   ],
+   "answer": "C",
+   "explanation": "Severe Cyclonic Storm Murasu crossed the south Andhra Pradesh coast between Nellore and Narsapur, near Ongole, in the early hours of 3 November 2026, less than a week after Cyclone Arnab hit the same state near Yanam on 28 October. Murasu is a name contributed by India; Arnab was given by Bangladesh. Source: News On AIR (IMD), 3 Nov 2026."
+  },
+  {
+   "id": "a3ba515a7f",
+   "topic": "Science, defence & environment",
+   "q": "The 'Agni-4' ballistic missile was test-fired on 6 August 2026 from the Integrated Test Range at Chandipur. Chandipur is in which state?",
+   "options": [
+    "Gujarat",
+    "Odisha",
+    "Tamil Nadu",
+    "Andhra Pradesh"
+   ],
+   "answer": "B",
+   "explanation": "The Integrated Test Range is at Chandipur in Balasore district, Odisha; Dr APJ Abdul Kalam Island is nearby. Agni missiles are surface-to-surface ballistic missiles developed by DRDO. Source: MP-IDSA Defence Newsletter, Aug 2026."
+  },
+  {
+   "id": "da8193b5a2",
+   "topic": "Science, defence & environment",
+   "q": "INS Nipun, commissioned into the Indian Navy at Mumbai on 31 August 2026, is a:",
+   "options": [
+    "Survey vessel",
+    "Diving Support Vessel",
+    "Stealth frigate",
+    "Fleet tanker"
+   ],
+   "answer": "B",
+   "explanation": "INS Nipun is the second Diving Support Vessel of the Nistar class, built by Hindustan Shipyard Limited, Visakhapatnam. It is used for deep-sea diving and submarine rescue. Source: MP-IDSA Defence Newsletter, Aug 2026."
+  },
+  {
+   "id": "412cbc0768",
+   "topic": "Science, defence & environment",
+   "q": "On 21 June 2026 the Prime Minister commissioned INS Dunagiri, INS Sanshodhak and INS Agray at Kolkata. Which shipyard built all three?",
+   "options": [
+    "Hindustan Shipyard, Visakhapatnam",
+    "Garden Reach Shipbuilders & Engineers, Kolkata",
+    "Mazagon Dock Shipbuilders, Mumbai",
+    "Cochin Shipyard, Kochi"
+   ],
+   "answer": "B",
+   "explanation": "GRSE built INS Dunagiri (stealth frigate), INS Sanshodhak (large survey vessel) and INS Agray (anti-submarine warfare shallow water craft). Source: MP-IDSA Defence Newsletter, Jun 2026."
+  },
+  {
+   "id": "d7061d2b8b",
+   "topic": "Science, defence & environment",
+   "q": "NISAR, the Earth-observation satellite launched by GSLV-F16 on 30 July 2025, is a joint mission of ISRO and:",
+   "options": [
+    "CNES",
+    "JAXA",
+    "ESA",
+    "NASA"
+   ],
+   "answer": "D",
+   "explanation": "NISAR stands for NASA-ISRO Synthetic Aperture Radar. It was launched from Sriharikota on GSLV-F16. Source: ISRO launch missions list."
+  },
+  {
+   "id": "9166ab4ff2",
+   "topic": "Science, defence & environment",
+   "q": "The headquarters of the Indian Space Research Organisation (ISRO) is in:",
+   "options": [
+    "Hyderabad",
+    "Ahmedabad",
+    "Bengaluru",
+    "Thiruvananthapuram"
+   ],
+   "answer": "C",
+   "explanation": "ISRO was formed on 15 August 1969 and has its headquarters in Bengaluru. It is part of the Department of Space. Source: ISRO profile page."
+  },
+  {
+   "id": "543318e80a",
+   "topic": "Science, defence & environment",
+   "q": "India took part in CBD COP-17 at Yerevan, Armenia, in October 2026. Where is the Secretariat of the Convention on Biological Diversity located?",
+   "options": [
+    "Geneva",
+    "Bonn",
+    "Nairobi",
+    "Montreal"
+   ],
+   "answer": "D",
+   "explanation": "The CBD Secretariat is in Montreal, Canada. The Convention was signed at the 1992 Rio Earth Summit and came into force on 29 December 1993; COP-17 ran from 19 to 30 October 2026. Source: cbd.int."
+  },
+  {
+   "id": "d9aaa37d7c",
+   "topic": "RBI & monetary policy",
+   "q": "At its meeting of 5-7 October 2026, the RBI's Monetary Policy Committee raised the policy repo rate to what level?",
+   "options": [
+    "5.25%",
+    "5.75%",
+    "6.00%",
+    "5.50%"
+   ],
+   "answer": "D",
+   "explanation": "The MPC raised the repo rate by 25 basis points to 5.50% on 7 October 2026. It had stood at 5.25% since December 2025 and was held at the June and August 2026 meetings. Source: RBI press release 2026-2027/1264, 7 Oct 2026."
+  },
+  {
+   "id": "61eaad2976",
+   "topic": "RBI & monetary policy",
+   "q": "After the October 2026 monetary policy, what is the Standing Deposit Facility (SDF) rate?",
+   "options": [
+    "5.00%",
+    "5.25%",
+    "5.50%",
+    "5.75%"
+   ],
+   "answer": "B",
+   "explanation": "The SDF rate is 5.25%, which is 25 basis points below the repo rate of 5.50%. The SDF is the floor of the LAF corridor. Source: RBI press release 2026-2027/1264, 7 Oct 2026."
+  },
+  {
+   "id": "5a7fa92d06",
+   "topic": "RBI & monetary policy",
+   "q": "After the October 2026 monetary policy, the Marginal Standing Facility (MSF) rate and the Bank Rate both stand at:",
+   "options": [
+    "5.75%",
+    "5.25%",
+    "6.00%",
+    "5.50%"
+   ],
+   "answer": "A",
+   "explanation": "The MSF rate and the Bank Rate are both 5.75%, 25 basis points above the repo rate. The MSF rate is the ceiling of the LAF corridor. Source: RBI press release 2026-2027/1264, 7 Oct 2026."
+  },
+  {
+   "id": "77a5f92422",
+   "topic": "RBI & monetary policy",
+   "q": "In October 2026 the RBI's Monetary Policy Committee changed its policy stance from 'neutral' to:",
+   "options": [
+    "Calibrated tightening",
+    "Withdrawal of accommodation",
+    "Accommodative",
+    "Hawkish pause"
+   ],
+   "answer": "A",
+   "explanation": "The MPC changed the stance to 'calibrated tightening' on 7 October 2026; the stance had been neutral at the June and August 2026 meetings. Dr Nagesh Kumar and Prof. Ram Singh wanted to keep it neutral. Source: RBI press release 2026-2027/1264, 7 Oct 2026."
+  },
+  {
+   "id": "de0c177f30",
+   "topic": "RBI & monetary policy",
+   "q": "Under the Reserve Bank - Integrated Ombudsman Scheme, 2026, in force from 1 July 2026, what is the maximum compensation the Ombudsman can award for consequential loss?",
+   "options": [
+    "Rs 10 lakh",
+    "Rs 30 lakh",
+    "Rs 20 lakh",
+    "Rs 50 lakh"
+   ],
+   "answer": "B",
+   "explanation": "RB-IOS 2026 replaced the 2021 scheme on 1 July 2026 and raised the cap from Rs 20 lakh to Rs 30 lakh. A further Rs 3 lakh can be awarded for loss of time, expenses, harassment or mental anguish, and there is no limit on the amount in dispute. Source: RBI FAQ on RB-IOS 2026, 1 Jul 2026."
+  },
+  {
+   "id": "4fcdb76480",
+   "topic": "RBI & monetary policy",
+   "q": "Under the RBI's framework for small-value digital banking frauds, finalised on 24 June 2026, what is the maximum compensation a victim can receive?",
+   "options": [
+    "Rs 1 lakh",
+    "Rs 25,000",
+    "Rs 50,000",
+    "Rs 10,000"
+   ],
+   "answer": "B",
+   "explanation": "The victim gets 85% of the net loss or Rs 25,000, whichever is lower, for frauds with losses up to Rs 50,000. The amendment directions take effect on 1 January 2027. Source: RBI press release 2026-2027/533, 24 Jun 2026."
+  },
+  {
+   "id": "579cee1c55",
+   "topic": "RBI & monetary policy",
+   "q": "Who is the Governor of the Reserve Bank of India and chairperson of its Monetary Policy Committee?",
+   "options": [
+    "Sanjay Malhotra",
+    "Urjit Patel",
+    "Swaminathan J",
+    "Shaktikanta Das"
+   ],
+   "answer": "A",
+   "explanation": "Sanjay Malhotra is the 26th Governor of the RBI and took charge on 11 December 2024, succeeding Shaktikanta Das. The Governor is the ex officio chairperson of the MPC. Source: RBI list of Governors, Nov 2026."
+  },
+  {
+   "id": "4296062a09",
+   "topic": "RBI & monetary policy",
+   "q": "The one-rupee note in India bears the signature of the:",
+   "options": [
+    "Governor of the RBI",
+    "President of India",
+    "Finance Secretary",
+    "Union Finance Minister"
+   ],
+   "answer": "C",
+   "explanation": "The one-rupee note is issued by the Government of India and signed by the Finance Secretary. All other banknotes are issued by the RBI and signed by its Governor. Source: RBI FAQ on Indian Currency, Apr 2025."
+  },
+  {
+   "id": "b5a59b638f",
+   "topic": "RBI & monetary policy",
+   "q": "What is the Cash Reserve Ratio (CRR) that scheduled banks must maintain, as shown on the RBI website in November 2026?",
+   "options": [
+    "3.50%",
+    "4.00%",
+    "4.50%",
+    "3.00%"
+   ],
+   "answer": "D",
+   "explanation": "The CRR is 3.00% of net demand and time liabilities and was not changed in any 2026 policy. It was cut from 4% to 3% in four steps between September and November 2025. Source: RBI website current rates, 19 Nov 2026."
+  },
+  {
+   "id": "8a511dcfdb",
+   "topic": "RBI & monetary policy",
+   "q": "What is the Statutory Liquidity Ratio (SLR) for banks, as shown on the RBI website in November 2026?",
+   "options": [
+    "18.50%",
+    "19.50%",
+    "20.00%",
+    "18.00%"
+   ],
+   "answer": "D",
+   "explanation": "The SLR is 18.00% of net demand and time liabilities. Banks hold it in cash, gold and approved government securities. Source: RBI website current rates, 19 Nov 2026."
+  },
+  {
+   "id": "d603af1d42",
+   "topic": "RBI & monetary policy",
+   "q": "In its October 2026 policy, the RBI projected India's real GDP growth for 2026-27 at:",
+   "options": [
+    "6.7%",
+    "7.1%",
+    "7.4%",
+    "6.6%"
+   ],
+   "answer": "B",
+   "explanation": "The projection was raised to 7.1% from 6.7% in August 2026 and 6.6% in June 2026. Source: RBI press release 2026-2027/1264, 7 Oct 2026."
+  },
+  {
+   "id": "95b101089a",
+   "topic": "RBI & monetary policy",
+   "q": "In its October 2026 policy, the RBI projected CPI inflation for 2026-27 at:",
+   "options": [
+    "5.2%",
+    "4.6%",
+    "5.9%",
+    "5.0%"
+   ],
+   "answer": "A",
+   "explanation": "The projection was raised to 5.2% from 5.0% in August 2026 and 5.1% in June 2026. Inflation is expected to peak at 6.0% in the October-December quarter. Source: RBI press release 2026-2027/1264, 7 Oct 2026."
+  },
+  {
+   "id": "78638537b7",
+   "topic": "RBI & monetary policy",
+   "q": "The next meeting of the RBI's Monetary Policy Committee after October 2026 is scheduled for:",
+   "options": [
+    "2-4 December 2026",
+    "9-11 December 2026",
+    "18-20 November 2026",
+    "3-5 February 2027"
+   ],
+   "answer": "A",
+   "explanation": "The MPC resolution of 7 October 2026 fixed the next meeting for 2 to 4 December 2026, which is after this exam. Source: RBI press release 2026-2027/1264, 7 Oct 2026."
+  },
+  {
+   "id": "97e74f4582",
+   "topic": "RBI & monetary policy",
+   "q": "From the fortnight beginning 16 October 2026, the RBI raised the minimum daily CRR balance that banks must keep from 90% of the requirement to:",
+   "options": [
+    "100%",
+    "95%",
+    "99%",
+    "92%"
+   ],
+   "answer": "C",
+   "explanation": "An RBI circular of 9 October 2026 raised the daily minimum to 99% of the required CRR to tighten liquidity; the CRR itself stayed at 3%. The CRR is maintained under Section 42(1) of the RBI Act, 1934. Source: RBI notification RBI/2026-27/290, 9 Oct 2026."
+  },
+  {
+   "id": "58b1884a35",
+   "topic": "RBI & monetary policy",
+   "q": "The Government has retained the CPI inflation target of 4% (with a band of 2% to 6%) for the RBI for the five years ending on:",
+   "options": [
+    "31 March 2030",
+    "31 March 2027",
+    "31 March 2031",
+    "31 March 2029"
+   ],
+   "answer": "C",
+   "explanation": "On 25 March 2026 the Central Government retained the 4% target with a tolerance band of plus or minus 2% for 1 April 2026 to 31 March 2031. The target is set once in five years under Section 45ZA of the RBI Act. Source: RBI monetary policy overview, Nov 2026."
+  },
+  {
+   "id": "a9a5d22302",
+   "topic": "RBI & monetary policy",
+   "q": "In October 2026 the RBI approved the amalgamation of the Indian branches of which foreign bank with RBL Bank?",
+   "options": [
+    "Emirates NBD Bank",
+    "Standard Chartered Bank",
+    "First Abu Dhabi Bank",
+    "DBS Bank"
+   ],
+   "answer": "A",
+   "explanation": "The RBI sanctioned the scheme on 16 October 2026 under Section 44A of the Banking Regulation Act, 1949. The branches of Dubai-based Emirates NBD will work as RBL Bank branches from 1 December 2026. Source: RBI press release 2026-2027/1342, 16 Oct 2026."
+  },
+  {
+   "id": "02ff779a28",
+   "topic": "RBI & monetary policy",
+   "q": "On 25 October 2026 the Prime Minister inaugurated the RBI's new Data Centre and Cybersecurity Training Institute in which city?",
+   "options": [
+    "Hyderabad",
+    "Bhubaneswar",
+    "Chennai",
+    "Pune"
+   ],
+   "answer": "B",
+   "explanation": "The facility is in Bhubaneswar, Odisha. The Data Centre will house RBI systems such as RTGS and NEFT, which the RBI itself operates. Source: RBI press release 2026-2027/1384, 25 Oct 2026."
+  },
+  {
+   "id": "eb3b85f4da",
+   "topic": "RBI & monetary policy",
+   "q": "In October 2026 the RBI opened a special window to sell US dollars directly to which set of companies?",
+   "options": [
+    "Gold importing agencies",
+    "Public sector airlines",
+    "Public sector oil marketing companies",
+    "Fertiliser companies"
+   ],
+   "answer": "C",
+   "explanation": "From 12 October 2026 the RBI meets the entire daily dollar needs of Indian Oil, HPCL and BPCL through designated banks, until further notice. It was announced with other steps to steady the rupee. Source: RBI press release 2026-2027/1306, 10 Oct 2026."
+  },
+  {
+   "id": "7fd2037b06",
+   "topic": "RBI & monetary policy",
+   "q": "The RBI's Financial Inclusion Index (FI-Index) for March 2026, released in July 2026, stood at:",
+   "options": [
+    "67.0",
+    "64.2",
+    "72.5",
+    "70.0"
+   ],
+   "answer": "D",
+   "explanation": "The FI-Index rose to 70.0 in March 2026 from 67.0 in March 2025, led by the Usage sub-index. The index was first published in August 2021 and has three sub-indices: Access, Usage and Quality. Source: RBI press release 2026-2027/686, 16 Jul 2026."
+  },
+  {
+   "id": "d664aa4d74",
+   "topic": "RBI & monetary policy",
+   "q": "In August 2026 the RBI said it would resume 'on tap' licensing, stopped for about two decades, of which type of bank?",
+   "options": [
+    "Local Area Banks",
+    "Regional Rural Banks",
+    "Payments Banks",
+    "Urban Co-operative Banks"
+   ],
+   "answer": "D",
+   "explanation": "The RBI announced this in its Statement on Developmental and Regulatory Policies of 5 August 2026, after a discussion paper of 13 January 2026. New UCB licences had been paused since 2004. Source: RBI press release 2026-2027/811, 5 Aug 2026."
+  },
+  {
+   "id": "164dc465f8",
+   "topic": "RBI & monetary policy",
+   "q": "Under RBI rules, an NBFC placed in the Upper Layer stays under enhanced regulation for at least how many years, even if it stops meeting the criteria?",
+   "options": [
+    "Three years",
+    "Ten years",
+    "Five years",
+    "Two years"
+   ],
+   "answer": "C",
+   "explanation": "The RBI's list of 6 August 2026 named 17 Upper Layer NBFCs for 2026-27, including new entrants REC, PFC, IRFC and HUDCO. PNB Housing Finance and Sammaan Capital stay under the norms because of the five-year rule. Source: RBI press release 2026-2027/823, 6 Aug 2026."
+  },
+  {
+   "id": "12b02ae215",
+   "topic": "RBI & monetary policy",
+   "q": "In June 2026 the RBI changed the way it identifies Upper Layer NBFCs to a single asset-size threshold of:",
+   "options": [
+    "Rs 10,000 crore",
+    "Rs 1,00,000 crore",
+    "Rs 50,000 crore",
+    "Rs 5,00,000 crore"
+   ],
+   "answer": "B",
+   "explanation": "Amendment directions of 24 June 2026 replaced the scoring method with an asset size of Rs 1 lakh crore and brought government-owned NBFCs into the list. The four layers are Base, Middle, Upper and Top. Source: RBI press release 2026-2027/530, 24 Jun 2026."
+  },
+  {
+   "id": "7963f68d6e",
+   "topic": "RBI & monetary policy",
+   "q": "Under the RBI's November 2026 Master Directions on cyber resilience for non-bank Payment System Operators, a cyber incident must be reported to the RBI within how many hours of detection?",
+   "options": [
+    "6 hours",
+    "12 hours",
+    "2 hours",
+    "24 hours"
+   ],
+   "answer": "A",
+   "explanation": "The Master Directions on Cyber Resilience and Digital Payment Security Controls for non-bank PSOs, issued on 5 November 2026, require unusual incidents, including cyber-attacks, to be reported to the RBI within 6 hours of detection. Any cyber security incident must also be reported to CERT-In. The RBI had issued earlier master directions for non-bank PSOs on 30 July 2024. Source: RBI notification RBI/DPSS/2026-27/475, 5 Nov 2026."
+  },
+  {
+   "id": "ad4cb8ddd9",
+   "topic": "RBI & monetary policy",
+   "q": "The RBI's directions that move commercial banks to Expected Credit Loss (ECL) provisioning come into force on:",
+   "options": [
+    "1 October 2026",
+    "1 January 2027",
+    "1 April 2027",
+    "1 April 2028"
+   ],
+   "answer": "C",
+   "explanation": "The Directions were issued on 27 April 2026 and take effect on 1 April 2027 with a three-stage approach. Small finance banks, payments banks and local area banks are excluded. Source: RBI Directions RBI/DOR/2026-27/398, 27 Apr 2026."
+  },
+  {
+   "id": "ba3b3e31fa",
+   "topic": "RBI & monetary policy",
+   "q": "What surplus did the RBI transfer to the Central Government for the accounting year 2025-26?",
+   "options": [
+    "Rs 2.11 lakh crore",
+    "Rs 2.87 lakh crore",
+    "Rs 3.15 lakh crore",
+    "Rs 2.69 lakh crore"
+   ],
+   "answer": "B",
+   "explanation": "The RBI transferred a record Rs 2,86,588.46 crore for 2025-26, against Rs 2,68,590 crore for 2024-25. Its balance sheet grew to about Rs 91.97 lakh crore on 31 March 2026. Source: RBI Annual Report 2025-26, 29 May 2026."
+  },
+  {
+   "id": "b0e101536b",
+   "topic": "RBI & monetary policy",
+   "q": "The Reserve Bank of India was set up on the recommendation of which commission?",
+   "options": [
+    "Hilton Young Commission",
+    "Simon Commission",
+    "Narasimham Committee",
+    "Chamberlain Commission"
+   ],
+   "answer": "A",
+   "explanation": "The RBI was set up on the recommendations of the Hilton Young Commission (Royal Commission on Indian Currency and Finance). The RBI Act, 1934 gives it its legal basis. Source: RBI, Brief History, Nov 2026."
+  },
+  {
+   "id": "d6e0ba5bb9",
+   "topic": "RBI & monetary policy",
+   "q": "The Reserve Bank of India was nationalised on:",
+   "options": [
+    "1 April 1935",
+    "15 August 1947",
+    "19 July 1969",
+    "1 January 1949"
+   ],
+   "answer": "D",
+   "explanation": "The RBI began as a shareholders' bank and was nationalised on 1 January 1949; it is now fully owned by the Government of India. The Banking Companies Act (now the Banking Regulation Act), 1949 came into force on 16 March 1949. Source: RBI chronology of events, Nov 2026."
+  },
+  {
+   "id": "a2a3a8a909",
+   "topic": "RBI & monetary policy",
+   "q": "Who was the first Indian Governor of the Reserve Bank of India?",
+   "options": [
+    "Sir C. D. Deshmukh",
+    "Sir Benegal Rama Rau",
+    "Sir Osborne Smith",
+    "H. V. R. Iengar"
+   ],
+   "answer": "A",
+   "explanation": "C. D. Deshmukh became the third Governor and the first Indian to hold the post in August 1943. Sir Osborne Smith was the first Governor (1935-37). Source: RBI list of Governors, Nov 2026."
+  },
+  {
+   "id": "c469bcaa71",
+   "topic": "RBI & monetary policy",
+   "q": "Under the RBI Act, the Central Board of the RBI can have at most how many Deputy Governors?",
+   "options": [
+    "Three",
+    "Five",
+    "Two",
+    "Four"
+   ],
+   "answer": "D",
+   "explanation": "The Central Board has the Governor and not more than four Deputy Governors as official directors. The present four are Swaminathan J, Poonam Gupta, S. C. Murmu and Rohit Jain. Source: RBI, About Us, Nov 2026."
+  },
+  {
+   "id": "39b91b1dac",
+   "topic": "RBI & monetary policy",
+   "q": "How many members does the RBI's Monetary Policy Committee have?",
+   "options": [
+    "Four",
+    "Five",
+    "Seven",
+    "Six"
+   ],
+   "answer": "D",
+   "explanation": "The MPC has six members: three from the RBI, including the Governor as chairperson, and three external members appointed by the Central Government. It is set up under Section 45ZB of the RBI Act and must meet at least four times a year. Source: RBI monetary policy overview, Nov 2026."
+  },
+  {
+   "id": "ed8a535bc9",
+   "topic": "RBI & monetary policy",
+   "q": "Which facility's rate forms the floor of the RBI's Liquidity Adjustment Facility (LAF) corridor?",
+   "options": [
+    "Standing Deposit Facility",
+    "Marginal Standing Facility",
+    "Bank Rate",
+    "Fixed-rate reverse repo"
+   ],
+   "answer": "A",
+   "explanation": "The SDF, under which the RBI takes overnight deposits without giving collateral, has been the floor of the corridor since April 2022. The MSF rate is the ceiling and the repo rate is in the middle. Source: RBI monetary policy overview, Nov 2026."
+  },
+  {
+   "id": "c8da1b7f20",
+   "topic": "RBI & monetary policy",
+   "q": "The Deposit Insurance and Credit Guarantee Corporation (DICGC) is a wholly owned subsidiary of:",
+   "options": [
+    "NABARD",
+    "Reserve Bank of India",
+    "Ministry of Finance",
+    "State Bank of India"
+   ],
+   "answer": "B",
+   "explanation": "DICGC is a wholly owned subsidiary of the RBI, formed on 15 July 1978, with its head office in Mumbai. It insures bank deposits up to Rs 5 lakh per depositor per bank. Source: DICGC, About Us, Nov 2026."
+  },
+  {
+   "id": "28b32fe619",
+   "topic": "Union Budget & government schemes",
+   "q": "In November 2026 the Union Cabinet extended the Stand-Up India scheme up to which date?",
+   "options": [
+    "31 December 2031",
+    "31 March 2031",
+    "31 March 2028",
+    "31 March 2030"
+   ],
+   "answer": "B",
+   "explanation": "The Cabinet (11 Nov 2026) extended Stand-Up India for five years to 31 March 2031 with a Rs 4,111 crore credit guarantee corpus, to support 2.5 lakh more women, SC and ST entrepreneurs. The scheme was launched on 5 April 2016. Source: GKToday, 11 Nov 2026."
+  },
+  {
+   "id": "959b9db87f",
+   "topic": "Union Budget & government schemes",
+   "q": "The GOBARdhan scheme approved by the Union Cabinet in August 2026 is India's national unified scheme for which fuel?",
+   "options": [
+    "Green hydrogen",
+    "Liquefied natural gas (LNG)",
+    "Ethanol",
+    "Compressed biogas (CBG)"
+   ],
+   "answer": "D",
+   "explanation": "On 6 Aug 2026 the Cabinet approved GOBARdhan as the national unified scheme for compressed biogas with Rs 23,731 crore for 2026-27 to 2035-36. GOBAR stands for Galvanizing Organic Bio-Agro Resources. Source: News On AIR, 6 Aug 2026."
+  },
+  {
+   "id": "54c0c84f00",
+   "topic": "Union Budget & government schemes",
+   "q": "Under Ayushman Bharat PM-JAY, post-hospitalisation expenses are covered for how many days?",
+   "options": [
+    "7 days",
+    "3 days",
+    "30 days",
+    "15 days"
+   ],
+   "answer": "D",
+   "explanation": "PM-JAY covers 3 days of pre-hospitalisation and 15 days of post-hospitalisation expenses, within the Rs 5 lakh per family per year cover. It was launched on 23 September 2018 at Ranchi. Source: Wikipedia (Ayushman Bharat Yojana), Nov 2026."
+  },
+  {
+   "id": "f02f05844c",
+   "topic": "Union Budget & government schemes",
+   "q": "By a decision of September 2026, the monthly wage ceiling for mandatory EPF coverage was raised from Rs 15,000 to what amount?",
+   "options": [
+    "Rs 18,000",
+    "Rs 30,000",
+    "Rs 21,000",
+    "Rs 25,000"
+   ],
+   "answer": "D",
+   "explanation": "The ceiling rose to Rs 25,000 a month, effective 17 September 2026; it had been Rs 15,000 since September 2014. EPFO works under the Ministry of Labour and Employment. Source: Wikipedia (EPFO), Nov 2026; Labour Ministry notification, 17 Sep 2026."
+  },
+  {
+   "id": "285a1fd3e7",
+   "topic": "Union Budget & government schemes",
+   "q": "According to MoSPI data released on 12 November 2026, what was India's CPI-based retail inflation for October 2026?",
+   "options": [
+    "6.09%",
+    "5.54%",
+    "4.82%",
+    "6.63%"
+   ],
+   "answer": "A",
+   "explanation": "October 2026 CPI inflation was 6.09%, up from 5.54% in September; food inflation was 8.94%. This is above the 6% upper limit of the RBI's 4% +/- 2% target band. Source: Trading Economics / MoSPI, 12 Nov 2026."
+  },
+  {
+   "id": "cd9e2ce050",
+   "topic": "Union Budget & government schemes",
+   "q": "PM Surya Ghar: Muft Bijli Yojana, with an outlay of Rs 75,021 crore, is to be implemented up to which financial year?",
+   "options": [
+    "2028-29",
+    "2026-27",
+    "2025-26",
+    "2029-30"
+   ],
+   "answer": "B",
+   "explanation": "The Cabinet approved the scheme on 29 February 2024 with Rs 75,021 crore, to be implemented till FY 2026-27, for rooftop solar in 1 crore households. The Ministry of New and Renewable Energy runs it. Source: Wikipedia / MNRE, Nov 2026."
+  },
+  {
+   "id": "208dbf81d2",
+   "topic": "Union Budget & government schemes",
+   "q": "In a GSTIN, which is 15 characters long, what do the ten characters after the two-digit state code represent?",
+   "options": [
+    "HSN code",
+    "Aadhaar number",
+    "Date of registration",
+    "PAN of the taxpayer"
+   ],
+   "answer": "D",
+   "explanation": "A GSTIN has 15 characters: 2 digits for the state code, 10 for the PAN, the 13th for the entity number, the 14th is 'Z' by default and the 15th is a check digit. Source: GST portal (gst.gov.in)."
+  },
+  {
+   "id": "39f59779ca",
+   "topic": "Union Budget & government schemes",
+   "q": "The VISTAR scheme, approved by the Union Cabinet in November 2026 with about Rs 4,371 crore, belongs to which ministry?",
+   "options": [
+    "Ministry of Electronics and Information Technology",
+    "Ministry of Finance",
+    "Ministry of Science and Technology",
+    "Ministry of Statistics and Programme Implementation"
+   ],
+   "answer": "D",
+   "explanation": "VISTAR (Viksit Bharat Initiative for Statistical Transformation, Analytics & Research) was approved on 4 Nov 2026 for 2026-27 to 2030-31. It includes the 8th Economic Census. Source: News On AIR, 4 Nov 2026."
+  },
+  {
+   "id": "0f1f56f457",
+   "topic": "Union Budget & government schemes",
+   "q": "The Pradhan Mantri Viksit Gram Swaraj Yojana, approved by the Cabinet in October 2026, aims to strengthen which institutions?",
+   "options": [
+    "Panchayati Raj institutions",
+    "Primary agricultural credit societies",
+    "Urban local bodies",
+    "Self-help groups"
+   ],
+   "answer": "A",
+   "explanation": "PM VGSY (28 Oct 2026) is a centrally sponsored scheme with Rs 7,395.55 crore for 2026-27 to 2030-31, covering over 2.55 lakh panchayats. Central share is Rs 4,869.48 crore. Source: DD News, 28 Oct 2026."
+  },
+  {
+   "id": "680585cd7e",
+   "topic": "Union Budget & government schemes",
+   "q": "In October 2026 the Cabinet renamed the National Social Assistance Programme (NSAP) as what?",
+   "options": [
+    "Pradhan Mantri Samajik Suraksha Yojana",
+    "Pradhan Mantri Jan Kalyan Yojana",
+    "Pradhan Mantri Samajik Sahayata Yojana",
+    "Pradhan Mantri Garib Kalyan Pension Yojana"
+   ],
+   "answer": "C",
+   "explanation": "On 14 Oct 2026 the Cabinet continued NSAP for 2026-27 to 2030-31 with Rs 53,428 crore and renamed it. About 3.2 crore people benefit; it is run by the Department of Rural Development. Source: News On AIR, 14 Oct 2026."
+  },
+  {
+   "id": "45022750fe",
+   "topic": "Union Budget & government schemes",
+   "q": "For the October-December 2026 quarter, what is the interest rate on the Public Provident Fund (PPF)?",
+   "options": [
+    "7.5%",
+    "7.7%",
+    "7.1%",
+    "8.2%"
+   ],
+   "answer": "C",
+   "explanation": "Small savings rates were kept unchanged on 30 Sep 2026: PPF 7.1%, NSC 7.7%, KVP 7.5%, SCSS and Sukanya Samriddhi 8.2% each. Source: Business Today, 30 Sep 2026."
+  },
+  {
+   "id": "078ff9119d",
+   "topic": "Union Budget & government schemes",
+   "q": "Which body regulates the National Pension System (NPS), which needs a minimum Tier-I contribution of Rs 1,000 a year?",
+   "options": [
+    "PFRDA",
+    "IRDAI",
+    "SEBI",
+    "EPFO"
+   ],
+   "answer": "A",
+   "explanation": "The Pension Fund Regulatory and Development Authority regulates NPS and Atal Pension Yojana. NPS began on 1 January 2004 for government employees and opened to all citizens on 1 May 2009. Source: Wikipedia, checked Nov 2026."
+  },
+  {
+   "id": "c3def27927",
+   "topic": "Union Budget & government schemes",
+   "q": "Senior citizens aged 70 and above get how much annual health cover under Ayushman Vay Vandana (AB PM-JAY)?",
+   "options": [
+    "Rs 3 lakh",
+    "Rs 10 lakh",
+    "Rs 5 lakh",
+    "Rs 2 lakh"
+   ],
+   "answer": "C",
+   "explanation": "Since 29 October 2024 all citizens aged 70 and above get Rs 5 lakh a year regardless of income; families already covered get it as a separate top-up. The National Health Authority implements it. Source: Adda247, 30 Oct 2026."
+  },
+  {
+   "id": "57988e7073",
+   "topic": "Union Budget & government schemes",
+   "q": "As per NSO data released on 31 August 2026, India's real GDP grew by how much in April-June 2026 (Q1 of 2026-27)?",
+   "options": [
+    "6.9%",
+    "7.8%",
+    "7.4%",
+    "8.6%"
+   ],
+   "answer": "B",
+   "explanation": "Q1 FY27 real GDP growth was 7.8%. This is the latest quarterly figure, as the July-September data is due on 30 November 2026. Source: Trading Economics / NSO, 31 Aug 2026."
+  },
+  {
+   "id": "13f78d8862",
+   "topic": "Union Budget & government schemes",
+   "q": "In July 2026 the Cabinet continued PM-KISAN up to 2030-31. How much does an eligible farmer family get per year under it?",
+   "options": [
+    "Rs 12,000",
+    "Rs 4,000",
+    "Rs 6,000",
+    "Rs 8,000"
+   ],
+   "answer": "C",
+   "explanation": "PM-KISAN pays Rs 6,000 a year in three equal instalments of Rs 2,000 by DBT. The continuation for 2026-27 to 2030-31 has an outlay of Rs 3.15 lakh crore. Source: New India Samachar (PIB), 16-31 Aug 2026."
+  },
+  {
+   "id": "fde0fc6a71",
+   "topic": "Union Budget & government schemes",
+   "q": "Which ministry will administer the unified GOBARdhan scheme (2026-27 to 2035-36) approved in August 2026?",
+   "options": [
+    "Ministry of New and Renewable Energy",
+    "Ministry of Jal Shakti",
+    "Ministry of Petroleum and Natural Gas",
+    "Ministry of Agriculture and Farmers Welfare"
+   ],
+   "answer": "C",
+   "explanation": "The Rs 23,731 crore scheme is administered by the Ministry of Petroleum and Natural Gas. GOBARdhan began in 2018 under Swachh Bharat Mission (Gramin) of the Department of Drinking Water and Sanitation. Source: GKToday, 7 Aug 2026."
+  },
+  {
+   "id": "48133f5638",
+   "topic": "Union Budget & government schemes",
+   "q": "The Union Budget 2026-27 set the fiscal deficit target for 2026-27 at what percentage of GDP?",
+   "options": [
+    "4.3%",
+    "4.1%",
+    "4.4%",
+    "4.9%"
+   ],
+   "answer": "A",
+   "explanation": "The target is 4.3% of GDP, against 4.4% in the revised estimate for 2025-26. Total expenditure is Rs 53.47 lakh crore and capital expenditure Rs 12.2 lakh crore. Source: PRS Legislative Research, Feb 2026."
+  },
+  {
+   "id": "2762576d2b",
+   "topic": "Union Budget & government schemes",
+   "q": "Pradhan Mantri Surya Sarovar Yojana, approved by the Cabinet in July 2026 with Rs 5,070 crore, promotes which type of project?",
+   "options": [
+    "Solar pumps for farmers",
+    "Floating solar power projects",
+    "Offshore wind farms",
+    "Rooftop solar for homes"
+   ],
+   "answer": "B",
+   "explanation": "PM-SSY targets 5,000 MW of floating solar photovoltaic projects with energy storage. PM-KUSUM is for solar pumps and PM Surya Ghar for rooftop solar. Source: New India Samachar (PIB), 16-31 Aug 2026."
+  },
+  {
+   "id": "1b897b0bf6",
+   "topic": "Union Budget & government schemes",
+   "q": "On 30 September 2026 the CCEA fixed the MSP of wheat for the 2027-28 marketing season at what price per quintal?",
+   "options": [
+    "Rs 2,585",
+    "Rs 2,700",
+    "Rs 2,610",
+    "Rs 2,425"
+   ],
+   "answer": "C",
+   "explanation": "Wheat MSP was raised by Rs 25 from Rs 2,585 to Rs 2,610 a quintal. The CACP recommends MSPs and the CCEA approves them. Source: Business Today, 30 Sep 2026."
+  },
+  {
+   "id": "8d80a2fa81",
+   "topic": "Union Budget & government schemes",
+   "q": "What is the annual premium for the Rs 2 lakh life cover under Pradhan Mantri Jeevan Jyoti Bima Yojana (PMJJBY)?",
+   "options": [
+    "Rs 500",
+    "Rs 436",
+    "Rs 20",
+    "Rs 330"
+   ],
+   "answer": "B",
+   "explanation": "PMJJBY costs Rs 436 a year for ages 18 to 50. PMSBY gives Rs 2 lakh accident cover for Rs 20 a year for ages 18 to 70. Both were launched on 9 May 2015. Source: Adda247, 22 Aug 2026."
+  },
+  {
+   "id": "abba05a9eb",
+   "topic": "Union Budget & government schemes",
+   "q": "What is the entry age band for joining Atal Pension Yojana (APY)?",
+   "options": [
+    "18 to 50 years",
+    "18 to 40 years",
+    "18 to 60 years",
+    "21 to 45 years"
+   ],
+   "answer": "B",
+   "explanation": "APY is open to ages 18 to 40 and gives a guaranteed pension of Rs 1,000 to Rs 5,000 a month from age 60. PFRDA administers it; income-tax payers cannot join since 1 October 2022. Source: Adda247, 22 Aug 2026."
+  },
+  {
+   "id": "57fd0e505c",
+   "topic": "Union Budget & government schemes",
+   "q": "Which body does Article 279A of the Constitution provide for?",
+   "options": [
+    "NITI Aayog",
+    "Inter-State Council",
+    "GST Council",
+    "Finance Commission"
+   ],
+   "answer": "C",
+   "explanation": "The GST Council was set up under Article 279A, added by the 101st Constitutional Amendment Act, 2016. The Union Finance Minister chairs it. GST began on 1 July 2017. Source: GST Council website."
+  },
+  {
+   "id": "edaa230979",
+   "topic": "Union Budget & government schemes",
+   "q": "The Senior Citizens' Savings Scheme (SCSS) pays interest quarterly. What is the maximum amount an individual can deposit in it?",
+   "options": [
+    "Rs 15 lakh",
+    "Rs 9 lakh",
+    "Rs 30 lakh",
+    "Rs 50 lakh"
+   ],
+   "answer": "C",
+   "explanation": "The SCSS limit was raised from Rs 15 lakh to Rs 30 lakh from 1 April 2023. Minimum age is 60, tenure is 5 years (extendable by 3 years) and the rate is 8.2%. Source: National Savings Institute."
+  },
+  {
+   "id": "d66d1f9495",
+   "topic": "Union Budget & government schemes",
+   "q": "Gross GST collections for October 2026, released on 1 November 2026, were about how much?",
+   "options": [
+    "Rs 1.99 lakh crore",
+    "Rs 2.31 lakh crore",
+    "Rs 2.11 lakh crore",
+    "Rs 1.88 lakh crore"
+   ],
+   "answer": "B",
+   "explanation": "October 2026 gross GST was Rs 2,31,290 crore, up 22.9% from a year earlier and the second-highest monthly figure. The record is about Rs 2.43 lakh crore in April 2026. Source: Adda247, 2 Nov 2026."
+  },
+  {
+   "id": "263db3d4c5",
+   "topic": "Geography & culture",
+   "q": "Pong Dam in Himachal Pradesh is built on which river?",
+   "options": [
+    "Beas",
+    "Ravi",
+    "Chenab",
+    "Sutlej"
+   ],
+   "answer": "A",
+   "explanation": "Pong Dam (Beas Dam) is on the Beas in Kangra district; its reservoir is Maharana Pratap Sagar. Bhakra Dam is on the Sutlej. Source: Wikipedia (Pong Dam), read Nov 2026."
+  },
+  {
+   "id": "9bab9ef597",
+   "topic": "Geography & culture",
+   "q": "Wangala, the 'Festival of the Hundred Drums', is a harvest festival of which tribe?",
+   "options": [
+    "Apatani",
+    "Garo",
+    "Bhil",
+    "Khasi"
+   ],
+   "answer": "B",
+   "explanation": "The Garo tribe, mainly of Meghalaya, celebrates Wangala to thank the sun god Misi Saljong. Source: Wikipedia (Wangala), read Nov 2026."
+  },
+  {
+   "id": "08cc15bb71",
+   "topic": "Geography & culture",
+   "q": "The Godavari, India's second-longest river, rises near Trimbakeshwar in which state?",
+   "options": [
+    "Maharashtra",
+    "Madhya Pradesh",
+    "Telangana",
+    "Karnataka"
+   ],
+   "answer": "A",
+   "explanation": "The Godavari rises at Brahmagiri near Trimbakeshwar, Nashik district, Maharashtra, and flows 1,465 km to the Bay of Bengal. It is called the Dakshina Ganga. Source: Wikipedia (Godavari River), read Nov 2026."
+  },
+  {
+   "id": "f9986157dd",
+   "topic": "Geography & culture",
+   "q": "Which was India's first national park, established in 1936?",
+   "options": [
+    "Kanha National Park",
+    "Kaziranga National Park",
+    "Jim Corbett National Park",
+    "Gir National Park"
+   ],
+   "answer": "C",
+   "explanation": "Jim Corbett National Park in Nainital district, Uttarakhand, was set up in 1936 as Hailey National Park. Madhya Pradesh has the most national parks. Source: Wikipedia (Jim Corbett National Park), read Nov 2026."
+  },
+  {
+   "id": "c468cce83e",
+   "topic": "Geography & culture",
+   "q": "Which were India's first Ramsar sites, designated in 1981?",
+   "options": [
+    "Wular Lake and Loktak Lake",
+    "Sundarbans and Bhitarkanika",
+    "Sambhar Lake and Harike Lake",
+    "Chilika Lake and Keoladeo National Park"
+   ],
+   "answer": "D",
+   "explanation": "Chilika Lake (Odisha) and Keoladeo National Park (Rajasthan) were designated on 1 October 1981. The largest Indian Ramsar site is the Sundarban Wetland, West Bengal. Source: Wikipedia (List of Ramsar sites in India), read Nov 2026."
+  },
+  {
+   "id": "047633e4c5",
+   "topic": "Geography & culture",
+   "q": "Tehri Dam, the tallest dam in India, is built on which river?",
+   "options": [
+    "Narmada",
+    "Bhagirathi",
+    "Alaknanda",
+    "Mahanadi"
+   ],
+   "answer": "B",
+   "explanation": "Tehri Dam (260.5 m) is on the Bhagirathi in Uttarakhand and is run by THDC India. Source: Wikipedia (Tehri Dam), read Nov 2026."
+  },
+  {
+   "id": "dad094a858",
+   "topic": "Geography & culture",
+   "q": "The world's highest railway bridge, opened in June 2025, is built over which river in Jammu and Kashmir?",
+   "options": [
+    "Ravi",
+    "Jhelum",
+    "Chenab",
+    "Indus"
+   ],
+   "answer": "C",
+   "explanation": "The Chenab Rail Bridge in Reasi district stands 359 m above the riverbed on the Jammu-Baramulla line. It was opened on 6 June 2025. Source: Wikipedia (Chenab Rail Bridge), read Nov 2026."
+  },
+  {
+   "id": "d282c7d214",
+   "topic": "Geography & culture",
+   "q": "Kudankulam Nuclear Power Plant, India's largest nuclear power station, is in which state?",
+   "options": [
+    "Tamil Nadu",
+    "Maharashtra",
+    "Gujarat",
+    "Karnataka"
+   ],
+   "answer": "A",
+   "explanation": "Kudankulam is in Tirunelveli district, Tamil Nadu, run by NPCIL with Russian reactors. Kaiga is in Karnataka, Kakrapar in Gujarat and Tarapur in Maharashtra. Source: Wikipedia (Kudankulam Nuclear Power Plant), read Nov 2026."
+  },
+  {
+   "id": "cb70e96496",
+   "topic": "Geography & culture",
+   "q": "Sattriya is a classical dance form of which state?",
+   "options": [
+    "Odisha",
+    "Manipur",
+    "Assam",
+    "Kerala"
+   ],
+   "answer": "C",
+   "explanation": "Sattriya comes from Assam and is attributed to the saint Sankaradeva; Sangeet Natak Akademi recognised it as classical in 2000. Source: Wikipedia (Sattriya), read Nov 2026."
+  },
+  {
+   "id": "0505d58d72",
+   "topic": "Geography & culture",
+   "q": "The Hornbill Festival, held from 1 to 10 December every year, is celebrated in which state?",
+   "options": [
+    "Nagaland",
+    "Mizoram",
+    "Meghalaya",
+    "Arunachal Pradesh"
+   ],
+   "answer": "A",
+   "explanation": "The Hornbill Festival is held at Kisama Heritage Village near Kohima, Nagaland, and is called the 'Festival of Festivals'. It began in 2000. Source: Wikipedia (Hornbill Festival), read Nov 2026."
+  },
+  {
+   "id": "bb82301e14",
+   "topic": "Geography & culture",
+   "q": "Vizhinjam International Seaport, India's first deep-water transshipment port, is in which state?",
+   "options": [
+    "Gujarat",
+    "Odisha",
+    "Kerala",
+    "Tamil Nadu"
+   ],
+   "answer": "C",
+   "explanation": "Vizhinjam port is in Thiruvananthapuram district, Kerala, and was inaugurated on 2 May 2025. It is operated by an Adani Ports subsidiary. Source: Wikipedia (Vizhinjam International Seaport), read Nov 2026."
+  },
+  {
+   "id": "d1093bb6fd",
+   "topic": "Geography & culture",
+   "q": "Which was the first Indian product to receive a Geographical Indication (GI) tag?",
+   "options": [
+    "Darjeeling Tea",
+    "Basmati Rice",
+    "Kanchipuram Silk",
+    "Alphonso Mango"
+   ],
+   "answer": "A",
+   "explanation": "Darjeeling Tea of West Bengal got India's first GI tag in 2004. The GI Registry is in Chennai. Source: Wikipedia (Darjeeling tea), read Nov 2026."
+  },
+  {
+   "id": "4c893321a3",
+   "topic": "Geography & culture",
+   "q": "Buxa Tiger Reserve, where a tigress was released in October 2026 to start a tiger reintroduction programme, is in which state?",
+   "options": [
+    "Assam",
+    "West Bengal",
+    "Odisha",
+    "Bihar"
+   ],
+   "answer": "B",
+   "explanation": "Buxa Tiger Reserve is in West Bengal and was declared a tiger reserve in 1983. The tigress came from Valmiki Tiger Reserve, Bihar. Source: Drishti IAS, 6 Oct 2026."
+  },
+  {
+   "id": "0377041f3a",
+   "topic": "Geography & culture",
+   "q": "The Kishau Dam project, for which six states signed an agreement on 15 September 2026, is on which river?",
+   "options": [
+    "Sharda",
+    "Sutlej",
+    "Chenab",
+    "Tons"
+   ],
+   "answer": "D",
+   "explanation": "Kishau is a 232.6 m dam on the Tons, a tributary of the Yamuna, on the Uttarakhand-Himachal Pradesh border. The signatories were UP, Uttarakhand, Himachal Pradesh, Rajasthan, Delhi and Haryana. Source: Drishti IAS, 16 Sep 2026."
+  },
+  {
+   "id": "90a8d124be",
+   "topic": "Geography & culture",
+   "q": "'Ambaji Mohanthal', a temple prasad that received a GI tag in October 2026, belongs to which state?",
+   "options": [
+    "Gujarat",
+    "Rajasthan",
+    "Madhya Pradesh",
+    "Maharashtra"
+   ],
+   "answer": "A",
+   "explanation": "Ambaji Mohanthal, the besan-based prasad of the Ambaji Temple in Banaskantha district, Gujarat, received the GI tag in October 2026 under Class 30 (foodstuffs/sweets); the applicant was the Shree Arasuri Ambaji Mata Devasthan Trust. A GI registration is valid for 10 years and can be renewed. Source: Manorama Yearbook, 13 Oct 2026; Adda247, Oct 2026."
+  },
+  {
+   "id": "1de4da818a",
+   "topic": "Geography & culture",
+   "q": "Veerangana Durgavati Tiger Reserve, earlier known as Nauradehi Wildlife Sanctuary, is in which state?",
+   "options": [
+    "Rajasthan",
+    "Chhattisgarh",
+    "Madhya Pradesh",
+    "Gujarat"
+   ],
+   "answer": "C",
+   "explanation": "The reserve (Nauradehi) lies in Sagar and Damoh districts of Madhya Pradesh and was notified in 2023. India's first cheetahs were brought to Kuno National Park, also in Madhya Pradesh, in September 2022. Source: Wikipedia (Veerangana Durgavati Tiger Reserve), read Nov 2026."
+  }
+ ]
+}

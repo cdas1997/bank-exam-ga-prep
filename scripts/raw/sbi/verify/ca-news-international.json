@@ -1,0 +1,343 @@
+{
+ "verdicts": [
+  {
+   "key": "ca-news",
+   "index": 0,
+   "q": "What was the theme of the 18th BRICS Summit held in New Delhi on 12-13 September 2026 under India's chairship?",
+   "verdict": "fix",
+   "note": "Theme, dates, New Delhi Declaration and China 2027 confirmed on SAnews. Bharat Mandapam venue not confirmed, so removed. India's 4th chairship (2012, 2016, 2021, 2026) is correct.",
+   "fix": {
+    "explanation": "The theme was 'Building for Resilience, Innovation, Cooperation and Sustainability'. The summit was held in New Delhi on 12-13 September 2026, adopted the New Delhi Declaration and was India's 4th BRICS chairship (after 2012, 2016 and 2021). China chairs BRICS in 2027. Source: SAnews (South African Government), 13 Sep 2026."
+   },
+   "source_url": "https://www.sanews.gov.za/node/84282"
+  },
+  {
+   "key": "ca-news",
+   "index": 1,
+   "q": "The 26th meeting of the SCO Council of Heads of State, which marked 25 years of the organisation, was held on 31 August-1 September 2026 in which city?",
+   "verdict": "fix",
+   "note": "The SCO Secretariat page dates the 26th Council of Heads of State meeting at Yrys-Ordo, Bishkek, to 1 September 2026. The stem's '31 August-1 September' is not supported, so the stem now says 1 September. Chair Japarov, Pakistan as 2026-27 chair and Lahore as tourism and cultural capital are confirmed.",
+   "fix": {
+    "q": "The 26th meeting of the SCO Council of Heads of State, which marked 25 years of the organisation, was held on 1 September 2026 in which city?",
+    "explanation": "The summit was held on 1 September 2026 at the Yrys-Ordo Congress Hall in Bishkek, Kyrgyzstan, and was chaired by President Sadyr Japarov. Pakistan took over the chair for 2026-27, and Lahore was named SCO Tourism and Cultural Capital for 2026-27. Source: SCO Secretariat, 1 Sep 2026."
+   },
+   "source_url": "https://eng.sectsco.org/20260901/2493609.html"
+  },
+  {
+   "key": "ca-news",
+   "index": 2,
+   "q": "The 52nd G7 Summit, which Prime Minister Narendra Modi attended in June 2026, was held at which place?",
+   "verdict": "ok",
+   "note": "Elysee confirms the Evian summit and India as a partner country. News On AIR (20 May 2026) gives the dates as 15-17 June. NoA reports confirm Modi attended sessions on 16-17 June. The 2025 summit (Kananaskis) was the 51st, so this one is the 52nd.",
+   "source_url": "https://newsonair.gov.in/?s=G7+Evian+Modi"
+  },
+  {
+   "key": "ca-news",
+   "index": 3,
+   "q": "On which date did the India-UK Comprehensive Economic and Trade Agreement (CETA) come into force?",
+   "verdict": "fix",
+   "note": "GOV.UK confirms entry into force on 15 July 2026 and signing on 24 July 2025. The claim that the Double Contribution Convention came into force on the same day is not confirmed, so it was removed.",
+   "fix": {
+    "explanation": "CETA came into force on 15 July 2026. It was signed on 24 July 2025 and gives duty-free access to about 99% of India's exports to the UK (by tariff lines). Source: GOV.UK, Jul 2026."
+   },
+   "source_url": "https://www.gov.uk/government/collections/uk-india-trade-deal"
+  },
+  {
+   "key": "ca-news",
+   "index": 4,
+   "q": "COP31, the UN climate conference of November 2026, is being held in which city?",
+   "verdict": "ok",
+   "note": "Pre-verified in the brief (Antalya, 9-20 Nov 2026). Turkiye holds the presidency (Murat Kurum) and Australia chairs the negotiations (Chris Bowen), per the Wikipedia page citing UN Turkiye. COP30 was held in Belem.",
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_Nations_Climate_Change_Conference"
+  },
+  {
+   "key": "ca-news",
+   "index": 5,
+   "q": "Which city hosted the Annual Meetings of the IMF and the World Bank Group in October 2026?",
+   "verdict": "ok",
+   "note": "IMF page: Bangkok, 12-18 Oct 2026; Thailand last hosted in 1991.",
+   "source_url": "https://www.imf.org/en/meetings/2026/annual"
+  },
+  {
+   "key": "ca-news",
+   "index": 6,
+   "q": "The India-New Zealand Free Trade Agreement, signed at Bharat Mandapam in April 2026, came into force on which date?",
+   "verdict": "fix",
+   "note": "Entry into force on 20 Oct 2026 is confirmed by News On AIR and Times of Oman. NoA says the agreement was signed in New Delhi on 27 April 2026 by Goyal and McClay with 100% duty-free access. The Bharat Mandapam venue is not confirmed, so the stem now says New Delhi.",
+   "fix": {
+    "q": "The India-New Zealand Free Trade Agreement, signed in New Delhi in April 2026, came into force on which date?",
+    "explanation": "The FTA came into force on 20 October 2026 (Vijayadashami). It was signed in New Delhi on 27 April 2026 by Piyush Goyal and New Zealand's Todd McClay, and gives 100% of India's exports duty-free access to New Zealand. Source: News On AIR, 27 Apr and 20 Oct 2026."
+   },
+   "source_url": "https://newsonair.gov.in/?s=India+New+Zealand+FTA+signed"
+  },
+  {
+   "key": "ca-news",
+   "index": 7,
+   "q": "Uzbekistan became the 10th member of the New Development Bank (NDB) in June 2026. In which city is the NDB headquartered?",
+   "verdict": "ok",
+   "note": "The NDB members page lists Uzbekistan joining on 5 Jun 2026, after Bangladesh, UAE, Egypt and Algeria, with no other Central Asian member. The Shanghai headquarters is a static fact.",
+   "source_url": "https://www.ndb.int/about-ndb/members/"
+  },
+  {
+   "key": "ca-news",
+   "index": 8,
+   "q": "The Asian Development Bank, which approved a USD 139.55 million loan for Puducherry in October 2026, has its headquarters in which city?",
+   "verdict": "fix",
+   "note": "The USD 139.55 mn Puducherry loan in the stem could not be confirmed (adb.org blocked, no coverage found), so it was removed from the stem. Kanda's term was the remainder of Asakawa's, ending Nov 2026, so the 'President' line is unsafe and was removed.",
+   "fix": {
+    "q": "The Asian Development Bank (ADB), in which Japan and the United States are the largest shareholders, has its headquarters in which city?",
+    "explanation": "ADB is headquartered in Manila, Philippines, and was set up in 1966. Japan and the US are its largest shareholders, and India is a founding member. Source: ADB website."
+   }
+  },
+  {
+   "key": "ca-news",
+   "index": 9,
+   "q": "In the India-UK trade pact that came into force in July 2026, what does the abbreviation CETA stand for?",
+   "verdict": "ok",
+   "note": "Static fact. India's pacts with the UAE and Oman are CEPAs and the one with EFTA is TEPA, which is correct.",
+   "source_url": "https://www.gov.uk/government/collections/uk-india-trade-deal"
+  },
+  {
+   "key": "ca-news",
+   "index": 10,
+   "q": "After India's chairship in 2026, which country will chair BRICS and host the 19th BRICS Summit in 2027?",
+   "verdict": "ok",
+   "note": "SAnews confirms China will host the 2027 summit. Brazil 2025 (Rio) and Russia 2024 (Kazan) are correct.",
+   "source_url": "https://www.sanews.gov.za/node/84282"
+  },
+  {
+   "key": "ca-news",
+   "index": 11,
+   "q": "The Shanghai Cooperation Organisation (SCO), whose 26th summit was held in Bishkek in 2026, has its secretariat in which city?",
+   "verdict": "ok",
+   "note": "Static facts: Secretariat in Beijing, RATS in Tashkent, founded 2001, 10 members since Belarus joined in 2024. The Pakistan 2026-27 chair is confirmed on the SCO page.",
+   "source_url": "https://eng.sectsco.org/20260901/2493609.html"
+  },
+  {
+   "key": "ca-news",
+   "index": 12,
+   "q": "Which country hosted the Commonwealth Heads of Government Meeting (CHOGM) in November 2026?",
+   "verdict": "ok",
+   "note": "Commonwealth Secretariat page: St John's, Antigua and Barbuda, 1-4 Nov 2026, with the theme as stated.",
+   "source_url": "https://thecommonwealth.org/chogm-2026"
+  },
+  {
+   "key": "ca-news",
+   "index": 13,
+   "q": "How many member countries does the Commonwealth of Nations, whose leaders met at CHOGM 2026, have?",
+   "verdict": "ok",
+   "note": "Commonwealth page: 56 independent countries. Gabon and Togo joined in 2022.",
+   "source_url": "https://thecommonwealth.org/chogm-2026"
+  },
+  {
+   "key": "ca-news",
+   "index": 14,
+   "q": "The NATO Summit of 7-8 July 2026 was held in which city?",
+   "verdict": "fix",
+   "note": "Al Jazeera confirms Ankara (Bestepe), 7-8 July 2026, and a final declaration. The formal name 'Ankara Summit Declaration' is not confirmed, so the wording was softened.",
+   "fix": {
+    "explanation": "The 2026 NATO Summit was held in Ankara, Turkiye, on 7-8 July 2026 and ended with a summit declaration. The 2025 summit was in The Hague and the 2024 summit in Washington, D.C. Source: Al Jazeera, 8 Jul 2026."
+   },
+   "source_url": "https://www.aljazeera.com/amp/news/2026/7/8/five-key-takeaways-from-the-nato-summit-in-ankara"
+  },
+  {
+   "key": "ca-news",
+   "index": 15,
+   "q": "NATO, which held its 2026 summit in Ankara, has its headquarters in which city?",
+   "verdict": "ok",
+   "note": "Static fact. Al Jazeera confirms 32 members.",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/7/8/five-key-takeaways-from-the-nato-summit-in-ankara"
+  },
+  {
+   "key": "ca-news",
+   "index": 16,
+   "q": "President Droupadi Murmu's State Visits of 19-25 July 2026 covered Moldova, North Macedonia and which third country?",
+   "verdict": "ok",
+   "note": "News On AIR confirms 19-25 July 2026, the three countries, and the first-ever visits to Moldova and North Macedonia.",
+   "source_url": "https://newsonair.gov.in/?s=President+Murmu+Moldova"
+  },
+  {
+   "key": "ca-news",
+   "index": 17,
+   "q": "During Prime Minister Modi's State Visit of 29-30 August 2026, India raised its ties to a Comprehensive Strategic Partnership with which Central Asian country?",
+   "verdict": "fix",
+   "note": "News On AIR (30-31 Aug 2026) confirms the Comprehensive Strategic Partnership and the 2-day State Visit to Tashkent. The 'USD 5 billion by 2030' trade target is not confirmed, so it was removed. Uranium supply is added from NoA.",
+   "fix": {
+    "explanation": "The PM paid a State Visit to Tashkent at the invitation of President Shavkat Mirziyoyev, and the two sides raised ties to a Comprehensive Strategic Partnership. Uzbekistan agreed to set up a framework for long-term uranium supply to India. He then went to Bishkek for the SCO summit. Source: News On AIR, 30-31 Aug 2026."
+   },
+   "source_url": "https://newsonair.gov.in/?s=Uzbekistan+Comprehensive+Strategic+Partnership"
+  },
+  {
+   "key": "ca-news",
+   "index": 18,
+   "q": "In July 2026 the World Bank approved about USD 890 million of financing for which Government of India scheme?",
+   "verdict": "fix",
+   "note": "The World Bank release confirms USD 890 mn (820 IBRD + 60 CTF + 10 grant from the Livable Planet Fund), 10 mn households, 9 Jul 2026. The 'ADB USD 850 million in July 2026' claim could not be confirmed and was removed.",
+   "fix": {
+    "explanation": "The package has a USD 820 million IBRD loan, a USD 60 million Clean Technology Fund loan and a USD 10 million Livable Planet Fund grant, and aims to mobilise about USD 4.2 billion of private finance. The rooftop solar scheme targets 10 million households. Source: World Bank press release, 9 Jul 2026."
+   },
+   "source_url": "https://www.worldbank.org/en/news/press-release/2026/07/09/world-bank-supports-india-s-solar-rooftop-program-to-boost-clean-energy-create-jobs-and-unlock-private-capital"
+  },
+  {
+   "key": "ca-news",
+   "index": 19,
+   "q": "In October 2026 the Asian Development Bank approved a USD 139.55 million loan for an urban livability project in which State or Union Territory?",
+   "verdict": "drop",
+   "note": "Could not confirm the ADB USD 139.55 mn Puducherry loan on any page I could open: adb.org returns 403/Cloudflare and there were no results on News On AIR or ThePrint. 'First project in Puducherry' is also unverified."
+  },
+  {
+   "key": "ca-news",
+   "index": 20,
+   "q": "India's Comprehensive Economic Partnership Agreement (CEPA) with which Gulf country came into force on 1 June 2026?",
+   "verdict": "ok",
+   "note": "News On AIR (1 Jun 2026) says the CEPA came into force that day, signed six months earlier. Signing in Muscat on 18 Dec 2025 matches. India Briefing agrees.",
+   "source_url": "https://newsonair.gov.in/?s=India+Oman+CEPA"
+  },
+  {
+   "key": "ca-news",
+   "index": 21,
+   "q": "What is the theme of the general debate of the 81st session of the UN General Assembly, held in September 2026?",
+   "verdict": "fix",
+   "note": "The theme is confirmed by IANS/Hans India and News On AIR (26 Sep 2026). The opening date of 8 Sep was not confirmed and was removed. NoA confirms Jaishankar addressed the session on 26 Sep.",
+   "fix": {
+    "explanation": "The general debate of the 81st session began on 22 September 2026 in New York. EAM S. Jaishankar led India's delegation and addressed the high-level session on 26 September. The UN has 193 member states. Source: News On AIR, 26 Sep 2026; IANS, Sep 2026."
+   },
+   "source_url": "https://newsonair.gov.in/?s=UNGA+theme+81st"
+  },
+  {
+   "key": "ca-news",
+   "index": 22,
+   "q": "The 48th session of the UNESCO World Heritage Committee, which inscribed Sarnath as India's 45th World Heritage Site in July 2026, was held in which city?",
+   "verdict": "fix",
+   "note": "The UNESCO session page confirms the 48th session in Busan (BEXCO), 19-29 July 2026. NoA confirms Sarnath was inscribed (reported 25 Jul). The '45th site' count was not confirmed on any page, so it was removed from the stem and explanation.",
+   "fix": {
+    "q": "The 48th session of the UNESCO World Heritage Committee, which inscribed Sarnath on the World Heritage List in July 2026, was held in which city?",
+    "explanation": "The session was held in Busan, South Korea, on 19-29 July 2026, and Sarnath's inscription was announced on 25 July 2026. The 46th session was in New Delhi (2024) and the 47th in Paris (2025). UNESCO is headquartered in Paris. Source: UNESCO; News On AIR, 25 Jul 2026."
+   },
+   "source_url": "https://whc.unesco.org/en/sessions/48COM"
+  },
+  {
+   "key": "ca-news",
+   "index": 23,
+   "q": "Which country holds the presidency of the G20 in 2026?",
+   "verdict": "fix",
+   "note": "The US presidency for 2026 is confirmed (from 1 Dec 2025). The 'United Kingdom follows in 2027' line could not be confirmed on a reliable page and was removed. The summit dates come only from Wikipedia, so they were softened to December 2026 at Doral.",
+   "fix": {
+    "explanation": "The United States holds the G20 presidency in 2026 and hosts the leaders' summit at Doral, Miami, in December 2026. South Africa held the presidency in 2025 (Johannesburg summit) and India in 2023. Source: G20 / White House, 2026."
+   },
+   "source_url": "https://en.wikipedia.org/wiki/2026_G20_Miami_summit"
+  },
+  {
+   "key": "ca-news",
+   "index": 24,
+   "q": "COP31 is being held in Turkiye in November 2026. Which country will host COP32 in 2027?",
+   "verdict": "ok",
+   "note": "COP30 (Belem, Nov 2025) chose Ethiopia, with Addis Ababa as the venue, to host COP32 in 2027. The Wikipedia COP31 page's next-event link points to Addis Ababa. The UNFCCC secretariat is in Bonn.",
+   "source_url": "https://en.wikipedia.org/wiki/2026_United_Nations_Climate_Change_Conference"
+  },
+  {
+   "key": "ca-news",
+   "index": 25,
+   "q": "Which of the following is NOT a member of the European Free Trade Association (EFTA), with which India held the 2nd Prosperity Summit in October 2026?",
+   "verdict": "ok",
+   "note": "Static EFTA membership. News On AIR (7 Oct 2026) confirms the 2nd India-EFTA Prosperity Summit. TEPA came into force on 1 Oct 2025 with a USD 100 bn / 15 yr pledge (known).",
+   "source_url": "https://newsonair.gov.in/?s=India+EFTA+Prosperity+Summit"
+  },
+  {
+   "key": "ca-news",
+   "index": 26,
+   "q": "Which of the following is a United Nations International Year being observed in 2026?",
+   "verdict": "ok",
+   "note": "UNRIC lists 2026 years: Rangelands and Pastoralists, Volunteers, Woman Farmer. Millets 2023, Camelids 2024, Cooperatives 2025 are correct.",
+   "source_url": "https://unric.org/en/un-international-years-2026-rangelands-and-pastoralists-volunteers-and-the-woman-farmer/"
+  },
+  {
+   "key": "ca-news",
+   "index": 27,
+   "q": "Under the bilateral Haj Agreement signed with Saudi Arabia in Jeddah in November 2026, what is India's pilgrim quota for Haj 2027?",
+   "verdict": "fix",
+   "note": "News On AIR (10 Nov 2026) confirms the Haj 2027 agreement signed in Jeddah by Kiren Rijiju with a quota of 1,75,025. GKToday gives 9 Nov, and NoA reported it on 10 Nov. The explanation now cites NoA.",
+   "fix": {
+    "explanation": "Minority Affairs Minister Kiren Rijiju signed the bilateral Haj Agreement for 2027 with Saudi Hajj and Umrah Minister Tawfiq Al-Rabiah in Jeddah on 9 November 2026. India's quota stays at 1,75,025 pilgrims. Source: News On AIR, 10 Nov 2026; GKToday, 10 Nov 2026."
+   },
+   "source_url": "https://newsonair.gov.in/?s=Haj+2027"
+  },
+  {
+   "key": "ca-news",
+   "index": 28,
+   "q": "The Asian Infrastructure Investment Bank (AIIB), which approved a USD 1 billion loan to India in July 2026, has its headquarters in which city?",
+   "verdict": "ok",
+   "note": "AIIB project page confirms USD 1,000 mn approved on 16 Jul 2026. Static facts: Beijing HQ, operations from 2016, India second-largest shareholder.",
+   "source_url": "https://www.aiib.org/en/projects/details/2026/approved/india-program-for-growth-resilience-energy-security-and-sustainability.html"
+  },
+  {
+   "key": "ca-news",
+   "index": 29,
+   "q": "In July 2026 the Asian Development Bank approved a USD 1 billion loan to support India's urban reforms and which fund announced in the Union Budget 2025-26?",
+   "verdict": "drop",
+   "note": "Could not confirm the ADB USD 1 bn Urban Challenge Fund loan of 28 Jul 2026: adb.org is blocked and News On AIR has no ADB link to the fund (only the Cabinet approval in Feb 2026). The researcher also flagged this item."
+  },
+  {
+   "key": "ca-news",
+   "index": 30,
+   "q": "Guy Parmelin, who paid a State Visit to India on 5-7 October 2026, is the President of which country?",
+   "verdict": "ok",
+   "note": "News On AIR confirms a three-day State Visit from 5 Oct 2026 and talks with Modi. Morung Express (IANS) confirms Hyderabad House, and NoA confirms the 2nd India-EFTA Prosperity Summit on 7 Oct.",
+   "source_url": "https://newsonair.gov.in/?s=Guy+Parmelin+state+visit"
+  },
+  {
+   "key": "ca-news",
+   "index": 31,
+   "q": "In June 2026 Prime Minister Modi was Guest of Honour at the Golden Jubilee National Day celebrations of which island country?",
+   "verdict": "fix",
+   "note": "News On AIR confirms the State Visit of 27-29 June 2026, the Guest of Honour role at the 50th National Day, and President Patrick Herminie. The Rs 1,250 crore line of credit is not confirmed, so it was removed.",
+   "fix": {
+    "explanation": "The PM paid a State Visit to Seychelles on 27-29 June 2026 at the invitation of President Patrick Herminie. He was Guest of Honour at the celebrations marking 50 years of Seychelles' independence, the first Indian PM to receive this honour. The capital of Seychelles is Victoria. Source: News On AIR, 29 Jun 2026."
+   },
+   "source_url": "https://newsonair.gov.in/?s=Seychelles+Guest+of+Honour+National+Day"
+  },
+  {
+   "key": "ca-news",
+   "index": 32,
+   "q": "During Prime Minister Modi's visit of 10-11 July 2026, India raised its ties to a Strategic Partnership with which country?",
+   "verdict": "fix",
+   "note": "News On AIR confirms Auckland talks with PM Luxon on 11 July, a Strategic Partnership and doubling trade by 2030. The tour began on 6 July and NZ was the last leg. The 10-11 July dates were not confirmed, so the stem now says July 2026.",
+   "fix": {
+    "q": "During Prime Minister Modi's visit in July 2026, the last leg of a tour that also covered Indonesia and Australia, India raised its ties to a Strategic Partnership with which country?",
+    "options": [
+     "Fiji",
+     "Malaysia",
+     "Singapore",
+     "New Zealand"
+    ],
+    "answer": "D",
+    "explanation": "The PM met PM Christopher Luxon in Auckland on 11 July 2026. The two sides announced an India-New Zealand Strategic Partnership and aim to double bilateral trade by 2030. New Zealand's capital is Wellington. Source: News On AIR, 11-12 Jul 2026."
+   },
+   "source_url": "https://newsonair.gov.in/?s=Modi+New+Zealand+Luxon+Strategic+Partnership"
+  },
+  {
+   "key": "ca-news",
+   "index": 33,
+   "q": "Which country holds the chair of ASEAN in 2026 and hosted the 23rd ASEAN-India Summit?",
+   "verdict": "ok",
+   "note": "News On AIR confirms the 21st EAS on 17 Nov 2026 in Manila and Modi's address to the ASEAN-India summit in Manila the same day, with the Philippines as ASEAN chair. Malaysia chaired in 2025.",
+   "source_url": "https://newsonair.gov.in/?s=East+Asia+Summit+Manila"
+  },
+  {
+   "key": "ca-news",
+   "index": 34,
+   "q": "The UN General Assembly has declared 2027 as the International Year of what?",
+   "verdict": "ok",
+   "note": "FAO page: resolution of 26 Feb 2024 with UN Tourism coordinating. 2025 was the Year of Glaciers' Preservation and of Quantum Science and Technology, which is correct.",
+   "source_url": "https://www.fao.org/mountain-partnership/news/newsroom/news-detail/UN-General-Assembly-declares-2027-the-International-Year-of-Sustainable-and-Resilient-Tourism/en"
+  },
+  {
+   "key": "ca-news",
+   "index": 35,
+   "q": "On 20 July 2026 India became the 123rd member to accept which World Trade Organization agreement?",
+   "verdict": "ok",
+   "note": "The WTO acceptances page lists India on 20 Jul 2026 and states 123 members have accepted. The agreement entered into force on 15 Sep 2025.",
+   "source_url": "https://www.wto.org/english/tratop_e/rulesneg_e/fish_e/fish_acceptances_e.htm"
+  }
+ ]
+}

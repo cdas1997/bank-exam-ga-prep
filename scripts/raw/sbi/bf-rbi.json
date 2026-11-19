@@ -1,0 +1,724 @@
+{
+ "batches": [
+  {
+   "key": "bf-rbi",
+   "name": "RBI & monetary policy",
+   "questions": [
+    {
+     "q": "At its meeting of 5-7 October 2026, the RBI's Monetary Policy Committee raised the policy repo rate to what level?",
+     "options": [
+      "5.25%",
+      "5.50%",
+      "5.75%",
+      "6.00%"
+     ],
+     "answer": "B",
+     "explanation": "The MPC raised the repo rate by 25 basis points to 5.50% on 7 October 2026. It had stood at 5.25% since December 2025 and was held at the June and August 2026 meetings. Source: RBI press release 2026-2027/1264, 7 Oct 2026.",
+     "likely": 5,
+     "fact": "The policy repo rate is 5.50% after the 5-7 October 2026 MPC meeting.",
+     "event_date": "2026-10-07",
+     "kind": "news",
+     "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+     "confidence": "high"
+    },
+    {
+     "q": "After the October 2026 monetary policy, what is the Standing Deposit Facility (SDF) rate?",
+     "options": [
+      "5.00%",
+      "5.25%",
+      "5.50%",
+      "5.75%"
+     ],
+     "answer": "B",
+     "explanation": "The SDF rate is 5.25%, which is 25 basis points below the repo rate of 5.50%. The SDF is the floor of the LAF corridor. Source: RBI press release 2026-2027/1264, 7 Oct 2026.",
+     "likely": 5,
+     "fact": "The SDF rate is 5.25% after the October 2026 policy.",
+     "event_date": "2026-10-07",
+     "kind": "news",
+     "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+     "confidence": "high"
+    },
+    {
+     "q": "After the October 2026 monetary policy, the Marginal Standing Facility (MSF) rate and the Bank Rate both stand at:",
+     "options": [
+      "5.25%",
+      "5.50%",
+      "5.75%",
+      "6.00%"
+     ],
+     "answer": "C",
+     "explanation": "The MSF rate and the Bank Rate are both 5.75%, 25 basis points above the repo rate. The MSF rate is the ceiling of the LAF corridor. Source: RBI press release 2026-2027/1264, 7 Oct 2026.",
+     "likely": 5,
+     "fact": "The MSF rate and the Bank Rate are 5.75% after the October 2026 policy.",
+     "event_date": "2026-10-07",
+     "kind": "news",
+     "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+     "confidence": "high"
+    },
+    {
+     "q": "In October 2026 the RBI's Monetary Policy Committee changed its policy stance from 'neutral' to:",
+     "options": [
+      "Accommodative",
+      "Withdrawal of accommodation",
+      "Calibrated tightening",
+      "Hawkish pause"
+     ],
+     "answer": "C",
+     "explanation": "The MPC changed the stance to 'calibrated tightening' on 7 October 2026; the stance had been neutral at the June and August 2026 meetings. Dr Nagesh Kumar and Prof. Ram Singh wanted to keep it neutral. Source: RBI press release 2026-2027/1264, 7 Oct 2026.",
+     "likely": 5,
+     "fact": "The MPC stance was changed from neutral to calibrated tightening in October 2026.",
+     "event_date": "2026-10-07",
+     "kind": "news",
+     "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+     "confidence": "high"
+    },
+    {
+     "q": "Under the Reserve Bank - Integrated Ombudsman Scheme, 2026, in force from 1 July 2026, what is the maximum compensation the Ombudsman can award for consequential loss?",
+     "options": [
+      "Rs 10 lakh",
+      "Rs 20 lakh",
+      "Rs 30 lakh",
+      "Rs 50 lakh"
+     ],
+     "answer": "C",
+     "explanation": "RB-IOS 2026 replaced the 2021 scheme on 1 July 2026 and raised the cap from Rs 20 lakh to Rs 30 lakh. A further Rs 3 lakh can be awarded for loss of time, expenses, harassment or mental anguish, and there is no limit on the amount in dispute. Source: RBI FAQ on RB-IOS 2026, 1 Jul 2026.",
+     "likely": 5,
+     "fact": "The RBI Ombudsman can award up to Rs 30 lakh for consequential loss under RB-IOS 2026.",
+     "event_date": "2026-07-01",
+     "kind": "news",
+     "source_url": "https://rbi.org.in/Scripts/FAQDisplay.aspx?Id=153",
+     "confidence": "high"
+    },
+    {
+     "q": "Under the RBI's framework for small-value digital banking frauds, finalised on 24 June 2026, what is the maximum compensation a victim can receive?",
+     "options": [
+      "Rs 10,000",
+      "Rs 25,000",
+      "Rs 50,000",
+      "Rs 1 lakh"
+     ],
+     "answer": "B",
+     "explanation": "The victim gets 85% of the net loss or Rs 25,000, whichever is lower, for frauds with losses up to Rs 50,000. The amendment directions take effect on 1 January 2027. Source: RBI press release 2026-2027/533, 24 Jun 2026.",
+     "likely": 5,
+     "fact": "Compensation for small-value digital fraud is capped at Rs 25,000 (85% of net loss).",
+     "event_date": "2026-06-24",
+     "kind": "news",
+     "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63011",
+     "confidence": "high"
+    },
+    {
+     "q": "Who is the Governor of the Reserve Bank of India and chairperson of its Monetary Policy Committee?",
+     "options": [
+      "Shaktikanta Das",
+      "Sanjay Malhotra",
+      "Urjit Patel",
+      "Swaminathan J"
+     ],
+     "answer": "B",
+     "explanation": "Sanjay Malhotra is the 26th Governor of the RBI and took charge on 11 December 2024, succeeding Shaktikanta Das. The Governor is the ex officio chairperson of the MPC. Source: RBI list of Governors, Nov 2026.",
+     "likely": 5,
+     "fact": "Sanjay Malhotra is the 26th and current RBI Governor.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/Scripts/governors.aspx",
+     "confidence": "high"
+    },
+    {
+     "q": "The Reserve Bank of India began operations on which date?",
+     "options": [
+      "1 April 1935",
+      "1 January 1949",
+      "26 January 1950",
+      "1 July 1955"
+     ],
+     "answer": "A",
+     "explanation": "The RBI was established on 1 April 1935 under the Reserve Bank of India Act, 1934. Its first Governor was Sir Osborne Smith. Source: RBI, About Us, Nov 2026.",
+     "likely": 5,
+     "fact": "The RBI was established on 1 April 1935.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/Scripts/AboutusDisplay.aspx",
+     "confidence": "high"
+    },
+    {
+     "q": "The one-rupee note in India bears the signature of the:",
+     "options": [
+      "Governor of the RBI",
+      "Finance Secretary",
+      "Union Finance Minister",
+      "President of India"
+     ],
+     "answer": "B",
+     "explanation": "The one-rupee note is issued by the Government of India and signed by the Finance Secretary. All other banknotes are issued by the RBI and signed by its Governor. Source: RBI FAQ on Indian Currency, Apr 2025.",
+     "likely": 5,
+     "fact": "The one-rupee note is issued by the Government of India and signed by the Finance Secretary.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://rbi.org.in/Scripts/FAQDisplay.aspx?Id=136",
+     "confidence": "medium"
+    },
+    {
+     "q": "What is the Cash Reserve Ratio (CRR) that scheduled banks must maintain, as shown on the RBI website in November 2026?",
+     "options": [
+      "3.00%",
+      "3.50%",
+      "4.00%",
+      "4.50%"
+     ],
+     "answer": "A",
+     "explanation": "The CRR is 3.00% of net demand and time liabilities and was not changed in any 2026 policy. It was cut from 4% to 3% in four steps between September and November 2025. Source: RBI website current rates, 19 Nov 2026.",
+     "likely": 4,
+     "fact": "The CRR is 3.00% of NDTL.",
+     "event_date": "2026-11-19",
+     "kind": "news",
+     "source_url": "https://www.rbi.org.in/",
+     "confidence": "high"
+    },
+    {
+     "q": "What is the Statutory Liquidity Ratio (SLR) for banks, as shown on the RBI website in November 2026?",
+     "options": [
+      "18.00%",
+      "18.50%",
+      "19.50%",
+      "20.00%"
+     ],
+     "answer": "A",
+     "explanation": "The SLR is 18.00% of net demand and time liabilities. Banks hold it in cash, gold and approved government securities. Source: RBI website current rates, 19 Nov 2026.",
+     "likely": 4,
+     "fact": "The SLR is 18.00%.",
+     "event_date": "2026-11-19",
+     "kind": "news",
+     "source_url": "https://www.rbi.org.in/",
+     "confidence": "high"
+    },
+    {
+     "q": "In its October 2026 policy, the RBI projected India's real GDP growth for 2026-27 at:",
+     "options": [
+      "6.6%",
+      "6.7%",
+      "7.1%",
+      "7.4%"
+     ],
+     "answer": "C",
+     "explanation": "The projection was raised to 7.1% from 6.7% in August 2026 and 6.6% in June 2026. Source: RBI press release 2026-2027/1264, 7 Oct 2026.",
+     "likely": 4,
+     "fact": "The RBI's October 2026 projection of real GDP growth for 2026-27 is 7.1%.",
+     "event_date": "2026-10-07",
+     "kind": "news",
+     "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+     "confidence": "high"
+    },
+    {
+     "q": "In its October 2026 policy, the RBI projected CPI inflation for 2026-27 at:",
+     "options": [
+      "4.6%",
+      "5.0%",
+      "5.2%",
+      "5.9%"
+     ],
+     "answer": "C",
+     "explanation": "The projection was raised to 5.2% from 5.0% in August 2026 and 5.1% in June 2026. Inflation is expected to peak at 6.0% in the October-December quarter. Source: RBI press release 2026-2027/1264, 7 Oct 2026.",
+     "likely": 4,
+     "fact": "The RBI's October 2026 projection of CPI inflation for 2026-27 is 5.2%.",
+     "event_date": "2026-10-07",
+     "kind": "news",
+     "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+     "confidence": "high"
+    },
+    {
+     "q": "The next meeting of the RBI's Monetary Policy Committee after October 2026 is scheduled for:",
+     "options": [
+      "18-20 November 2026",
+      "2-4 December 2026",
+      "9-11 December 2026",
+      "3-5 February 2027"
+     ],
+     "answer": "B",
+     "explanation": "The MPC resolution of 7 October 2026 fixed the next meeting for 2 to 4 December 2026, which is after this exam. Source: RBI press release 2026-2027/1264, 7 Oct 2026.",
+     "likely": 4,
+     "fact": "The next MPC meeting is scheduled for 2-4 December 2026.",
+     "event_date": "2026-10-07",
+     "kind": "news",
+     "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63742",
+     "confidence": "high"
+    },
+    {
+     "q": "From the fortnight beginning 16 October 2026, the RBI raised the minimum daily CRR balance that banks must keep from 90% of the requirement to:",
+     "options": [
+      "92%",
+      "95%",
+      "99%",
+      "100%"
+     ],
+     "answer": "C",
+     "explanation": "An RBI circular of 9 October 2026 raised the daily minimum to 99% of the required CRR to tighten liquidity; the CRR itself stayed at 3%. The CRR is maintained under Section 42(1) of the RBI Act, 1934. Source: RBI notification RBI/2026-27/290, 9 Oct 2026.",
+     "likely": 4,
+     "fact": "Minimum daily CRR maintenance was raised from 90% to 99% from the fortnight beginning 16 October 2026.",
+     "event_date": "2026-10-09",
+     "kind": "news",
+     "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13736&Mode=0",
+     "confidence": "high"
+    },
+    {
+     "q": "The Government has retained the CPI inflation target of 4% (with a band of 2% to 6%) for the RBI for the five years ending on:",
+     "options": [
+      "31 March 2027",
+      "31 March 2029",
+      "31 March 2030",
+      "31 March 2031"
+     ],
+     "answer": "D",
+     "explanation": "On 25 March 2026 the Central Government retained the 4% target with a tolerance band of plus or minus 2% for 1 April 2026 to 31 March 2031. The target is set once in five years under Section 45ZA of the RBI Act. Source: RBI monetary policy overview, Nov 2026.",
+     "likely": 4,
+     "fact": "The 4% (+/-2%) inflation target applies from 1 April 2026 to 31 March 2031.",
+     "event_date": "2026-03-25",
+     "kind": "news-static",
+     "source_url": "https://www.rbi.org.in/Scripts/FS_Overview.aspx?fn=2752",
+     "confidence": "high"
+    },
+    {
+     "q": "In October 2026 the RBI approved the amalgamation of the Indian branches of which foreign bank with RBL Bank?",
+     "options": [
+      "Emirates NBD Bank",
+      "DBS Bank",
+      "Standard Chartered Bank",
+      "First Abu Dhabi Bank"
+     ],
+     "answer": "A",
+     "explanation": "The RBI sanctioned the scheme on 16 October 2026 under Section 44A of the Banking Regulation Act, 1949. The branches of Dubai-based Emirates NBD will work as RBL Bank branches from 1 December 2026. Source: RBI press release 2026-2027/1342, 16 Oct 2026.",
+     "likely": 4,
+     "fact": "RBI approved amalgamation of the Indian branches of Emirates NBD Bank with RBL Bank, effective 1 December 2026.",
+     "event_date": "2026-10-16",
+     "kind": "news",
+     "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63820",
+     "confidence": "high"
+    },
+    {
+     "q": "On 25 October 2026 the Prime Minister inaugurated the RBI's new Data Centre and Cybersecurity Training Institute in which city?",
+     "options": [
+      "Hyderabad",
+      "Bhubaneswar",
+      "Pune",
+      "Chennai"
+     ],
+     "answer": "B",
+     "explanation": "The facility is in Bhubaneswar, Odisha. The Data Centre will house RBI systems such as RTGS and NEFT, which the RBI itself operates. Source: RBI press release 2026-2027/1384, 25 Oct 2026.",
+     "likely": 4,
+     "fact": "The RBI's Data Centre and Cybersecurity Training Institute was inaugurated in Bhubaneswar on 25 October 2026.",
+     "event_date": "2026-10-25",
+     "kind": "news",
+     "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63862",
+     "confidence": "high"
+    },
+    {
+     "q": "In October 2026 the RBI opened a special window to sell US dollars directly to which set of companies?",
+     "options": [
+      "Public sector oil marketing companies",
+      "Gold importing agencies",
+      "Fertiliser companies",
+      "Public sector airlines"
+     ],
+     "answer": "A",
+     "explanation": "From 12 October 2026 the RBI meets the entire daily dollar needs of Indian Oil, HPCL and BPCL through designated banks, until further notice. It was announced with other steps to steady the rupee. Source: RBI press release 2026-2027/1306, 10 Oct 2026.",
+     "likely": 4,
+     "fact": "RBI opened a special dollar window for public sector oil marketing companies from 12 October 2026.",
+     "event_date": "2026-10-10",
+     "kind": "news",
+     "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63784",
+     "confidence": "high"
+    },
+    {
+     "q": "The RBI's Financial Inclusion Index (FI-Index) for March 2026, released in July 2026, stood at:",
+     "options": [
+      "64.2",
+      "67.0",
+      "70.0",
+      "72.5"
+     ],
+     "answer": "C",
+     "explanation": "The FI-Index rose to 70.0 in March 2026 from 67.0 in March 2025, led by the Usage sub-index. The index was first published in August 2021 and has three sub-indices: Access, Usage and Quality. Source: RBI press release 2026-2027/686, 16 Jul 2026.",
+     "likely": 4,
+     "fact": "The FI-Index for March 2026 is 70.0.",
+     "event_date": "2026-07-16",
+     "kind": "news",
+     "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63164",
+     "confidence": "high"
+    },
+    {
+     "q": "In August 2026 the RBI said it would resume 'on tap' licensing, stopped for about two decades, of which type of bank?",
+     "options": [
+      "Urban Co-operative Banks",
+      "Regional Rural Banks",
+      "Local Area Banks",
+      "Payments Banks"
+     ],
+     "answer": "A",
+     "explanation": "The RBI announced this in its Statement on Developmental and Regulatory Policies of 5 August 2026, after a discussion paper of 13 January 2026. New UCB licences had been paused since 2004. Source: RBI press release 2026-2027/811, 5 Aug 2026.",
+     "likely": 4,
+     "fact": "RBI decided in August 2026 to resume on-tap licensing of Urban Co-operative Banks.",
+     "event_date": "2026-08-05",
+     "kind": "news",
+     "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63289",
+     "confidence": "high"
+    },
+    {
+     "q": "Under RBI rules, an NBFC placed in the Upper Layer stays under enhanced regulation for at least how many years, even if it stops meeting the criteria?",
+     "options": [
+      "Two years",
+      "Three years",
+      "Five years",
+      "Ten years"
+     ],
+     "answer": "C",
+     "explanation": "The RBI's list of 6 August 2026 named 17 Upper Layer NBFCs for 2026-27, including new entrants REC, PFC, IRFC and HUDCO. PNB Housing Finance and Sammaan Capital stay under the norms because of the five-year rule. Source: RBI press release 2026-2027/823, 6 Aug 2026.",
+     "likely": 4,
+     "fact": "An NBFC classified as Upper Layer remains under enhanced regulation for at least five years.",
+     "event_date": "2026-08-06",
+     "kind": "news-static",
+     "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63301",
+     "confidence": "high"
+    },
+    {
+     "q": "In June 2026 the RBI changed the way it identifies Upper Layer NBFCs to a single asset-size threshold of:",
+     "options": [
+      "Rs 10,000 crore",
+      "Rs 50,000 crore",
+      "Rs 1,00,000 crore",
+      "Rs 5,00,000 crore"
+     ],
+     "answer": "C",
+     "explanation": "Amendment directions of 24 June 2026 replaced the scoring method with an asset size of Rs 1 lakh crore and brought government-owned NBFCs into the list. The four layers are Base, Middle, Upper and Top. Source: RBI press release 2026-2027/530, 24 Jun 2026.",
+     "likely": 4,
+     "fact": "NBFCs with assets of Rs 1,00,000 crore or more are identified as Upper Layer.",
+     "event_date": "2026-06-24",
+     "kind": "news",
+     "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63009",
+     "confidence": "high"
+    },
+    {
+     "q": "The Government has approved a field trial of polymer (plastic) banknotes by the RBI in which denominations?",
+     "options": [
+      "Rs 5 and Rs 10",
+      "Rs 10 and Rs 20",
+      "Rs 20 and Rs 50",
+      "Rs 50 and Rs 100"
+     ],
+     "answer": "B",
+     "explanation": "The Minister of State for Finance told the Lok Sabha on 27 July 2026 that one billion notes each of Rs 10 and Rs 20 will be trialled. BRBNMPL, the RBI's note-printing subsidiary, is sourcing the polymer film. Source: Lok Sabha reply, 27 Jul 2026, as reported in Oliveboard banking digest, Nov 2026.",
+     "likely": 4,
+     "fact": "The polymer banknote field trial covers Rs 10 and Rs 20 notes.",
+     "event_date": "2026-07-27",
+     "kind": "news",
+     "source_url": "https://www.oliveboard.in/blog/?p=256461",
+     "confidence": "medium"
+    },
+    {
+     "q": "Under the RBI's November 2026 Master Directions on cyber resilience for non-bank Payment System Operators, a cyber incident must be reported to the RBI within how many hours of detection?",
+     "options": [
+      "2 hours",
+      "6 hours",
+      "12 hours",
+      "24 hours"
+     ],
+     "answer": "B",
+     "explanation": "The Master Directions of 5 November 2026 require unusual incidents to be reported within 6 hours, and cyber incidents also go to CERT-In. The RBI's cybersecurity directions for banks of 31 July 2026 use the same 6-hour limit. Source: RBI notification RBI/DPSS/2026-27/475, 5 Nov 2026.",
+     "likely": 4,
+     "fact": "Non-bank PSOs must report cyber incidents to RBI within 6 hours of detection.",
+     "event_date": "2026-11-05",
+     "kind": "news",
+     "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13751&Mode=0",
+     "confidence": "high"
+    },
+    {
+     "q": "The RBI's directions that move commercial banks to Expected Credit Loss (ECL) provisioning come into force on:",
+     "options": [
+      "1 October 2026",
+      "1 January 2027",
+      "1 April 2027",
+      "1 April 2028"
+     ],
+     "answer": "C",
+     "explanation": "The Directions were issued on 27 April 2026 and take effect on 1 April 2027 with a three-stage approach. Small finance banks, payments banks and local area banks are excluded. Source: RBI Directions RBI/DOR/2026-27/398, 27 Apr 2026.",
+     "likely": 4,
+     "fact": "ECL provisioning for commercial banks starts on 1 April 2027.",
+     "event_date": "2026-04-27",
+     "kind": "news",
+     "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13400",
+     "confidence": "high"
+    },
+    {
+     "q": "What surplus did the RBI transfer to the Central Government for the accounting year 2025-26?",
+     "options": [
+      "Rs 2.11 lakh crore",
+      "Rs 2.69 lakh crore",
+      "Rs 2.87 lakh crore",
+      "Rs 3.15 lakh crore"
+     ],
+     "answer": "C",
+     "explanation": "The RBI transferred a record Rs 2,86,588.46 crore for 2025-26, against Rs 2,68,590 crore for 2024-25. Its balance sheet grew to about Rs 91.97 lakh crore on 31 March 2026. Source: RBI Annual Report 2025-26, 29 May 2026.",
+     "likely": 4,
+     "fact": "RBI's surplus transfer to the Centre for 2025-26 was about Rs 2.87 lakh crore.",
+     "event_date": "2026-05",
+     "kind": "news",
+     "source_url": "https://www.rbi.org.in/Scripts/AnnualReportPublications.aspx?Id=1472",
+     "confidence": "high"
+    },
+    {
+     "q": "The Reserve Bank of India was set up on the recommendation of which commission?",
+     "options": [
+      "Hilton Young Commission",
+      "Simon Commission",
+      "Narasimham Committee",
+      "Chamberlain Commission"
+     ],
+     "answer": "A",
+     "explanation": "The RBI was set up on the recommendations of the Hilton Young Commission (Royal Commission on Indian Currency and Finance). The RBI Act, 1934 gives it its legal basis. Source: RBI, Brief History, Nov 2026.",
+     "likely": 4,
+     "fact": "The RBI was set up on the recommendation of the Hilton Young Commission.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/Scripts/briefhistory.aspx",
+     "confidence": "high"
+    },
+    {
+     "q": "The Reserve Bank of India was nationalised on:",
+     "options": [
+      "1 April 1935",
+      "15 August 1947",
+      "1 January 1949",
+      "19 July 1969"
+     ],
+     "answer": "C",
+     "explanation": "The RBI began as a shareholders' bank and was nationalised on 1 January 1949; it is now fully owned by the Government of India. The Banking Companies Act (now the Banking Regulation Act), 1949 came into force on 16 March 1949. Source: RBI chronology of events, Nov 2026.",
+     "likely": 4,
+     "fact": "The RBI was nationalised on 1 January 1949.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/Scripts/chro_1935.aspx",
+     "confidence": "high"
+    },
+    {
+     "q": "Who was the first Indian Governor of the Reserve Bank of India?",
+     "options": [
+      "Sir Benegal Rama Rau",
+      "Sir C. D. Deshmukh",
+      "H. V. R. Iengar",
+      "Sir Osborne Smith"
+     ],
+     "answer": "B",
+     "explanation": "C. D. Deshmukh became the third Governor and the first Indian to hold the post in August 1943. Sir Osborne Smith was the first Governor (1935-37). Source: RBI list of Governors, Nov 2026.",
+     "likely": 4,
+     "fact": "C. D. Deshmukh was the first Indian Governor of the RBI.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/Scripts/governors.aspx",
+     "confidence": "high"
+    },
+    {
+     "q": "Under the RBI Act, the Central Board of the RBI can have at most how many Deputy Governors?",
+     "options": [
+      "Two",
+      "Three",
+      "Four",
+      "Five"
+     ],
+     "answer": "C",
+     "explanation": "The Central Board has the Governor and not more than four Deputy Governors as official directors. The present four are Swaminathan J, Poonam Gupta, S. C. Murmu and Rohit Jain. Source: RBI, About Us, Nov 2026.",
+     "likely": 4,
+     "fact": "The RBI can have not more than four Deputy Governors.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/Scripts/AboutusDisplay.aspx",
+     "confidence": "high"
+    },
+    {
+     "q": "How many members does the RBI's Monetary Policy Committee have?",
+     "options": [
+      "Four",
+      "Five",
+      "Six",
+      "Seven"
+     ],
+     "answer": "C",
+     "explanation": "The MPC has six members: three from the RBI, including the Governor as chairperson, and three external members appointed by the Central Government. It is set up under Section 45ZB of the RBI Act and must meet at least four times a year. Source: RBI monetary policy overview, Nov 2026.",
+     "likely": 4,
+     "fact": "The MPC has six members.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/Scripts/FS_Overview.aspx?fn=2752",
+     "confidence": "high"
+    },
+    {
+     "q": "Which facility's rate forms the floor of the RBI's Liquidity Adjustment Facility (LAF) corridor?",
+     "options": [
+      "Marginal Standing Facility",
+      "Standing Deposit Facility",
+      "Bank Rate",
+      "Fixed-rate reverse repo"
+     ],
+     "answer": "B",
+     "explanation": "The SDF, under which the RBI takes overnight deposits without giving collateral, has been the floor of the corridor since April 2022. The MSF rate is the ceiling and the repo rate is in the middle. Source: RBI monetary policy overview, Nov 2026.",
+     "likely": 4,
+     "fact": "The SDF rate is the floor of the LAF corridor.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/Scripts/FS_Overview.aspx?fn=2752",
+     "confidence": "high"
+    },
+    {
+     "q": "The Deposit Insurance and Credit Guarantee Corporation (DICGC) is a wholly owned subsidiary of:",
+     "options": [
+      "Ministry of Finance",
+      "Reserve Bank of India",
+      "State Bank of India",
+      "NABARD"
+     ],
+     "answer": "B",
+     "explanation": "DICGC is a wholly owned subsidiary of the RBI, formed on 15 July 1978, with its head office in Mumbai. It insures bank deposits up to Rs 5 lakh per depositor per bank. Source: DICGC, About Us, Nov 2026.",
+     "likely": 4,
+     "fact": "DICGC is a wholly owned subsidiary of the RBI.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.dicgc.org.in/about-us",
+     "confidence": "high"
+    },
+    {
+     "q": "Bharatiya Reserve Bank Note Mudran Private Limited (BRBNMPL), an RBI subsidiary, runs note printing presses at which two places?",
+     "options": [
+      "Nashik and Dewas",
+      "Mysuru and Salboni",
+      "Mumbai and Hyderabad",
+      "Kolkata and Noida"
+     ],
+     "answer": "B",
+     "explanation": "BRBNMPL, set up in 1995 and based in Bengaluru, runs the presses at Mysuru and Salboni. The Nashik and Dewas presses belong to the Government's SPMCIL, which also runs the four mints. Source: RBI FAQ on Indian Currency, Apr 2025.",
+     "likely": 4,
+     "fact": "BRBNMPL's note presses are at Mysuru and Salboni.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://rbi.org.in/Scripts/FAQDisplay.aspx?Id=136",
+     "confidence": "high"
+    },
+    {
+     "q": "The RBI's accounting year runs from:",
+     "options": [
+      "January to December",
+      "April to March",
+      "July to June",
+      "October to September"
+     ],
+     "answer": "B",
+     "explanation": "The RBI's accounting year is April to March; the 2025-26 accounts cover 1 April 2025 to 31 March 2026. It followed a July to June year until 2019-20. Source: RBI Annual Report 2025-26, 29 May 2026.",
+     "likely": 4,
+     "fact": "The RBI's accounting year is April to March.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/Scripts/AnnualReportPublications.aspx?Id=1472",
+     "confidence": "medium"
+    },
+    {
+     "q": "The October 2026 increase in the repo rate was the RBI's first rate hike since:",
+     "options": [
+      "May 2022",
+      "February 2023",
+      "June 2024",
+      "December 2025"
+     ],
+     "answer": "B",
+     "explanation": "The last hike before October 2026 was in February 2023, when the repo rate went to 6.50%. The RBI then cut it by 125 basis points in 2025 to 5.25%. Source: Drishti IAS (citing The Hindu), 9 Oct 2026.",
+     "likely": 3,
+     "fact": "The October 2026 repo hike was the first since February 2023.",
+     "event_date": "2026-10-07",
+     "kind": "news",
+     "source_url": "https://www.drishtiias.com/daily-updates/daily-news-analysis/rbi-mpc-raises-repo-rate-to-5-50",
+     "confidence": "medium"
+    },
+    {
+     "q": "The MPC meeting of 5-7 October 2026 was which meeting of the committee?",
+     "options": [
+      "61st",
+      "62nd",
+      "63rd",
+      "64th"
+     ],
+     "answer": "C",
+     "explanation": "It was the 63rd meeting; the 61st was held on 3-5 June 2026 and the 62nd on 3-5 August 2026. The first MPC was constituted in September 2016. Source: RBI press release 2026-2027/1361 (MPC minutes), 21 Oct 2026.",
+     "likely": 3,
+     "fact": "The 5-7 October 2026 MPC meeting was the 63rd.",
+     "event_date": "2026-10-07",
+     "kind": "news",
+     "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63839",
+     "confidence": "high"
+    },
+    {
+     "q": "The RBI's special USD-INR swap facility of June 2026, which drew about USD 133 billion by 31 August 2026, was for fresh deposits of which type?",
+     "options": [
+      "FCNR(B) deposits",
+      "NRE rupee deposits",
+      "NRO deposits",
+      "Resident foreign currency deposits"
+     ],
+     "answer": "A",
+     "explanation": "Banks raised USD 132.98 billion in FCNR(B) deposits under the facility opened on 8 June 2026; the deposit window closed on 31 August 2026. FCNR(B) means Foreign Currency Non-Resident (Bank), a term deposit held in foreign currency. Source: RBI press release 2026-2027/1160, 21 Sep 2026.",
+     "likely": 3,
+     "fact": "The June 2026 special swap facility mobilised about USD 133 billion of FCNR(B) deposits by 31 August 2026.",
+     "event_date": "2026-09-21",
+     "kind": "news",
+     "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63638",
+     "confidence": "high"
+    },
+    {
+     "q": "India's foreign exchange reserves touched an all-time high in the week ended 4 September 2026 of about:",
+     "options": [
+      "USD 705 billion",
+      "USD 740 billion",
+      "USD 786 billion",
+      "USD 820 billion"
+     ],
+     "answer": "C",
+     "explanation": "Reserves peaked at USD 785.7 billion on 4 September 2026 and fell to USD 780.8 billion the next week. They were USD 719.5 billion on 6 November 2026. Source: RBI Weekly Statistical Supplement, 18 Sep 2026.",
+     "likely": 3,
+     "fact": "Forex reserves hit a record of about USD 785.7 billion in the week ended 4 September 2026.",
+     "event_date": "2026-09-04",
+     "kind": "news",
+     "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63624",
+     "confidence": "high"
+    },
+    {
+     "q": "Under the RBI (Domestic Money Transfer) Directions, 2026, issued on 11 November 2026, what is the monthly ceiling per beneficiary for cash pay-out transfers?",
+     "options": [
+      "Rs 10,000",
+      "Rs 25,000",
+      "Rs 50,000",
+      "Rs 1 lakh"
+     ],
+     "answer": "B",
+     "explanation": "Cash pay-out is capped at Rs 10,000 per transaction and Rs 25,000 a month per beneficiary. The Directions took effect at once and replace the 2011 and 2024 circulars. Source: RBI notification RBI/DPSS/2026-27/476, 11 Nov 2026.",
+     "likely": 3,
+     "fact": "Cash pay-out under the Domestic Money Transfer Directions, 2026 is capped at Rs 25,000 a month per beneficiary.",
+     "event_date": "2026-11-11",
+     "kind": "news",
+     "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13752&Mode=0",
+     "confidence": "high"
+    },
+    {
+     "q": "What is the quorum for a meeting of the RBI's Monetary Policy Committee?",
+     "options": [
+      "Three members",
+      "Four members",
+      "Five members",
+      "Six members"
+     ],
+     "answer": "B",
+     "explanation": "The quorum is four members. Each member has one vote, and the Governor has a casting vote in case of a tie. Source: RBI monetary policy overview, Nov 2026.",
+     "likely": 3,
+     "fact": "The quorum for an MPC meeting is four members.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/Scripts/FS_Overview.aspx?fn=2752",
+     "confidence": "high"
+    }
+   ]
+  }
+ ]
+}

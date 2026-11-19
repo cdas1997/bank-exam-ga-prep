@@ -1,0 +1,604 @@
+{
+ "verdicts": [
+  {
+   "id": "17785f5640",
+   "verdict": "ok",
+   "note": "LRS limit USD 2,50,000 per FY unchanged in 2026; minors included; began Feb 2004 at USD 25,000.",
+   "source_url": "https://groww.in/blog/liberalised-remittance-scheme"
+  },
+  {
+   "id": "8b0febc018",
+   "verdict": "ok",
+   "note": "Cover still Rs 5 lakh (since 4 Feb 2020); a Rs 7.5 lakh proposal was only pending with PMO (June-Aug 2026), not notified.",
+   "source_url": "https://www.kotakneo.com/news/personal-finance/government-bank-deposit-insurance-cover-7-5-lakh-finance-ministry-pmo-proposal/"
+  },
+  {
+   "id": "018079568e",
+   "verdict": "ok",
+   "note": "90-day NPA norm and SMA-0/1/2 buckets confirmed (RBI prudential norms).",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "8623a78193",
+   "verdict": "ok",
+   "note": "CD 7 days to 1 year, min Rs 5 lakh; CP 7 days to 1 year (RBI CD and CP Directions, 2021).",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "72c8e325e4",
+   "verdict": "ok",
+   "note": "Still 12 PSBs; MoS Finance told Lok Sabha (Mar 2026) no merger proposal; no merger announced up to mid-Nov 2026 (PIB fact-check called a Sept 2026 merger gazette fake).",
+   "source_url": "https://www.angelone.in/news/market-updates/government-rules-out-psu-bank-mergers-for-now-says-mos-pankaj-chaudhary"
+  },
+  {
+   "id": "8f771a689a",
+   "verdict": "ok",
+   "note": "3-month validity from 1 April 2012 confirmed (RBI).",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "28ad84cc5d",
+   "verdict": "ok",
+   "note": "Section 138 NI Act; up to 2 years or fine up to twice the cheque amount.",
+   "source_url": "https://www.indiacode.nic.in/"
+  },
+  {
+   "id": "ae2c6f48b2",
+   "verdict": "ok",
+   "note": "GoI T-bills are issued at 91, 182 and 364 days.",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "9fb383bcd6",
+   "verdict": "ok",
+   "note": "SARFAESI 2002, RDB Act 1993, IBC 2016 confirmed.",
+   "source_url": "https://www.indiacode.nic.in/"
+  },
+  {
+   "id": "495dcc1fdd",
+   "verdict": "ok",
+   "note": "14 banks on 19 July 1969, 6 on 15 April 1980; SBI 1 July 1955.",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "afedd15ab4",
+   "verdict": "ok",
+   "note": "PMLA 2002, in force 1 July 2005; FIU-IND and ED roles correct.",
+   "source_url": "https://fiuindia.gov.in/"
+  },
+  {
+   "id": "bbd5dd5c04",
+   "verdict": "ok",
+   "note": "Rs 2 lakh end-of-day limit (raised April 2021) retained in Payments Banks Directions updated 1 Apr 2026.",
+   "source_url": "https://www.business-standard.com/article/finance/payments-banks-can-now-hold-max-balance-of-rs-2-lakh-per-customer-121040801491_1.html"
+  },
+  {
+   "id": "7bcfced27a",
+   "verdict": "ok",
+   "note": "50:15:35 ownership; RRBs from 2 Oct 1975; 28 RRBs from 1 May 2025, still 28 in 2026.",
+   "source_url": "https://newsonair.gov.in/finance-ministry-merges-26-rrbs-under-one-state-one-rrb-plan"
+  },
+  {
+   "id": "b3748325f7",
+   "verdict": "ok",
+   "note": "OBC and UBI merged into PNB on 1 April 2020; other mergers correct.",
+   "source_url": "https://pib.gov.in/"
+  },
+  {
+   "id": "8b1ce9b755",
+   "verdict": "ok",
+   "note": "CASA = Current Account Savings Account.",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "3c56a7e5ea",
+   "verdict": "ok",
+   "note": "MCLR from 1 April 2016; external benchmark from 1 Oct 2019.",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "658991ab17",
+   "verdict": "ok",
+   "note": "RBI minimum CRAR 9%, 11.5% with 2.5% CCB.",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "50b5d24fea",
+   "verdict": "ok",
+   "note": "40% ANBC, 18% agriculture; RRBs 75%; SFB target cut to 60% from FY2025-26 (RBI circular, 20 Jun 2025).",
+   "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=12799"
+  },
+  {
+   "id": "45be77aa95",
+   "verdict": "ok",
+   "note": "Up to four nominees from 1 Nov 2025 (S.O. 4789(E), 22 Oct 2025); lockers successive only.",
+   "source_url": "https://www.business-standard.com/amp/finance/personal-finance/bank-nomination-rules-amended-to-align-with-will-avoid-disputes-125102700915_1.html"
+  },
+  {
+   "id": "3c17b8020d",
+   "verdict": "ok",
+   "note": "CERSAI operates CKYCR; 14-digit KIN.",
+   "source_url": "https://www.cersai.org.in/"
+  },
+  {
+   "id": "49c72d755f",
+   "verdict": "drop",
+   "note": "Duplicate: tests the same fact (IFSC has 11 characters) as 012b75b9f8, which is kept because it cites the RBI NEFT FAQ."
+  },
+  {
+   "id": "2006b6f850",
+   "verdict": "ok",
+   "note": "NCLT is the adjudicating authority for companies/LLPs under IBC; DRT for individuals and firms.",
+   "source_url": "https://ibbi.gov.in/"
+  },
+  {
+   "id": "8c258200b1",
+   "verdict": "ok",
+   "note": "CCB 2.5% of RWA in CET1; Basel Committee at BIS, Basel.",
+   "source_url": "https://www.bis.org/bcbs/basel3.htm"
+  },
+  {
+   "id": "88950f7219",
+   "verdict": "ok",
+   "note": "Money market covers instruments up to one year.",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "f857fc0d7a",
+   "verdict": "ok",
+   "note": "NACH: bulk/repetitive credits and debits, run by NPCI, replaced ECS.",
+   "source_url": "https://www.npci.org.in/"
+  },
+  {
+   "id": "15633ec145",
+   "verdict": "ok",
+   "note": "NPCI data: record 25.47 bn in Oct 2026, +23% YoY; Sept 24.07 bn; Aug 24.51 bn (all confirmed).",
+   "source_url": "https://www.freepressjournal.in/business/upi-transactions-hit-2547-billion-in-october-value-soars-to-3153-lakh-crore"
+  },
+  {
+   "id": "6999acdbcc",
+   "verdict": "ok",
+   "note": "Rs 31.53 lakh crore in Oct 2026; average daily value Rs 1,01,707 crore, first time above Rs 1 lakh crore; Sept Rs 29.37 lakh crore.",
+   "source_url": "https://www.freepressjournal.in/business/upi-transactions-hit-2547-billion-in-october-value-soars-to-3153-lakh-crore"
+  },
+  {
+   "id": "fe25e885ce",
+   "verdict": "fix",
+   "note": "Rate 0.4% confirmed. Removed the leftover note 'so check for an update' and an unconfirmed 'mid-November' claim; tightened wording.",
+   "fix": {
+    "explanation": "NPCI set a 0.4% MDR on eligible person-to-merchant UPI payments above Rs 2,000, due from 15 October 2026, and on 13 October deferred it until after Diwali, with the new date to be announced separately. Payments up to Rs 2,000 and person-to-person transfers stay free, while railways, telecom, insurance and fuel pay a flat Rs 5 on payments above Rs 2,000. Source: Free Press Journal (NPCI data), 2 Nov 2026."
+   },
+   "source_url": "https://www.freepressjournal.in/business/upi-transactions-hit-2547-billion-in-october-value-soars-to-3153-lakh-crore"
+  },
+  {
+   "id": "c358ed149d",
+   "verdict": "ok",
+   "note": "RBI issued Responsible Business Conduct Third Amendment Directions on 24 Jun 2026: 85% of net loss or Rs 25,000 (lower), gross loss up to Rs 50,000, once per customer, from 1 Jan 2027, report within 5 calendar days.",
+   "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63011"
+  },
+  {
+   "id": "099109c5db",
+   "verdict": "ok",
+   "note": "RTGS minimum Rs 2 lakh, no upper limit; 24x7 from 14 Dec 2020.",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "012b75b9f8",
+   "verdict": "ok",
+   "note": "IFSC 11 characters (4 bank letters, 0, 6 branch characters); MICR 9 digits.",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "22e33517b2",
+   "verdict": "ok",
+   "note": "1930 is the I4C national cyber fraud helpline (replaced 155260); DigiSaathi 14431; UIDAI 1947.",
+   "source_url": "https://cybercrime.gov.in/"
+  },
+  {
+   "id": "f38c677fc9",
+   "verdict": "ok",
+   "note": "NPCI set up Dec 2008 by RBI and IBA under PSS Act 2007; HQ Mumbai.",
+   "source_url": "https://www.npci.org.in/"
+  },
+  {
+   "id": "1f5624ebe9",
+   "verdict": "ok",
+   "note": "NIPL-NIPC (HUMO) agreement signed 30 Aug 2026 for UZQR acceptance; reported as UPI's first entry into Central Asia.",
+   "source_url": "https://www.businesstoday.in/latest/world/story/travelling-to-uzbekistan-indians-can-now-pay-through-upi-while-abroad-by-scanning-uzqr-codes-552321-2026-08-31"
+  },
+  {
+   "id": "138b29b0d4",
+   "verdict": "fix",
+   "note": "Cap Rs 300 and Rs 1 lakh/month small-merchant exemption confirmed; replaced an unverifiable source date and the 'mid-November' claim.",
+   "fix": {
+    "explanation": "The 0.4% MDR is capped at Rs 300 per transaction, a level reached at Rs 75,000 and above. Small merchants receiving up to Rs 1 lakh a month through UPI QR codes are exempt. The charge was due from 15 October 2026, but NPCI deferred it until after Diwali. Source: ThePrint, 15 Sep 2026; Free Press Journal, 2 Nov 2026."
+   },
+   "source_url": "https://theprint.in/economy/govt-sets-0-4-fee-on-upi-merchant-payments-above-rs-2000-caps-charge-at-rs-300/3043550/"
+  },
+  {
+   "id": "dffb46f0d7",
+   "verdict": "ok",
+   "note": "RTGS UTR 22 characters; NEFT reference 16 characters (RBI FAQs).",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "cfe1597d8b",
+   "verdict": "ok",
+   "note": "UPI pilot 11 April 2016 with 21 banks; apps live from 25 Aug 2016.",
+   "source_url": "https://www.npci.org.in/"
+  },
+  {
+   "id": "cf0ee50840",
+   "verdict": "fix",
+   "note": "Answer correct. Removed the unconfirmed claim that the 2026 UPI MDR framework is based on this Act and the weak source line.",
+   "fix": {
+    "explanation": "The Payment and Settlement Systems Act, 2007 empowers the RBI to regulate and supervise payment systems in India. NPCI was set up in 2008 under its provisions as the umbrella organisation for retail payments such as UPI, IMPS and RuPay. Source: RBI (Payment and Settlement Systems Act, 2007)."
+   },
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "5c00fa7c19",
+   "verdict": "ok",
+   "note": "NEFT 24x7 from 16 Dec 2019 (half-hourly batches); RTGS 24x7 from 14 Dec 2020.",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "4423c6eab9",
+   "verdict": "ok",
+   "note": "NPCI is a Section 8 not-for-profit company; four wholly owned subsidiaries NIPL, NBBL, NBSL, NTSL (NPCI Tech Solutions).",
+   "source_url": "https://inc42.com/buzz/npci-expands-beyond-payments-with-ai-blockchain-focused-subsidiary/"
+  },
+  {
+   "id": "50a3f9f96a",
+   "verdict": "ok",
+   "note": "RuPay launched 26 March 2012, dedicated to the nation May 2014; IMPS 2010, UPI 2016.",
+   "source_url": "https://www.npci.org.in/"
+  },
+  {
+   "id": "a5f92cb913",
+   "verdict": "ok",
+   "note": "BBPS rebranded Bharat Connect in 2024 (announced GFF Aug 2024, NPCI circular 11 Sep 2024); multi-currency forex added Sept 2026.",
+   "source_url": "https://www.businesstoday.in/personal-finance/story/rbi-launches-multicurrency-forex-services-on-bharat-connect-adds-euro-pound-dirham-swiss-franc-cad-554385-2026-09-09"
+  },
+  {
+   "id": "554e903e6a",
+   "verdict": "ok",
+   "note": "e-Rupee wholesale pilot 1 Nov 2022, retail pilot 1 Dec 2022.",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "b7f31540f6",
+   "verdict": "ok",
+   "note": "Full-KYC PPI Rs 2 lakh, small PPI Rs 10,000; unchanged in the 2026 draft PPI directions.",
+   "source_url": "https://www.businesstoday.in/personal-finance/news/story/rbi-draft-ppi-guidelines-tighter-norms-for-wallets-rs2-lakh-limit-upi-interoperability-push-what-does-this-mean-526980-2026-04-22"
+  },
+  {
+   "id": "5a2683f2ca",
+   "verdict": "ok",
+   "note": "Base March 2018 = 100; 516.76 for Sept 2025 vs 493.22 for March 2025 (RBI PR, 12 Feb 2026).",
+   "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=62213"
+  },
+  {
+   "id": "744c3b3996",
+   "verdict": "ok",
+   "note": "Bhutan BHIM UPI from 13 July 2021; France Feb 2024; Cambodia live 2 June 2026 (RBI PR 3 Jun 2026).",
+   "source_url": "https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62857"
+  },
+  {
+   "id": "bc94094aec",
+   "verdict": "ok",
+   "note": "NFC-based UPI Tap & Pay and MyUPI unveiled at GFF 2026 on 10 Sep 2026; payments under Rs 5,000 need no PIN.",
+   "source_url": "https://www.businesstoday.in/technology/news/story/upi-gets-easier-npci-introduces-nfc-based-tap-pay-and-ai-powered-myupi-554950-2026-09-11"
+  },
+  {
+   "id": "e0f58b974f",
+   "verdict": "ok",
+   "note": "IMPS per-transaction limit still Rs 5 lakh (NPCI circular 103); launched 22 Nov 2010.",
+   "source_url": "https://www.npci.org.in/PDF/npci/imps/circular/IMPS-Circular-103-Enhanced-Per-Transaction-Limit-for-IMPS-Transactions-from-Rs-2-Lakh-to-Rs-5-Lakh.pdf"
+  },
+  {
+   "id": "63eca6c409",
+   "verdict": "ok",
+   "note": "SEBI regulates CRAs under 1999 regulations; CRISIL 1987.",
+   "source_url": "https://www.sebi.gov.in/"
+  },
+  {
+   "id": "6f9f7174bd",
+   "verdict": "ok",
+   "note": "SEBI (Mutual Funds) Regulations, 2026 notified 14 Jan 2026, effective 1 April 2026; AMFI is the industry body.",
+   "source_url": "https://www.taxmann.com/post/blog/sebi-notifies-mutual-funds-regulations-2026"
+  },
+  {
+   "id": "2ed845fa39",
+   "verdict": "ok",
+   "note": "Pherwani Committee (1991); NSE incorporated 1992, trading 1994; BSE 1875.",
+   "source_url": "https://www.nseindia.com/"
+  },
+  {
+   "id": "8686cae071",
+   "verdict": "ok",
+   "note": "Manoj Mittal is SIDBI CMD (term to July 2027; led Aug 2026 AGM in Lucknow); Shaji K. V. still NABARD Chairman (Sept 2026).",
+   "source_url": "https://www.sidbi.in/en/cmd"
+  },
+  {
+   "id": "b97f77a484",
+   "verdict": "ok",
+   "note": "CACP recommends MSP, CCEA approves; CACP under Agriculture Ministry.",
+   "source_url": "https://cacp.da.gov.in/"
+  },
+  {
+   "id": "e440377dda",
+   "verdict": "ok",
+   "note": "Tuhin Kanta Pandey SEBI Chairman since 1 Mar 2025, still in post (statements Oct-Nov 2026).",
+   "source_url": "https://newsonair.gov.in/capital-reforms-will-make-financial-markets-more-efficient-resilient-says-sebi-chairman-tuhin-kant-pandey/"
+  },
+  {
+   "id": "484a171743",
+   "verdict": "ok",
+   "note": "26 RRBs in 10 states and 1 UT merged into 11, total 43 to 28, effective 1 May 2025; fourth phase; still 28.",
+   "source_url": "https://newsonair.gov.in/finance-ministry-merges-26-rrbs-under-one-state-one-rrb-plan"
+  },
+  {
+   "id": "4e5640bcfa",
+   "verdict": "fix",
+   "note": "Answer correct. The 'five-year term' could not be confirmed (ACC order says tenures vary by deputation); removed it.",
+   "fix": {
+    "explanation": "FIU-IND, set up on 18 November 2004, is under the Department of Revenue and reports directly to the Economic Intelligence Council headed by the Finance Minister. IRS officer Satya Pal Kumar (2005 batch) was appointed its Director in July 2026. Source: FIU-IND website; Business Standard, 24 Jul 2026."
+   },
+   "source_url": "https://indianmasterminds.com/news/acc-20-joint-secretary-appointments-divesh-sehara-kuldip-narayan-219190/"
+  },
+  {
+   "id": "01ae008bc8",
+   "verdict": "ok",
+   "note": "SEBI PR 59/2026 (24 Sep 2026, 215th meeting, Mumbai): PMS Regulations 2026 supersede 2020 regulations; notified 7 Oct 2026, effective 1 Apr 2027.",
+   "source_url": "https://foxmandal.in/news/sebi-notifies-portfolio-managers-regulations-2026/"
+  },
+  {
+   "id": "74ece8e480",
+   "verdict": "fix",
+   "note": "Rs 50 lakh confirmed (Reg 16(3), 2026 regs), but distractor 'Rs 25 lakh' is the minimum for the new PRIM portfolio-manager route, so it was arguably also correct; replaced it with Rs 5 lakh.",
+   "fix": {
+    "options": [
+     "Rs 10 lakh",
+     "Rs 50 lakh",
+     "Rs 1 crore",
+     "Rs 5 lakh"
+    ],
+    "answer": "B",
+    "explanation": "The minimum is Rs 50 lakh per client, and the SEBI (Portfolio Managers) Regulations, 2026, notified on 7 October 2026 and effective from 1 April 2027, keep it. The new regulations also add a PRIM route for investing in mutual fund units, with a lower Rs 25 lakh minimum. Source: SEBI (Portfolio Managers) Regulations, 2026, 7 Oct 2026."
+   },
+   "source_url": "https://foxmandal.in/news/sebi-notifies-portfolio-managers-regulations-2026/"
+  },
+  {
+   "id": "843f5a30de",
+   "verdict": "ok",
+   "note": "NABARD set up 12 July 1982 on CRAFICARD (B. Sivaraman) recommendation; Shaji K. V. still Chairman (Sept 2026).",
+   "source_url": "https://www.nabard.org/"
+  },
+  {
+   "id": "1e2cc48f0e",
+   "verdict": "ok",
+   "note": "Shaji K. V. still NABARD Chairman (spoke as Chairman at GFF, 10 Sep 2026); HQ Mumbai; wholly GoI-owned.",
+   "source_url": "https://www.socialnews.xyz/2026/09/10/nabard-develops-ai-models-for-on-demand-kisan-credit-loans-as-rural-lending-goes-digital-chairman/"
+  },
+  {
+   "id": "37492173d6",
+   "verdict": "ok",
+   "note": "MUDRA is a wholly owned subsidiary of SIDBI; PMMY launched 8 April 2015.",
+   "source_url": "https://www.mudra.org.in/"
+  },
+  {
+   "id": "523a93900b",
+   "verdict": "ok",
+   "note": "Malhotra Committee; IRDA Act 1999; HQ Hyderabad; Ajay Seth Chairman since 1 Sep 2025, still in post Oct 2026.",
+   "source_url": "https://www.business-standard.com/amp/industry/news/ajay-seth-assumes-charge-as-irdai-chairman-125090101069_1.html"
+  },
+  {
+   "id": "fbb5a2d61c",
+   "verdict": "ok",
+   "note": "FSDC (Dec 2010) chaired by Finance Minister; sub-committee by RBI Governor.",
+   "source_url": "https://dea.gov.in/"
+  },
+  {
+   "id": "0e4ba4c662",
+   "verdict": "fix",
+   "note": "Answer 17 confirmed from RBI. Replaced the Adda247 source with the RBI release and added that two earlier NBFC-UL names continue in addition to the list, so the explanation is not misleading.",
+   "fix": {
+    "explanation": "The RBI's 2026-27 list, released on 6 August 2026, names 17 NBFCs, up from 15 in the 2024-25 list, with REC, PFC, IRFC and HUDCO entering for the first time. PNB Housing Finance and Sammaan Capital also stay in the Upper Layer under the five-year rule. The four layers under scale-based regulation are Base, Middle, Upper and Top. Source: RBI press release, 6 Aug 2026."
+   },
+   "source_url": "https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63301"
+  },
+  {
+   "id": "a88884efb5",
+   "verdict": "ok",
+   "note": "SDR basket: USD, EUR, CNY, JPY, GBP; SDR created 1969.",
+   "source_url": "https://www.imf.org/"
+  },
+  {
+   "id": "90ba63cdde",
+   "verdict": "ok",
+   "note": "FATF (1989, G7) targets money laundering and terror financing.",
+   "source_url": "https://www.fatf-gafi.org/"
+  },
+  {
+   "id": "62912195da",
+   "verdict": "ok",
+   "note": "IDA is the World Bank's concessional arm; five WBG institutions listed correctly.",
+   "source_url": "https://ida.worldbank.org/"
+  },
+  {
+   "id": "dcad514f17",
+   "verdict": "ok",
+   "note": "RBI regulates CICs under CICRA 2005; four CICs; no new licence in 2026.",
+   "source_url": "https://www.rbi.org.in/Scripts/BS_ViewMasDirections.aspx?id=13582"
+  },
+  {
+   "id": "a24a2dec29",
+   "verdict": "ok",
+   "note": "FSIB (2022) replaced BBB (2016); reconstituted 16 Oct 2026 with S.C.L. Das as part-time chairperson.",
+   "source_url": "https://indianmasterminds.com/news/fsib-appointments-2026-scl-das-chairperson-members-243369/"
+  },
+  {
+   "id": "b39456220d",
+   "verdict": "ok",
+   "note": "NSE listed on BSE on 24 Sep 2026 at Rs 1,800 vs issue price Rs 1,785; OFS of about Rs 22,560 crore; permitted to trade on MSEI.",
+   "source_url": "https://www.5paisa.com/blog/nse-ipo-historic-market-debut-multi-exchange-listing"
+  },
+  {
+   "id": "c4c74de7b4",
+   "verdict": "ok",
+   "note": "2026 MF Regulations repealed the 1996 regulations, effective 1 April 2026.",
+   "source_url": "https://www.taxmann.com/post/blog/sebi-notifies-mutual-funds-regulations-2026"
+  },
+  {
+   "id": "a91bcf184a",
+   "verdict": "ok",
+   "note": "IBBI set up 1 Oct 2016 under MCA; CCI also under MCA.",
+   "source_url": "https://ibbi.gov.in/"
+  },
+  {
+   "id": "5c93e011cb",
+   "verdict": "ok",
+   "note": "Imperial Bank of India became SBI on 1 July 1955 under the SBI Act 1955.",
+   "source_url": "https://sbi.co.in/"
+  },
+  {
+   "id": "9dafae430f",
+   "verdict": "ok",
+   "note": "C. S. Setty took charge 28 Aug 2024 as 27th Chairman; chaired the Q2FY27 analyst meet, 3 Nov 2026.",
+   "source_url": "https://nsearchives.nseindia.com/corporate/SBIN_07112026180825_BSE_NSE_Transcript_07112026.pdf"
+  },
+  {
+   "id": "1949be2f7b",
+   "verdict": "ok",
+   "note": "SIDBI HQ 15 Ashok Marg, Lucknow; set up 2 April 1990.",
+   "source_url": "https://www.sidbi.in/"
+  },
+  {
+   "id": "bf00814793",
+   "verdict": "ok",
+   "note": "SEBI set up 12 April 1988, statutory from 30 Jan 1992 under SEBI Act 1992.",
+   "source_url": "https://www.sebi.gov.in/"
+  },
+  {
+   "id": "b29428ef99",
+   "verdict": "ok",
+   "note": "DIC 1 Jan 1962, CGCI 14 Jan 1971, merged 15 July 1978 as DICGC.",
+   "source_url": "https://www.dicgc.org.in/"
+  },
+  {
+   "id": "62742b9874",
+   "verdict": "ok",
+   "note": "IFSCA in GIFT City; NHB New Delhi; LIC and DICGC Mumbai.",
+   "source_url": "https://ifsca.gov.in/"
+  },
+  {
+   "id": "e3d7b4f072",
+   "verdict": "ok",
+   "note": "Imperial Bank formed 27 Jan 1921 from Banks of Bengal, Bombay and Madras; Bank of Calcutta 1806.",
+   "source_url": "https://sbi.co.in/"
+  },
+  {
+   "id": "59e63dd395",
+   "verdict": "ok",
+   "note": "BMB (19 Nov 2013) and five associates merged with SBI on 1 April 2017.",
+   "source_url": "https://sbi.co.in/"
+  },
+  {
+   "id": "ef6eb60e4d",
+   "verdict": "ok",
+   "note": "State Bank of Saurashtra merged 13 Aug 2008; Indore 2010.",
+   "source_url": "https://sbi.co.in/"
+  },
+  {
+   "id": "f56db375b7",
+   "verdict": "ok",
+   "note": "YONO = You Only Need One, launched Nov 2017.",
+   "source_url": "https://sbi.co.in/"
+  },
+  {
+   "id": "d99de1d48d",
+   "verdict": "ok",
+   "note": "UCO Bank Kolkata; BoM Pune, Canara Bengaluru, Indian Bank Chennai.",
+   "source_url": "https://www.ucobank.com/"
+  },
+  {
+   "id": "db081630a2",
+   "verdict": "ok",
+   "note": "PNB's own history page: registered 19 May 1894, opened 12 April 1895 in Anarkali Bazar, Lahore; Lala Lajpat Rai first account holder; corporate office Dwarka.",
+   "source_url": "https://pnb.bank.in/origin-of-PNB.html"
+  },
+  {
+   "id": "e6a579b8fb",
+   "verdict": "ok",
+   "note": "Central Bank of India, 1911, Sorabji Pochkhanawala; first chairman Pherozeshah Mehta; HQ Mumbai.",
+   "source_url": "https://www.centralbankofindia.co.in/"
+  },
+  {
+   "id": "d6b4315ab2",
+   "verdict": "ok",
+   "note": "Prathama Bank, Moradabad, 2 Oct 1975, sponsored by Syndicate Bank; 28 RRBs now.",
+   "source_url": "https://www.nabard.org/"
+  },
+  {
+   "id": "4a379b4d60",
+   "verdict": "ok",
+   "note": "IPPB under Department of Posts; national launch 1 Sept 2018; New Delhi.",
+   "source_url": "https://www.ippbonline.com/"
+  },
+  {
+   "id": "129083b1c2",
+   "verdict": "ok",
+   "note": "RBI Central Office first in Calcutta, moved to Bombay 1937; nationalised 1949.",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "e3a490d3a7",
+   "verdict": "ok",
+   "note": "LIC created 1 Sept 1956; Rs 5 crore capital; GIC incorporated 22 Nov 1972.",
+   "source_url": "https://licindia.in/"
+  },
+  {
+   "id": "c58653ea3b",
+   "verdict": "ok",
+   "note": "SPMCIL mints: Mumbai, Kolkata, Hyderabad, Noida; Nashik has CNP and ISP.",
+   "source_url": "https://spmcil.com/"
+  },
+  {
+   "id": "680d858f7d",
+   "verdict": "ok",
+   "note": "BSE founded 9 July 1875, Asia's oldest exchange.",
+   "source_url": "https://www.bseindia.com/"
+  },
+  {
+   "id": "f97231990f",
+   "verdict": "ok",
+   "note": "IMF still 191 members (Liechtenstein 191st, Oct 2024; IMF Annual Report 2026); IBRD 189.",
+   "source_url": "https://www.imf.org/en/countries/lie"
+  },
+  {
+   "id": "4a9f580913",
+   "verdict": "ok",
+   "note": "Georgieva still IMF MD (led Oct 2026 Annual Meetings); second term from 1 Oct 2024.",
+   "source_url": "https://www.imf.org/en/news/articles/2026/10/16/101626-managing-director-annual-meetings-plenary"
+  },
+  {
+   "id": "061db3a7e3",
+   "verdict": "ok",
+   "note": "BIS: established 1930, Basel, owned by 63 central banks.",
+   "source_url": "https://www.bis.org/about/index.htm"
+  },
+  {
+   "id": "edd440c37c",
+   "verdict": "ok",
+   "note": "FATF secretariat in Paris; Vivek Aggarwal became India's first FATF Vice-President on 1 July 2026.",
+   "source_url": "https://www.fatf-gafi.org/en/the-fatf/fatf-presidency/Vivek-Aggarwal.html"
+  },
+  {
+   "id": "8d05e068de",
+   "verdict": "ok",
+   "note": "WTO in Geneva, 166 members (last: Timor-Leste, 30 Aug 2024); DG Okonjo-Iweala.",
+   "source_url": "https://www.wto.org/english/thewto_e/whatis_e/tif_e/org6_e.htm"
+  }
+ ]
+}

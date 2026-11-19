@@ -35,15 +35,22 @@ const TABS: readonly { key: Section; label: string; short: string; href: string 
   { key: 'qa', label: 'Q&A', short: 'Q&A', href: '#qa' },
 ];
 
-type SiteHeaderProps = { active: Section; daysLeft: number | null; user: string; onSwitchUser: () => void };
+type SiteHeaderProps = {
+  active: Section;
+  brand: string;
+  /** e.g. "7 days to exam"; null hides the chip */
+  countdown: string | null;
+  user: string;
+  onSwitchExam: () => void;
+  onSwitchUser: () => void;
+};
 
-export function SiteHeader({ active, daysLeft, user, onSwitchUser }: SiteHeaderProps) {
-  const countdown = daysLeft === null || daysLeft < 0 ? null : daysLeft === 0 ? 'Exam today' : `${daysLeft} ${daysLeft === 1 ? 'day' : 'days'} to exam`;
+export function SiteHeader({ active, brand, countdown, user, onSwitchExam, onSwitchUser }: SiteHeaderProps) {
   return (
     <header className="site-head">
       <div className="wrap site-head-in">
         <a className="brand" href="#analysis">
-          PO Mains GA Prep
+          {brand}
         </a>
         {countdown ? <span className="countchip">{countdown}</span> : null}
         <nav className="tabs" aria-label="Sections">
@@ -54,6 +61,13 @@ export function SiteHeader({ active, daysLeft, user, onSwitchUser }: SiteHeaderP
               <span className="tab-short">{t.short}</span>
             </a>
           ))}
+          <button type="button" className="tab tab-switch" onClick={onSwitchExam} aria-label="Switch exam" title="Switch exam">
+            <svg viewBox="0 0 24 24" aria-hidden="true">
+              <path d="M7 4 3 8l4 4M3 8h14M17 12l4 4-4 4M21 16H7" />
+            </svg>
+            <span className="tab-long">Switch exam</span>
+            <span className="tab-short">Exams</span>
+          </button>
         </nav>
         <button type="button" className="userbtn" onClick={onSwitchUser} aria-label={`Signed in as ${user}. Switch user`}>
           <span className="username">{user}</span>

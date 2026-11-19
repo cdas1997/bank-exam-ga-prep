@@ -1,0 +1,19 @@
+{
+ "bankSha256": "7b9eecce737203338165d7e1e7265d3907182dabfd029d198f13f0e72b48000a",
+ "keys": [
+  "ca-news",
+  "ca-appointments",
+  "ca-awards",
+  "ca-sports",
+  "ca-science",
+  "ca-reports",
+  "bf-rbi",
+  "bf-banking",
+  "bf-digital",
+  "bf-regulators",
+  "bf-budget",
+  "sg-banking",
+  "sg-geography",
+  "sg-general"
+ ]
+}

@@ -2,20 +2,25 @@ import { ActivityChart } from '@/components/charts/ActivityChart';
 import { TrendChart, type TrendPoint } from '@/components/charts/TrendChart';
 import type { DayActivity } from '@/lib/analysis';
 
-type ChartsSectionProps = { trend: readonly (TrendPoint & { accuracy: number })[]; activity: readonly DayActivity[] };
+type ChartsSectionProps = {
+  trend: readonly (TrendPoint & { accuracy: number })[];
+  /** marks of the real section, which the scores are scaled to */
+  maxMarks: number;
+  activity: readonly DayActivity[];
+};
 
-export function ChartsSection({ trend, activity }: ChartsSectionProps) {
+export function ChartsSection({ trend, maxMarks, activity }: ChartsSectionProps) {
   return (
     <section className="charts">
       <div className="panel chartcard">
-        <h3>Mock scores, scaled to 60</h3>
+        <h3>Mock scores, scaled to {maxMarks}</h3>
         {trend.length ? (
           <>
             <TrendChart
               points={trend}
-              max={60}
-              unit="/ 60"
-              ariaLabel={`Mock scores scaled to 60: ${trend.map((p) => `${p.label} ${p.value.toFixed(2)}`).join(', ')}`}
+              max={maxMarks}
+              unit={`/ ${maxMarks}`}
+              ariaLabel={`Mock scores scaled to ${maxMarks}: ${trend.map((p) => `${p.label} ${p.value.toFixed(2)}`).join(', ')}`}
             />
             <details className="tableview">
               <summary>Show as table</summary>
@@ -25,7 +30,7 @@ export function ChartsSection({ trend, activity }: ChartsSectionProps) {
                     <tr>
                       <th>Mock</th>
                       <th>Type and date</th>
-                      <th className="n">Score / 60</th>
+                      <th className="n">Score / {maxMarks}</th>
                       <th className="n">Accuracy</th>
                     </tr>
                   </thead>

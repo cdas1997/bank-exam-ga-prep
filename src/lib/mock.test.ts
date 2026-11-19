@@ -1,7 +1,8 @@
 import { describe, expect, it } from 'vitest';
 import { isHot } from './bank';
-import { MOCK_CONFIG, PaletteState, accrueTime, createLiveMock, finishLiveMock, goToQuestion, paletteState, pickMockQuestions } from './mock';
-import { makeTestBank } from './testBank';
+import { attemptNumber, setHistory } from './analysis';
+import { MOCK_CONFIG, PaletteState, accrueTime, createLiveMock, finishLiveMock, goToQuestion, mockLabel, paletteState, pickMockQuestions } from './mock';
+import { IBPS_MARKING, SBI_MARKING, makeSetBank, makeTestBank } from './testBank';
 import { MockType } from './types';
 
 function seeded(seed: number): () => number {
@@ -40,7 +41,8 @@ describe('mock tests', () => {
     expect(live.seconds[second]).toBeCloseTo(20);
     expect(paletteState(live, 0)).toBe(PaletteState.Answered);
     expect(paletteState(live, 5)).toBe(PaletteState.NotVisited);
-    const record = finishLiveMock(live, bank, start + 60_000);
+    const record = finishLiveMock(live, { bank, marking: IBPS_MARKING }, start + 60_000);
+    expect(record.setNo).toBeNull();
     expect(record.right).toBe(1);
     expect(record.wrong).toBe(1);
     expect(record.skipped).toBe(18);
@@ -50,7 +52,56 @@ describe('mock tests', () => {
 
   it('never counts time past the end of the clock', () => {
     const live = createLiveMock({ type: MockType.Quick, bank, answers: {}, random: seeded(5), now: 0 });
-    const record = finishLiveMock(live, bank, 10 * 60 * 60 * 1000);
+    const record = finishLiveMock(live, { bank, marking: IBPS_MARKING }, 10 * 60 * 60 * 1000);
     expect(record.usedMs).toBe(MOCK_CONFIG.quick.seconds * 1000);
+  });
+});
+
+describe('full paper sets', () => {
+  const bank = makeSetBank();
+  const exam = { bank, marking: SBI_MARKING };
+
+  function takeSet(setNo: number, now: number, wrongCount: number) {
+    let live = createLiveMock({ type: MockType.Set, setNo, bank, answers: {}, random: seeded(1), now });
+    const responses = Object.fromEntries(live.questionIds.map((id, i) => [id, i < wrongCount ? 0 : 1]));
+    live = { ...live, responses };
+    return finishLiveMock(live, exam, now + 20 * 60_000);
+  }
+
+  it('gives the same 50 questions in paper order with a 35-minute clock', () => {
+    const first = createLiveMock({ type: MockType.Set, setNo: 2, bank, answers: {}, random: seeded(1), now: 0 });
+    const again = createLiveMock({ type: MockType.Set, setNo: 2, bank, answers: { b25: [0, 1] }, random: seeded(99), now: 5 });
+    expect(first.questionIds).toHaveLength(50);
+    expect(first.questionIds).toEqual(bank.sets[1]?.questions.map((q) => q.id));
+    expect(again.questionIds).toEqual(first.questionIds);
+    expect(first.setNo).toBe(2);
+    expect(first.limitSecs).toBe(35 * 60);
+    expect(mockLabel(first)).toBe('Set 2');
+  });
+
+  it('has nothing to draw for a set the bank does not have', () => {
+    expect(pickMockQuestions({ type: MockType.Set, setNo: 9, bank, answers: {}, random: seeded(1) })).toEqual([]);
+  });
+
+  it('marks a set the SBI way: +1 right, -0.25 wrong, out of 50', () => {
+    const record = takeSet(1, 1_000, 10);
+    expect(record.right).toBe(40);
+    expect(record.wrong).toBe(10);
+    expect(record.net).toBeCloseTo(37.5);
+    expect(record.maxMarks).toBe(50);
+  });
+
+  it('saves every reattempt and reports the best and the latest score', () => {
+    const first = takeSet(1, 1_000, 20);
+    const other = takeSet(2, 2_000, 0);
+    const second = takeSet(1, 3_000, 4);
+    const mocks = [second, other, first];
+    expect(setHistory(mocks, 1)).toEqual({ attempts: 2, best: 45, last: 45 });
+    expect(setHistory([first, other, second], 1).last).toBe(25);
+    expect(setHistory(mocks, 2)).toEqual({ attempts: 1, best: 50, last: 50 });
+    expect(setHistory(mocks, 3)).toEqual({ attempts: 0, best: null, last: null });
+    expect(attemptNumber(first, mocks)).toBe(1);
+    expect(attemptNumber(second, mocks)).toBe(2);
+    expect(attemptNumber(other, mocks)).toBe(1);
   });
 });

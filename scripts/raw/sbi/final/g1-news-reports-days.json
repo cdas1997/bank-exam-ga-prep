@@ -1,0 +1,674 @@
+{
+ "verdicts": [
+  {
+   "id": "23d04d95af",
+   "verdict": "ok",
+   "note": "Confirmed theme, 12-13 Sep 2026 New Delhi summit, New Delhi Declaration and China 2027 chairship.",
+   "source_url": "https://www.pmindia.gov.in/en/news_updates/brics-new-delhi-declaration-building-for-resilience-innovation-cooperation-and-sustainability/"
+  },
+  {
+   "id": "aa45ce7a17",
+   "verdict": "ok",
+   "note": "Confirmed on SCO Secretariat page: 1 Sep 2026, Yrys-Ordo Hall Bishkek, Japarov chair, Pakistan chair 2026-27, Lahore tourism and cultural capital.",
+   "source_url": "https://eng.sectsco.org/20260901/2493609.html"
+  },
+  {
+   "id": "8cea41e994",
+   "verdict": "ok",
+   "note": "Confirmed Evian G7 15-17 June 2026 with Modi attending as invited partner; Kananaskis 2025 was the 51st.",
+   "source_url": "https://www.tribuneindia.com/news/india/pm-modi-to-attend-g7-summit-in-france-from-june-15-to-17/"
+  },
+  {
+   "id": "f456ca8782",
+   "verdict": "ok",
+   "note": "Confirmed CETA entered into force 15 July 2026; signed 24 July 2025.",
+   "source_url": "https://newsonair.gov.in/india-uk-comprehensive-economic-and-trade-agreement-comes-into-force-today/"
+  },
+  {
+   "id": "1688e35871",
+   "verdict": "ok",
+   "note": "Confirmed COP31 in Antalya 9-20 Nov 2026, Turkiye presidency, Australia President of Negotiations.",
+   "source_url": "https://unfccc-cop.dcceew.gov.au/cop31"
+  },
+  {
+   "id": "78da39ea39",
+   "verdict": "ok",
+   "note": "Confirmed on IMF meetings page: Bangkok, 12-18 Oct 2026.",
+   "source_url": "https://www.imf.org/en/meetings/2026/annual"
+  },
+  {
+   "id": "271aabc556",
+   "verdict": "fix",
+   "note": "Signing date (27 Apr 2026) confirmed, but the signing place stated in the stem and the 'Vijayadashami' and signatory details could not be confirmed; removed them and added the confirmed investment commitment.",
+   "fix": {
+    "q": "The India-New Zealand Free Trade Agreement, signed in April 2026, came into force on which date?",
+    "explanation": "The India-New Zealand FTA came into force on 20 October 2026, after both countries ratified it. It was signed on 27 April 2026 and gives 100% of India's exports duty-free access to New Zealand. New Zealand has committed to facilitate USD 20 billion of investment in India over 15 years. Source: MFAT (New Zealand), Oct 2026; IBEF, Sep 2026."
+   },
+   "source_url": "https://www.ibef.org/news/india-new-zealand-fta-finalised-100-of-indian-exports-to-get-duty-free-access-from-october-20-2026"
+  },
+  {
+   "id": "3db064ff54",
+   "verdict": "ok",
+   "note": "Confirmed Uzbekistan's NDB membership effective 5 June 2026 as 10th member; HQ Shanghai; Dilma Rousseff president.",
+   "source_url": "https://www.ndb.int/news/uzbekistan-officially-joins-new-development-bank-as-new-member-country/"
+  },
+  {
+   "id": "1446897719",
+   "verdict": "ok",
+   "note": "Evergreen fact: ADB HQ Manila, est. 1966, Japan and US largest shareholders.",
+   "source_url": "https://www.adb.org/"
+  },
+  {
+   "id": "dff2d6573e",
+   "verdict": "fix",
+   "note": "Answer confirmed. 'RBI approval still awaited' is a time-sensitive status that cannot be confirmed as of 19 Nov 2026; reworded and added confirmed details.",
+   "fix": {
+    "explanation": "On 14 October 2026 the CCEA cleared the sale to 10955230 Canada Inc., a subsidiary of Canada's Fairfax Financial Holdings, for about Rs 52,878 crore (Rs 81 a share). The Government and LIC are the sellers, and the deal needs RBI approval to close. IDBI Bank is headquartered in Mumbai. Source: Business Today, 14 Oct 2026."
+   },
+   "source_url": "https://www.businesstoday.in/latest/corporate/story/centre-approves-fairfax-financials-rs52878-crore-bid-for-60-72-stake-in-idbi-bank-561590-2026-10-14"
+  },
+  {
+   "id": "a737f2e07b",
+   "verdict": "ok",
+   "note": "Confirmed: Act raises judges other than CJI from 33 to 37 (total 38), deemed in force from Ordinance of 16 May 2026.",
+   "source_url": "https://www.livelaw.in/top-stories/president-grants-assent-to-law-increasing-strength-of-supreme-court-judges-to-38-545405"
+  },
+  {
+   "id": "6fd4d4007b",
+   "verdict": "ok",
+   "note": "Confirmed: Act extends 1971 Act protection to Vande Mataram; assent 11 Aug 2026; penalty up to 3 years.",
+   "source_url": "https://newsonair.gov.in/president-murmu-gives-assent-to-national-honour-amendment-bill-2026/"
+  },
+  {
+   "id": "721e58be09",
+   "verdict": "fix",
+   "note": "Answer confirmed. The claim that the committee will review RRBs and co-operative banks could not be confirmed; replaced with confirmed scope and dates.",
+   "fix": {
+    "explanation": "Former Central Vigilance Commissioner Suresh N. Patel chairs the committee, which the Finance Ministry set up on 30 October 2026 with six months (until April 2027) to report. It was announced in the Union Budget 2026-27. It will recommend structural, regulatory and legislative changes, including a review of priority sector lending and the Lead Bank Scheme. Source: Free Press Journal, 31 Oct 2026."
+   },
+   "source_url": "https://www.freepressjournal.in/business/centre-forms-high-level-banking-reform-panel-led-by-former-cvc-suresh-patel"
+  },
+  {
+   "id": "299e779b29",
+   "verdict": "drop",
+   "note": "Duplicate: the stem of f456ca8782 spells out 'Comprehensive Economic and Trade Agreement (CETA)', giving this question's answer away; the stem here also reveals that question's answer (July 2026)."
+  },
+  {
+   "id": "4504091385",
+   "verdict": "ok",
+   "note": "Confirmed: New Delhi Declaration backed China's 2027 chairship and 19th summit.",
+   "source_url": "https://www.drishtiias.com/state-pcs-current-affairs/brics-new-delhi-declaration-2026/print_manually"
+  },
+  {
+   "id": "be84c3df27",
+   "verdict": "fix",
+   "note": "Answer correct, but the stem named Bishkek, giving away the answer to aa45ce7a17; stem reworded.",
+   "fix": {
+    "q": "The Shanghai Cooperation Organisation (SCO), which marked 25 years in 2026, has its secretariat in which city?"
+   },
+   "source_url": "https://eng.sectsco.org/20260901/2493609.html"
+  },
+  {
+   "id": "8e57535e59",
+   "verdict": "ok",
+   "note": "Confirmed: CHOGM 2026 in St John's, Antigua and Barbuda, 1-4 Nov 2026; theme confirmed.",
+   "source_url": "https://thecommonwealth.org/news/antigua-and-barbuda-journey-to-chogm-2026"
+  },
+  {
+   "id": "d84bafd511",
+   "verdict": "ok",
+   "note": "Confirmed: Commonwealth site states 56 member countries.",
+   "source_url": "https://thecommonwealth.org/our-member-countries"
+  },
+  {
+   "id": "768973f2b8",
+   "verdict": "ok",
+   "note": "Confirmed: Ankara Summit Declaration, 7-8 July 2026.",
+   "source_url": "https://www.aljazeera.com/news/2026/7/8/five-key-takeaways-from-the-nato-summit-in-ankara"
+  },
+  {
+   "id": "01ea76212c",
+   "verdict": "fix",
+   "note": "Answer correct, but the stem named Ankara, giving away the answer to 768973f2b8; stem reworded.",
+   "fix": {
+    "q": "NATO, which held its 2026 summit in July, has its headquarters in which city?"
+   },
+   "source_url": "https://www.nato.int/en/news-and-events/events/2026/07/overview---2026-nato-summit-in-ankara-"
+  },
+  {
+   "id": "7ee03b7be7",
+   "verdict": "ok",
+   "note": "Confirmed: 19-25 July 2026 State Visits to Moldova, North Macedonia and Romania; first Indian Presidential visits to Moldova and North Macedonia.",
+   "source_url": "https://newsonair.gov.in/president-droupadi-murmu-returns-to-new-delhi-after-concluding-her-three-nation-visit-to-moldova-north-macedonia-romania/"
+  },
+  {
+   "id": "0d640a120e",
+   "verdict": "ok",
+   "note": "Confirmed: 29-30 Aug 2026 Tashkent visit, ties raised to Comprehensive Strategic Partnership, uranium supply framework; Modi then addressed SCO summit in Bishkek.",
+   "source_url": "https://www.deccanherald.com/india/india-uzbekistan-elevate-ties-to-comprehensive-strategic-partnership-pm-modi-announces-long-term-uranium-supply-framework-4128990"
+  },
+  {
+   "id": "6a2b8aec4a",
+   "verdict": "ok",
+   "note": "Confirmed: World Bank USD 890 million (820 IBRD + 60 CTF + 10 LPF) for PM Surya Ghar, 9 July 2026.",
+   "source_url": "https://www.worldbank.org/en/news/press-release/2026/07/09/world-bank-supports-india-s-solar-rooftop-program-to-boost-clean-energy-create-jobs-and-unlock-private-capital"
+  },
+  {
+   "id": "fbfd088793",
+   "verdict": "ok",
+   "note": "Confirmed: India-Oman CEPA signed 18 Dec 2025 in Muscat, in force 1 June 2026.",
+   "source_url": "https://www.business-standard.com/economy/news/india-oman-free-trade-pact-comes-into-force-126060101366_1.html"
+  },
+  {
+   "id": "a83323f7ca",
+   "verdict": "ok",
+   "note": "Confirmed on UNESCO decision page and reports: 48th session in Busan, 19-29 July 2026; Sarnath inscribed 25 July.",
+   "source_url": "https://whc.unesco.org/en/decisions/9171"
+  },
+  {
+   "id": "9bdacd1b57",
+   "verdict": "ok",
+   "note": "Confirmed: US holds the 2026 G20 presidency; leaders' summit at Trump National Doral, Miami, 14-15 Dec 2026.",
+   "source_url": "https://www.cityofdoral.com/Elected-officials/Christi-Fraga/Doral-at-the-Center-of-G20"
+  },
+  {
+   "id": "eca406f57f",
+   "verdict": "fix",
+   "note": "Answer correct, but the stem said COP31 is in Turkiye, giving away the answer to 1688e35871 (Antalya); stem reworded and source corrected to the November 2025 reports of Ethiopia's selection.",
+   "fix": {
+    "q": "Which country will host COP32, the UN climate change conference, in 2027?",
+    "explanation": "Ethiopia will host COP32 in Addis Ababa in 2027. It won the African Group's backing over Nigeria, and the choice was announced at COP30 in Belem, Brazil, in November 2025. COP31 is being held in Antalya, Turkiye (9-20 November 2026), with Australia leading the negotiations. The UNFCCC secretariat is in Bonn, Germany. Source: Reuters via The Star, 11 Nov 2025; UNFCCC, Nov 2026."
+   },
+   "source_url": "https://en.wikipedia.org/wiki/2027_United_Nations_Climate_Change_Conference"
+  },
+  {
+   "id": "1e814e4e54",
+   "verdict": "ok",
+   "note": "Evergreen EFTA membership; 2nd India-EFTA Prosperity Summit in New Delhi on 7 Oct 2026 confirmed.",
+   "source_url": "https://openthemagazine.com/india/modi-swiss-president-parmelin-hold-talks-as-india-efta-trade-pact-completes-a-year"
+  },
+  {
+   "id": "408b28abc8",
+   "verdict": "ok",
+   "note": "Confirmed: AIIB project page and 16 July 2026 board minutes approve USD 1,000 million for India programme; HQ Beijing.",
+   "source_url": "https://www.aiib.org/en/projects/details/2026/approved/india-program-for-growth-resilience-energy-security-and-sustainability.html"
+  },
+  {
+   "id": "3cd6591de9",
+   "verdict": "ok",
+   "note": "Confirmed: 60.72% stake (Govt 30.48%, LIC 30.24%); Govt keeps 15%, LIC 19%.",
+   "source_url": "https://www.businesstoday.in/latest/corporate/story/centre-approves-fairfax-financials-rs52878-crore-bid-for-60-72-stake-in-idbi-bank-561590-2026-10-14"
+  },
+  {
+   "id": "d1e17ec86c",
+   "verdict": "ok",
+   "note": "Confirmed Kerala (Alteration of Name) Bill passed LS 11 Aug, RS 12 Aug 2026, in force 25 Aug 2026; Article 3 is evergreen.",
+   "source_url": "https://en.wikipedia.org/wiki/Keralam"
+  },
+  {
+   "id": "d11f08bcc2",
+   "verdict": "ok",
+   "note": "Confirmed: IFC USD 150 million social loan to SBI for about 8.64 lakh rural women, IFC's first credit line to an Indian PSB.",
+   "source_url": "https://www.theweek.in/wire-updates/business/2026/11/06/sbi-deepens-partnership-with-ifc-secures-usd-150-mn-social-loan-to-empower-8-64-lakh-rural-women.html"
+  },
+  {
+   "id": "a55b42ccf4",
+   "verdict": "ok",
+   "note": "Confirmed: VB-G RAM G in force 1 July 2026, MGNREGA repealed, 125 days guarantee; commencement notified 11 May 2026.",
+   "source_url": "https://www.business-standard.com/india-news/vb-g-ram-g-replacing-mgnrega-to-come-into-force-across-india-from-july-1-126051100540_1.html"
+  },
+  {
+   "id": "a461fcc542",
+   "verdict": "ok",
+   "note": "Confirmed: Justice Ranjana Prakash Desai chairs 8th CPC (resolution 3 Nov 2025, 18 months); report not submitted per Aug 2026 Lok Sabha reply.",
+   "source_url": "https://www.freepressjournal.in/business/8th-pay-commission-report-still-awaited-government-yet-to-decide-implementation-date"
+  },
+  {
+   "id": "f4134136a9",
+   "verdict": "ok",
+   "note": "Confirmed: IndiGo 6E-2278 from Lucknow first commercial flight on 15 June 2026; airport inaugurated 28 March 2026; Akasa from 16 June.",
+   "source_url": "https://www.businesstoday.in/amp/india/story/inaugural-flight-from-lucknow-lands-at-jewar-airport-indigo-kickstarts-ops-akasa-air-to-begin-soon-536804-2026-06-15"
+  },
+  {
+   "id": "fc8eb7638e",
+   "verdict": "ok",
+   "note": "Confirmed: GRSE Navratna approved 19 June 2026, 29th Navratna CPSE; CPCL 28th.",
+   "source_url": "https://www.indianmandarins.com/news/grse-conferred-navratna-status-becomes-29th-psu-to-achieve-the-feat/32781"
+  },
+  {
+   "id": "7f1c8c6b97",
+   "verdict": "ok",
+   "note": "Confirmed: Bankers' Books Evidence Act, 2026 replaced the 1891 Act from 1 Oct 2026; assent 13 Aug 2026.",
+   "source_url": "https://newsonair.gov.in/bankers-books-evidence-act-2026-to-come-into-force-today/"
+  },
+  {
+   "id": "14ffba5528",
+   "verdict": "ok",
+   "note": "Confirmed: MSMED (Amendment) Act, 2026 (assent 13 Aug 2026) mandates CPSEs to settle MSME invoices on TReDS.",
+   "source_url": "https://www.scconline.com/blog/post/2026/08/19/micro-small-medium-enterprises-development-amendment-act-2026/"
+  },
+  {
+   "id": "752338d05d",
+   "verdict": "ok",
+   "note": "Confirmed: Constitution (129th Amendment) Bill, 2024 still before JPC chaired by P. P. Chaudhary in 2026; no passage reported.",
+   "source_url": "https://newsonair.gov.in/lok-sabha-extends-tenure-of-jpc-on-one-nation-one-election/"
+  },
+  {
+   "id": "93857b07cd",
+   "verdict": "ok",
+   "note": "Confirmed: Sarnath (Varanasi, UP) inscribed 25 July 2026 as India's 45th World Heritage Site.",
+   "source_url": "https://www.outlooktraveller.com/News/sarnath-becomes-indias-45th-unesco-world-heritage-site"
+  },
+  {
+   "id": "d7d01dc886",
+   "verdict": "fix",
+   "note": "Theme confirmed, but EAM Jaishankar's 26 September address date could not be confirmed; replaced with confirmed facts.",
+   "fix": {
+    "explanation": "The theme of the 81st session is 'Restoring trust, managing transformation: a United Nations that delivers for all'. Its general debate opened on 22 September 2026 at UN Headquarters in New York. The 80th session's theme was 'Better together: 80 years and more for peace, development and human rights'. The UN has 193 member states. Source: United Nations, High-level week 2026, Sep 2026."
+   },
+   "source_url": "https://www.un.org/en/high-level-week-2026"
+  },
+  {
+   "id": "4da7c653d5",
+   "verdict": "ok",
+   "note": "Confirmed: Haj 2027 agreement signed by Rijiju and Al-Rabiah in Jeddah on 9 Nov 2026; quota 1,75,025.",
+   "source_url": "https://newsonair.gov.in/india-saudi-arabia-sign-bilateral-haj-agreement-for-2027/"
+  },
+  {
+   "id": "1a6f47cadc",
+   "verdict": "ok",
+   "note": "Confirmed: SBI Funds Management listed 21 July 2026, issue price Rs 574, entirely OFS by SBI and Amundi.",
+   "source_url": "https://groww.in/blog/sbi-funds-management-shares-list-at-6-85-premium-debuts-at-613-on-nse"
+  },
+  {
+   "id": "c00a4d54d0",
+   "verdict": "ok",
+   "note": "Evergreen notified schedule: Census 2027 reference date 1 March 2027 (1 Oct 2026 for snow-bound areas), per MHA notification of June 2025.",
+   "source_url": "https://censusindia.gov.in/"
+  },
+  {
+   "id": "50a155836d",
+   "verdict": "ok",
+   "note": "Confirmed: Emirates NBD completed 60% stake in RBL Bank on 18 June 2026 via primary infusion; RBI approved branch merger from 1 Dec 2026.",
+   "source_url": "https://mediaoffice.ae/en/news/2026/jun/18-06/emirates-nbd-and-rbl-bank-announce-the-successful-completion-of-the-landmark-strategic-investment"
+  },
+  {
+   "id": "58dfc9a899",
+   "verdict": "ok",
+   "note": "Confirmed: LG announced Sankoo, carved out of Kargil, as Ladakh's 8th district on 16 Oct 2026 with LAHDC Sankoo.",
+   "source_url": "https://newsonair.gov.in/ladakh-lg-vinai-kumar-saxena-announces-creation-of-sankoo-district/"
+  },
+  {
+   "id": "4bc11cca51",
+   "verdict": "ok",
+   "note": "Confirmed: Swiss President Guy Parmelin State Visit 5-7 Oct 2026, attended 2nd India-EFTA Prosperity Summit.",
+   "source_url": "https://newsonair.gov.in/swiss-president-parmelin-to-begin-3-day-state-visit-to-india-tomorrow/"
+  },
+  {
+   "id": "df844ce355",
+   "verdict": "ok",
+   "note": "Confirmed: PM's State Visit to Seychelles 27-29 June 2026, Guest of Honour at 50th National Day, first Indian PM so honoured.",
+   "source_url": "https://www.pmindia.gov.in/en/news_updates/pm-attends-the-50th-anniversary-celebrations-of-independence-of-seychelles/"
+  },
+  {
+   "id": "07be496ebf",
+   "verdict": "ok",
+   "note": "Confirmed: India-New Zealand Strategic Partnership announced in Auckland on 11 July 2026, last leg after Indonesia and Australia.",
+   "source_url": "https://www.thejakartapost.com/world/2026/07/11/new-zealand-india-form-strategic-partnership"
+  },
+  {
+   "id": "d8995156ab",
+   "verdict": "ok",
+   "note": "Confirmed: Philippines as 2026 ASEAN chair hosted 23rd ASEAN-India and 21st EAS in Manila on 17 Nov 2026.",
+   "source_url": "https://newsonair.gov.in/pm-modi-to-attend-23rd-asean-india-summit-and-21st-east-asia-summit-in-manila-today/"
+  },
+  {
+   "id": "6a3ac6321b",
+   "verdict": "ok",
+   "note": "Confirmed: UNGA resolution 78/260 of 26 Feb 2024 proclaims 2027 International Year of Sustainable and Resilient Tourism.",
+   "source_url": "https://digitallibrary.un.org/record/4039870"
+  },
+  {
+   "id": "c45800b166",
+   "verdict": "ok",
+   "note": "Confirmed: India deposited acceptance on 20 July 2026 as 123rd member; agreement in force 15 Sep 2025.",
+   "source_url": "https://www.outlookbusiness.com/news/india-joins-wto-fisheries-subsidies-pact-becomes-123rd-member-to-ratify"
+  },
+  {
+   "id": "78140d556e",
+   "verdict": "ok",
+   "note": "Confirmed: CPCL became 28th Navratna on 19 June 2026; it is an Indian Oil subsidiary.",
+   "source_url": "https://upstox.com/news/market-news/stocks/garden-reach-chennai-petroleum-awarded-navratna-status-what-it-means-for-the-two-ps-us/article-195716/"
+  },
+  {
+   "id": "48848f4b6f",
+   "verdict": "ok",
+   "note": "Confirmed: Tribunals Reforms Act, 2026 (assent 13 Aug 2026) creates National Tribunals Commission chaired by ex-SC judge or HC Chief Justice; repeals 2021 Act.",
+   "source_url": "https://prsindia.org/billtrack/prs-products/prs-bill-summary-1786378503"
+  },
+  {
+   "id": "04d4c540ee",
+   "verdict": "ok",
+   "note": "Confirmed: Bharatiya Vayuyan Niyam, 2026 replace Aircraft Rules, 1937 from 1 Jan 2027, framed under Bharatiya Vayuyan Adhiniyam, 2024.",
+   "source_url": "https://www.thehansindia.com/business/market-compass/govt-notifies-new-aviation-rules-bharatiya-vayuyan-niyam-effective-jan-1-2027-1138423"
+  },
+  {
+   "id": "b4bf5b66b2",
+   "verdict": "ok",
+   "note": "Confirmed: amends the RBD Act, 1969; registration delayed beyond two years needs JMFC order.",
+   "source_url": "https://www.livelaw.in/news-updates/president-assents-to-registration-of-births-deaths-amendment-act-2026-544755"
+  },
+  {
+   "id": "2379962c0e",
+   "verdict": "ok",
+   "note": "Confirmed: IMF Oct 2026 WEO raised India FY27 to 7.0% from 6.4%; world 3.1% in 2026.",
+   "source_url": "https://dailypioneer.com/news/imf-raises-indias-fy27-growth-forecast-to-7"
+  },
+  {
+   "id": "ee0a5fdf52",
+   "verdict": "fix",
+   "note": "Rank confirmed, but India's child wasting rate is reported as the highest in South Asia, not the highest in the whole report; corrected.",
+   "fix": {
+    "explanation": "India ranked 100th of 122 countries with a score of 24.1, in the 'serious' category; it was 102nd of 123 in 2025. India's child wasting rate (19%) is the highest in South Asia. The index is published by Welthungerhilfe and Concern Worldwide. Source: Global Hunger Index (globalhungerindex.org), Oct 2026."
+   },
+   "source_url": "https://www.globalhungerindex.org/india.html"
+  },
+  {
+   "id": "456cfee4eb",
+   "verdict": "ok",
+   "note": "Confirmed: Navi Mumbai 1st, Surat 2nd, Vijayawada 3rd in Super Swachh League; President presented awards at Vigyan Bhavan on 11 Nov 2026; 10th edition, 4,751 cities.",
+   "source_url": "https://www.drishtiias.com/daily-updates/daily-news-analysis/swachh-survekshan-awards-2025-26-1"
+  },
+  {
+   "id": "239a0bb9a5",
+   "verdict": "ok",
+   "note": "Confirmed: India 38th of 139 in GII 2026; Switzerland, Sweden, USA top three.",
+   "source_url": "https://www.wipo.int/edocs/gii-ranking/2026/in.pdf"
+  },
+  {
+   "id": "360871f647",
+   "verdict": "ok",
+   "note": "Confirmed: India slipped five places to 28th in CCPI 2027 released at COP31; top three vacant, Denmark 4th.",
+   "source_url": "https://www.downtoearth.org.in/climate-change/cop31-india-slips-five-places-to-28th-in-global-climate-action-ranking-finds-ccpi-2027-report"
+  },
+  {
+   "id": "573be17f74",
+   "verdict": "ok",
+   "note": "Confirmed: India 131st of 145, 64.5% gap closed, 20th edition, reported 16 Sep 2026.",
+   "source_url": "https://dailypioneer.com/news/india-global-gender-gap-index-2026-rank-131"
+  },
+  {
+   "id": "a266f87dfd",
+   "verdict": "ok",
+   "note": "Confirmed: WIPO publishes GII; 2026 is the 19th edition.",
+   "source_url": "https://www.wipo.int/web-publications-preview/global-innovation-index-2026/en/gii-2026-results.html"
+  },
+  {
+   "id": "358aaa3995",
+   "verdict": "ok",
+   "note": "Confirmed: Iceland first (93% closed), Finland 2nd, Norway 3rd; 17th straight year is consistent with its run since 2009.",
+   "source_url": "https://dailypioneer.com/news/india-global-gender-gap-index-2026-rank-131"
+  },
+  {
+   "id": "0bd76b4587",
+   "verdict": "ok",
+   "note": "Confirmed: Adani Rs 9.23 lakh crore, Ambani Rs 8.63 lakh crore, Mittal Rs 3.39 lakh crore; 15th edition.",
+   "source_url": "https://www.businesstoday.in/india/story/hurun-india-rich-list-2026-adani-reclaims-top-spot-with-rs9-23-lakh-cr-valuation-check-where-others-stand-557470-2026-09-24"
+  },
+  {
+   "id": "2d1df07334",
+   "verdict": "ok",
+   "note": "Confirmed: India 84th (from 85th) with 55 destinations (57 in Oct 2025), 199 passports.",
+   "source_url": "https://www.businesstoday.in/nri/story/henley-passport-index-2026-indian-passport-climbs-to-84th-rank-visa-free-countries-falls-to-55-561651-2026-10-14"
+  },
+  {
+   "id": "afad350d72",
+   "verdict": "ok",
+   "note": "Confirmed: Singapore 193; Japan, South Korea, UAE 188; Sweden 187 (3rd).",
+   "source_url": "https://www.businesstoday.in/nri/story/top-10-strongest-passports-in-the-world-2026-singapore-leads-japan-and-uae-rank-second-561661-2026-10-15"
+  },
+  {
+   "id": "c1d2a2883c",
+   "verdict": "ok",
+   "note": "Confirmed: OECD Sept 2026 interim outlook raised India FY27 to 7.1% from 6.3%, FY28 6.5%.",
+   "source_url": "https://www.ibef.org/news/oecd-raises-india-s-fy27-gdp-growth-forecast-by-80-bps-to-7-1"
+  },
+  {
+   "id": "9180b633b2",
+   "verdict": "ok",
+   "note": "Confirmed: JCR upgraded India BBB+ to A- (stable) on 2 Sep 2026; S&P BBB (affirmed 2026), Moody's Baa3.",
+   "source_url": "https://newsonair.gov.in/indias-sovereign-credit-rating-upgraded-to-a-with-stable-outlook-by-japan-credit-rating-agency/"
+  },
+  {
+   "id": "29d829f055",
+   "verdict": "ok",
+   "note": "Confirmed: India 157th of 180 in RSF 2026 index, down from 151st.",
+   "source_url": "https://scroll.in/latest/1092488/india-ranks-157-out-of-180-countries-in-2026-world-press-freedom-index"
+  },
+  {
+   "id": "9e6a9cc2c6",
+   "verdict": "ok",
+   "note": "Confirmed: India 127th of 163, score 2.409; Iceland, New Zealand, Switzerland top; Russia last.",
+   "source_url": "https://www.drishtiias.com/state-pcs-current-affairs/global-peace-index-2026/print_manually"
+  },
+  {
+   "id": "3292844d81",
+   "verdict": "ok",
+   "note": "Confirmed: India 94th (best ever) from 99th, score 68.3; Finland, Sweden, Denmark top.",
+   "source_url": "https://www.downtoearth.org.in/governance/hamburg-sustainability-conference-india-climbs-to-its-highest-ever-rank-in-the-2026-un-sdg-index-but-hunger-remains-a-major-challenge"
+  },
+  {
+   "id": "5b74fa86be",
+   "verdict": "fix",
+   "note": "Rank confirmed, but the 'nine places' climb conflicts with the published 2024 rank (39th, i.e. eight places) and the 4.42 score could not be confirmed; corrected.",
+   "fix": {
+    "explanation": "India rose to 31st of 110 economies in the 2026 index, up from 39th in the 2024 edition. Japan topped the index, followed by the USA and Spain. The index is published by the World Economic Forum, based in Geneva. Source: WEF; Business Today, 26 Sep 2026."
+   },
+   "source_url": "https://www.weforum.org/publications/travel-tourism-development-index-2026"
+  },
+  {
+   "id": "3f223d7dbf",
+   "verdict": "ok",
+   "note": "Confirmed: IIT Delhi 118th (from 123rd), 52 Indian institutions, MIT first.",
+   "source_url": "https://newsonair.gov.in/iit-delhi-remains-indias-highest-ranked-institution-in-qs-world-university-rankings-2027/"
+  },
+  {
+   "id": "836d20e508",
+   "verdict": "ok",
+   "note": "Confirmed: UNEP released Emissions Gap Report 2026 on 21 Oct 2026; UNEP HQ Nairobi.",
+   "source_url": "https://unep.org/en/publications/report/emissions-gap-report-2026"
+  },
+  {
+   "id": "ce80044fff",
+   "verdict": "ok",
+   "note": "Confirmed: World Bank raised India FY27 forecast to 7.1% from 6.6% on 6 Oct 2026.",
+   "source_url": "https://timesofoman.com/article/177691-world-bank-hikes-india-fy27-growth-forecast-to-71-from-66-on-stronger-than-expected-activity"
+  },
+  {
+   "id": "1fb6cec4ea",
+   "verdict": "fix",
+   "note": "Forecast confirmed, but the month of the earlier 6.6% forecast ('July') could not be confirmed; removed and added confirmed details.",
+   "fix": {
+    "explanation": "ADB raised India's FY27 growth forecast to 7.0% from 6.6%, citing strong investment demand, resilient services exports and 7.8% growth in the first quarter. It trimmed its FY28 forecast to 7.1% from 7.3%. ADB is headquartered in Manila. Source: ADB Asian Development Outlook, Sep 2026; Free Press Journal, 23 Sep 2026."
+   },
+   "source_url": "https://www.freepressjournal.in/business/adb-raises-india-fy27-growth-forecast-to-7-on-strong-investment-services-export-growth"
+  },
+  {
+   "id": "3a21b0720e",
+   "verdict": "ok",
+   "note": "Confirmed: PM released Kovind's autobiography at Vigyan Bhavan on 12 Aug 2026.",
+   "source_url": "https://www.manoramayearbook.in/current-affairs/india/2026/08/12/ram-nath-kovind-autobiography-triumph-of-the-indian-republic.html"
+  },
+  {
+   "id": "57b3b1a134",
+   "verdict": "ok",
+   "note": "Confirmed: Shubhanshu Shukla's memoir published by Penguin in June 2026, released with Air Chief Marshal A. P. Singh.",
+   "source_url": "https://currentaffairs.adda247.com/the-second-orbit-belief-of-a-man-dreams-of-1-4-billion-hearts-memoir-released-by-air-chief-marshal-amar-preet-singh/"
+  },
+  {
+   "id": "7165d63439",
+   "verdict": "ok",
+   "note": "Confirmed: Sonia Gandhi's memoir 'Belonging: A Journey of Love' published by HarperCollins India on 10 Nov 2026.",
+   "source_url": "https://gulfnews.com/amp/story/world%2Fasia%2Findia%2Fsonia-gandhis-memoir-to-be-published-by-harpercollins-india-on-november-10-1.500663093"
+  },
+  {
+   "id": "53a6ee1273",
+   "verdict": "ok",
+   "note": "Confirmed: Norway first for the tenth year, followed by Netherlands and Estonia.",
+   "source_url": "https://scroll.in/latest/1092488/india-ranks-157-out-of-180-countries-in-2026-world-press-freedom-index"
+  },
+  {
+   "id": "d7e88859ef",
+   "verdict": "ok",
+   "note": "Confirmed: Global Peace Index published by IEP; 2026 is its 20th edition (first 2007).",
+   "source_url": "https://www.visionofhumanity.org/wp-content/uploads/2026/06/Global-Peace-Index-2026-Report.pdf"
+  },
+  {
+   "id": "bfe08eea2b",
+   "verdict": "ok",
+   "note": "Confirmed: India up two places to 70th in ETI 2026 (18 June 2026); Sweden first for third year, Finland and Denmark next.",
+   "source_url": "https://dailypioneer.com/news/india-emerges-top-global-energy-gainer-report"
+  },
+  {
+   "id": "3b6bdca227",
+   "verdict": "ok",
+   "note": "Confirmed: IISc 254th, Oxford first for 11th year, 2,297 universities ranked.",
+   "source_url": "https://www.thedailyjagran.com/education/news/the-world-university-rankings-2027-oxford-secures-top-spot-for-11th-straight-year-iisc-bengaluru-leads-india-at-254th-place-10331043"
+  },
+  {
+   "id": "ab7531a9d0",
+   "verdict": "ok",
+   "note": "Confirmed: Singapore first, Hong Kong second, Switzerland third in IMD WCR 2026 (70 economies).",
+   "source_url": "https://www.edb.gov.sg/en/about-edb/media-releases-publications/strong-institutions-drive-2026-imd-competitiveness-rankings.html"
+  },
+  {
+   "id": "7f81460d3f",
+   "verdict": "ok",
+   "note": "Confirmed: SIPRI Yearbook 2026 puts India at 190 warheads (180 a year earlier); world total 12,187.",
+   "source_url": "https://www.theweek.in/news/defence/2026/06/09/india-expands-nuclear-arsenal-to-190-warheads-deploys-some-for-first-time-sipri.html"
+  },
+  {
+   "id": "aac0cae479",
+   "verdict": "fix",
+   "note": "Answer confirmed (HDR 2025 remains latest until 1 Dec 2026), but the explanation carried a note about 'after the exam'; rewritten as plain facts.",
+   "fix": {
+    "explanation": "India is 130th with an HDI value of 0.685, in the 'medium human development' group; Iceland is first. The 2025 report, released on 6 May 2025, had the theme 'A matter of choice: People and possibilities in the age of AI'. UNDP has scheduled its 2026 report for release on 1 December 2026. Source: UNDP (hdr.undp.org), May 2025 and Nov 2026."
+   },
+   "source_url": "https://hdr.undp.org/content/2026-human-development-report-release-announcement"
+  },
+  {
+   "id": "b971abf39c",
+   "verdict": "ok",
+   "note": "Confirmed: Gujarat 56.6, Maharashtra 53.7, Tamil Nadu 53.3 in NITI Aayog IFI 2026 (17 July 2026).",
+   "source_url": "https://newsonair.gov.in/gujarat-tops-niti-aayogs-investment-friendliness-index-2026-as-best-place-to-attract-investment/"
+  },
+  {
+   "id": "f6066a9922",
+   "verdict": "fix",
+   "note": "Answer correct, but option B misnamed Dr Ambedkar as 'R. Ambedkar'; corrected.",
+   "fix": {
+    "options": [
+     "Jawaharlal Nehru",
+     "B. R. Ambedkar",
+     "Sardar Vallabhbhai Patel",
+     "Lal Bahadur Shastri"
+    ],
+    "answer": "C"
+   },
+   "source_url": "https://www.staffnews.in/2026/09/observance-of-vigilance-awareness-week-2026.html"
+  },
+  {
+   "id": "6b113ad7e1",
+   "verdict": "ok",
+   "note": "Confirmed: CVC Circular 05/09/26 of 18 Sep 2026 sets 'Probity for Prosperity' for VAW 26 Oct-1 Nov 2026.",
+   "source_url": "https://www.staffnews.in/2026/09/observance-of-vigilance-awareness-week-2026.html"
+  },
+  {
+   "id": "07e2bcd233",
+   "verdict": "ok",
+   "note": "Evergreen fact: Constitution Day 26 November, observed since 2015.",
+   "source_url": "https://en.wikipedia.org/wiki/Constitution_Day_(India)"
+  },
+  {
+   "id": "8a9467b985",
+   "verdict": "fix",
+   "note": "Answer correct, but the stem's 'UNESCO World Heritage Site since July 2026' clause is revealed by the stems of a83323f7ca and 93857b07cd; removed.",
+   "fix": {
+    "q": "India's State Emblem is adapted from the Lion Capital of Ashoka found at which place?"
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Lion_Capital_of_Ashoka"
+  },
+  {
+   "id": "a72c9e4edf",
+   "verdict": "fix",
+   "note": "Answer correct; the 16th Finance Commission has already submitted its report, so 'is chaired' corrected to 'was chaired'.",
+   "fix": {
+    "explanation": "Article 280 provides for the Finance Commission, which the President constitutes every five years or earlier; the 16th Finance Commission was chaired by Arvind Panagariya. Article 243-I covers State Finance Commissions, Article 112 the Budget, Article 148 the CAG and Article 324 the Election Commission. Source: Constitution of India (Legislative Department), read Nov 2026."
+   },
+   "source_url": "https://legislative.gov.in/constitution-of-india/"
+  },
+  {
+   "id": "ae9b5ef3bf",
+   "verdict": "ok",
+   "note": "Evergreen fact: World Savings Day 31 October, set up at the 1st International Savings Bank Congress, Milan, 1924.",
+   "source_url": "https://en.wikipedia.org/wiki/World_Savings_Day"
+  },
+  {
+   "id": "3f7689b766",
+   "verdict": "ok",
+   "note": "Confirmed on FAO pages: World Food Day 2026 theme 'Innovate today. Nourish tomorrow.'",
+   "source_url": "https://www.fao.org/webcast/detail/world-food-day-ceremony/en"
+  },
+  {
+   "id": "6f5bf560f5",
+   "verdict": "ok",
+   "note": "Evergreen fact: UN Day 24 October.",
+   "source_url": "https://www.un.org/en/observances/un-day"
+  },
+  {
+   "id": "f7c845468c",
+   "verdict": "ok",
+   "note": "Evergreen fact: National Education Day 11 Nov, Maulana Azad, since 2008.",
+   "source_url": "https://en.wikipedia.org/wiki/National_Education_Day_(India)"
+  },
+  {
+   "id": "3a7d148a80",
+   "verdict": "ok",
+   "note": "Evergreen fact: National Milk Day 26 Nov, Verghese Kurien (born 26 Nov 1921, Kozhikode).",
+   "source_url": "https://en.wikipedia.org/wiki/Verghese_Kurien"
+  },
+  {
+   "id": "7451bc26c3",
+   "verdict": "ok",
+   "note": "Confirmed: Justice Surya Kant, 53rd CJI since 24 Nov 2025, in office until Feb 2027.",
+   "source_url": "https://en.wikipedia.org/wiki/Chief_Justice_of_India"
+  },
+  {
+   "id": "d6d8d47f63",
+   "verdict": "ok",
+   "note": "Confirmed: K. Sanjay Murthy in office since 21 Nov 2024 and addressed Audit Diwas on 16 Nov 2026.",
+   "source_url": "https://cag.gov.in/en/cag-of-india"
+  },
+  {
+   "id": "e3749af76e",
+   "verdict": "ok",
+   "note": "Evergreen fact: UN declared 2026 the International Year of the Woman Farmer; other options were 2023 and 2025 years.",
+   "source_url": "https://www.fao.org/international-year-of-the-woman-farmer/en"
+  },
+  {
+   "id": "42138483b1",
+   "verdict": "drop",
+   "note": "Stem names Bishkek as the 26th SCO summit venue, giving away the answer to aa45ce7a17; a weak static capital question."
+  },
+  {
+   "id": "994ecc25af",
+   "verdict": "drop",
+   "note": "Stem says the Philippines hosted the ASEAN-India summit in Manila, giving away the answer to d8995156ab; a weak static currency question."
+  },
+  {
+   "id": "972c3606a6",
+   "verdict": "drop",
+   "note": "Stem names Antalya as the COP31 venue, giving away the answer to 1688e35871; a weak static capital question."
+  }
+ ]
+}

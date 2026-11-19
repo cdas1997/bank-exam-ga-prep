@@ -1,0 +1,1104 @@
+{
+ "batches": [
+  {
+   "key": "bf-digital",
+   "name": "Digital banking & NPCI",
+   "questions": [
+    {
+     "q": "NACH, operated by NPCI, is mainly used for which kind of payments?",
+     "options": [
+      "Bulk and repetitive payments such as salaries, pensions and EMIs",
+      "High-value real-time gross settlement",
+      "Cash withdrawals at micro-ATMs",
+      "Card payments at shops"
+     ],
+     "answer": "A",
+     "explanation": "The National Automated Clearing House (NACH) handles bulk, repetitive credits and debits such as salaries, pensions, subsidies, SIPs and EMIs. It replaced ECS and is run by NPCI. Source: NPCI, product description.",
+     "likely": 5,
+     "fact": "NACH is NPCI's system for bulk and repetitive payments.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/National_Automated_Clearing_House",
+     "confidence": "high"
+    },
+    {
+     "q": "As per NPCI data, UPI recorded its highest-ever monthly volume in October 2026. How many transactions did it process?",
+     "options": [
+      "24.07 billion",
+      "24.51 billion",
+      "25.47 billion",
+      "26.14 billion"
+     ],
+     "answer": "C",
+     "explanation": "UPI processed a record 25.47 billion transactions in October 2026, up 23% from a year earlier. September 2026 had 24.07 billion and August 2026 had 24.51 billion. Source: Free Press Journal (NPCI data), 2 Nov 2026.",
+     "likely": 5,
+     "fact": "UPI processed a record 25.47 billion transactions in October 2026.",
+     "event_date": "2026-10",
+     "kind": "news",
+     "source_url": "https://www.freepressjournal.in/business/upi-transactions-hit-2547-billion-in-october-value-soars-to-3153-lakh-crore",
+     "confidence": "high"
+    },
+    {
+     "q": "What was the total value of UPI transactions in October 2026, the first month in which the average daily value crossed Rs 1 lakh crore?",
+     "options": [
+      "Rs 29.37 lakh crore",
+      "Rs 29.82 lakh crore",
+      "Rs 29.90 lakh crore",
+      "Rs 31.53 lakh crore"
+     ],
+     "answer": "D",
+     "explanation": "UPI transactions were worth Rs 31.53 lakh crore in October 2026, with an average daily value of about Rs 1.02 lakh crore. September 2026 was Rs 29.37 lakh crore. Source: Free Press Journal (NPCI data), 2 Nov 2026.",
+     "likely": 5,
+     "fact": "UPI transaction value in October 2026 was Rs 31.53 lakh crore.",
+     "event_date": "2026-10",
+     "kind": "news",
+     "source_url": "https://www.freepressjournal.in/business/upi-transactions-hit-2547-billion-in-october-value-soars-to-3153-lakh-crore",
+     "confidence": "high"
+    },
+    {
+     "q": "NPCI's proposed Merchant Discount Rate (MDR) on eligible person-to-merchant UPI payments above Rs 2,000, deferred in October 2026, is set at what rate?",
+     "options": [
+      "0.2%",
+      "0.3%",
+      "0.4%",
+      "0.5%"
+     ],
+     "answer": "C",
+     "explanation": "NPCI announced a 0.4% MDR on eligible P2M UPI payments above Rs 2,000, due from 15 October 2026, then deferred it on 13 October to after Diwali. As of mid-November 2026 no start date had been notified, so check for an update. P2P transfers stay free. Source: News On AIR, 15 Oct 2026.",
+     "likely": 5,
+     "fact": "The proposed UPI MDR is 0.4% on eligible P2M payments above Rs 2,000.",
+     "event_date": "2026-10-13",
+     "kind": "news",
+     "source_url": "https://newsonair.gov.in/npci-postpones-implementation-of-mdr-on-select-person-to-merchant-upi-transactions/",
+     "confidence": "high"
+    },
+    {
+     "q": "Under the RBI's digital fraud compensation framework issued on 24 June 2026, a victim of a small-value digital fraud (loss up to Rs 50,000) gets how much?",
+     "options": [
+      "100% of the loss",
+      "85% of the net loss or Rs 25,000, whichever is lower",
+      "75% of the net loss or Rs 30,000, whichever is lower",
+      "50% of the net loss or Rs 20,000, whichever is lower"
+     ],
+     "answer": "B",
+     "explanation": "Compensation is 85% of the net loss or Rs 25,000, whichever is lower, once in a lifetime. The framework applies from 1 January 2027 and the fraud must be reported within 5 calendar days. Source: RBI (Responsible Business Conduct Third Amendment Directions), 24 Jun 2026.",
+     "likely": 5,
+     "fact": "RBI's framework pays 85% of net loss or Rs 25,000, whichever is lower, for digital frauds up to Rs 50,000.",
+     "event_date": "2026-06-24",
+     "kind": "news",
+     "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13543&Mode=0",
+     "confidence": "high"
+    },
+    {
+     "q": "What is the minimum amount that can be sent through RTGS?",
+     "options": [
+      "Rs 1 lakh",
+      "Rs 2 lakh",
+      "Rs 5 lakh",
+      "Rs 50,000"
+     ],
+     "answer": "B",
+     "explanation": "The RTGS minimum is Rs 2,00,000 with no upper limit. RTGS is run by the RBI and has been available 24x7 since 14 December 2020. Source: RBI FAQ on RTGS, 14 Oct 2026.",
+     "likely": 5,
+     "fact": "The minimum RTGS amount is Rs 2 lakh.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/Scripts/FAQView.aspx?Id=65",
+     "confidence": "high"
+    },
+    {
+     "q": "The IFSC used for NEFT and RTGS transfers has how many characters?",
+     "options": [
+      "9",
+      "10",
+      "11",
+      "12"
+     ],
+     "answer": "C",
+     "explanation": "The IFSC is an 11-character code: the first four letters show the bank, the fifth is zero and the last six show the branch. The MICR code has 9 digits. Source: RBI FAQ on NEFT, 2 Sep 2024.",
+     "likely": 5,
+     "fact": "The IFSC has 11 characters.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/Scripts/FAQView.aspx?Id=60",
+     "confidence": "high"
+    },
+    {
+     "q": "Which number is the national helpline for reporting cyber financial fraud in India?",
+     "options": [
+      "1930",
+      "1947",
+      "14444",
+      "155260"
+     ],
+     "answer": "A",
+     "explanation": "1930 is the national cyber crime helpline, run by the Home Ministry's I4C along with the portal cybercrime.gov.in. 155260 was the earlier number and 14444 is the DigiSaathi payments helpline. Source: Ministry of Home Affairs (I4C).",
+     "likely": 5,
+     "fact": "1930 is the national cyber crime helpline.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Indian_Cyber_Crime_Coordination_Centre",
+     "confidence": "high"
+    },
+    {
+     "q": "NPCI was set up in 2008 as an initiative of the Reserve Bank of India and which other body?",
+     "options": [
+      "Indian Banks' Association (IBA)",
+      "NABARD",
+      "Securities and Exchange Board of India",
+      "Institute for Development and Research in Banking Technology"
+     ],
+     "answer": "A",
+     "explanation": "NPCI was founded in December 2008 by the RBI and the Indian Banks' Association under the Payment and Settlement Systems Act, 2007. It is headquartered in Mumbai. Source: Wikipedia (NPCI).",
+     "likely": 5,
+     "fact": "NPCI was set up by the RBI and the IBA in 2008.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/National_Payments_Corporation_of_India",
+     "confidence": "high"
+    },
+    {
+     "q": "In August 2026, NPCI International signed a pact so that Indian travellers can pay by UPI through the HUMO payment system. HUMO belongs to which country?",
+     "options": [
+      "Kazakhstan",
+      "Uzbekistan",
+      "Kyrgyzstan",
+      "Tajikistan"
+     ],
+     "answer": "B",
+     "explanation": "NIPL signed with Uzbekistan's National Interbank Processing Centre, operator of HUMO, on 30 August 2026 so UPI apps can scan UZQR codes. It is UPI's first entry into Central Asia. Source: Adda247 / Finance Ministry, 1 Sep 2026.",
+     "likely": 4,
+     "fact": "HUMO, linked with UPI in August 2026, is Uzbekistan's payment system.",
+     "event_date": "2026-08-30",
+     "kind": "news",
+     "source_url": "https://currentaffairs.adda247.com/upi-payments-enabled-across-uzbekistan-through-national-uzqr/",
+     "confidence": "high"
+    },
+    {
+     "q": "The proposed MDR on UPI merchant payments is capped at what amount per transaction?",
+     "options": [
+      "Rs 100",
+      "Rs 200",
+      "Rs 300",
+      "Rs 500"
+     ],
+     "answer": "C",
+     "explanation": "The 0.4% MDR is capped at Rs 300 per transaction, reached at Rs 75,000 and above. Small merchants receiving up to Rs 1 lakh a month by UPI QR are exempt. The start date was still not notified in mid-November 2026. Source: Inc42, 12 Nov 2026.",
+     "likely": 4,
+     "fact": "The proposed UPI MDR is capped at Rs 300 per transaction.",
+     "event_date": "2026-09-15",
+     "kind": "news",
+     "source_url": "https://inc42.com/buzz/npci-unveils-new-mdr-funded-scheme-to-promote-upi-among-small-merchants/",
+     "confidence": "high"
+    },
+    {
+     "q": "A UTR number for an RTGS transaction has how many characters?",
+     "options": [
+      "12",
+      "16",
+      "20",
+      "22"
+     ],
+     "answer": "D",
+     "explanation": "An RTGS Unique Transaction Reference has 22 characters. A NEFT reference has 16 characters. Source: RBI FAQ on RTGS, 14 Oct 2026.",
+     "likely": 4,
+     "fact": "An RTGS UTR has 22 characters.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/Scripts/FAQView.aspx?Id=65",
+     "confidence": "high"
+    },
+    {
+     "q": "UPI Tap & Pay, launched at Global Fintech Fest 2026 in September 2026, works on which technology?",
+     "options": [
+      "Bluetooth Low Energy",
+      "Near Field Communication (NFC)",
+      "USSD",
+      "QR code scanning"
+     ],
+     "answer": "B",
+     "explanation": "UPI Tap & Pay uses NFC between the phone and a POS terminal. Payments below Rs 5,000 need no PIN. MyUPI, an AI help platform, was launched alongside. Source: Adda247, 11 Sep 2026.",
+     "likely": 4,
+     "fact": "UPI Tap & Pay uses NFC technology.",
+     "event_date": "2026-09-10",
+     "kind": "news",
+     "source_url": "https://currentaffairs.adda247.com/upi-gets-tap-to-pay-and-unified-transaction-view-features/",
+     "confidence": "medium"
+    },
+    {
+     "q": "In which year was UPI launched by NPCI?",
+     "options": [
+      "2014",
+      "2015",
+      "2016",
+      "2017"
+     ],
+     "answer": "C",
+     "explanation": "UPI was launched in 2016 (pilot on 11 April 2016, public rollout from 25 August 2016) with 21 banks, and completed 10 years in 2026. Source: Adda247, 25 Aug 2026.",
+     "likely": 4,
+     "fact": "UPI was launched in 2016.",
+     "event_date": "static",
+     "kind": "news-static",
+     "source_url": "https://currentaffairs.adda247.com/upi-completes-10-years-key-milestones-statistics-global-reach-and-whats-next/",
+     "confidence": "high"
+    },
+    {
+     "q": "The RBI regulates payment systems such as UPI, NEFT and RTGS under which Act?",
+     "options": [
+      "Banking Regulation Act, 1949",
+      "Payment and Settlement Systems Act, 2007",
+      "Information Technology Act, 2000",
+      "Negotiable Instruments Act, 1881"
+     ],
+     "answer": "B",
+     "explanation": "The Payment and Settlement Systems Act, 2007 gives the RBI power to regulate payment systems, and NPCI was formed under its provisions. The UPI MDR framework of 2026 is also based on this Act. Source: Wikipedia (NPCI) / Adda247, 16 Sep 2026.",
+     "likely": 4,
+     "fact": "Payment systems are regulated under the Payment and Settlement Systems Act, 2007.",
+     "event_date": "static",
+     "kind": "news-static",
+     "source_url": "https://en.wikipedia.org/wiki/National_Payments_Corporation_of_India",
+     "confidence": "high"
+    },
+    {
+     "q": "What is the per-transaction limit for IMPS?",
+     "options": [
+      "Rs 1 lakh",
+      "Rs 2 lakh",
+      "Rs 5 lakh",
+      "Rs 10 lakh"
+     ],
+     "answer": "C",
+     "explanation": "The IMPS limit was raised from Rs 2 lakh to Rs 5 lakh in October 2021. IMPS was launched by NPCI on 22 November 2010 and works 24x7. Source: RBI, Oct 2021 / Wikipedia (IMPS).",
+     "likely": 4,
+     "fact": "The IMPS per-transaction limit is Rs 5 lakh.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Since which date has NEFT been available round the clock, 24x7?",
+     "options": [
+      "16 December 2019",
+      "14 December 2020",
+      "1 July 2019",
+      "1 January 2021"
+     ],
+     "answer": "A",
+     "explanation": "NEFT became 24x7 on 16 December 2019 and settles in half-hourly batches. RTGS became 24x7 on 14 December 2020. Source: Wikipedia (NEFT) / RBI FAQ.",
+     "likely": 4,
+     "fact": "NEFT has been 24x7 since 16 December 2019.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/National_Electronic_Funds_Transfer",
+     "confidence": "high"
+    },
+    {
+     "q": "NPCI is registered as which type of company?",
+     "options": [
+      "Section 8 (not-for-profit) company",
+      "Government company under Section 2(45)",
+      "Statutory corporation",
+      "Non-banking financial company"
+     ],
+     "answer": "A",
+     "explanation": "NPCI is a not-for-profit company under Section 8 of the Companies Act, 2013 (earlier Section 25 of the 1956 Act). Its subsidiaries are NIPL, NBBL, NBSL and NTSL. Source: Wikipedia (NPCI).",
+     "likely": 4,
+     "fact": "NPCI is a Section 8 not-for-profit company.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/National_Payments_Corporation_of_India",
+     "confidence": "high"
+    },
+    {
+     "q": "What is the maximum balance that can be kept in a UPI Lite wallet?",
+     "options": [
+      "Rs 1,000",
+      "Rs 2,000",
+      "Rs 5,000",
+      "Rs 10,000"
+     ],
+     "answer": "C",
+     "explanation": "The UPI Lite wallet limit was raised from Rs 2,000 to Rs 5,000, and each PIN-less payment can be up to Rs 1,000. UPI 123PAY is the UPI service for feature phones. Source: Wikipedia (UPI) / RBI, Dec 2024.",
+     "likely": 4,
+     "fact": "The UPI Lite wallet limit is Rs 5,000.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Unified_Payments_Interface",
+     "confidence": "medium"
+    },
+    {
+     "q": "In October 2026, the RBI excluded Paytm Payments Bank from which Schedule of the RBI Act, 1934, which lists scheduled banks?",
+     "options": [
+      "First Schedule",
+      "Second Schedule",
+      "Third Schedule",
+      "Fifth Schedule"
+     ],
+     "answer": "B",
+     "explanation": "Scheduled banks are listed in the Second Schedule of the RBI Act, 1934. The RBI cancelled Paytm Payments Bank's licence from 24 April 2026 and the Delhi High Court ordered its winding up in July 2026. Source: Adda247, 8 Oct 2026.",
+     "likely": 4,
+     "fact": "Paytm Payments Bank was removed from the Second Schedule of the RBI Act, 1934.",
+     "event_date": "2026-10",
+     "kind": "news",
+     "source_url": "https://currentaffairs.adda247.com/rbi-removes-paytm-payments-bank-from-list-of-scheduled-banks/",
+     "confidence": "medium"
+    },
+    {
+     "q": "In which year was the RuPay card network launched by NPCI?",
+     "options": [
+      "2008",
+      "2010",
+      "2012",
+      "2016"
+     ],
+     "answer": "C",
+     "explanation": "RuPay, India's own card network, was launched on 26 March 2012 and dedicated to the nation in May 2014. IMPS came in 2010 and UPI in 2016. Source: Wikipedia (RuPay).",
+     "likely": 4,
+     "fact": "RuPay was launched in 2012.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/RuPay",
+     "confidence": "high"
+    },
+    {
+     "q": "The Bharat Bill Payment System (BBPS) is now known by which name?",
+     "options": [
+      "Bharat Connect",
+      "Bharat Pay",
+      "BHIM Bills",
+      "Bill Setu"
+     ],
+     "answer": "A",
+     "explanation": "BBPS was renamed Bharat Connect in 2024. It is run by NPCI Bharat BillPay Ltd (NBBL), an NPCI subsidiary. In September 2026 multi-currency forex was added on it. Source: Adda247, 11 Sep 2026.",
+     "likely": 4,
+     "fact": "BBPS is now called Bharat Connect.",
+     "event_date": "static",
+     "kind": "news-static",
+     "source_url": "https://currentaffairs.adda247.com/upi-gets-tap-to-pay-and-unified-transaction-view-features/",
+     "confidence": "high"
+    },
+    {
+     "q": "How many digits does the MICR code printed on a cheque have?",
+     "options": [
+      "7",
+      "9",
+      "11",
+      "13"
+     ],
+     "answer": "B",
+     "explanation": "The MICR (Magnetic Ink Character Recognition) code has 9 digits showing city, bank and branch. The IFSC has 11 characters. Source: RBI.",
+     "likely": 4,
+     "fact": "The MICR code has 9 digits.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/",
+     "confidence": "medium"
+    },
+    {
+     "q": "The RBI started the pilot of the retail Digital Rupee (e-Rupee Retail) on which date?",
+     "options": [
+      "1 November 2022",
+      "1 December 2022",
+      "1 April 2023",
+      "1 July 2022"
+     ],
+     "answer": "B",
+     "explanation": "The retail e-Rupee pilot began on 1 December 2022. The wholesale pilot began on 1 November 2022. The e-Rupee is India's CBDC and is issued by the RBI. Source: Wikipedia (Digital rupee) / RBI, Nov 2022.",
+     "likely": 4,
+     "fact": "The retail e-Rupee pilot began on 1 December 2022.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Digital_rupee",
+     "confidence": "high"
+    },
+    {
+     "q": "What is the maximum outstanding balance allowed in a full-KYC prepaid payment instrument (PPI) such as a wallet?",
+     "options": [
+      "Rs 10,000",
+      "Rs 50,000",
+      "Rs 1 lakh",
+      "Rs 2 lakh"
+     ],
+     "answer": "D",
+     "explanation": "A full-KYC PPI can hold up to Rs 2,00,000 at any time. A small PPI can hold up to Rs 10,000. Source: RBI FAQ on PPIs, 22 Nov 2022.",
+     "likely": 4,
+     "fact": "A full-KYC PPI can hold up to Rs 2 lakh.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.rbi.org.in/Scripts/FAQView.aspx?Id=126",
+     "confidence": "high"
+    },
+    {
+     "q": "What is the base period of the RBI's Digital Payments Index (RBI-DPI)?",
+     "options": [
+      "March 2016",
+      "March 2018",
+      "March 2020",
+      "April 2021"
+     ],
+     "answer": "B",
+     "explanation": "RBI-DPI has March 2018 as its base (100) and is published for March and September. It stood at 516.76 for September 2025 (announced 12 February 2026), up from 493.22 for March 2025. Source: RBI press release, 12 Feb 2026.",
+     "likely": 4,
+     "fact": "The RBI-DPI base period is March 2018.",
+     "event_date": "static",
+     "kind": "news-static",
+     "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62213",
+     "confidence": "high"
+    },
+    {
+     "q": "Which was the first country outside India to accept UPI payments through the BHIM app, in July 2021?",
+     "options": [
+      "Nepal",
+      "Bhutan",
+      "Singapore",
+      "United Arab Emirates"
+     ],
+     "answer": "B",
+     "explanation": "Bhutan accepted BHIM UPI from 13 July 2021 through its Royal Monetary Authority. France (Eiffel Tower) followed in February 2024 as the first in Europe, and Cambodia went live on 2 June 2026. Source: Wikipedia (UPI).",
+     "likely": 4,
+     "fact": "Bhutan was the first country to accept UPI.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Unified_Payments_Interface",
+     "confidence": "high"
+    },
+    {
+     "q": "The 'UPI Vyapaar Saksham Scheme', issued through a circular dated 11 November 2026 to expand UPI acceptance among small merchants, is a scheme of which organisation?",
+     "options": [
+      "Reserve Bank of India",
+      "NPCI",
+      "SIDBI",
+      "Ministry of MSME"
+     ],
+     "answer": "B",
+     "explanation": "NPCI's UPI Vyapaar Saksham Scheme will fund QR codes and soundboxes for small merchants from 5% of MDR collections, for three years from the start of UPI MDR. Source: Inc42, 12 Nov 2026.",
+     "likely": 3,
+     "fact": "NPCI introduced the UPI Vyapaar Saksham Scheme in November 2026.",
+     "event_date": "2026-11-11",
+     "kind": "news",
+     "source_url": "https://inc42.com/buzz/npci-unveils-new-mdr-funded-scheme-to-promote-upi-among-small-merchants/",
+     "confidence": "medium"
+    },
+    {
+     "q": "In November 2026, NPCI announced its fourth wholly owned subsidiary, focused on AI, blockchain and digital public infrastructure. What is it called?",
+     "options": [
+      "NPCI Tech Solutions Ltd (NTSL)",
+      "NPCI Credit Services Ltd",
+      "NPCI Digital Labs Ltd",
+      "NPCI Data Services Ltd"
+     ],
+     "answer": "A",
+     "explanation": "NPCI Tech Solutions Ltd (NTSL) joins NIPL (international), NBBL (bill payments) and NBSL (BHIM app). Source: Inc42, 4 Nov 2026.",
+     "likely": 3,
+     "fact": "NPCI's fourth subsidiary is NPCI Tech Solutions Ltd (NTSL).",
+     "event_date": "2026-11-04",
+     "kind": "news",
+     "source_url": "https://inc42.com/buzz/npci-expands-beyond-payments-with-ai-blockchain-focused-subsidiary/",
+     "confidence": "high"
+    },
+    {
+     "q": "In October 2026, the Prime Minister inaugurated an RBI Data Centre and Cybersecurity Training Institute in which state?",
+     "options": [
+      "Odisha",
+      "Telangana",
+      "Gujarat",
+      "Karnataka"
+     ],
+     "answer": "A",
+     "explanation": "The facilities at Bhubaneswar, Odisha were inaugurated on 25 October 2026; the data centre will support RTGS and NEFT. Source: Adda247, 26 Oct 2026.",
+     "likely": 3,
+     "fact": "The RBI Data Centre and Cybersecurity Training Institute inaugurated in October 2026 is in Odisha.",
+     "event_date": "2026-10",
+     "kind": "news",
+     "source_url": "https://currentaffairs.adda247.com/pm-modi-inaugurates-rbi-data-centre-and-cybersecurity-training-institute-in-odisha/",
+     "confidence": "medium"
+    },
+    {
+     "q": "What is the per-transaction limit for UPI 123PAY, the UPI service for feature-phone users?",
+     "options": [
+      "Rs 2,000",
+      "Rs 5,000",
+      "Rs 10,000",
+      "Rs 1 lakh"
+     ],
+     "answer": "C",
+     "explanation": "The RBI raised the UPI 123PAY limit from Rs 5,000 to Rs 10,000 in October 2024. It works through IVR calls, missed calls and sound-based payments, without internet. Source: Wikipedia (UPI) / RBI, 9 Oct 2024.",
+     "likely": 3,
+     "fact": "The UPI 123PAY limit is Rs 10,000 per transaction.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Unified_Payments_Interface",
+     "confidence": "high"
+    },
+    {
+     "q": "In June 2026, UPI acceptance went live in Cambodia. Indian travellers pay there by scanning which national QR code?",
+     "options": [
+      "KHQR",
+      "QRIS",
+      "PromptPay",
+      "DuitNow"
+     ],
+     "answer": "A",
+     "explanation": "UPI apps can scan Cambodia's KHQR codes through NIPL's tie-up with ACLEDA Bank. QRIS is Indonesia's, PromptPay Thailand's and DuitNow Malaysia's. Source: Wikipedia (UPI) / NPCI, 2 Jun 2026.",
+     "likely": 3,
+     "fact": "UPI works in Cambodia through the KHQR code.",
+     "event_date": "2026-06-02",
+     "kind": "news",
+     "source_url": "https://en.wikipedia.org/wiki/Unified_Payments_Interface",
+     "confidence": "high"
+    }
+   ]
+  },
+  {
+   "key": "bf-regulators",
+   "name": "Financial institutions & regulators",
+   "questions": [
+    {
+     "q": "Which body regulates credit rating agencies in India?",
+     "options": [
+      "Reserve Bank of India",
+      "SEBI",
+      "Ministry of Finance",
+      "IRDAI"
+     ],
+     "answer": "B",
+     "explanation": "SEBI regulates credit rating agencies under the SEBI (Credit Rating Agencies) Regulations, 1999. CRISIL, set up in 1987, was India's first rating agency. Source: SEBI regulations list.",
+     "likely": 5,
+     "fact": "SEBI regulates credit rating agencies.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.sebi.gov.in/sebiweb/home/HomeAction.do?doListing=yes&sid=1&ssid=3&smid=0",
+     "confidence": "high"
+    },
+    {
+     "q": "Mutual funds in India are regulated by which body?",
+     "options": [
+      "Reserve Bank of India",
+      "AMFI",
+      "SEBI",
+      "Ministry of Corporate Affairs"
+     ],
+     "answer": "C",
+     "explanation": "SEBI regulates mutual funds; its new SEBI (Mutual Funds) Regulations, 2026 took effect on 1 April 2026. AMFI is only the industry association. Source: SEBI (Mutual Funds) Regulations, 2026.",
+     "likely": 5,
+     "fact": "SEBI regulates mutual funds.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-mutual-funds-regulations-2026-last-amended-on-october-10-2026-_105356.html",
+     "confidence": "high"
+    },
+    {
+     "q": "The National Stock Exchange (NSE) was set up on the recommendation of which committee?",
+     "options": [
+      "Pherwani Committee",
+      "Malhotra Committee",
+      "Narasimham Committee",
+      "Kelkar Committee"
+     ],
+     "answer": "A",
+     "explanation": "The Pherwani Committee (1991) recommended a national stock exchange; NSE was incorporated in 1992 and began trading in 1994. BSE, set up in 1875, is Asia's oldest exchange. Source: Wikipedia (NSE).",
+     "likely": 5,
+     "fact": "NSE was set up on the Pherwani Committee's recommendation.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/National_Stock_Exchange_of_India",
+     "confidence": "high"
+    },
+    {
+     "q": "Who is the Chairman and Managing Director of SIDBI?",
+     "options": [
+      "Manoj Mittal",
+      "Shaji K. V.",
+      "Sivasubramanian Ramann",
+      "Sanjay Shukla"
+     ],
+     "answer": "A",
+     "explanation": "Manoj Mittal is CMD of SIDBI, which was set up on 2 April 1990 and is headquartered in Lucknow. Shaji K. V. heads NABARD. Source: SIDBI website, Nov 2026.",
+     "likely": 5,
+     "fact": "Manoj Mittal is the CMD of SIDBI.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.sidbi.in/en/about",
+     "confidence": "high"
+    },
+    {
+     "q": "The Financial Intelligence Unit-India (FIU-IND) works under which department of the Ministry of Finance?",
+     "options": [
+      "Department of Revenue",
+      "Department of Economic Affairs",
+      "Department of Financial Services",
+      "Department of Expenditure"
+     ],
+     "answer": "A",
+     "explanation": "FIU-IND, set up in November 2004, is under the Department of Revenue and reports to the Economic Intelligence Council headed by the Finance Minister. IRS officer Satya Pal Kumar was reported as its new Director in July 2026. Source: Wikipedia (FIU-IND) / Adda247, 25 Jul 2026.",
+     "likely": 5,
+     "fact": "FIU-IND is under the Department of Revenue, Ministry of Finance.",
+     "event_date": "static",
+     "kind": "news-static",
+     "source_url": "https://en.wikipedia.org/wiki/Financial_Intelligence_Unit_(India)",
+     "confidence": "medium"
+    },
+    {
+     "q": "Which body recommends Minimum Support Prices (MSP) to the Government?",
+     "options": [
+      "NITI Aayog",
+      "Food Corporation of India",
+      "Commission for Agricultural Costs and Prices (CACP)",
+      "NABARD"
+     ],
+     "answer": "C",
+     "explanation": "CACP recommends MSPs and the Cabinet Committee on Economic Affairs (CCEA) approves them. CACP is under the Ministry of Agriculture and Farmers Welfare. Source: Wikipedia (CACP).",
+     "likely": 5,
+     "fact": "CACP recommends MSP.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Commission_for_Agricultural_Costs_and_Prices",
+     "confidence": "high"
+    },
+    {
+     "q": "Who is the Chairman of SEBI?",
+     "options": [
+      "Tuhin Kanta Pandey",
+      "Ajay Seth",
+      "Madhabi Puri Buch",
+      "Sanjay Malhotra"
+     ],
+     "answer": "A",
+     "explanation": "Tuhin Kanta Pandey has been SEBI Chairman since 1 March 2025, succeeding Madhabi Puri Buch. SEBI is headquartered in Mumbai. Source: SEBI website, Nov 2026.",
+     "likely": 5,
+     "fact": "Tuhin Kanta Pandey is the SEBI Chairman.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.sebi.gov.in/sebiweb/boardmember/BoardMemberAction.do?doBoardMember=yes",
+     "confidence": "high"
+    },
+    {
+     "q": "What is the ownership pattern of a Regional Rural Bank among the Central Government, the State Government and the sponsor bank?",
+     "options": [
+      "50:15:35",
+      "50:35:15",
+      "51:15:34",
+      "40:20:40"
+     ],
+     "answer": "A",
+     "explanation": "RRBs are owned 50% by the Centre, 15% by the State and 35% by the sponsor bank. They were set up from 2 October 1975 under the RRB Act, 1976. Source: Wikipedia (Regional rural bank).",
+     "likely": 5,
+     "fact": "RRB ownership is 50:15:35 (Centre:State:sponsor bank).",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Regional_rural_bank",
+     "confidence": "high"
+    },
+    {
+     "q": "After the 'One State, One RRB' amalgamation effective 1 May 2025, how many Regional Rural Banks does India have?",
+     "options": [
+      "43",
+      "38",
+      "28",
+      "21"
+     ],
+     "answer": "C",
+     "explanation": "The number of RRBs fell from 43 to 28 when 26 RRBs in 10 states were merged into 11. Source: Wikipedia (Regional rural bank) / Finance Ministry, Apr 2025.",
+     "likely": 5,
+     "fact": "India has 28 RRBs after the One State One RRB merger.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Regional_rural_bank",
+     "confidence": "high"
+    },
+    {
+     "q": "At its board meeting on 24 September 2026, SEBI approved the SEBI (Portfolio Managers) Regulations, 2026. They replace the regulations of which year?",
+     "options": [
+      "1993",
+      "2012",
+      "2020",
+      "2023"
+     ],
+     "answer": "C",
+     "explanation": "The 2026 regulations supersede the SEBI (Portfolio Managers) Regulations, 2020 and take effect on 1 April 2027. This was SEBI's 215th board meeting, held in Mumbai. Source: SEBI PR 59/2026, 24 Sep 2026.",
+     "likely": 4,
+     "fact": "SEBI's Portfolio Managers Regulations, 2026 replace the 2020 regulations.",
+     "event_date": "2026-09-24",
+     "kind": "news",
+     "source_url": "https://www.sebi.gov.in/media-and-notifications/press-releases/sep-2026/key-decisions-taken-in-the-sebi-board-meeting-dated-24th-september-2026_104725.html",
+     "confidence": "high"
+    },
+    {
+     "q": "Under SEBI rules, what is the minimum investment a client must make with a portfolio manager (PMS)?",
+     "options": [
+      "Rs 10 lakh",
+      "Rs 25 lakh",
+      "Rs 50 lakh",
+      "Rs 1 crore"
+     ],
+     "answer": "C",
+     "explanation": "The PMS minimum is Rs 50 lakh per client, kept in the 2026 regulations. The new PRIM route for mutual fund units has a Rs 25 lakh minimum. Source: SEBI (Portfolio Managers) Regulations, 2026, 7 Oct 2026.",
+     "likely": 4,
+     "fact": "The PMS minimum investment is Rs 50 lakh per client.",
+     "event_date": "2026-10-07",
+     "kind": "news-static",
+     "source_url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-portfolio-managers-regulations-2026-with-effect-from-april-1-2027-_105159.html",
+     "confidence": "high"
+    },
+    {
+     "q": "NABARD was set up in 1982 on the recommendation of which committee?",
+     "options": [
+      "B. Sivaraman Committee (CRAFICARD)",
+      "Narasimham Committee",
+      "Khusro Committee",
+      "Nachiket Mor Committee"
+     ],
+     "answer": "A",
+     "explanation": "NABARD was set up on 12 July 1982 under the NABARD Act, 1981, on the recommendation of CRAFICARD headed by B. Sivaraman. Its Chairman is Shaji K. V. Source: NABARD.",
+     "likely": 4,
+     "fact": "NABARD was set up on the B. Sivaraman Committee's recommendation.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/National_Bank_for_Agriculture_and_Rural_Development",
+     "confidence": "high"
+    },
+    {
+     "q": "Who is the Chairman of NABARD?",
+     "options": [
+      "Shaji K. V.",
+      "Manoj Mittal",
+      "Harsha Bangari",
+      "Rajkiran Rai G."
+     ],
+     "answer": "A",
+     "explanation": "Shaji K. V. is NABARD's Chairman. NABARD is headquartered in Mumbai and is wholly owned by the Government of India. Source: NABARD website, Nov 2026.",
+     "likely": 4,
+     "fact": "Shaji K. V. is the Chairman of NABARD.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.nabard.org/team.aspx?id=9",
+     "confidence": "high"
+    },
+    {
+     "q": "MUDRA (Micro Units Development and Refinance Agency) is a subsidiary of which institution?",
+     "options": [
+      "NABARD",
+      "SIDBI",
+      "State Bank of India",
+      "EXIM Bank"
+     ],
+     "answer": "B",
+     "explanation": "MUDRA is a wholly owned subsidiary of SIDBI, launched on 8 April 2015 to refinance loans to micro units under PM Mudra Yojana. Source: Wikipedia (SIDBI).",
+     "likely": 4,
+     "fact": "MUDRA is a subsidiary of SIDBI.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Small_Industries_Development_Bank_of_India",
+     "confidence": "high"
+    },
+    {
+     "q": "IRDAI was set up following the recommendations of which committee?",
+     "options": [
+      "Malhotra Committee",
+      "Pherwani Committee",
+      "Rangarajan Committee",
+      "Tarapore Committee"
+     ],
+     "answer": "A",
+     "explanation": "The R. N. Malhotra Committee (1994) recommended an insurance regulator; IRDA was set up under the IRDA Act, 1999. IRDAI is headquartered in Hyderabad. Its Chairman is Ajay Seth. Source: Wikipedia (IRDAI).",
+     "likely": 4,
+     "fact": "IRDAI was set up on the Malhotra Committee's recommendation.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Insurance_Regulatory_and_Development_Authority",
+     "confidence": "high"
+    },
+    {
+     "q": "The National Pension System (NPS) and Atal Pension Yojana are regulated by which body?",
+     "options": [
+      "EPFO",
+      "PFRDA",
+      "IRDAI",
+      "SEBI"
+     ],
+     "answer": "B",
+     "explanation": "PFRDA regulates NPS and APY under the PFRDA Act, 2013. It works under the Ministry of Finance and is headquartered in New Delhi. Its Chairperson is Sivasubramanian Ramann. Source: Wikipedia (PFRDA).",
+     "likely": 4,
+     "fact": "PFRDA regulates NPS and APY.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Pension_Fund_Regulatory_and_Development_Authority",
+     "confidence": "high"
+    },
+    {
+     "q": "DICGC, which insures bank deposits up to Rs 5 lakh, is a wholly owned subsidiary of which institution?",
+     "options": [
+      "Reserve Bank of India",
+      "Government of India",
+      "NABARD",
+      "State Bank of India"
+     ],
+     "answer": "A",
+     "explanation": "The Deposit Insurance and Credit Guarantee Corporation is a wholly owned subsidiary of the RBI. Cover is Rs 5 lakh per depositor per bank since 4 February 2020. It was formed on 15 July 1978. Source: DICGC website.",
+     "likely": 4,
+     "fact": "DICGC is a wholly owned subsidiary of the RBI.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.dicgc.org.in/about-us",
+     "confidence": "high"
+    },
+    {
+     "q": "Who chairs the Financial Stability and Development Council (FSDC)?",
+     "options": [
+      "RBI Governor",
+      "Union Finance Minister",
+      "Prime Minister",
+      "SEBI Chairman"
+     ],
+     "answer": "B",
+     "explanation": "The FSDC, set up in December 2010, is chaired by the Union Finance Minister. Its sub-committee is chaired by the RBI Governor. Source: Wikipedia (FSDC).",
+     "likely": 4,
+     "fact": "The Union Finance Minister chairs the FSDC.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Financial_Stability_and_Development_Council",
+     "confidence": "high"
+    },
+    {
+     "q": "Credit information companies such as TransUnion CIBIL are regulated by which body?",
+     "options": [
+      "SEBI",
+      "Reserve Bank of India",
+      "Ministry of Corporate Affairs",
+      "IBBI"
+     ],
+     "answer": "B",
+     "explanation": "The RBI regulates credit information companies under the Credit Information Companies (Regulation) Act, 2005. The four CICs are TransUnion CIBIL, Equifax, Experian and CRIF High Mark. Source: Wikipedia (Credit bureau) / RBI.",
+     "likely": 4,
+     "fact": "The RBI regulates credit information companies.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Credit_bureau",
+     "confidence": "medium"
+    },
+    {
+     "q": "What is the maximum balance a customer can hold in a payments bank account at the end of the day?",
+     "options": [
+      "Rs 1 lakh",
+      "Rs 2 lakh",
+      "Rs 5 lakh",
+      "Rs 50,000"
+     ],
+     "answer": "B",
+     "explanation": "The RBI raised the payments bank limit from Rs 1 lakh to Rs 2 lakh in April 2021. Payments banks cannot lend or issue credit cards. Source: Wikipedia (Payments bank) / RBI, Apr 2021.",
+     "likely": 4,
+     "fact": "A payments bank account can hold up to Rs 2 lakh.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Payments_bank",
+     "confidence": "high"
+    },
+    {
+     "q": "The RBI's list of Upper Layer NBFCs for 2026-27, released in August 2026, has how many NBFCs?",
+     "options": [
+      "15",
+      "16",
+      "17",
+      "20"
+     ],
+     "answer": "C",
+     "explanation": "The list grew from 15 to 17, with REC, PFC, IRFC and HUDCO added. The four NBFC layers are Base, Middle, Upper and Top. Source: Adda247 (RBI list), 7 Aug 2026.",
+     "likely": 4,
+     "fact": "The NBFC Upper Layer list for 2026-27 has 17 entities.",
+     "event_date": "2026-08-06",
+     "kind": "news",
+     "source_url": "https://currentaffairs.adda247.com/rbi-expands-upper-layer-nbfc-list-to-17-for-fy27-rec-pfc-irfc-and-hudco-added/",
+     "confidence": "high"
+    },
+    {
+     "q": "The Financial Services Institutions Bureau (FSIB), reconstituted in October 2026, replaced which earlier body in 2022?",
+     "options": [
+      "Banks Board Bureau",
+      "Board for Financial Supervision",
+      "Indian Banks' Association",
+      "Banking Codes and Standards Board of India"
+     ],
+     "answer": "A",
+     "explanation": "FSIB replaced the Banks Board Bureau (set up in 2016) in 2022 and recommends top appointments in public sector banks, insurers and financial institutions. It is under the Department of Financial Services; S.C.L. Das was named Chairman in October 2026. Source: Adda247, 17 Oct 2026.",
+     "likely": 4,
+     "fact": "FSIB replaced the Banks Board Bureau in 2022.",
+     "event_date": "2026-10-16",
+     "kind": "news-static",
+     "source_url": "https://currentaffairs.adda247.com/scl-das-appointed-chairman-of-financial-services-institutions-bureau-fsib/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Which of these currencies is NOT part of the IMF's Special Drawing Rights (SDR) basket?",
+     "options": [
+      "Chinese renminbi",
+      "Japanese yen",
+      "Swiss franc",
+      "Pound sterling"
+     ],
+     "answer": "C",
+     "explanation": "The SDR basket has five currencies: US dollar, euro, Chinese renminbi, Japanese yen and pound sterling. The IMF is headquartered in Washington, D.C. The SDR was created in 1969. Source: IMF factsheet.",
+     "likely": 4,
+     "fact": "The Swiss franc is not in the SDR basket.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.imf.org/en/About/Factsheets/Sheets/2023/special-drawing-rights-sdr",
+     "confidence": "high"
+    },
+    {
+     "q": "The Financial Action Task Force (FATF) mainly works against which of the following?",
+     "options": [
+      "Money laundering and terror financing",
+      "Trade disputes between countries",
+      "Sovereign debt defaults",
+      "Tax treaty violations"
+     ],
+     "answer": "A",
+     "explanation": "FATF, set up in 1989 by the G7 and based in Paris, sets standards against money laundering and terror financing. FIU-IND is India's financial intelligence unit. Source: Wikipedia (FATF).",
+     "likely": 4,
+     "fact": "FATF combats money laundering and terror financing.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/Financial_Action_Task_Force",
+     "confidence": "high"
+    },
+    {
+     "q": "Which arm of the World Bank Group gives concessional loans to the poorest countries?",
+     "options": [
+      "IBRD",
+      "IDA",
+      "IFC",
+      "MIGA"
+     ],
+     "answer": "B",
+     "explanation": "The International Development Association (IDA) is the soft-loan window. The group's five institutions are IBRD, IDA, IFC, MIGA and ICSID. Source: Wikipedia (IDA).",
+     "likely": 4,
+     "fact": "IDA is the World Bank's concessional lending arm.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://en.wikipedia.org/wiki/International_Development_Association",
+     "confidence": "high"
+    },
+    {
+     "q": "After its IPO in September 2026, the National Stock Exchange (NSE) listed its own shares on which exchange?",
+     "options": [
+      "BSE",
+      "NSE itself",
+      "Metropolitan Stock Exchange",
+      "India International Exchange (India INX)"
+     ],
+     "answer": "A",
+     "explanation": "NSE listed on BSE on 24 September 2026 after an IPO of about Rs 22,569 crore, because an exchange cannot list on itself. BSE itself is listed on NSE. Source: Wikipedia (NSE, citing Reuters), 24 Sep 2026.",
+     "likely": 4,
+     "fact": "NSE shares were listed on BSE on 24 September 2026.",
+     "event_date": "2026-09-24",
+     "kind": "news",
+     "source_url": "https://en.wikipedia.org/wiki/National_Stock_Exchange_of_India",
+     "confidence": "medium"
+    },
+    {
+     "q": "The SEBI (Mutual Funds) Regulations, 2026, in force from 1 April 2026, replaced the mutual fund regulations of which year?",
+     "options": [
+      "1992",
+      "1996",
+      "2003",
+      "2012"
+     ],
+     "answer": "B",
+     "explanation": "The SEBI (Mutual Funds) Regulations, 1996 were repealed by the 2026 regulations. Source: SEBI (Mutual Funds) Regulations, 2026.",
+     "likely": 3,
+     "fact": "SEBI's Mutual Funds Regulations, 2026 replaced the 1996 regulations.",
+     "event_date": "2026-04-01",
+     "kind": "news-static",
+     "source_url": "https://www.sebi.gov.in/legal/regulations/oct-2026/securities-and-exchange-board-of-india-mutual-funds-regulations-2026-last-amended-on-october-10-2026-_105356.html",
+     "confidence": "high"
+    },
+    {
+     "q": "The 'Credit Risk-o-Meter', a six-level colour-coded tool for bonds introduced by a circular of 7 October 2026, is an initiative of which regulator?",
+     "options": [
+      "Reserve Bank of India",
+      "SEBI",
+      "IRDAI",
+      "PFRDA"
+     ],
+     "answer": "B",
+     "explanation": "SEBI's Credit Risk-o-Meter shows the credit risk of listed debt securities in six colour bands, from AAA (lowest risk) to B/C/D (highest). Source: Adda247, 12 Oct 2026.",
+     "likely": 3,
+     "fact": "SEBI introduced the Credit Risk-o-Meter for bonds in October 2026.",
+     "event_date": "2026-10-07",
+     "kind": "news",
+     "source_url": "https://currentaffairs.adda247.com/sebi-credit-risk-o-meter-for-bonds-six-colour-coded-levels-to-help-investors-assess-credit-risk/",
+     "confidence": "medium"
+    },
+    {
+     "q": "In October 2026, which bank became the second public sector bank, after SBI, to sponsor a pension fund under NPS?",
+     "options": [
+      "Punjab National Bank",
+      "Canara Bank",
+      "Bank of Baroda",
+      "Union Bank of India"
+     ],
+     "answer": "C",
+     "explanation": "Bank of Baroda set up BoB Pension Fund Management Co. Ltd, holding 80.10%. Pension funds are regulated by PFRDA. Source: Adda247, 6 Oct 2026.",
+     "likely": 3,
+     "fact": "Bank of Baroda became the second PSB to sponsor a pension fund.",
+     "event_date": "2026-10",
+     "kind": "news",
+     "source_url": "https://currentaffairs.adda247.com/bank-of-baroda-becomes-second-public-sector-bank-to-sponsor-a-pension-fund/",
+     "confidence": "medium"
+    },
+    {
+     "q": "The Insolvency and Bankruptcy Board of India (IBBI) works under which ministry?",
+     "options": [
+      "Ministry of Finance",
+      "Ministry of Corporate Affairs",
+      "Ministry of Law and Justice",
+      "Ministry of Commerce and Industry"
+     ],
+     "answer": "B",
+     "explanation": "IBBI was set up on 1 October 2016 under the Insolvency and Bankruptcy Code, 2016, under the Ministry of Corporate Affairs. The Competition Commission of India is under the same ministry. Source: Wikipedia (IBBI).",
+     "likely": 3,
+     "fact": "IBBI is under the Ministry of Corporate Affairs.",
+     "event_date": "static",
+     "kind": "news-static",
+     "source_url": "https://en.wikipedia.org/wiki/Insolvency_and_Bankruptcy_Board_of_India",
+     "confidence": "high"
+    },
+    {
+     "q": "'Pension Sahayak', an AI-enabled grievance platform launched in June 2026, belongs to which body?",
+     "options": [
+      "EPFO",
+      "PFRDA",
+      "IRDAI",
+      "LIC"
+     ],
+     "answer": "B",
+     "explanation": "PFRDA launched Pension Sahayak for NPS and pension grievances on 22 June 2026. Source: PFRDA press release, 22 Jun 2026.",
+     "likely": 3,
+     "fact": "PFRDA launched Pension Sahayak in June 2026.",
+     "event_date": "2026-06-22",
+     "kind": "news",
+     "source_url": "https://www.pfrda.org.in/",
+     "confidence": "high"
+    },
+    {
+     "q": "The International Financial Services Centres Authority (IFSCA), the regulator for GIFT City's IFSC, was set up under an Act of which year?",
+     "options": [
+      "2015",
+      "2017",
+      "2019",
+      "2021"
+     ],
+     "answer": "C",
+     "explanation": "IFSCA was established under the IFSCA Act, 2019 and is headquartered at GIFT City, Gandhinagar. Source: IFSCA website.",
+     "likely": 3,
+     "fact": "IFSCA was set up under the IFSCA Act, 2019.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://ifsca.gov.in/Pages/Contents/Chairperson",
+     "confidence": "high"
+    }
+   ]
+  }
+ ]
+}

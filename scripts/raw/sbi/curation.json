@@ -1,0 +1,25 @@
+{
+ "note": "Same-fact duplicates across batches, and questions whose stem gives away another question's answer. Keep one of each pair.",
+ "drop": [
+  "dfdb96b24f", "34e9ef579f",
+  "f881052556",
+  "0f27e038a6",
+  "07f3970c7a",
+  "d8fd87963c",
+  "7df96363ba",
+  "8a8fb56b46",
+  "b8df5d2ae4",
+  "11e553e10f",
+  "91c598a5e3",
+  "45cb4a5ed4",
+  "9ed40c9215",
+  "6278ea8457",
+  "d621d3f6ee",
+  "0387e93977",
+  "b855ce9530",
+  "8f9f935740",
+  "abd5c87317",
+  "b805ca5870",
+  "6360cc3cc1"
+ ]
+}

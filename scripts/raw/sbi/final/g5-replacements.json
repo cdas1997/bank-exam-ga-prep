@@ -1,0 +1,139 @@
+{
+ "verdicts": [
+  {
+   "id": "5b0e5d09e8",
+   "verdict": "ok",
+   "note": "Confirmed: Ordinance promulgated by the President on 16 May 2026 under Article 123; replaced by the Supreme Court (Number of Judges) Amendment Act, 2026 (passed 3/5 Aug, assent 11 Aug 2026). Stem does not reveal the 38-judge figure asked elsewhere.",
+   "source_url": "https://www.scconline.com/blog/post/2026/05/18/supreme-court-judges-increase-ordinance-2026-explained/"
+  },
+  {
+   "id": "4df49c4d56",
+   "verdict": "ok",
+   "note": "Static fact confirmed: Liquidity Coverage Ratio, HQLA to cover 30-day net cash outflows, minimum 100%.",
+   "source_url": "https://www.bis.org/publ/bcbs238.htm"
+  },
+  {
+   "id": "a2b95529b7",
+   "verdict": "fix",
+   "note": "Stem's 'her' gave the answer away (only woman among options). Removed it. Also removed 'first Budget prepared in Kartavya Bhawan', which sources state inconsistently (documents still printed at North Block); replaced with the confirmed 'three kartavyas' fact.",
+   "fix": {
+    "q": "Who presented the Union Budget 2026-27 in Parliament on 1 February 2026?",
+    "explanation": "Finance Minister Nirmala Sitharaman presented the Union Budget 2026-27 on Sunday, 1 February 2026. It was her ninth consecutive Budget, and she framed it around three 'kartavyas' (duties). Source: The Pioneer, 1 Feb 2026."
+   },
+   "source_url": "https://dailypioneer.com/news/sitharaman-presents-ninth-budget-guided-by-three-kartavyas"
+  },
+  {
+   "id": "6ad0aaa0e4",
+   "verdict": "ok",
+   "note": "Confirmed: 56th GST Council meeting (3 Sep 2025) moved to two main slabs of 5% and 18% plus a 40% special rate, effective 22 Sep 2025.",
+   "source_url": "https://gstcouncil.gov.in/"
+  },
+  {
+   "id": "ca79ba622b",
+   "verdict": "ok",
+   "note": "Confirmed: Income-tax Act, 2025 in force from 1 April 2026 (tax year concept); Budget 2026-27 cut MAT from 15% to 14% and made it a final tax.",
+   "source_url": "https://www.business-standard.com/budget/news/budget-2026-mat-final-tax-credit-setoff-new-regime-126020101235_1.html"
+  },
+  {
+   "id": "4c963b1740",
+   "verdict": "ok",
+   "note": "Static fact confirmed: Nanda Devi BR, Uttarakhand, declared 1988, UNESCO MAB network 2004; WHS 1988, extended 2005.",
+   "source_url": "https://whc.unesco.org/en/list/335/"
+  },
+  {
+   "id": "6d32c60ab5",
+   "verdict": "ok",
+   "note": "Static fact confirmed: 14 November (Nehru's birth anniversary); World Children's Day is 20 November.",
+   "source_url": "https://en.wikipedia.org/wiki/Children%27s_Day_(India)"
+  },
+  {
+   "id": "0fe1cdb2d1",
+   "verdict": "ok",
+   "note": "Static fact confirmed (G. V. Mavalankar, 1952-56). Om Birla still described as Lok Sabha Speaker by DD News on 16 Nov 2026; Article 93 correct.",
+   "source_url": "https://ddnews.gov.in/en/lok-sabha-speaker-om-birla-to-attend-vishwa-shanti-mahayagya-in-gujarats-vadnagar-on-november-18/"
+  },
+  {
+   "id": "c385b56930",
+   "verdict": "ok",
+   "note": "Static fact confirmed: Aryabhata launched 19 April 1975 from the USSR; Mangalyaan launched 2013.",
+   "source_url": "https://www.isro.gov.in/"
+  },
+  {
+   "id": "43e1159f12",
+   "verdict": "ok",
+   "note": "Static fact confirmed: Lead Bank Scheme introduced end-1969 after Gadgil Study Group and Nariman Committee.",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "b262be0473",
+   "verdict": "ok",
+   "note": "Static fact confirmed: NRE rupee account, fully repatriable, interest tax-free; FCNR(B) 1-5 year foreign-currency deposits.",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "556454970f",
+   "verdict": "ok",
+   "note": "Static fact confirmed: BSBDA has no minimum balance requirement; free ATM/debit card; PMJDY accounts are BSBD accounts.",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "f5cb6d1818",
+   "verdict": "fix",
+   "note": "Facts confirmed (Panagariya; 41% retained for 2026-27 to 2030-31). Explanation stated 'Finance Commissions are set up under Article 280', which is the answer to another question in the set; replaced with other confirmed facts and a reliable source.",
+   "fix": {
+    "explanation": "Arvind Panagariya chaired the 16th Finance Commission. Its award covers 2026-27 to 2030-31 and keeps the States' share of the divisible pool of central taxes at 41%, the same as the 15th Finance Commission, which was chaired by N.K. Singh. The report was tabled in Parliament with the Union Budget on 1 February 2026. Source: PRS Legislative Research, Feb 2026."
+   },
+   "source_url": "https://prsindia.org/policy/report-summaries/report-of-the-16th-finance-commission-for-2026-31"
+  },
+  {
+   "id": "e825ffea56",
+   "verdict": "drop",
+   "note": "Facts check out (Cabinet, 11 Nov 2026), but the stem's 'continued by the Cabinet in November 2026 till 31 March 2031' gives away the answer to the existing Stand-Up India question (same Cabinet meeting, answer 31 March 2031). In reverse, the MUDRA question's stem spells out 'Micro Units Development and Refinance Agency', which gives away this answer."
+  },
+  {
+   "id": "307edc0c53",
+   "verdict": "ok",
+   "note": "Confirmed: PM Vishwakarma completed three years on 17 Sep 2026; nodal Ministry of MSME; 18 trades, Rs 15,000 toolkit incentive, Rs 1 lakh + Rs 2 lakh loans at 5%.",
+   "source_url": "https://newsonair.gov.in/pm-vishwakarma-scheme-completes-three-years-with-30-lakh-beneficiaries-registered/"
+  },
+  {
+   "id": "23fe9bda38",
+   "verdict": "ok",
+   "note": "Confirmed: Bill introduced in Lok Sabha 15 Dec 2025, referred to JPC 16 Dec 2025 (still with the JPC; no report presented as of Sep 2026); replaces UGC, AICTE and NCTE. NAAC is not replaced by the Bill.",
+   "source_url": "https://prsindia.org/billtrack/the-viksit-bharat-shiksha-adhishthan-bill-2025"
+  },
+  {
+   "id": "b1f5d36234",
+   "verdict": "ok",
+   "note": "Confirmed: NCDC (Amendment) Bill, 2026 passed by Lok Sabha 11 Aug and Rajya Sabha 12 Aug 2026, moved by MoS Cooperation; assent reported (Act 19 of 2026). NCDC is under the Ministry of Cooperation; parent Act 1962.",
+   "source_url": "https://newsonair.gov.in/parliament-passes-ncdc-bill-to-boost-cooperative-sector/"
+  },
+  {
+   "id": "08839163dc",
+   "verdict": "ok",
+   "note": "Confirmed: 10th IMC at Yashobhoomi, 7-10 Oct 2026, theme 'Scale Without Boundaries', organised by DoT and COAI.",
+   "source_url": "https://newsonair.gov.in/10th-edition-of-india-mobile-congress-to-begin-today-at-yashobhoomi-new-delhi/"
+  },
+  {
+   "id": "df4881f7f6",
+   "verdict": "fix",
+   "note": "Visit dates (6-8 July 2026) and currency confirmed. Explanation said the PM went on to New Zealand, which gives away the answer to another question in the set (New Zealand Strategic Partnership); removed and replaced with a confirmed fact and an official source.",
+   "fix": {
+    "explanation": "Indonesia's currency is the rupiah. The Prime Minister's State Visit to Indonesia ran from 6 to 8 July 2026 and included talks with President Prabowo Subianto in Jakarta. Ringgit is Malaysia's currency, dong Vietnam's and kyat Myanmar's. Source: PMO India, July 2026."
+   },
+   "source_url": "https://www.pmindia.gov.in/en/news_updates/india-indonesia-joint-statement-on-the-state-visit-by-pm-of-india-to-indonesia/"
+  },
+  {
+   "id": "e8d588cebd",
+   "verdict": "ok",
+   "note": "Static fact confirmed: Dree, agricultural festival of the Apatani of Ziro valley, Arunachal Pradesh, main day 5 July.",
+   "source_url": "https://en.wikipedia.org/wiki/Dree_Festival"
+  },
+  {
+   "id": "355eeee025",
+   "verdict": "ok",
+   "note": "Static fact confirmed: Jaipur painted pink in 1876 for the Prince of Wales; founded 1727 by Sawai Jai Singh II; UNESCO World Heritage Site 2019.",
+   "source_url": "https://whc.unesco.org/en/list/1605/"
+  }
+ ]
+}

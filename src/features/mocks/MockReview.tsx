@@ -5,17 +5,26 @@ import { Chip } from '@/components/ui/Chip';
 import { EmptyState } from '@/components/ui/EmptyState';
 import { QuestionCard } from '@/features/bank';
 import { navigate } from '@/hooks/useHashRoute';
-import { accuracyOf, mockLabel, mockTopicBreakdown } from '@/lib/analysis';
+import { accuracyOf, mockTopicBreakdown } from '@/lib/analysis';
 import { formatClock } from '@/lib/dates';
-import { EXAM_PACE_SECS, MARK_RIGHT, MARK_WRONG, formatMarks } from '@/lib/scoring';
-import type { Bank, MockRecord } from '@/lib/types';
+import { mockLabel } from '@/lib/mock';
+import { EXAM_PACE_SECS, formatMarks } from '@/lib/scoring';
+import { MockType, type Exam, type MockRecord } from '@/lib/types';
 import { profileStore } from '@/store/profileStore';
 
 type ReviewFilter = 'all' | 'wrong' | 'skipped' | 'right';
 
-type MockReviewProps = { bank: Bank; mock: MockRecord; canStartNew: boolean };
+type MockReviewProps = {
+  exam: Exam;
+  mock: MockRecord;
+  /** which attempt at this paper set it was; null for other mocks */
+  attempt: number | null;
+  canStartNew: boolean;
+};
 
-export function MockReview({ bank, mock, canStartNew }: MockReviewProps) {
+export function MockReview({ exam, mock, attempt, canStartNew }: MockReviewProps) {
+  const { bank, marking } = exam;
+  const label = mockLabel(mock);
   const [filter, setFilter] = useState<ReviewFilter>('all');
   const attempted = mock.right + mock.wrong;
   const answeredIds = mock.questionIds.filter((id) => mock.responses[id] !== undefined);
@@ -31,8 +40,7 @@ export function MockReview({ bank, mock, canStartNew }: MockReviewProps) {
     });
 
   function handleNew(): void {
-    profileStore.startMock(mock.type);
-    navigate({ name: 'mock' });
+    if (profileStore.startMock(mock.type, mock.setNo)) navigate({ name: 'mock' });
   }
 
   return (
@@ -42,13 +50,14 @@ export function MockReview({ bank, mock, canStartNew }: MockReviewProps) {
           ← Mock tests
         </a>
         <Button variant="primary" disabled={!canStartNew} onClick={handleNew}>
-          New {mockLabel(mock.type).toLowerCase()}
+          {mock.type === MockType.Set ? `Reattempt ${label.toLowerCase()}` : `New ${label.toLowerCase()}`}
         </Button>
       </TopBar>
       <main className="wrap stack">
         <header className="thead">
           <p className="label">
-            {mockLabel(mock.type)} · {new Date(mock.startedAt).toLocaleDateString('en-IN', { weekday: 'short', day: 'numeric', month: 'short' })}
+            {label}
+            {attempt === null ? '' : ` · attempt ${attempt}`} · {new Date(mock.startedAt).toLocaleDateString('en-IN', { weekday: 'short', day: 'numeric', month: 'short' })}
           </p>
           <span className="hero-num">
             {formatMarks(mock.net)}
@@ -83,14 +92,14 @@ export function MockReview({ bank, mock, canStartNew }: MockReviewProps) {
               <tr>
                 <td>Right answers</td>
                 <td className="n">{mock.right}</td>
-                <td className="n cr">+{formatMarks(mock.right * MARK_RIGHT)}</td>
+                <td className="n cr">+{formatMarks(mock.right * marking.right)}</td>
                 <td className="n" />
               </tr>
               <tr>
                 <td>Wrong answers</td>
                 <td className="n">{mock.wrong}</td>
                 <td className="n" />
-                <td className="n dr">−{formatMarks(mock.wrong * MARK_WRONG)}</td>
+                <td className="n dr">−{formatMarks(mock.wrong * marking.wrong)}</td>
               </tr>
               <tr>
                 <td>Not attempted</td>
@@ -122,7 +131,7 @@ export function MockReview({ bank, mock, canStartNew }: MockReviewProps) {
                 </tr>
               </thead>
               <tbody>
-                {mockTopicBreakdown(mock, bank).map((r) => (
+                {mockTopicBreakdown(mock, bank, marking).map((r) => (
                   <tr key={r.topic.key}>
                     <td>
                       <a href={`#set-${r.topic.key}`}>{r.topic.name}</a>

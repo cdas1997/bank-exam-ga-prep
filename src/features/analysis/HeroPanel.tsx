@@ -10,9 +10,12 @@ type HeroPanelProps = {
   target: DailyTarget | null;
   examLabel: string | null;
   isExamDay: boolean;
+  /** marks of the real section, which the estimate is scaled to */
+  maxMarks: number;
+  examDayTip: string;
 };
 
-export function HeroPanel({ estimate, practiceAccuracy, practiceDone, target, examLabel, isExamDay }: HeroPanelProps) {
+export function HeroPanel({ estimate, practiceAccuracy, practiceDone, target, examLabel, isExamDay, maxMarks, examDayTip }: HeroPanelProps) {
   return (
     <section className="panel hero">
       <div>
@@ -21,7 +24,7 @@ export function HeroPanel({ estimate, practiceAccuracy, practiceDone, target, ex
           <>
             <span className="hero-num">
               {formatMarks(estimate.score)}
-              <small>/ 60</small>
+              <small>/ {maxMarks}</small>
             </span>
             <p className="small muted">
               Average of your last {estimate.basedOn} {estimate.fullMocksOnly ? 'full ' : ''}mock{estimate.basedOn === 1 ? '' : 's'}, scaled to the
@@ -59,7 +62,7 @@ export function HeroPanel({ estimate, practiceAccuracy, practiceDone, target, ex
           </>
         ) : (
           <p className="muted">
-            {isExamDay ? 'Exam day. Skim the September set in Revision mode, then stop and rest.' : 'You have attempted every question. Redo your mistakes and keep taking mocks.'}
+            {isExamDay ? examDayTip : 'You have attempted every question. Redo your mistakes and keep taking mocks.'}
           </p>
         )}
       </div>

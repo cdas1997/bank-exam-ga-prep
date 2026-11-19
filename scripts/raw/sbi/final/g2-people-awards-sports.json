@@ -1,0 +1,633 @@
+{
+ "verdicts": [
+  {
+   "id": "38380a1a3d",
+   "verdict": "ok",
+   "note": "Confirmed: Bagchi took charge 27 Oct 2026 after Jagdishan's term ended 26 Oct; came from ICICI Prudential Life.",
+   "source_url": "https://www.businesstoday.in/latest/corporate/story/after-sashidhar-jagadishan-anup-bagchi-takes-charge-as-hdfc-bank-md-and-ceo-563841-2026-10-27"
+  },
+  {
+   "id": "1c24552be2",
+   "verdict": "ok",
+   "note": "Confirmed: RBI approved Anup Kumar Saha for 3 years from 1 Jan 2027, succeeding Ashok Vaswani (term ends 31 Dec 2026).",
+   "source_url": "https://www.businesstoday.in/markets/stocks/story/kotak-mahindra-bank-shares-in-focus-on-rbi-nod-for-anup-kumar-saha-as-md-ceo-558933-2026-10-01"
+  },
+  {
+   "id": "abbabbfe79",
+   "verdict": "ok",
+   "note": "Confirmed on PIB/News On AIR: 31st COAS from 30 Jun 2026, Armoured Corps, commissioned Dec 1986, first Armoured Corps chief since 1997, tenure to Aug 2028.",
+   "source_url": "https://newsonair.gov.in/general-dhiraj-seth-takes-charge-as-31st-chief-of-the-army-staff/"
+  },
+  {
+   "id": "26957fb541",
+   "verdict": "ok",
+   "note": "Confirmed on News On AIR: 29th CAS on 31 Oct 2026, succeeded A.P. Singh (42 years' service), fighter stream 1986, earlier VCAS.",
+   "source_url": "https://newsonair.gov.in/air-chief-marshal-ashutosh-dixit-takes-charge-as-29th-chief-of-air-staff/"
+  },
+  {
+   "id": "35256fec6a",
+   "verdict": "ok",
+   "note": "Confirmed: Burnham became PM 20 Jul 2026, Labour leader 16 Jul, won Makerfield in June 2026.",
+   "source_url": "https://aljazeera.com/news/2026/7/20/andy-burnham-pledges-end-to-political-instability-as-he-becomes-uk-pm"
+  },
+  {
+   "id": "7280899783",
+   "verdict": "fix",
+   "note": "Explanation's last sentence named Karnataka's new Governor, which gives away the answer to the later Governor question; replaced with a confirmed related fact.",
+   "fix": {
+    "explanation": "Congress leader D.K. Shivakumar was sworn in on 3 June 2026 by Governor Thaawarchand Gehlot, succeeding Siddaramaiah, who resigned on 28 May 2026. Shivakumar had been elected leader of the Congress Legislature Party on 30 May 2026, and G. Parameshwara took oath as Deputy Chief Minister. Source: All India Radio News, 3 Jun 2026."
+   },
+   "source_url": "https://newsonair.gov.in/d-k-shivakumar-sworn-in-as-karnataka-chief-minister/"
+  },
+  {
+   "id": "28c2d386ff",
+   "verdict": "ok",
+   "note": "Confirmed: RBI approved Pai for 3 years from 1 Oct 2026; succeeded P.R. Seshadri; ex-Canara Bank CGM.",
+   "source_url": "https://currentaffairs.adda247.com/rbi-approves-mahesh-pai-as-south-indian-bank-md-ceo-for-three-year-term/"
+  },
+  {
+   "id": "4f266c4a81",
+   "verdict": "ok",
+   "note": "Confirmed on RBI PR 2026-2027/1241 (2 Oct 2026); other ED dates/portfolios confirmed on RBI releases.",
+   "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63719"
+  },
+  {
+   "id": "f7a327bb31",
+   "verdict": "ok",
+   "note": "Confirmed: two years from 26 Jun 2026 (RBI PR 5 Jun 2026); current DGs Poonam Gupta, S.C. Murmu, Rohit Jain (from 4 May 2026).",
+   "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=62880"
+  },
+  {
+   "id": "3ce9032c3a",
+   "verdict": "ok",
+   "note": "Confirmed: CMD GIC Re from 16 Jun 2026 to 30 Sep 2028; interim since 1 Oct 2025.",
+   "source_url": "https://www.reinsurancene.ws/hitesh-joshi-appointed-gic-re-chairman-and-managing-director/"
+  },
+  {
+   "id": "721fb3fdce",
+   "verdict": "ok",
+   "note": "Confirmed on NITI Aayog site: assumed charge 17 Aug 2026; 1989 MP-cadre IAS; ACC approval 22 Jul 2026 for two years.",
+   "source_url": "https://www.niti.gov.in/about-us/whos-who/leadership/ceo-niti-aayog"
+  },
+  {
+   "id": "68523d8f97",
+   "verdict": "ok",
+   "note": "Confirmed on RBI PR 2026-2027/934: Somanath Sreedhara Panicker appointed for four years from 20 Aug 2026; Mahindra re-appointed.",
+   "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63412"
+  },
+  {
+   "id": "853fd538ce",
+   "verdict": "ok",
+   "note": "Confirmed: elected 2 Jun 2026 over Andreas Kakouris (Cyprus); term from 8 Sep 2026; succeeded Baerbock.",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/6/3/bangladeshs-rahman-elected-un-general-assembly-president-in-tight-race"
+  },
+  {
+   "id": "3d7ccf7266",
+   "verdict": "ok",
+   "note": "Confirmed: 12 Oct 2026 order named Sudha Yadav (Karnataka), Braj Mohan Ram (Odisha), Dhal Singh Bisen (Uttarakhand), Dushyant Gautam (Sikkim); she assumed office 16 Oct.",
+   "source_url": "https://newsonair.gov.in/dr-sudha-yadav-assumes-office-as-governor-of-karnataka/"
+  },
+  {
+   "id": "6258b17abd",
+   "verdict": "ok",
+   "note": "Confirmed: RBI approved Rajiv Kumar for 3 years from 15 Jul 2026; Chakraborty resigned Mar 2026; Mistry interim.",
+   "source_url": "https://www.freepressjournal.in/business/hdfc-bank-names-rajiv-kumar-as-part-time-chairman-after-market-hours-rbi-approves-three-year-appointment-effective-july-15"
+  },
+  {
+   "id": "b1dd790cc6",
+   "verdict": "ok",
+   "note": "Static fact (UN Charter Art. 97) correct; Al Jazeera 15 Nov 2026 confirms no frontrunner recommended yet.",
+   "source_url": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked"
+  },
+  {
+   "id": "7b5eaa89b1",
+   "verdict": "ok",
+   "note": "Confirmed: S.C.L. (Subhash Chandra Lal) Das, retired IAS, FSIB part-time chair for 3 years from 16 Oct 2026; Bhanu Pratap Sharma's tenure ended 30 Jun 2026.",
+   "source_url": "https://indianmasterminds.com/news/fsib-appointments-2026-scl-das-chairperson-members-243369/"
+  },
+  {
+   "id": "911d2136dc",
+   "verdict": "fix",
+   "note": "Explanation had a leftover reviewer-style caveat and an incomplete list of Joshi's portfolios; corrected.",
+   "fix": {
+    "explanation": "Dharmendra Pradhan resigned on 25 July 2026 amid protests over the NEET-UG 2026 paper leak. On the Prime Minister's advice, the President assigned the Ministry of Education to Pralhad Joshi in addition to his existing portfolios of Consumer Affairs, Food and Public Distribution, and New and Renewable Energy. Joshi took charge at Kartavya Bhavan on 26 July 2026. Source: All India Radio News, 26 Jul 2026."
+   },
+   "source_url": "https://newsonair.gov.in/pralhad-joshi-appointed-education-minister-gets-additional-charge/"
+  },
+  {
+   "id": "7b7dd38297",
+   "verdict": "ok",
+   "note": "Confirmed: ACC extended Somanathan to 30 Aug 2027 and Govind Mohan to 22 Aug 2027 (5 Aug 2026).",
+   "source_url": "https://www.business-standard.com/india-news/cabinet-secy-somanathan-and-home-secy-mohan-get-one-year-extension-126080501120_1.html"
+  },
+  {
+   "id": "94d3a4f0d8",
+   "verdict": "fix",
+   "note": "Explanation revealed the answer to the next question (Anand as interim FIDE President); replaced with confirmed election details.",
+   "fix": {
+    "explanation": "Kazakhstan's Timur Turlov was elected FIDE President at the General Assembly in Samarkand on 26 September 2026, replacing Arkady Dvorkovich, who had led FIDE since 2018. Turlov won a run-off against Wadim Rosenstein by 110 votes to 85. FIDE is headquartered in Lausanne, Switzerland. Source: Reuters, 26 Sep 2026."
+   },
+   "source_url": "https://www.devdiscourse.com/article/international/3982839-chess-kazakh-turlov-elected-fide-president-with-russia-governance-issues-in-focus"
+  },
+  {
+   "id": "65005a07ec",
+   "verdict": "ok",
+   "note": "Confirmed: Anand took over as interim President 24 Jul 2026 after Dvorkovich's EU sanctioning; Turlov elected 26 Sep with Anand as deputy.",
+   "source_url": "https://newsonair.gov.in/viswanathan-anand-takes-charge-as-fide-interim-president/"
+  },
+  {
+   "id": "4645918675",
+   "verdict": "ok",
+   "note": "Confirmed: ACC order 21 Oct 2026; Sunil Kumar takes charge on/after 7 Dec 2026; Singh's extended tenure ends 6 Dec 2026, so Singh is chairman on exam dates.",
+   "source_url": "https://psuwatch.com/story/psu-appointments/sunil-kumar-appointed-ongc-chairman-ending-succession-speculation"
+  },
+  {
+   "id": "b50faf3e97",
+   "verdict": "ok",
+   "note": "Confirmed: Nayak (ex-ED Finance, REC) took charge 30 Oct 2026 per MNRE order; IREDA is under MNRE.",
+   "source_url": "https://psuwatch.com/psu-appointments/jatin-kumar-nayak-assumes-charge-as-cmd-of-ireda"
+  },
+  {
+   "id": "be24197da6",
+   "verdict": "fix",
+   "note": "Stem said she 'looks after' the departments (present tense), which could change after later RBI reshuffles; anchored it to the August 2026 appointment.",
+   "fix": {
+    "q": "Monisha Chakraborty, appointed Executive Director of the RBI from 3 August 2026, was given charge of the Financial Markets Regulation Department and which other department?",
+    "explanation": "Monisha Chakraborty, earlier Chief General Manager-in-Charge of the Department of Supervision, became Executive Director on 3 August 2026 with charge of the Foreign Exchange Department and the Financial Markets Regulation Department. RBI is headquartered in Mumbai. Source: RBI press release 2026-2027/801, 3 Aug 2026."
+   },
+   "source_url": "https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63279"
+  },
+  {
+   "id": "75e9243cf1",
+   "verdict": "fix",
+   "note": "Explanation stated the Rs 5 lakh deposit insurance limit as current; a raise has been under government review and I could not confirm the limit after May 2026. Replaced with a stable fact.",
+   "fix": {
+    "explanation": "Suman Ray, earlier RBI Regional Director for Maharashtra, became Executive Director from 1 September 2026 and was given charge of the Deposit Insurance and Credit Guarantee Corporation (DICGC) department and the Premises Department. DICGC is a wholly owned subsidiary of the RBI that insures bank deposits. Source: RBI press release 2026-2027/1013, 1 Sep 2026."
+   },
+   "source_url": "https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63491"
+  },
+  {
+   "id": "d561086a6d",
+   "verdict": "fix",
+   "note": "'29th Governor of Keralam' ordinal could not be confirmed (Organiser does not give it); removed.",
+   "fix": {
+    "explanation": "Arlekar was appointed full-time Governor of Tamil Nadu on 12 October 2026; he had held its additional charge since 12 March 2026. Om Prakash Mathur moved from Sikkim and was sworn in as Governor of Keralam in October 2026. Governors are appointed by the President under Article 155. Source: Organiser, 13 Oct 2026."
+   },
+   "source_url": "https://newsonair.gov.in/prez-murmu-appoints-six-governors-rajendra-vishwanath-arlekar-moved-to-tamil-nadu-op-mathur-to-keralam/"
+  },
+  {
+   "id": "54be8a9efd",
+   "verdict": "ok",
+   "note": "Confirmed: Hero Future Energies named P.V. Sindhu brand ambassador on 17 Aug 2026.",
+   "source_url": "https://manifest-media.in/marketing/170826/hero-future-energies-appoints-pv-sindhu-as-brand-ambassador.html"
+  },
+  {
+   "id": "da531d530d",
+   "verdict": "ok",
+   "note": "Confirmed on World Bank press release 16 Sep 2026: Kremer Chief Economist and SVP from 1 Oct 2026, succeeding Indermit Gill.",
+   "source_url": "https://www.worldbank.org/en/news/press-release/2026/09/16/michael-kremer-appointed-as-world-bank-group-chief-economist"
+  },
+  {
+   "id": "4a04594abf",
+   "verdict": "ok",
+   "note": "Confirmed: Huang resigned 12 Nov 2026; Colette Kress interim CEO; Harvey C. Jones first Chair of the Board.",
+   "source_url": "https://wccftech.com/jensen-huang-resigns-nvidia-ceo-colette-kress-interim/"
+  },
+  {
+   "id": "c2620341e1",
+   "verdict": "ok",
+   "note": "Confirmed: ACC cleared Mishra (Axis Bank chief economist) for 3 years, replacing Parameswaran Iyer; constituency Bangladesh, Bhutan, India, Sri Lanka.",
+   "source_url": "https://newsonair.gov.in/acc-clears-neelkanth-mishras-appointment-as-executive-director-world-bank/"
+  },
+  {
+   "id": "4c7f884c4c",
+   "verdict": "ok",
+   "note": "Confirmed: Lula won 25 Oct 2026 run-off with 51.79% vs Flavio Bolsonaro after trailing first round on 4 Oct; Alckmin is VP and running mate.",
+   "source_url": "https://aljazeera.com/news/2026/10/26/how-did-lula-beat-bolsonaro-after-losing-brazils-first-round-election"
+  },
+  {
+   "id": "a8978cdcc1",
+   "verdict": "ok",
+   "note": "Confirmed: Fakhrul sworn in 21 Aug 2026 as 23rd President; Shahabuddin resigned 24 Jul on health grounds; Tarique Rahman is PM.",
+   "source_url": "https://newsonair.gov.in/mirza-fakhrul-islam-alamgir-takes-oath-as-23rd-president-of-bangladesh/"
+  },
+  {
+   "id": "25aa53ea51",
+   "verdict": "ok",
+   "note": "Confirmed: Navi Pillay won Nobel Peace Prize 2026, announced 9 Oct 2026.",
+   "source_url": "https://www.aljazeera.com/news/2026/10/9/2026-nobel-peace-prize-awarded-to-navi-pillay"
+  },
+  {
+   "id": "61c0cb0d8c",
+   "verdict": "ok",
+   "note": "Confirmed on Global Finance (16 Jul 2026): SBI World's Best Consumer Bank 2026, presented in Bangkok 17 Oct; Santander best bank, DBS best corporate bank.",
+   "source_url": "https://gfmag.com/award/award-winners/state-bank-of-india-worlds-best-consumer-bank-2026/"
+  },
+  {
+   "id": "f90ed1215f",
+   "verdict": "ok",
+   "note": "Confirmed on nobelprize.org: Hall and Woodford, 12 Oct 2026, microeconomic foundations of macroeconomic stabilisation.",
+   "source_url": "https://www.nobelprize.org/prizes/economic-sciences/2026/summary/"
+  },
+  {
+   "id": "5577c8063f",
+   "verdict": "ok",
+   "note": "Confirmed on Booker Prizes site: Harrison won 9 Nov 2026, oldest winner at 81, chair Mary Beard, GBP 50,000.",
+   "source_url": "https://thebookerprizes.com/media-centre/press-releases/the-end-of-everything-by-m-john-harrison-wins-the-booker-prize-2026"
+  },
+  {
+   "id": "dbfd575726",
+   "verdict": "ok",
+   "note": "Confirmed: Article 370 Best Feature Film; Kalki popular film; Srikanth Best Hindi Film; Rajkumar Periasamy Best Direction (Amaran); announced 18 Jul 2026.",
+   "source_url": "https://www.hollywoodreporterindia.com/features/insight/72nd-national-film-awards-full-winners-list-article-370-mammootty-kartik-aaryan-and-yami-gautam-win-honours"
+  },
+  {
+   "id": "cc59c408e5",
+   "verdict": "ok",
+   "note": "Confirmed: Anant Nag got the Dadasaheb Phalke Award for 2024 from the President at Ekta Nagar on 22 Sep 2026.",
+   "source_url": "https://newsonair.gov.in/veteran-kannada-actor-anant-nag-to-be-conferred-with-dadasaheb-phalke-award-for-2024/"
+  },
+  {
+   "id": "2ed53543f2",
+   "verdict": "ok",
+   "note": "Confirmed: announced 18 Aug 2026, no Khel Ratna (first since 2014), 17 Arjuna awardees; President presented on Fri 13 Nov 2026.",
+   "source_url": "https://theprint.in/sport/no-khel-ratna-for-2025-tejaswin-divya-and-gayatri-gopichand-among-arjuna-awardees/3018100/"
+  },
+  {
+   "id": "231d696228",
+   "verdict": "ok",
+   "note": "Confirmed on nobelprize.org: Anne Carson, sole laureate, announced 8 Oct 2026.",
+   "source_url": "https://www.nobelprize.org/prizes/literature/2026/"
+  },
+  {
+   "id": "994740cd7d",
+   "verdict": "ok",
+   "note": "Static fact correct; 2026 winners announced 31 Aug 2026 by the Manila-based foundation.",
+   "source_url": "https://mb.com.ph/2026/08/31/3-transformative-leaders-named-2026-ramon-magsaysay-awardees"
+  },
+  {
+   "id": "ddf080d7a0",
+   "verdict": "ok",
+   "note": "Confirmed: 2026 winners Tommy Koh, Runa Khan and Bo Kyi (announced 31 Aug 2026).",
+   "source_url": "https://www.gmanetwork.com/news/lifestyle/content/1000519/the-2026-ramon-magsaysay-award-reveals-recipients-from-singapore-bangladesh-myanmar/story/"
+  },
+  {
+   "id": "930d55441b",
+   "verdict": "ok",
+   "note": "Static fact correct (Riksbank, 1968 tercentenary; first awarded 1969; Academy selects).",
+   "source_url": "https://www.nobelprize.org/prizes/economic-sciences/2026/summary/"
+  },
+  {
+   "id": "2aee769c46",
+   "verdict": "ok",
+   "note": "Confirmed on PMIndia: conferred by President Pellegrini in Bratislava, 15 Jun 2026; reported as 33rd international honour.",
+   "source_url": "https://www.pmindia.gov.in/en/news_updates/pm-conferred-with-the-highest-national-honour-of-the-slovak-republic-order-of-the-white-double-cross-1st-class/"
+  },
+  {
+   "id": "4c5bb03d28",
+   "verdict": "ok",
+   "note": "Confirmed: conferred 7 Jul 2026 by Prabowo; DD News counts it as 35th international honour.",
+   "source_url": "https://setkab.go.id/en/president-prabowo-confers-the-bintang-republik-indonesia-adipurna-upon-pm-narendra-modi/"
+  },
+  {
+   "id": "a4977832be",
+   "verdict": "ok",
+   "note": "Confirmed: conferred by Mirziyoyev in Tashkent 30 Aug 2026; Modi then attended the SCO summit in Bishkek.",
+   "source_url": "https://newsonair.gov.in/pm-modi-conferred-with-uzbekistans-supreme-state-award-order-of-oliy-darajali-dustlik/"
+  },
+  {
+   "id": "4f3074e076",
+   "verdict": "ok",
+   "note": "Confirmed on Euromoney (17 Jul 2026): HDFC Bank best bank in India, 100 million customers, 9,616 branches; Santander world's best, HSBC Asia's best.",
+   "source_url": "https://www.euromoney.com/article/9aemiby4w34ss84wgw8kw4os/investment-banking/awards-for-excellence-country-territory-winners-2026-india/"
+  },
+  {
+   "id": "8f4e676e9f",
+   "verdict": "ok",
+   "note": "Confirmed: FFI chose Gondhal (dir. Santosh Davakhar) from 33 films on 18 Sep 2026; fourth Marathi entry; Homebound previous entry.",
+   "source_url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/09/19/india-official-entry-oscars-99th-academy-awards-gondhal.html"
+  },
+  {
+   "id": "433dde4518",
+   "verdict": "ok",
+   "note": "Confirmed: 78 gallantry awards on 14 Aug 2026, 13 posthumous, 9 Kirti Chakras, 19 Shaurya Chakras.",
+   "source_url": "https://theprint.in/india/president-murmu-approves-78-gallantry-awards/3015293/"
+  },
+  {
+   "id": "7beab53846",
+   "verdict": "ok",
+   "note": "Confirmed: Dominican Republic's Joheirry Mola won 73rd Miss World, Nha Trang, 5 Sep 2026; crowned by Opal Suchata; Spain first runner-up; Porwal top 40.",
+   "source_url": "https://www.khaleejtimes.com/world/miss-world-2026-dominican-republic-joheirry-mola-wins"
+  },
+  {
+   "id": "bef1f633fb",
+   "verdict": "ok",
+   "note": "Confirmed: announced 14 Mar 2026; third Tamil winner after Akilan and Jayakanthan; Rs 11 lakh, Vagdevi statue.",
+   "source_url": "https://thefederal.com/category/states/south/tamil-nadu/tamil-poet-lyricist-r-vairamuthu-conferred-2025-jnanpith-award-234209"
+  },
+  {
+   "id": "dbaa41e980",
+   "verdict": "ok",
+   "note": "Confirmed: Metsola announced the ICC as 2026 Sakharov laureate on 22 Oct 2026.",
+   "source_url": "https://www.aljazeera.com/amp/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award"
+  },
+  {
+   "id": "d3711ffb00",
+   "verdict": "ok",
+   "note": "Confirmed: Halzen sole physics laureate, announced 6 Oct 2026, for IceCube; prize 12 million SEK.",
+   "source_url": "https://www.nobelprize.org/prizes/physics/2026/press-release/"
+  },
+  {
+   "id": "3090fdfda7",
+   "verdict": "ok",
+   "note": "Confirmed: Deisseroth, Hegemann, Nagel for light-gated ion channels and optogenetics, 5 Oct 2026.",
+   "source_url": "https://www.nobelprize.org/all-nobel-prizes-2026/"
+  },
+  {
+   "id": "2712aabd2c",
+   "verdict": "ok",
+   "note": "Confirmed: Kagan and Soai, announced 7 Oct 2026, non-linear effects and autocatalysis in asymmetric synthesis.",
+   "source_url": "https://www.nobelprize.org/prizes/chemistry/2026/"
+  },
+  {
+   "id": "9613b2a393",
+   "verdict": "ok",
+   "note": "Confirmed: Mammootty (Bramayugam) shared Best Actor with Kartik Aaryan; Yami Gautam Best Actress (Article 370).",
+   "source_url": "https://www.thenewsminute.com/news/72nd-national-film-awards-mammoottykartik-aaryan-share-best-actor"
+  },
+  {
+   "id": "689b884316",
+   "verdict": "fix",
+   "note": "'92 awardees' conflicts across sources (News On AIR says 92, others 99); removed the count.",
+   "fix": {
+    "explanation": "President Droupadi Murmu presented the awards near the Statue of Unity at Ekta Nagar in Gujarat's Narmada district, instead of New Delhi. The 72nd National Film Awards, announced on 18 July 2026, honoured films certified in 2024. Source: News On AIR, 22 Sep 2026."
+   },
+   "source_url": "https://newsonair.gov.in/president-murmu-presents-72nd-national-film-awards-at-ekta-nagar-in-gujarat/"
+  },
+  {
+   "id": "f13aac64b1",
+   "verdict": "ok",
+   "note": "Confirmed: 131 awards (5/13/113); Dharmendra PV posthumously; other PV names correct; Uday Kotak on 2026 Padma Bhushan list.",
+   "source_url": "https://www.business-standard.com/india-news/padma-awards-2026-padma-vibhushan-bhushan-shri-list-126012500649_1.html"
+  },
+  {
+   "id": "cad5591167",
+   "verdict": "ok",
+   "note": "Confirmed: Greenspan died 22 Jun 2026 aged 100; Fed chair 1987-2006.",
+   "source_url": "https://www.aljazeera.com/economy/2026/6/22/former-us-federal-reserve-chairman-alan-greenspan-dies-at-age-100"
+  },
+  {
+   "id": "90588d3a4e",
+   "verdict": "ok",
+   "note": "Confirmed: Teejan Bai, Pandavani (Kapalik style), died at AIIMS Raipur on 5 Jul 2026.",
+   "source_url": "https://newsonair.gov.in/renowned-pandavani-singer-of-chhattisgarh-and-padma-vibhushan-awardee-teejan-bai-passes-away/"
+  },
+  {
+   "id": "8db35d503f",
+   "verdict": "ok",
+   "note": "Confirmed: died 8 Oct 2026 in Goa aged 75; National Award (Best Supporting Actor) for Parinda, where he played Anna Seth; Padma Shri 2013.",
+   "source_url": "https://en.wikipedia.org/wiki/Nana_Patekar"
+  },
+  {
+   "id": "e591520894",
+   "verdict": "fix",
+   "note": "Could not confirm that Major Arshdeep Singh received the Kirti Chakra; removed that claim and added confirmed context.",
+   "fix": {
+    "explanation": "Group Captain Shubhanshu Shukla, who in June 2025 became the first Indian to visit the International Space Station on the Axiom-4 mission, received the Ashok Chakra. Fellow Gaganyaan astronaut-designate Prashanth Balakrishnan Nair received the Kirti Chakra, the second-highest peacetime gallantry award. Source: Adda247, 26 Jan 2026."
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Shubhanshu_Shukla"
+  },
+  {
+   "id": "290912d698",
+   "verdict": "ok",
+   "note": "Confirmed: Sobers died 17 Jul 2026 aged 89; Tests 1954-1974; 365* v Pakistan 1958; six sixes 1968.",
+   "source_url": "https://en.wikipedia.org/wiki/Garfield_Sobers"
+  },
+  {
+   "id": "e92e2ca8bc",
+   "verdict": "fix",
+   "note": "The stem's '40th anniversary ceremony in October 2026' and the explanation's March announcement date could not be confirmed; simplified stem and explanation to confirmed facts (Lelieveld is the 2026 laureate).",
+   "fix": {
+    "q": "Who was named the World Food Prize laureate for 2026?",
+    "explanation": "Dutch food safety scientist Huub Lelieveld is the 2026 laureate, honoured for translating the science of food safety into a global force for action. The prize carries USD 500,000 and is presented in Des Moines, Iowa (USA). The 2025 laureate was Brazil's Mariangela Hungria, and the 2024 laureates were Cary Fowler and Geoffrey Hawtin. Source: World Food Prize Foundation (via Wikipedia), 2026."
+   },
+   "source_url": "https://de.wikipedia.org/wiki/World_Food_Prize"
+  },
+  {
+   "id": "37ce1c51cc",
+   "verdict": "fix",
+   "note": "Explanation said 'India was fourth', which gives away the answer to the later question on India's position; removed.",
+   "fix": {
+    "explanation": "Australia finished first with 171 medals (70 gold, 45 silver, 56 bronze). England was second with 29 gold and Canada third with 19 gold. The Games were held in Glasgow from 23 July to 2 August 2026. Source: The Week, 2 Aug 2026."
+   },
+   "source_url": "https://en.wikipedia.org/wiki/2026_Commonwealth_Games"
+  },
+  {
+   "id": "8171992161",
+   "verdict": "fix",
+   "note": "Explanation named China, Japan and South Korea as the top three, which gives away the later medal-table question; removed and added the confirmed tie-break detail.",
+   "fix": {
+    "explanation": "India won 85 medals (21 gold, 27 silver, 37 bronze) and finished 4th. Uzbekistan also won 21 gold but had fewer silver medals (25), so it finished 5th. Source: News On AIR, 5 Oct 2026."
+   },
+   "source_url": "https://en.wikipedia.org/wiki/2026_Asian_Games_medal_table"
+  },
+  {
+   "id": "46a255a77c",
+   "verdict": "ok",
+   "note": "Confirmed: Ahmedabad hosts 2030 (centenary) Games; handover at Glasgow closing.",
+   "source_url": "https://en.wikipedia.org/wiki/2026_Commonwealth_Games"
+  },
+  {
+   "id": "bc1efd626d",
+   "verdict": "fix",
+   "note": "Claim that three golds is India's best-ever Asian Games boxing gold tally could not be confirmed; replaced with the confirmed bronze medallists.",
+   "fix": {
+    "explanation": "India won six boxing medals: three gold (Lovlina Borgohain 75 kg, Parveen Hooda 65 kg, Ankush Panghal 80 kg) and three bronze (Priya Ghanghas 60 kg, Kapil Pokhariya 90 kg, Narender Berwal +90 kg). Lovlina had won bronze at the Tokyo 2020 Olympics. Source: News On AIR, 5 Oct 2026."
+   },
+   "source_url": "https://en.wikipedia.org/wiki/India_at_the_2026_Asian_Games"
+  },
+  {
+   "id": "4b80103f8d",
+   "verdict": "ok",
+   "note": "Confirmed medal table: China 169 gold/341 total, Japan 83 gold, South Korea 39 gold, India 4th with 21 gold.",
+   "source_url": "https://en.wikipedia.org/wiki/2026_Asian_Games_medal_table"
+  },
+  {
+   "id": "7ed8d7f3c0",
+   "verdict": "ok",
+   "note": "Confirmed: India 13-17-9 = 39, 4th; Scotland 13-9-17 = 39, 5th.",
+   "source_url": "https://en.wikipedia.org/wiki/2026_Commonwealth_Games"
+  },
+  {
+   "id": "706ab4db51",
+   "verdict": "ok",
+   "note": "Confirmed: Doha, 21st Asian Games 2030, handover at 4 Oct 2026 closing; last hosted 2006; Riyadh 2034.",
+   "source_url": "https://en.wikipedia.org/wiki/2030_Asian_Games"
+  },
+  {
+   "id": "0467f72ec0",
+   "verdict": "ok",
+   "note": "Confirmed: Aichi-Nagoya, 19 Sep-4 Oct 2026; earlier Tokyo 1958, Hiroshima 1994; motto 'Imagine One Asia'.",
+   "source_url": "https://en.wikipedia.org/wiki/2026_Asian_Games"
+  },
+  {
+   "id": "9779cdd530",
+   "verdict": "ok",
+   "note": "Confirmed: Finnie, a unicorn; Perry 2022, Borobi 2018, Clyde 2014.",
+   "source_url": "https://en.wikipedia.org/wiki/Finnie_(mascot)"
+  },
+  {
+   "id": "8c4106157e",
+   "verdict": "fix",
+   "note": "Name-origin claim ('honoho' = flame) could not be confirmed; replaced with the confirmed design basis (shachihoko).",
+   "fix": {
+    "explanation": "Honohon is the mascot of the Aichi-Nagoya 2026 Asian Games; its design is based on the shachihoko, the mythical tiger-headed fish seen on the roof of Nagoya Castle. Miraitowa was the Tokyo 2020 Olympic mascot, Chenchen one of the Hangzhou Asian Games mascots and Bhin Bhin a Jakarta-Palembang 2018 mascot. Source: Wikipedia (2026 Asian Games), citing the Olympic Council of Asia."
+   },
+   "source_url": "https://en.wikipedia.org/wiki/2026_Asian_Games"
+  },
+  {
+   "id": "cee9dafd3c",
+   "verdict": "ok",
+   "note": "Confirmed: Mirabai Chanu flag-bearer, Lovlina baton-bearer; OVO Hydro; King Charles III opened; Chanu won India's first gold (48 kg).",
+   "source_url": "https://en.wikipedia.org/wiki/India_at_the_2026_Commonwealth_Games"
+  },
+  {
+   "id": "b0fd96ffe2",
+   "verdict": "ok",
+   "note": "Confirmed: Spain 1-0 Argentina aet, Ferran Torres 106', MetLife Stadium, 19 Jul 2026; Rodri Golden Ball; Mbappe Golden Boot with 10.",
+   "source_url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup_final"
+  },
+  {
+   "id": "070825f9ac",
+   "verdict": "ok",
+   "note": "Confirmed: India boxing 7 gold, 3 silver; gold medallists as listed.",
+   "source_url": "https://en.wikipedia.org/wiki/India_at_the_2026_Commonwealth_Games"
+  },
+  {
+   "id": "719a6a366e",
+   "verdict": "fix",
+   "note": "Explanation named Los Angeles as the 2028 Olympics host, which gives away the later 2028 host-city question; reworded and added the confirmed 1982 link.",
+   "fix": {
+    "explanation": "Lalremsiami scored the only goal against China, giving India its second women's hockey gold at the Asian Games, 44 years after 1982. The men's team beat Malaysia 5-1 to keep its title, and both teams qualified directly for the 2028 Olympics. Source: News On AIR, 5 Oct 2026."
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Field_hockey_at_the_2026_Asian_Games_%E2%80%93_Women%27s_tournament"
+  },
+  {
+   "id": "9430ca122a",
+   "verdict": "fix",
+   "note": "'Afghanistan was the losing finalist at Hangzhou' is inaccurate: that final was washed out and India got gold on seeding; corrected.",
+   "fix": {
+    "explanation": "India beat Pakistan by 19 runs in the final. The Indian women's team also retained its gold, beating Sri Lanka by 147 runs. At Hangzhou 2022 (held in 2023), the men's final against Afghanistan was washed out and India took gold on its higher seeding. Source: News On AIR, 5 Oct 2026."
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Cricket_at_the_2026_Asian_Games"
+  },
+  {
+   "id": "e8ace22dd0",
+   "verdict": "fix",
+   "note": "'Nine fewer than Birmingham 2022' depends on how the 2022 sports are counted (19 or 20) and could not be confirmed; replaced with the confirmed 'fewest since 1994'.",
+   "fix": {
+    "explanation": "Glasgow 2026 had 10 sports, the fewest at a Commonwealth Games since 1994; hockey, wrestling, shooting, badminton, table tennis and cricket were not on the programme. Teams from all 74 Commonwealth nations and territories took part, from 23 July to 2 August 2026. Source: Wikipedia (2026 Commonwealth Games), Aug 2026."
+   },
+   "source_url": "https://en.wikipedia.org/wiki/2026_Commonwealth_Games"
+  },
+  {
+   "id": "cccd2c8f72",
+   "verdict": "ok",
+   "note": "Confirmed: Australia beat England by 7 wickets at Lord's on 5 Jul 2026, record seventh title; Beth Mooney player of the final.",
+   "source_url": "https://en.wikipedia.org/wiki/2026_ICC_Women%27s_T20_World_Cup_final"
+  },
+  {
+   "id": "19a79cb754",
+   "verdict": "ok",
+   "note": "Confirmed: Antonelli clinched title with 3rd at Mexico City GP on 1 Nov 2026 (Verstappen won); youngest champion; Norris 2025 champion.",
+   "source_url": "https://en.wikipedia.org/wiki/2026_Mexico_City_Grand_Prix"
+  },
+  {
+   "id": "b2aca9abb9",
+   "verdict": "ok",
+   "note": "Confirmed: Kane won ahead of Mbappe and Yamal; Gerd Muller Trophy; Putellas third women's win (ceremony 26 Oct 2026).",
+   "source_url": "https://en.wikipedia.org/wiki/2026_Ballon_d%27Or"
+  },
+  {
+   "id": "542df23681",
+   "verdict": "ok",
+   "note": "Confirmed: Sinner beat Zverev in four sets; Wimbledon 2025 and 2026 titles; fifth major; Noskova women's champion.",
+   "source_url": "https://en.wikipedia.org/wiki/Jannik_Sinner"
+  },
+  {
+   "id": "51887873d6",
+   "verdict": "ok",
+   "note": "Confirmed: Zverev beat Shelton 6-3 7-6 5-7 6-2, second major of 2026 after French Open; Rybakina beat Sabalenka.",
+   "source_url": "https://en.wikipedia.org/wiki/2026_US_Open_%E2%80%93_Men%27s_singles"
+  },
+  {
+   "id": "259eacb2cf",
+   "verdict": "ok",
+   "note": "Confirmed: Germany 1-0 Spain at Belfius Hockey Arena, Wavre, 30 Aug 2026; fourth title, defending champion; Argentina won women's title.",
+   "source_url": "https://en.wikipedia.org/wiki/2026_Men%27s_FIH_Hockey_World_Cup"
+  },
+  {
+   "id": "51911b95fe",
+   "verdict": "ok",
+   "note": "Confirmed: Pranavi Urs golf gold; Aman Sehrawat wrestling; Parveen Hooda boxing 65 kg; Kumkum Mohod recurve archery.",
+   "source_url": "https://en.wikipedia.org/wiki/India_at_the_2026_Asian_Games"
+  },
+  {
+   "id": "aa94a40e70",
+   "verdict": "ok",
+   "note": "Confirmed: Fondation Martin Bodmer, Cologny, Geneva; opening 22 Nov, game 1 on 24 Nov, tiebreaks 12 Dec; 14 games; USD 2.5 million; Sindarov won Candidates.",
+   "source_url": "https://en.wikipedia.org/wiki/World_Chess_Championship_2026"
+  },
+  {
+   "id": "9301756e58",
+   "verdict": "ok",
+   "note": "Confirmed: Manu Bhaker and Pawan Sehrawat; Toor originally named; Neeru Dhanda closing flag-bearer.",
+   "source_url": "https://en.wikipedia.org/wiki/India_at_the_2026_Asian_Games"
+  },
+  {
+   "id": "2c65f40ebf",
+   "verdict": "ok",
+   "note": "Confirmed: Dakar, 31 Oct-13 Nov 2026, 4th Summer YOG, first IOC event in Africa; Buenos Aires 2018 previous.",
+   "source_url": "https://en.wikipedia.org/wiki/2026_Summer_Youth_Olympics"
+  },
+  {
+   "id": "e5d563d2a4",
+   "verdict": "ok",
+   "note": "Static fact correct.",
+   "source_url": "https://bwfbadminton.com/"
+  },
+  {
+   "id": "72f63492c4",
+   "verdict": "fix",
+   "note": "'A bully is used to restart play in hockey' may not match current FIH rules; reworded to the general definition.",
+   "fix": {
+    "explanation": "A bully is a hockey term: two opposing players tap sticks and then contest the ball, a method traditionally used to start or restart play. Birdie belongs to golf, checkmate to chess and LBW to cricket. Source: Encyclopaedia Britannica."
+   },
+   "source_url": "https://www.britannica.com/sports/field-hockey"
+  },
+  {
+   "id": "6b013adcd9",
+   "verdict": "ok",
+   "note": "Static fact correct (LA 2028, Brisbane 2032, Paris 2024).",
+   "source_url": "https://www.olympics.com/en/olympic-games/los-angeles-2028"
+  },
+  {
+   "id": "2e6cd914e6",
+   "verdict": "ok",
+   "note": "Static fact correct (FIFA Congress, 11 Dec 2024).",
+   "source_url": "https://www.fifa.com/"
+  },
+  {
+   "id": "e9d17be655",
+   "verdict": "ok",
+   "note": "Static fact correct.",
+   "source_url": "https://www.icc-cricket.com/"
+  },
+  {
+   "id": "b4d4d838b0",
+   "verdict": "ok",
+   "note": "Static fact correct (ICC moved to Dubai in 2005).",
+   "source_url": "https://www.icc-cricket.com/"
+  }
+ ]
+}

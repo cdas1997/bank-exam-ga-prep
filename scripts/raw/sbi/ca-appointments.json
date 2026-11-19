@@ -1,0 +1,724 @@
+{
+ "batches": [
+  {
+   "key": "ca-appointments",
+   "name": "Appointments & resignations",
+   "questions": [
+    {
+     "q": "Who took charge as Managing Director and CEO of HDFC Bank on 27 October 2026?",
+     "options": [
+      "Kaizad Bharucha",
+      "Anup Bagchi",
+      "Anup Kumar Saha",
+      "Sandeep Bakhshi"
+     ],
+     "answer": "B",
+     "explanation": "Anup Bagchi took charge on 27 October 2026 after RBI approved a three-year term. He succeeded Sashidhar Jagdishan, whose tenure ended on 26 October 2026, and came from ICICI Prudential Life Insurance. Source: Business Today, 27 Oct 2026.",
+     "likely": 5,
+     "fact": "Anup Bagchi became MD & CEO of HDFC Bank on 27 October 2026.",
+     "event_date": "2026-10-27",
+     "kind": "news",
+     "source_url": "https://www.businesstoday.in/latest/corporate/story/after-sashidhar-jagadishan-anup-bagchi-takes-charge-as-hdfc-bank-md-and-ceo-563841-2026-10-27",
+     "confidence": "high"
+    },
+    {
+     "q": "In October 2026, the RBI approved whom as MD and CEO of Kotak Mahindra Bank for three years from 1 January 2027?",
+     "options": [
+      "Paritosh Kashyap",
+      "Shanti Ekambaram",
+      "Anup Kumar Saha",
+      "Anup Bagchi"
+     ],
+     "answer": "C",
+     "explanation": "RBI approved Anup Kumar Saha, a whole-time director of the bank and former Bajaj Finance executive, for three years from 1 January 2027. He will succeed Ashok Vaswani, whose term ends on 31 December 2026. Source: ThePrint (Bloomberg), 1 Oct 2026.",
+     "likely": 5,
+     "fact": "RBI approved Anup Kumar Saha as MD & CEO of Kotak Mahindra Bank for three years from 1 January 2027.",
+     "event_date": "2026-10-01",
+     "kind": "news",
+     "source_url": "https://theprint.in/economy/kotak-mahindra-bank-says-anup-saha-approved-by-regulator-as-ceo/3058751/",
+     "confidence": "high"
+    },
+    {
+     "q": "Who took over as the Chief of the Army Staff on 30 June 2026, succeeding General Upendra Dwivedi?",
+     "options": [
+      "General N.S. Raja Subramani",
+      "General Dhiraj Seth",
+      "Lt Gen Pushpendra Singh",
+      "General Anil Chauhan"
+     ],
+     "answer": "B",
+     "explanation": "General Dhiraj Seth, an Armoured Corps officer commissioned in December 1986, took over on 30 June 2026. He is the first Armoured Corps officer to head the Army since 1997, and his tenure runs to August 2028. Source: Free Press Journal (IANS), 30 Jun 2026.",
+     "likely": 5,
+     "fact": "General Dhiraj Seth became Chief of the Army Staff on 30 June 2026.",
+     "event_date": "2026-06-30",
+     "kind": "news",
+     "source_url": "https://www.freepressjournal.in/india/general-dhiraj-seth-takes-over-as-indian-army-chief-marking-armoured-corps-leadership-return-after-nearly-3-decades",
+     "confidence": "high"
+    },
+    {
+     "q": "Who took charge as the 29th Chief of the Air Staff on 31 October 2026?",
+     "options": [
+      "Air Chief Marshal A.P. Singh",
+      "Air Marshal Nagesh Kapoor",
+      "Air Chief Marshal Ashutosh Dixit",
+      "Air Marshal Inderpal Singh Walia"
+     ],
+     "answer": "C",
+     "explanation": "Air Chief Marshal Ashutosh Dixit took charge on 31 October 2026, succeeding Air Chief Marshal A.P. Singh, who retired after 42 years of service. Dixit was earlier Vice Chief of the Air Staff and was commissioned in the fighter stream in 1986. Source: All India Radio News, 31 Oct 2026.",
+     "likely": 5,
+     "fact": "Air Chief Marshal Ashutosh Dixit became the 29th Chief of the Air Staff on 31 October 2026.",
+     "event_date": "2026-10-31",
+     "kind": "news",
+     "source_url": "https://newsonair.gov.in/air-chief-marshal-ashutosh-dixit-takes-charge-as-29th-chief-of-air-staff/",
+     "confidence": "high"
+    },
+    {
+     "q": "Who became the Prime Minister of the United Kingdom on 20 July 2026 after Keir Starmer resigned?",
+     "options": [
+      "Wes Streeting",
+      "Angela Rayner",
+      "Rachel Reeves",
+      "Andy Burnham"
+     ],
+     "answer": "D",
+     "explanation": "Andy Burnham became Prime Minister on 20 July 2026 after winning the Labour leadership unopposed. He was earlier Mayor of Greater Manchester and returned to Parliament through the Makerfield by-election in June 2026. Source: GOV.UK, 20 Jul 2026.",
+     "likely": 5,
+     "fact": "Andy Burnham became UK Prime Minister on 20 July 2026, succeeding Keir Starmer.",
+     "event_date": "2026-07-20",
+     "kind": "news",
+     "source_url": "https://www.gov.uk/government/ministers/prime-minister",
+     "confidence": "high"
+    },
+    {
+     "q": "In October 2026, who was appointed part-time Chairperson of the Financial Services Institutions Bureau (FSIB) for three years?",
+     "options": [
+      "Bhanu Pratap Sharma",
+      "S.C.L. Das",
+      "Arijit Basu",
+      "Siddhartha Mohanty"
+     ],
+     "answer": "B",
+     "explanation": "Retired IAS officer Subhash Chandra Lal (S.C.L.) Das was appointed FSIB Chairperson for three years from 16 October 2026. He succeeded Bhanu Pratap Sharma, whose extended tenure ended on 30 June 2026. FSIB recommends top appointments in public sector banks, financial institutions and insurers. Source: Indian Masterminds, 17 Oct 2026.",
+     "likely": 4,
+     "fact": "S.C.L. Das was appointed FSIB Chairperson for three years from 16 October 2026.",
+     "event_date": "2026-10-16",
+     "kind": "news",
+     "source_url": "https://indianmasterminds.com/news/fsib-appointments-2026-scl-das-chairperson-members-243369/",
+     "confidence": "medium"
+    },
+    {
+     "q": "The Financial Services Institutions Bureau (FSIB), reconstituted in October 2026, replaced which earlier body in 2022?",
+     "options": [
+      "Board for Financial Supervision",
+      "Public Enterprises Selection Board",
+      "Banks Board Bureau",
+      "Indian Banks' Association"
+     ],
+     "answer": "C",
+     "explanation": "FSIB replaced the Banks Board Bureau (set up in 2016) in 2022. It works under the Department of Financial Services, Ministry of Finance, and recommends whole-time directors and chairpersons of public sector banks, financial institutions and insurers. Source: GKToday, 17 Oct 2026.",
+     "likely": 4,
+     "fact": "FSIB replaced the Banks Board Bureau in 2022.",
+     "event_date": "static",
+     "kind": "news-static",
+     "source_url": "https://www.gktoday.in/scl-das-to-lead-financial-services-institutions-bureau/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Who was sworn in as the 25th Chief Minister of Karnataka on 3 June 2026?",
+     "options": [
+      "Siddaramaiah",
+      "G. Parameshwara",
+      "D.K. Shivakumar",
+      "M.B. Patil"
+     ],
+     "answer": "C",
+     "explanation": "Congress leader D.K. Shivakumar was sworn in on 3 June 2026 by Governor Thaawarchand Gehlot, succeeding Siddaramaiah. G. Parameshwara took oath as Deputy Chief Minister. Source: All India Radio News, 3 Jun 2026.",
+     "likely": 4,
+     "fact": "D.K. Shivakumar was sworn in as the 25th Chief Minister of Karnataka on 3 June 2026.",
+     "event_date": "2026-06-03",
+     "kind": "news",
+     "source_url": "https://newsonair.gov.in/d-k-shivakumar-sworn-in-as-karnataka-chief-minister/",
+     "confidence": "high"
+    },
+    {
+     "q": "Mahesh Muralidhar Pai, earlier a Chief General Manager at Canara Bank, became MD and CEO of which private sector bank from 1 October 2026?",
+     "options": [
+      "Federal Bank",
+      "South Indian Bank",
+      "CSB Bank",
+      "Dhanlaxmi Bank"
+     ],
+     "answer": "B",
+     "explanation": "RBI approved Pai as MD & CEO of South Indian Bank for three years from 1 October 2026; he succeeded P.R. Seshadri. The bank is headquartered in Thrissur, Kerala. Source: Business Standard, 8 Jul 2026.",
+     "likely": 4,
+     "fact": "Mahesh Muralidhar Pai became MD & CEO of South Indian Bank from 1 October 2026.",
+     "event_date": "2026-10-01",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-2-3-october-2026/",
+     "confidence": "high"
+    },
+    {
+     "q": "Who was appointed Executive Director of the Reserve Bank of India with effect from 1 October 2026 to look after the Department of Supervision?",
+     "options": [
+      "Suman Ray",
+      "Monisha Chakraborty",
+      "Ravi Shankar",
+      "Sudhakar Malli"
+     ],
+     "answer": "D",
+     "explanation": "RBI appointed Sudhakar Malli, earlier Chief General Manager-in-Charge of the Department of Supervision, as Executive Director from 1 October 2026. Suman Ray (1 September), Monisha Chakraborty (3 August) and Ravi Shankar (1 July) were the other EDs appointed in 2026. Source: RBI press release 2026-2027/1241, 2 Oct 2026.",
+     "likely": 4,
+     "fact": "Sudhakar Malli became RBI Executive Director from 1 October 2026, in charge of the Department of Supervision.",
+     "event_date": "2026-10-01",
+     "kind": "news",
+     "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63719",
+     "confidence": "high"
+    },
+    {
+     "q": "In June 2026, the Centre re-appointed Swaminathan J as Deputy Governor of the RBI from 26 June 2026 for how long?",
+     "options": [
+      "One year",
+      "Two years",
+      "Three years",
+      "Five years"
+     ],
+     "answer": "B",
+     "explanation": "Swaminathan J, a former SBI Managing Director, was re-appointed for two years from 26 June 2026. The RBI Act, 1934 provides for four Deputy Governors; the others are Poonam Gupta, S.C. Murmu and Rohit Jain. Source: RBI press release, 5 Jun 2026.",
+     "likely": 4,
+     "fact": "Swaminathan J was re-appointed RBI Deputy Governor for two years from 26 June 2026.",
+     "event_date": "2026-06-26",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-10-june-2026/",
+     "confidence": "high"
+    },
+    {
+     "q": "Hitesh Rameshchandra Joshi was appointed Chairman-cum-Managing Director of which public sector company with effect from 16 June 2026?",
+     "options": [
+      "New India Assurance",
+      "Life Insurance Corporation of India",
+      "General Insurance Corporation of India (GIC Re)",
+      "Agriculture Insurance Company of India"
+     ],
+     "answer": "C",
+     "explanation": "Hitesh Joshi was appointed CMD of GIC Re, India's national reinsurer, from 16 June 2026 until 30 September 2028. He had been interim CMD since 1 October 2025. GIC Re is headquartered in Mumbai. Source: Reinsurance News, 17 Jun 2026.",
+     "likely": 4,
+     "fact": "Hitesh Joshi became CMD of GIC Re with effect from 16 June 2026.",
+     "event_date": "2026-06-16",
+     "kind": "news",
+     "source_url": "https://www.reinsurancene.ws/hitesh-joshi-appointed-gic-re-chairman-and-managing-director/",
+     "confidence": "high"
+    },
+    {
+     "q": "After Dharmendra Pradhan resigned as Union Education Minister on 25 July 2026, which Union Minister was given additional charge of the Ministry of Education?",
+     "options": [
+      "Bhupender Yadav",
+      "Pralhad Joshi",
+      "Ashwini Vaishnaw",
+      "Kiren Rijiju"
+     ],
+     "answer": "B",
+     "explanation": "Pradhan resigned on 25 July 2026 amid protests over the NEET-UG 2026 paper leak. Pralhad Joshi, who holds Consumer Affairs and New and Renewable Energy, got additional charge. This may change if a full-time minister is named. Source: AffairsCloud, 28 Jul 2026.",
+     "likely": 4,
+     "fact": "Pralhad Joshi got additional charge of the Education Ministry after Dharmendra Pradhan resigned on 25 July 2026.",
+     "event_date": "2026-07-25",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-28-july-2026/",
+     "confidence": "medium"
+    },
+    {
+     "q": "In August 2026, the Appointments Committee of the Cabinet gave a one-year extension to which officer as Cabinet Secretary?",
+     "options": [
+      "Govind Mohan",
+      "Rajiv Gauba",
+      "T.V. Somanathan",
+      "Vikram Misri"
+     ],
+     "answer": "C",
+     "explanation": "T.V. Somanathan, Cabinet Secretary since August 2024, got a one-year extension and stays till 30 August 2027. Home Secretary Govind Mohan was also extended by a year to 22 August 2027. Source: Adda247, 6 Aug 2026.",
+     "likely": 4,
+     "fact": "Cabinet Secretary T.V. Somanathan got a one-year extension in August 2026.",
+     "event_date": "2026-08-06",
+     "kind": "news",
+     "source_url": "https://currentaffairs.adda247.com/cabinet-secretary-tv-somanathan-and-home-secretary-govind-mohan-get-one-year-extension/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Who took charge as Chief Executive Officer of NITI Aayog in August 2026?",
+     "options": [
+      "Nidhi Chhibber",
+      "Anurag Jain",
+      "B.V.R. Subrahmanyam",
+      "Suman Bery"
+     ],
+     "answer": "B",
+     "explanation": "Anurag Jain, a 1989-batch IAS officer of the Madhya Pradesh cadre, was appointed for two years in July 2026 and took charge on 17 August 2026. Nidhi Chhibber had held additional charge after B.V.R. Subrahmanyam's term ended. Source: Business Standard, 18 Aug 2026.",
+     "likely": 4,
+     "fact": "Anurag Jain took charge as CEO of NITI Aayog on 17 August 2026.",
+     "event_date": "2026-08-17",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-24-july-2026/",
+     "confidence": "high"
+    },
+    {
+     "q": "S. Somanath, appointed a part-time non-official director on the RBI Central Board in August 2026, is a former chairman of which organisation?",
+     "options": [
+      "DRDO",
+      "ISRO",
+      "Atomic Energy Commission",
+      "CSIR"
+     ],
+     "answer": "B",
+     "explanation": "Former ISRO Chairman S. Somanath was appointed to the RBI Central Board for four years from 20 August 2026, and Anand Mahindra was re-appointed. Such directors are nominated under Section 8(1)(c) of the RBI Act, 1934. Source: AffairsCloud, 22 Aug 2026.",
+     "likely": 4,
+     "fact": "Former ISRO Chairman S. Somanath joined the RBI Central Board in August 2026.",
+     "event_date": "2026-08-20",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-22-august-2026/",
+     "confidence": "high"
+    },
+    {
+     "q": "Khalilur Rahman, who took office as President of the 81st session of the UN General Assembly in September 2026, is from which country?",
+     "options": [
+      "Nepal",
+      "Cyprus",
+      "Bangladesh",
+      "Germany"
+     ],
+     "answer": "C",
+     "explanation": "Bangladesh's Khalilur Rahman took office on 8 September 2026, succeeding Germany's Annalena Baerbock (80th session). He was elected in June 2026, defeating Andreas Kakouris of Cyprus. Source: AffairsCloud, 4 Jun 2026.",
+     "likely": 4,
+     "fact": "Khalilur Rahman of Bangladesh is President of the 81st UN General Assembly session.",
+     "event_date": "2026-09-08",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-4-june-2026/",
+     "confidence": "high"
+    },
+    {
+     "q": "Who was elected President of the International Chess Federation (FIDE) on 26 September 2026?",
+     "options": [
+      "Wadim Rosenstein",
+      "Arkady Dvorkovich",
+      "Viswanathan Anand",
+      "Timur Turlov"
+     ],
+     "answer": "D",
+     "explanation": "Kazakhstan's Timur Turlov was elected FIDE President on 26 September 2026, replacing Arkady Dvorkovich. Viswanathan Anand, who was interim President from July 2026, is Deputy President. FIDE is headquartered in Lausanne, Switzerland. Source: Reuters, 26 Sep 2026 (via Wikipedia).",
+     "likely": 4,
+     "fact": "Timur Turlov was elected FIDE President on 26 September 2026.",
+     "event_date": "2026-09-26",
+     "kind": "news",
+     "source_url": "https://en.wikipedia.org/wiki/Timur_Turlov",
+     "confidence": "medium"
+    },
+    {
+     "q": "Which Indian took over as interim President of FIDE in July 2026 after Arkady Dvorkovich suspended his duties?",
+     "options": [
+      "D. Gukesh",
+      "Viswanathan Anand",
+      "Koneru Humpy",
+      "Pentala Harikrishna"
+     ],
+     "answer": "B",
+     "explanation": "FIDE Deputy President Viswanathan Anand was made interim President on 23 July 2026 after Dvorkovich stepped aside following EU sanctions. Anand is a five-time World Chess Champion. Timur Turlov was elected President in September 2026. Source: AffairsCloud, 26-27 Jul 2026.",
+     "likely": 4,
+     "fact": "Viswanathan Anand became interim FIDE President in July 2026.",
+     "event_date": "2026-07-23",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-26-27-july-2026/",
+     "confidence": "medium"
+    },
+    {
+     "q": "In the Governor appointments announced by the President on 12 October 2026, who was named Governor of Karnataka?",
+     "options": [
+      "Braj Mohan Ram",
+      "Dhal Singh Bisen",
+      "Sudha Yadav",
+      "Dushyant Gautam"
+     ],
+     "answer": "C",
+     "explanation": "Former Lok Sabha MP Dr Sudha Yadav was named Governor of Karnataka, succeeding Thaawarchand Gehlot. The same order named Braj Mohan Ram for Odisha, Dhal Singh Bisen for Uttarakhand and Dushyant Gautam for Sikkim. Governors are appointed by the President under Article 155. Source: Organiser, 13 Oct 2026.",
+     "likely": 4,
+     "fact": "Sudha Yadav was appointed Governor of Karnataka on 12 October 2026.",
+     "event_date": "2026-10-12",
+     "kind": "news",
+     "source_url": "https://organiser.org/2026/10/13/386125/bharat/six-states-get-new-governors-who-are-om-prakash-sudha-yadav-dushyant-gautam-and-others/",
+     "confidence": "high"
+    },
+    {
+     "q": "General Dhiraj Seth, who took over the Indian Army on 30 June 2026, is which Chief of the Army Staff in order?",
+     "options": [
+      "29th",
+      "30th",
+      "31st",
+      "32nd"
+     ],
+     "answer": "C",
+     "explanation": "General Dhiraj Seth is the 31st Chief of the Army Staff; General Upendra Dwivedi was the 30th. Seth was the 49th Vice Chief of the Army Staff before this. Source: Telangana Today (IANS), 30 Jun 2026.",
+     "likely": 4,
+     "fact": "General Dhiraj Seth is the 31st Chief of the Army Staff.",
+     "event_date": "2026-06-30",
+     "kind": "news-static",
+     "source_url": "https://telanganatoday.com/general-dhiraj-seth-takes-charge-as-indias-31st-army-chief",
+     "confidence": "high"
+    },
+    {
+     "q": "In October 2026, the Appointments Committee of the Cabinet approved whom as the next Chairman of ONGC, to succeed Arun Kumar Singh in December 2026?",
+     "options": [
+      "Deepak Gupta",
+      "Sanjay Khanna",
+      "Sunil Kumar",
+      "Arvinder Singh Sahney"
+     ],
+     "answer": "C",
+     "explanation": "ONGC Executive Director Sunil Kumar was approved on 21 October 2026 and takes charge on or after 7 December 2026; Arun Kumar Singh's extended tenure ends on 6 December 2026, so Singh is still chairman in November. ONGC is a Maharatna under the Ministry of Petroleum and Natural Gas. Source: Adda247, 23 Oct 2026.",
+     "likely": 4,
+     "fact": "The ACC approved Sunil Kumar as the next ONGC Chairman in October 2026.",
+     "event_date": "2026-10-21",
+     "kind": "news",
+     "source_url": "https://currentaffairs.adda247.com/sunil-kumar-appointed-next-ongc-chairman-tenure-and-key-facts/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Jatin Kumar Nayak took charge as CMD of IREDA at the end of October 2026. IREDA works under which ministry?",
+     "options": [
+      "Ministry of Power",
+      "Ministry of New and Renewable Energy",
+      "Ministry of Coal",
+      "Ministry of Petroleum and Natural Gas"
+     ],
+     "answer": "B",
+     "explanation": "IREDA (Indian Renewable Energy Development Agency) is a Navratna CPSE under the Ministry of New and Renewable Energy. Jatin Kumar Nayak, earlier Executive Director (Finance) at REC, became its CMD on 30 October 2026. Source: Adda247, 31 Oct 2026.",
+     "likely": 4,
+     "fact": "IREDA is under the Ministry of New and Renewable Energy; Jatin Kumar Nayak became its CMD in October 2026.",
+     "event_date": "2026-10-30",
+     "kind": "news-static",
+     "source_url": "https://currentaffairs.adda247.com/jatin-kumar-nayak-takes-charge-as-ireda-chairman-and-managing-director/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Former Chief Election Commissioner Rajiv Kumar was approved by the RBI in July 2026 as part-time chairman of which bank?",
+     "options": [
+      "Axis Bank",
+      "ICICI Bank",
+      "IndusInd Bank",
+      "HDFC Bank"
+     ],
+     "answer": "D",
+     "explanation": "RBI approved Rajiv Kumar as part-time chairman of HDFC Bank for three years from 15 July 2026. He followed Atanu Chakraborty, who resigned in March 2026; Keki Mistry was interim chairman in between. Source: HDFC Bank filing, 15 Jul 2026.",
+     "likely": 4,
+     "fact": "Rajiv Kumar became part-time chairman of HDFC Bank in July 2026.",
+     "event_date": "2026-07-15",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-3-july-2026/",
+     "confidence": "high"
+    },
+    {
+     "q": "The UN Secretary-General, whose selection for the term starting 1 January 2027 was under way in November 2026, is appointed by the General Assembly on the recommendation of which body?",
+     "options": [
+      "Economic and Social Council",
+      "International Court of Justice",
+      "Security Council",
+      "Trusteeship Council"
+     ],
+     "answer": "C",
+     "explanation": "Under Article 97 of the UN Charter, the General Assembly appoints the Secretary-General on the Security Council's recommendation. Antonio Guterres's term ends on 31 December 2026; no successor had been recommended by mid-November 2026. Source: Al Jazeera, 15 Nov 2026.",
+     "likely": 4,
+     "fact": "The UN Secretary-General is appointed by the General Assembly on the Security Council's recommendation.",
+     "event_date": "static",
+     "kind": "news-static",
+     "source_url": "https://www.aljazeera.com/news/2026/11/15/secret-votes-and-vetoes-how-will-the-next-un-chief-be-picked",
+     "confidence": "high"
+    },
+    {
+     "q": "Monisha Chakraborty, appointed Executive Director of the RBI from 3 August 2026, looks after the Financial Markets Regulation Department and which other department?",
+     "options": [
+      "Department of Currency Management",
+      "Department of Supervision",
+      "Foreign Exchange Department",
+      "Department of Statistics and Information Management"
+     ],
+     "answer": "C",
+     "explanation": "Monisha Chakraborty became Executive Director on 3 August 2026 with charge of the Foreign Exchange Department and the Financial Markets Regulation Department. RBI is headquartered in Mumbai. Source: RBI press release 2026-2027/801, 3 Aug 2026.",
+     "likely": 3,
+     "fact": "RBI ED Monisha Chakraborty oversees the Foreign Exchange Department and the Financial Markets Regulation Department.",
+     "event_date": "2026-08-03",
+     "kind": "news",
+     "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63279",
+     "confidence": "high"
+    },
+    {
+     "q": "Suman Ray, who became an Executive Director of the RBI on 1 September 2026, was given charge of the Premises Department and the department dealing with which corporation?",
+     "options": [
+      "NABARD",
+      "Deposit Insurance and Credit Guarantee Corporation",
+      "National Housing Bank",
+      "Bharatiya Reserve Bank Note Mudran"
+     ],
+     "answer": "B",
+     "explanation": "Suman Ray, earlier RBI Regional Director for Maharashtra, became Executive Director from 1 September 2026 and looks after the DICGC department and the Premises Department. DICGC insures deposits up to Rs 5 lakh per depositor per bank. Source: RBI press release 2026-2027/1013, 1 Sep 2026.",
+     "likely": 3,
+     "fact": "RBI ED Suman Ray (from 1 September 2026) oversees the DICGC department and the Premises Department.",
+     "event_date": "2026-09-01",
+     "kind": "news",
+     "source_url": "https://www.rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63491",
+     "confidence": "high"
+    },
+    {
+     "q": "In September 2026, Jayanti Prasad took additional charge as Chairperson of which body after Ravi Mital's tenure ended?",
+     "options": [
+      "Competition Commission of India",
+      "National Financial Reporting Authority",
+      "Insolvency and Bankruptcy Board of India",
+      "National Company Law Appellate Tribunal"
+     ],
+     "answer": "C",
+     "explanation": "IBBI Whole-Time Member Jayanti Prasad took additional charge as Chairperson from 13 September 2026, up to 20 November 2026 or until a new chairperson joins, so the post may change soon. IBBI was set up on 1 October 2016 under the IBC, 2016 and is based in New Delhi. Source: PSU Watch, 22 Sep 2026.",
+     "likely": 3,
+     "fact": "Jayanti Prasad took additional charge as IBBI Chairperson from 13 September 2026 after Ravi Mital.",
+     "event_date": "2026-09-13",
+     "kind": "news",
+     "source_url": "https://psuwatch.com/newsupdates/jayanti-prasad-takes-additional-charge-as-ibbi-chairperson",
+     "confidence": "high"
+    },
+    {
+     "q": "In October 2026, Rajendra Vishwanath Arlekar was moved from Keralam (Kerala) to be the Governor of which state?",
+     "options": [
+      "Odisha",
+      "Tamil Nadu",
+      "Uttarakhand",
+      "Sikkim"
+     ],
+     "answer": "B",
+     "explanation": "Arlekar was appointed full-time Governor of Tamil Nadu on 12 October 2026; he had held its additional charge since March 2026. Om Prakash Mathur moved from Sikkim and was sworn in as the 29th Governor of Keralam. Source: Organiser, 13 Oct 2026.",
+     "likely": 3,
+     "fact": "Rajendra Arlekar was moved from Keralam to Tamil Nadu as Governor in October 2026.",
+     "event_date": "2026-10-12",
+     "kind": "news",
+     "source_url": "https://organiser.org/2026/10/13/386125/bharat/six-states-get-new-governors-who-are-om-prakash-sudha-yadav-dushyant-gautam-and-others/",
+     "confidence": "high"
+    },
+    {
+     "q": "Who won the run-off of Brazil's presidential election held on 25 October 2026?",
+     "options": [
+      "Flavio Bolsonaro",
+      "Geraldo Alckmin",
+      "Luiz Inacio Lula da Silva",
+      "Fernando Haddad"
+     ],
+     "answer": "C",
+     "explanation": "President Lula won a fourth term with about 51.8% of the vote against Flavio Bolsonaro, after trailing in the first round on 4 October 2026. Geraldo Alckmin is his Vice-President. Brazil's capital is Brasilia. Source: AffairsCloud, 27 Oct 2026.",
+     "likely": 3,
+     "fact": "Lula da Silva won Brazil's presidential run-off on 25 October 2026.",
+     "event_date": "2026-10-25",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-27-october-2026/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Who became the President of Bangladesh in August 2026 after Mohammed Shahabuddin resigned?",
+     "options": [
+      "Tarique Rahman",
+      "Hafiz Uddin Ahmad",
+      "Khalilur Rahman",
+      "Mirza Fakhrul Islam Alamgir"
+     ],
+     "answer": "D",
+     "explanation": "BNP leader Mirza Fakhrul Islam Alamgir was elected by Parliament and has been President since 21 August 2026. Shahabuddin resigned on 24 July 2026 on health grounds. Tarique Rahman is the Prime Minister. Source: AffairsCloud, 22 Aug 2026.",
+     "likely": 3,
+     "fact": "Mirza Fakhrul Islam Alamgir became President of Bangladesh in August 2026.",
+     "event_date": "2026-08-21",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-22-august-2026/",
+     "confidence": "medium"
+    },
+    {
+     "q": "In August 2026, the Air India board appointed which former Ethiopian Airlines chief as CEO and Managing Director?",
+     "options": [
+      "Campbell Wilson",
+      "William Walsh",
+      "Tewolde Gebremariam",
+      "Pradeep Singh Kharola"
+     ],
+     "answer": "C",
+     "explanation": "Tewolde Gebremariam, CEO of Ethiopian Airlines Group from 2011 to 2022, was named in August 2026 to succeed Campbell Wilson. Air India is owned by the Tata Group and is headquartered in Gurugram. Source: The Hindu, 5 Aug 2026 (via Wikipedia).",
+     "likely": 3,
+     "fact": "Air India appointed Tewolde Gebremariam as CEO & MD in August 2026.",
+     "event_date": "2026-08",
+     "kind": "news",
+     "source_url": "https://en.wikipedia.org/wiki/Tewolde_GebreMariam",
+     "confidence": "medium"
+    },
+    {
+     "q": "In August 2026, renewable energy company Hero Future Energies named which sportsperson as its brand ambassador?",
+     "options": [
+      "Saina Nehwal",
+      "Manu Bhaker",
+      "P.V. Sindhu",
+      "Smriti Mandhana"
+     ],
+     "answer": "C",
+     "explanation": "Hero Future Energies, the renewable energy arm of the Hero Group, appointed badminton player P.V. Sindhu on 17 August 2026. Sindhu won Olympic silver in 2016 and bronze in 2020. Source: Manifest Media, 17 Aug 2026.",
+     "likely": 3,
+     "fact": "P.V. Sindhu was named brand ambassador of Hero Future Energies in August 2026.",
+     "event_date": "2026-08-17",
+     "kind": "news",
+     "source_url": "https://www.manifest-media.in/marketing/170826/hero-future-energies-appoints-pv-sindhu-as-brand-ambassador.html",
+     "confidence": "high"
+    },
+    {
+     "q": "In July 2026, Infosys named whom as CEO-designate to succeed Salil Parekh from 1 April 2027?",
+     "options": [
+      "Nandan Nilekani",
+      "Jayesh Sanghrajka",
+      "Ashiss Kumar Dash",
+      "Mohit Joshi"
+     ],
+     "answer": "C",
+     "explanation": "The Infosys board named Ashiss Kumar Dash as CEO-designate; he becomes MD & CEO for five years from 1 April 2027. Salil Parekh serves until 31 March 2027. Infosys is headquartered in Bengaluru. Source: Adda247, 24 Jul 2026.",
+     "likely": 3,
+     "fact": "Infosys named Ashiss Kumar Dash CEO-designate in July 2026.",
+     "event_date": "2026-07",
+     "kind": "news",
+     "source_url": "https://currentaffairs.adda247.com/infosys-appoints-ashiss-dash-as-next-ceo-as-salil-parekh-to-exit-in-2027/",
+     "confidence": "medium"
+    },
+    {
+     "q": "In September 2026, which Nobel laureate was named Chief Economist of the World Bank Group?",
+     "options": [
+      "Abhijit Banerjee",
+      "Michael Kremer",
+      "Indermit Gill",
+      "Esther Duflo"
+     ],
+     "answer": "B",
+     "explanation": "World Bank President Ajay Banga named Michael Kremer, joint winner of the 2019 Economics Nobel, as Chief Economist and Senior Vice President for Development Economics from 1 October 2026. The World Bank is headquartered in Washington, D.C. Source: World Bank press release, 16 Sep 2026.",
+     "likely": 3,
+     "fact": "Michael Kremer was named World Bank Group Chief Economist in September 2026.",
+     "event_date": "2026-09-16",
+     "kind": "news",
+     "source_url": "https://www.worldbank.org/en/news/press-release/2026/09/16/michael-kremer-appointed-as-world-bank-group-chief-economist",
+     "confidence": "high"
+    },
+    {
+     "q": "Luke Lindberg of the United States took over in September 2026 as Executive Director of which UN agency headquartered in Rome?",
+     "options": [
+      "Food and Agriculture Organization",
+      "World Food Programme",
+      "International Fund for Agricultural Development",
+      "UNICEF"
+     ],
+     "answer": "B",
+     "explanation": "Luke Lindberg succeeded Cindy McCain as Executive Director of the World Food Programme. WFP was set up in 1961, is based in Rome and won the Nobel Peace Prize in 2020. Source: AffairsCloud, 23 Sep 2026.",
+     "likely": 3,
+     "fact": "Luke Lindberg became Executive Director of the World Food Programme in September 2026.",
+     "event_date": "2026-09",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-23-september-2026/",
+     "confidence": "medium"
+    },
+    {
+     "q": "K. Rajaraman's tenure as Chairperson was extended up to 24 October 2028 by a Finance Ministry notification of 30 July 2026. Which body does he head?",
+     "options": [
+      "PFRDA",
+      "IRDAI",
+      "IFSCA",
+      "SEBI"
+     ],
+     "answer": "C",
+     "explanation": "K. Rajaraman has chaired the International Financial Services Centres Authority since 1 August 2023; his term was due to end on 31 July 2026. IFSCA is headquartered at GIFT City, Gandhinagar. Source: Elets eGov, 6 Aug 2026.",
+     "likely": 3,
+     "fact": "K. Rajaraman's tenure as IFSCA Chairperson was extended to 24 October 2028.",
+     "event_date": "2026-07-30",
+     "kind": "news",
+     "source_url": "https://egov.eletsonline.com/2026/08/government-extends-k-rajaramans-tenure-as-ifsca-chairperson-till-october-2028/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Jensen Huang resigned as President and CEO of which company on 12 November 2026?",
+     "options": [
+      "AMD",
+      "Intel",
+      "Qualcomm",
+      "Nvidia"
+     ],
+     "answer": "D",
+     "explanation": "Jensen Huang, co-founder of Nvidia, resigned on 12 November 2026. CFO Colette Kress became interim CEO and Harvey C. Jones was named the first Chair of the Board. Source: NVIDIA Newsroom, 12 Nov 2026.",
+     "likely": 3,
+     "fact": "Jensen Huang resigned as Nvidia CEO on 12 November 2026; Colette Kress is interim CEO.",
+     "event_date": "2026-11-12",
+     "kind": "news",
+     "source_url": "https://nvidianews.nvidia.com/news/nvidia-announces-ceo-transition",
+     "confidence": "high"
+    },
+    {
+     "q": "Pedro Alliana was sworn in on 6 November 2026 as President of which South American country after Santiago Pena was removed by impeachment?",
+     "options": [
+      "Uruguay",
+      "Paraguay",
+      "Bolivia",
+      "Ecuador"
+     ],
+     "answer": "B",
+     "explanation": "Vice-President Pedro Alliana became President of Paraguay on 6 November 2026 and will complete the term ending in August 2028. Paraguay's capital is Asuncion. Source: AffairsCloud, 10 Nov 2026.",
+     "likely": 3,
+     "fact": "Pedro Alliana became President of Paraguay on 6 November 2026.",
+     "event_date": "2026-11-06",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-10-november-2026/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Iliana Iotova, who won a presidential run-off on 1 November 2026, became the first woman elected President of which country?",
+     "options": [
+      "Romania",
+      "Bulgaria",
+      "Estonia",
+      "Serbia"
+     ],
+     "answer": "B",
+     "explanation": "Iliana Iotova won Bulgaria's run-off with about 57.6% of the vote against Andrey Gyurov. Bulgaria's capital is Sofia. Source: AffairsCloud, 3 Nov 2026.",
+     "likely": 3,
+     "fact": "Iliana Iotova became the first woman elected President of Bulgaria in November 2026.",
+     "event_date": "2026-11-01",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-3-november-2026/",
+     "confidence": "medium"
+    },
+    {
+     "q": "P.N. Vasudevan resigned on 29 October 2026 as MD and CEO of which small finance bank?",
+     "options": [
+      "Ujjivan Small Finance Bank",
+      "AU Small Finance Bank",
+      "Equitas Small Finance Bank",
+      "Jana Small Finance Bank"
+     ],
+     "answer": "C",
+     "explanation": "After Vasudevan resigned, the board named Executive Director Balaji Nuthalapadi as interim CEO, subject to RBI approval. Equitas Small Finance Bank is headquartered in Chennai. Source: AffairsCloud, 5 Nov 2026.",
+     "likely": 3,
+     "fact": "P.N. Vasudevan resigned as MD & CEO of Equitas Small Finance Bank on 29 October 2026.",
+     "event_date": "2026-10-29",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-5-november-2026/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Economist Neelkanth Mishra was approved in June 2026 as India's Executive Director at the World Bank. Whom does he succeed?",
+     "options": [
+      "Krishnamurthy Subramanian",
+      "Parameswaran Iyer",
+      "Rajesh Khullar",
+      "Urjit Patel"
+     ],
+     "answer": "B",
+     "explanation": "The ACC approved Neelkanth Mishra, Chief Economist of Axis Bank, for three years; he succeeds Parameswaran Iyer. India's chair at the World Bank also represents Bangladesh, Bhutan and Sri Lanka. Source: AffairsCloud, 5 Jun 2026.",
+     "likely": 3,
+     "fact": "Neelkanth Mishra succeeds Parameswaran Iyer as India's Executive Director at the World Bank.",
+     "event_date": "2026-06-04",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-5-june-2026/",
+     "confidence": "high"
+    }
+   ]
+  }
+ ]
+}

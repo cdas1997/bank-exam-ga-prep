@@ -3,3 +3,5 @@ dist
 artifact
 *.local
 .DS_Store
+__pycache__/
+pdf.staging*

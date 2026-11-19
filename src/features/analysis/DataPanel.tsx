@@ -1,23 +1,22 @@
 import { useState } from 'react';
 import { Button } from '@/components/ui/Button';
 import { ConfirmBox } from '@/components/ui/ConfirmBox';
-import { knownQuestionIds } from '@/data';
 import { BackupError, decodeBackup, encodeBackup } from '@/lib/backup';
-import type { Profile } from '@/lib/types';
+import type { Exam, Profile } from '@/lib/types';
 import { profileStore } from '@/store/profileStore';
 
 type Panel = 'none' | 'show-code' | 'restore' | 'reset';
 
-type DataPanelProps = { profile: Profile; storageOk: boolean };
+type DataPanelProps = { exam: Exam; profile: Profile; storageOk: boolean };
 
-export function DataPanel({ profile, storageOk }: DataPanelProps) {
+export function DataPanel({ exam, profile, storageOk }: DataPanelProps) {
   const [panel, setPanel] = useState<Panel>('none');
   const [code, setCode] = useState('');
   const [message, setMessage] = useState<string | null>(null);
   const [copied, setCopied] = useState(false);
 
   async function handleCopy(): Promise<void> {
-    const backup = encodeBackup(profile);
+    const backup = encodeBackup(profile, exam.key);
     setMessage(null);
     try {
       await navigator.clipboard.writeText(backup);
@@ -31,7 +30,7 @@ export function DataPanel({ profile, storageOk }: DataPanelProps) {
 
   function handleRestore(): void {
     try {
-      const restored = decodeBackup(code, knownQuestionIds);
+      const restored = decodeBackup(code, exam);
       profileStore.replace({ ...restored, mode: profile.mode });
       setMessage(`Restored ${Object.keys(restored.answers).length} answers and ${restored.mocks.length} mocks.`);
       setPanel('none');
@@ -46,7 +45,8 @@ export function DataPanel({ profile, storageOk }: DataPanelProps) {
       <h2 className="h2">Your data</h2>
       {!storageOk ? <p className="notice">This browser is refusing to save progress (private mode or full storage). Your answers will be lost when you close the tab.</p> : null}
       <p className="small muted">
-        Progress is saved in this browser only. To move it to another phone or laptop, copy the backup code here and restore it there.
+        Progress is saved in this browser only, separately for each exam. To move this exam’s progress to another phone or laptop,
+        copy the backup code here and restore it there.
       </p>
       <div className="row-actions">
         <Button onClick={() => void handleCopy()}>{copied ? 'Copied' : 'Copy backup code'}</Button>
@@ -66,7 +66,7 @@ export function DataPanel({ profile, storageOk }: DataPanelProps) {
       {panel === 'restore' ? (
         <>
           <label className="small" htmlFor="restore-code">
-            Paste a backup code. It replaces the progress saved under this name on this device.
+            Paste a backup code for {exam.name}. It replaces this exam’s progress saved under this name on this device.
           </label>
           <textarea id="restore-code" value={code} onChange={(e) => setCode(e.target.value)} />
           <div className="row-actions">
@@ -79,7 +79,7 @@ export function DataPanel({ profile, storageOk }: DataPanelProps) {
       ) : null}
       {panel === 'reset' ? (
         <ConfirmBox
-          message="Clear all answers and mock history for this name on this device? This cannot be undone."
+          message={`Clear all ${exam.name} answers and mock history for this name on this device? This cannot be undone.`}
           confirmLabel="Clear everything"
           onConfirm={() => {
             profileStore.resetAll();

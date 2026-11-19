@@ -1,11 +1,17 @@
-import { mockLabel } from '@/lib/analysis';
+import { attemptNumber } from '@/lib/analysis';
 import { formatClock, formatDateTime } from '@/lib/dates';
-import { MARK_RIGHT, MARK_WRONG, formatMarks } from '@/lib/scoring';
-import type { MockRecord } from '@/lib/types';
+import { mockLabel } from '@/lib/mock';
+import { formatMarks } from '@/lib/scoring';
+import type { Marking, MockRecord } from '@/lib/types';
 
-type MockHistoryTableProps = { mocks: readonly MockRecord[] };
+type MockHistoryTableProps = { mocks: readonly MockRecord[]; marking: Marking };
 
-export function MockHistoryTable({ mocks }: MockHistoryTableProps) {
+function nameOf(mock: MockRecord, mocks: readonly MockRecord[]): string {
+  const attempt = attemptNumber(mock, mocks);
+  return attempt === null ? mockLabel(mock) : `${mockLabel(mock)} · attempt ${attempt}`;
+}
+
+export function MockHistoryTable({ mocks, marking }: MockHistoryTableProps) {
   return (
     <div className="panel tablewrap">
       <table className="data passbook">
@@ -26,12 +32,12 @@ export function MockHistoryTable({ mocks }: MockHistoryTableProps) {
               <td>
                 <a href={`#review-${m.id}`}>{formatDateTime(m.startedAt)}</a>
               </td>
-              <td>{mockLabel(m.type)}</td>
+              <td>{nameOf(m, mocks)}</td>
               <td className="n">
                 {m.right} / {m.wrong} / {m.skipped}
               </td>
-              <td className="n cr">+{formatMarks(m.right * MARK_RIGHT)}</td>
-              <td className="n dr">−{formatMarks(m.wrong * MARK_WRONG)}</td>
+              <td className="n cr">+{formatMarks(m.right * marking.right)}</td>
+              <td className="n dr">−{formatMarks(m.wrong * marking.wrong)}</td>
               <td className="n">
                 <strong>{formatMarks(m.net)}</strong> <span className="muted">/ {formatMarks(m.maxMarks)}</span>
               </td>

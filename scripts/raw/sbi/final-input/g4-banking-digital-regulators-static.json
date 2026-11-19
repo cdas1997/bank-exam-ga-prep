@@ -1,0 +1,1252 @@
+{
+ "questions": [
+  {
+   "id": "17785f5640",
+   "topic": "Banking operations & terms",
+   "q": "Under the Liberalised Remittance Scheme (LRS), a resident individual can remit up to how much abroad in a financial year?",
+   "options": [
+    "USD 2,00,000",
+    "USD 5,00,000",
+    "USD 1,00,000",
+    "USD 2,50,000"
+   ],
+   "answer": "D",
+   "explanation": "The LRS limit is USD 2,50,000 per financial year, including for minors. The scheme began in February 2004 with a limit of USD 25,000. Source: RBI FAQ on LRS."
+  },
+  {
+   "id": "8b0febc018",
+   "topic": "Banking operations & terms",
+   "q": "Up to what amount is each depositor's money in a bank insured by the DICGC?",
+   "options": [
+    "Rs 1 lakh",
+    "Rs 2 lakh",
+    "Rs 10 lakh",
+    "Rs 5 lakh"
+   ],
+   "answer": "D",
+   "explanation": "Cover is Rs 5 lakh per depositor per bank since 4 February 2020 (earlier Rs 1 lakh). DICGC is a wholly owned subsidiary of the RBI. Source: Wikipedia, checked Nov 2026."
+  },
+  {
+   "id": "018079568e",
+   "topic": "Banking operations & terms",
+   "q": "A loan is classified as a non-performing asset (NPA) when interest or principal stays overdue for more than how many days?",
+   "options": [
+    "90 days",
+    "30 days",
+    "60 days",
+    "180 days"
+   ],
+   "answer": "A",
+   "explanation": "The 90-day norm applies to term loans. Before that the account is a Special Mention Account: SMA-0 (up to 30 days), SMA-1 (31-60) and SMA-2 (61-90). Source: Wikipedia, checked Nov 2026."
+  },
+  {
+   "id": "8623a78193",
+   "topic": "Banking operations & terms",
+   "q": "What is the minimum maturity period of a Certificate of Deposit (CD)?",
+   "options": [
+    "7 days",
+    "14 days",
+    "1 day",
+    "91 days"
+   ],
+   "answer": "A",
+   "explanation": "Banks issue CDs for 7 days to 1 year, in a minimum amount of Rs 5 lakh. Commercial paper also has a maturity of 7 days to 1 year. Source: RBI FAQ, checked Nov 2026."
+  },
+  {
+   "id": "72c8e325e4",
+   "topic": "Banking operations & terms",
+   "q": "How many public sector banks does India have at present, including State Bank of India?",
+   "options": [
+    "27",
+    "10",
+    "12",
+    "19"
+   ],
+   "answer": "C",
+   "explanation": "There are 12 public sector banks after ten banks were merged into four on 1 April 2020. There were 27 in 2017. Source: Wikipedia (Public sector banks in India), Nov 2026."
+  },
+  {
+   "id": "8f771a689a",
+   "topic": "Banking operations & terms",
+   "q": "A cheque is valid for how long from the date written on it?",
+   "options": [
+    "6 months",
+    "3 months",
+    "1 month",
+    "12 months"
+   ],
+   "answer": "B",
+   "explanation": "The RBI cut the validity of cheques, drafts and pay orders from 6 months to 3 months from 1 April 2012. Source: RBI."
+  },
+  {
+   "id": "28ad84cc5d",
+   "topic": "Banking operations & terms",
+   "q": "Bouncing of a cheque for want of funds is an offence under which section of the Negotiable Instruments Act, 1881?",
+   "options": [
+    "Section 141",
+    "Section 420",
+    "Section 138",
+    "Section 131"
+   ],
+   "answer": "C",
+   "explanation": "Section 138 provides for imprisonment up to 2 years or a fine up to twice the cheque amount, or both. Source: Wikipedia, checked Nov 2026."
+  },
+  {
+   "id": "ae2c6f48b2",
+   "topic": "Banking operations & terms",
+   "q": "Which of these is NOT a tenor at which Government of India Treasury Bills are issued?",
+   "options": [
+    "273 days",
+    "182 days",
+    "91 days",
+    "364 days"
+   ],
+   "answer": "A",
+   "explanation": "Treasury bills are issued for 91, 182 and 364 days at a discount and redeemed at face value. Source: RBI FAQ, checked Nov 2026."
+  },
+  {
+   "id": "9fb383bcd6",
+   "topic": "Banking operations & terms",
+   "q": "The SARFAESI Act, which lets banks enforce security without going to court, was passed in which year?",
+   "options": [
+    "2016",
+    "1999",
+    "1993",
+    "2002"
+   ],
+   "answer": "D",
+   "explanation": "The SARFAESI Act is of 2002. The Recovery of Debts Act that set up Debts Recovery Tribunals is of 1993 and the Insolvency and Bankruptcy Code is of 2016. Source: Wikipedia, checked Nov 2026."
+  },
+  {
+   "id": "495dcc1fdd",
+   "topic": "Banking operations & terms",
+   "q": "On 19 July 1969, how many commercial banks were nationalised?",
+   "options": [
+    "7",
+    "6",
+    "14",
+    "20"
+   ],
+   "answer": "C",
+   "explanation": "14 banks were nationalised on 19 July 1969 and 6 more on 15 April 1980. The Imperial Bank became State Bank of India on 1 July 1955. Source: Wikipedia, checked Nov 2026."
+  },
+  {
+   "id": "afedd15ab4",
+   "topic": "Banking operations & terms",
+   "q": "The Prevention of Money Laundering Act (PMLA) was passed in which year?",
+   "options": [
+    "2012",
+    "1999",
+    "2002",
+    "2005"
+   ],
+   "answer": "C",
+   "explanation": "PMLA, 2002 came into force on 1 July 2005. FIU-IND receives cash and suspicious transaction reports under it; the Enforcement Directorate investigates. Source: Wikipedia, checked Nov 2026."
+  },
+  {
+   "id": "bbd5dd5c04",
+   "topic": "Banking operations & terms",
+   "q": "What is the maximum balance an individual customer can hold in a payments bank at the end of the day?",
+   "options": [
+    "Rs 10 lakh",
+    "Rs 2 lakh",
+    "Rs 1 lakh",
+    "Rs 5 lakh"
+   ],
+   "answer": "B",
+   "explanation": "The limit was raised from Rs 1 lakh to Rs 2 lakh in April 2021. Payments banks cannot give loans or issue credit cards. Source: Wikipedia, checked Nov 2026."
+  },
+  {
+   "id": "7bcfced27a",
+   "topic": "Banking operations & terms",
+   "q": "How is the share capital of a Regional Rural Bank held by the Centre, the State Government and the sponsor bank?",
+   "options": [
+    "60:15:25",
+    "50:25:25",
+    "51:20:29",
+    "50:15:35"
+   ],
+   "answer": "D",
+   "explanation": "RRBs are owned 50% by the Centre, 15% by the State and 35% by the sponsor bank. They began on 2 October 1975; there are 28 RRBs after the 'One State, One RRB' mergers of 1 May 2025. Source: Wikipedia, checked Nov 2026."
+  },
+  {
+   "id": "b3748325f7",
+   "topic": "Banking operations & terms",
+   "q": "Oriental Bank of Commerce and United Bank of India were merged into which bank on 1 April 2020?",
+   "options": [
+    "Canara Bank",
+    "Punjab National Bank",
+    "Indian Bank",
+    "Union Bank of India"
+   ],
+   "answer": "B",
+   "explanation": "On 1 April 2020 Syndicate Bank merged into Canara Bank, Andhra Bank and Corporation Bank into Union Bank of India, and Allahabad Bank into Indian Bank. Source: Wikipedia (Public sector banks in India)."
+  },
+  {
+   "id": "8b1ce9b755",
+   "topic": "Banking operations & terms",
+   "q": "What does CASA stand for in banking?",
+   "options": [
+    "Current Asset Savings Account",
+    "Credit Account Savings Account",
+    "Cash Account Savings Account",
+    "Current Account Savings Account"
+   ],
+   "answer": "D",
+   "explanation": "CASA deposits are low-cost funds for a bank, so a high CASA ratio improves its margins. Source: RBI."
+  },
+  {
+   "id": "3c56a7e5ea",
+   "topic": "Banking operations & terms",
+   "q": "What does MCLR stand for?",
+   "options": [
+    "Marginal Credit and Lending Ratio",
+    "Market Cost Linked Lending Rate",
+    "Minimum Cost of Lending Rate",
+    "Marginal Cost of Funds based Lending Rate"
+   ],
+   "answer": "D",
+   "explanation": "MCLR replaced the base rate system from 1 April 2016. Since 1 October 2019 new floating-rate retail and MSME loans are linked to an external benchmark such as the repo rate. Source: RBI."
+  },
+  {
+   "id": "658991ab17",
+   "topic": "Banking operations & terms",
+   "q": "Under Basel III norms as applied by the RBI, what minimum CRAR must Indian banks keep, not counting the capital conservation buffer?",
+   "options": [
+    "10.5%",
+    "11.5%",
+    "9%",
+    "8%"
+   ],
+   "answer": "C",
+   "explanation": "The RBI requires 9% (the Basel minimum is 8%). With the 2.5% capital conservation buffer it becomes 11.5%. CRAR means Capital to Risk-weighted Assets Ratio. Source: RBI."
+  },
+  {
+   "id": "50b5d24fea",
+   "topic": "Banking operations & terms",
+   "q": "What is the overall priority sector lending target for domestic commercial banks, as a share of Adjusted Net Bank Credit?",
+   "options": [
+    "18%",
+    "32%",
+    "40%",
+    "75%"
+   ],
+   "answer": "C",
+   "explanation": "Domestic commercial banks must lend 40% of ANBC to priority sectors, including 18% to agriculture. The target is 75% for regional rural banks and 60% for small finance banks. Source: RBI."
+  },
+  {
+   "id": "45be77aa95",
+   "topic": "Banking operations & terms",
+   "q": "Under the Banking Laws (Amendment) Act, 2025, a depositor can name up to how many nominees for a bank deposit account?",
+   "options": [
+    "Three",
+    "Five",
+    "Two",
+    "Four"
+   ],
+   "answer": "D",
+   "explanation": "Up to four nominees, simultaneous or successive, are allowed from 1 November 2025. For lockers only successive nomination is allowed. Source: Ministry of Finance, Oct 2025."
+  },
+  {
+   "id": "3c17b8020d",
+   "topic": "Banking operations & terms",
+   "q": "Which body maintains the Central KYC Records Registry (CKYCR)?",
+   "options": [
+    "NPCI",
+    "CERSAI",
+    "UIDAI",
+    "CIBIL"
+   ],
+   "answer": "B",
+   "explanation": "CERSAI runs the CKYC registry, which gives each customer a 14-digit KYC identifier. Source: CERSAI."
+  },
+  {
+   "id": "49c72d755f",
+   "topic": "Banking operations & terms",
+   "q": "How many characters does an IFSC (Indian Financial System Code) have?",
+   "options": [
+    "11",
+    "9",
+    "10",
+    "15"
+   ],
+   "answer": "A",
+   "explanation": "An IFSC has 11 characters: the first four identify the bank, the fifth is zero and the last six identify the branch. MICR code has 9 digits. Source: Wikipedia, checked Nov 2026."
+  },
+  {
+   "id": "2006b6f850",
+   "topic": "Banking operations & terms",
+   "q": "Which authority hears corporate insolvency cases under the Insolvency and Bankruptcy Code, 2016?",
+   "options": [
+    "National Company Law Tribunal",
+    "Debts Recovery Tribunal",
+    "Securities Appellate Tribunal",
+    "Banking Ombudsman"
+   ],
+   "answer": "A",
+   "explanation": "NCLT handles companies and LLPs; the Debts Recovery Tribunal handles individuals and partnership firms. IBBI is the regulator. Source: Wikipedia, checked Nov 2026."
+  },
+  {
+   "id": "8c258200b1",
+   "topic": "Banking operations & terms",
+   "q": "The capital conservation buffer under Basel III is what percentage of risk-weighted assets?",
+   "options": [
+    "2.5%",
+    "2%",
+    "1.5%",
+    "4.5%"
+   ],
+   "answer": "A",
+   "explanation": "The buffer is 2.5% of risk-weighted assets, held as Common Equity Tier 1 capital. The Basel Committee is based at the BIS in Basel, Switzerland. Source: Wikipedia, checked Nov 2026."
+  },
+  {
+   "id": "88950f7219",
+   "topic": "Banking operations & terms",
+   "q": "The money market deals in funds and instruments with a maturity of up to how long?",
+   "options": [
+    "Three months",
+    "One year",
+    "Three years",
+    "Five years"
+   ],
+   "answer": "B",
+   "explanation": "Money market instruments (call money, T-bills, CP, CD) mature within one year. Longer-term funds are raised in the capital market. Source: RBI FAQ, checked Nov 2026."
+  },
+  {
+   "id": "f857fc0d7a",
+   "topic": "Digital banking & NPCI",
+   "q": "NACH, operated by NPCI, is mainly used for which kind of payments?",
+   "options": [
+    "Bulk and repetitive payments such as salaries, pensions and EMIs",
+    "Card payments at shops",
+    "Cash withdrawals at micro-ATMs",
+    "High-value real-time gross settlement"
+   ],
+   "answer": "A",
+   "explanation": "The National Automated Clearing House (NACH) handles bulk, repetitive credits and debits such as salaries, pensions, subsidies, SIPs and EMIs. It replaced ECS and is run by NPCI. Source: NPCI, product description."
+  },
+  {
+   "id": "15633ec145",
+   "topic": "Digital banking & NPCI",
+   "q": "As per NPCI data, UPI recorded its highest-ever monthly volume in October 2026. How many transactions did it process?",
+   "options": [
+    "25.47 billion",
+    "24.07 billion",
+    "26.14 billion",
+    "24.51 billion"
+   ],
+   "answer": "A",
+   "explanation": "UPI processed a record 25.47 billion transactions in October 2026, up 23% from a year earlier. September 2026 had 24.07 billion and August 2026 had 24.51 billion. Source: Free Press Journal (NPCI data), 2 Nov 2026."
+  },
+  {
+   "id": "6999acdbcc",
+   "topic": "Digital banking & NPCI",
+   "q": "What was the total value of UPI transactions in October 2026, the first month in which the average daily value crossed Rs 1 lakh crore?",
+   "options": [
+    "Rs 29.82 lakh crore",
+    "Rs 29.37 lakh crore",
+    "Rs 29.90 lakh crore",
+    "Rs 31.53 lakh crore"
+   ],
+   "answer": "D",
+   "explanation": "UPI transactions were worth Rs 31.53 lakh crore in October 2026, with an average daily value of about Rs 1.02 lakh crore. September 2026 was Rs 29.37 lakh crore. Source: Free Press Journal (NPCI data), 2 Nov 2026."
+  },
+  {
+   "id": "fe25e885ce",
+   "topic": "Digital banking & NPCI",
+   "q": "NPCI's proposed Merchant Discount Rate (MDR) on eligible person-to-merchant UPI payments above Rs 2,000, deferred in October 2026, is set at what rate?",
+   "options": [
+    "0.5%",
+    "0.2%",
+    "0.4%",
+    "0.3%"
+   ],
+   "answer": "C",
+   "explanation": "NPCI announced a 0.4% MDR on eligible P2M UPI payments above Rs 2,000, due from 15 October 2026, then deferred it on 13 October to after Diwali. As of mid-November 2026 no start date had been notified, so check for an update. P2P transfers stay free. Source: News On AIR, 15 Oct 2026."
+  },
+  {
+   "id": "c358ed149d",
+   "topic": "Digital banking & NPCI",
+   "q": "Under the RBI's digital fraud compensation framework issued on 24 June 2026, a victim of a small-value digital fraud (loss up to Rs 50,000) gets how much?",
+   "options": [
+    "50% of the net loss or Rs 20,000, whichever is lower",
+    "85% of the net loss or Rs 25,000, whichever is lower",
+    "100% of the loss",
+    "75% of the net loss or Rs 30,000, whichever is lower"
+   ],
+   "answer": "B",
+   "explanation": "Compensation is 85% of the net loss or Rs 25,000, whichever is lower, once in a lifetime. The framework applies from 1 January 2027 and the fraud must be reported within 5 calendar days. Source: RBI (Responsible Business Conduct Third Amendment Directions), 24 Jun 2026."
+  },
+  {
+   "id": "099109c5db",
+   "topic": "Digital banking & NPCI",
+   "q": "What is the minimum amount that can be sent through RTGS?",
+   "options": [
+    "Rs 1 lakh",
+    "Rs 5 lakh",
+    "Rs 2 lakh",
+    "Rs 50,000"
+   ],
+   "answer": "C",
+   "explanation": "The RTGS minimum is Rs 2,00,000 with no upper limit. RTGS is run by the RBI and has been available 24x7 since 14 December 2020. Source: RBI FAQ on RTGS, 14 Oct 2026."
+  },
+  {
+   "id": "012b75b9f8",
+   "topic": "Digital banking & NPCI",
+   "q": "The IFSC used for NEFT and RTGS transfers has how many characters?",
+   "options": [
+    "12",
+    "10",
+    "9",
+    "11"
+   ],
+   "answer": "D",
+   "explanation": "The IFSC is an 11-character code: the first four letters show the bank, the fifth is zero and the last six show the branch. The MICR code has 9 digits. Source: RBI FAQ on NEFT, 2 Sep 2024."
+  },
+  {
+   "id": "22e33517b2",
+   "topic": "Digital banking & NPCI",
+   "q": "Which number is the national helpline for reporting cyber financial fraud in India?",
+   "options": [
+    "155260",
+    "1930",
+    "14444",
+    "1947"
+   ],
+   "answer": "B",
+   "explanation": "1930 is the national cyber crime helpline, run by the Home Ministry's Indian Cyber Crime Coordination Centre (I4C) along with the portal cybercrime.gov.in. 155260 was the earlier fraud helpline number. The RBI-NPCI DigiSaathi helpline for digital payment queries is 14431, and 1947 is the Aadhaar (UIDAI) helpline. Source: Ministry of Home Affairs (I4C); NPCI DigiSaathi page."
+  },
+  {
+   "id": "f38c677fc9",
+   "topic": "Digital banking & NPCI",
+   "q": "NPCI was set up in 2008 as an initiative of the Reserve Bank of India and which other body?",
+   "options": [
+    "Indian Banks' Association (IBA)",
+    "NABARD",
+    "Securities and Exchange Board of India",
+    "Institute for Development and Research in Banking Technology"
+   ],
+   "answer": "A",
+   "explanation": "NPCI was founded in December 2008 by the RBI and the Indian Banks' Association under the Payment and Settlement Systems Act, 2007. It is headquartered in Mumbai. Source: Wikipedia (NPCI)."
+  },
+  {
+   "id": "1f5624ebe9",
+   "topic": "Digital banking & NPCI",
+   "q": "In August 2026, NPCI International signed a pact so that Indian travellers can pay by UPI through the HUMO payment system. HUMO belongs to which country?",
+   "options": [
+    "Kazakhstan",
+    "Tajikistan",
+    "Kyrgyzstan",
+    "Uzbekistan"
+   ],
+   "answer": "D",
+   "explanation": "NIPL signed with Uzbekistan's National Interbank Processing Centre, operator of HUMO, on 30 August 2026 so UPI apps can scan UZQR codes. It is UPI's first entry into Central Asia. Source: Adda247 / Finance Ministry, 1 Sep 2026."
+  },
+  {
+   "id": "138b29b0d4",
+   "topic": "Digital banking & NPCI",
+   "q": "The proposed MDR on UPI merchant payments is capped at what amount per transaction?",
+   "options": [
+    "Rs 100",
+    "Rs 200",
+    "Rs 300",
+    "Rs 500"
+   ],
+   "answer": "C",
+   "explanation": "The 0.4% MDR is capped at Rs 300 per transaction, reached at Rs 75,000 and above. Small merchants receiving up to Rs 1 lakh a month by UPI QR are exempt. The start date was still not notified in mid-November 2026. Source: Inc42, 12 Nov 2026."
+  },
+  {
+   "id": "dffb46f0d7",
+   "topic": "Digital banking & NPCI",
+   "q": "A UTR number for an RTGS transaction has how many characters?",
+   "options": [
+    "16",
+    "20",
+    "12",
+    "22"
+   ],
+   "answer": "D",
+   "explanation": "An RTGS Unique Transaction Reference has 22 characters. A NEFT reference has 16 characters. Source: RBI FAQ on RTGS, 14 Oct 2026."
+  },
+  {
+   "id": "cfe1597d8b",
+   "topic": "Digital banking & NPCI",
+   "q": "In which year was UPI launched by NPCI?",
+   "options": [
+    "2014",
+    "2016",
+    "2017",
+    "2015"
+   ],
+   "answer": "B",
+   "explanation": "UPI was launched in 2016 (pilot on 11 April 2016, public rollout from 25 August 2016) with 21 banks, and completed 10 years in 2026. Source: Adda247, 25 Aug 2026."
+  },
+  {
+   "id": "cf0ee50840",
+   "topic": "Digital banking & NPCI",
+   "q": "The RBI regulates payment systems such as UPI, NEFT and RTGS under which Act?",
+   "options": [
+    "Information Technology Act, 2000",
+    "Negotiable Instruments Act, 1881",
+    "Payment and Settlement Systems Act, 2007",
+    "Banking Regulation Act, 1949"
+   ],
+   "answer": "C",
+   "explanation": "The Payment and Settlement Systems Act, 2007 gives the RBI power to regulate payment systems, and NPCI was formed under its provisions. The UPI MDR framework of 2026 is also based on this Act. Source: Wikipedia (NPCI) / Adda247, 16 Sep 2026."
+  },
+  {
+   "id": "5c00fa7c19",
+   "topic": "Digital banking & NPCI",
+   "q": "Since which date has NEFT been available round the clock, 24x7?",
+   "options": [
+    "1 July 2019",
+    "16 December 2019",
+    "14 December 2020",
+    "1 January 2021"
+   ],
+   "answer": "B",
+   "explanation": "NEFT became 24x7 on 16 December 2019 and settles in half-hourly batches. RTGS became 24x7 on 14 December 2020. Source: Wikipedia (NEFT) / RBI FAQ."
+  },
+  {
+   "id": "4423c6eab9",
+   "topic": "Digital banking & NPCI",
+   "q": "NPCI is registered as which type of company?",
+   "options": [
+    "Government company under Section 2(45)",
+    "Statutory corporation",
+    "Non-banking financial company",
+    "Section 8 (not-for-profit) company"
+   ],
+   "answer": "D",
+   "explanation": "NPCI is a not-for-profit company under Section 8 of the Companies Act, 2013 (earlier Section 25 of the 1956 Act). Its subsidiaries are NIPL, NBBL, NBSL and NTSL. Source: Wikipedia (NPCI)."
+  },
+  {
+   "id": "50a3f9f96a",
+   "topic": "Digital banking & NPCI",
+   "q": "In which year was the RuPay card network launched by NPCI?",
+   "options": [
+    "2016",
+    "2010",
+    "2012",
+    "2008"
+   ],
+   "answer": "C",
+   "explanation": "RuPay, India's own card network, was launched on 26 March 2012 and dedicated to the nation in May 2014. IMPS came in 2010 and UPI in 2016. Source: Wikipedia (RuPay)."
+  },
+  {
+   "id": "a5f92cb913",
+   "topic": "Digital banking & NPCI",
+   "q": "The Bharat Bill Payment System (BBPS) is now known by which name?",
+   "options": [
+    "Bill Setu",
+    "BHIM Bills",
+    "Bharat Connect",
+    "Bharat Pay"
+   ],
+   "answer": "C",
+   "explanation": "BBPS was renamed Bharat Connect in 2024. It is run by NPCI Bharat BillPay Ltd (NBBL), an NPCI subsidiary. In September 2026 multi-currency forex was added on it. Source: Adda247, 11 Sep 2026."
+  },
+  {
+   "id": "554e903e6a",
+   "topic": "Digital banking & NPCI",
+   "q": "The RBI started the pilot of the retail Digital Rupee (e-Rupee Retail) on which date?",
+   "options": [
+    "1 November 2022",
+    "1 April 2023",
+    "1 July 2022",
+    "1 December 2022"
+   ],
+   "answer": "D",
+   "explanation": "The retail e-Rupee pilot began on 1 December 2022. The wholesale pilot began on 1 November 2022. The e-Rupee is India's CBDC and is issued by the RBI. Source: Wikipedia (Digital rupee) / RBI, Nov 2022."
+  },
+  {
+   "id": "b7f31540f6",
+   "topic": "Digital banking & NPCI",
+   "q": "What is the maximum outstanding balance allowed in a full-KYC prepaid payment instrument (PPI) such as a wallet?",
+   "options": [
+    "Rs 2 lakh",
+    "Rs 10,000",
+    "Rs 50,000",
+    "Rs 1 lakh"
+   ],
+   "answer": "A",
+   "explanation": "A full-KYC PPI can hold up to Rs 2,00,000 at any time. A small PPI can hold up to Rs 10,000. Source: RBI FAQ on PPIs, 22 Nov 2022."
+  },
+  {
+   "id": "5a2683f2ca",
+   "topic": "Digital banking & NPCI",
+   "q": "What is the base period of the RBI's Digital Payments Index (RBI-DPI)?",
+   "options": [
+    "March 2016",
+    "March 2020",
+    "April 2021",
+    "March 2018"
+   ],
+   "answer": "D",
+   "explanation": "RBI-DPI has March 2018 as its base (100) and is published for March and September. It stood at 516.76 for September 2025 (announced 12 February 2026), up from 493.22 for March 2025. Source: RBI press release, 12 Feb 2026."
+  },
+  {
+   "id": "744c3b3996",
+   "topic": "Digital banking & NPCI",
+   "q": "Which was the first country outside India to accept UPI payments through the BHIM app, in July 2021?",
+   "options": [
+    "Singapore",
+    "Bhutan",
+    "Nepal",
+    "United Arab Emirates"
+   ],
+   "answer": "B",
+   "explanation": "Bhutan accepted BHIM UPI from 13 July 2021 through its Royal Monetary Authority. France (Eiffel Tower) followed in February 2024 as the first in Europe, and Cambodia went live on 2 June 2026. Source: Wikipedia (UPI)."
+  },
+  {
+   "id": "bc94094aec",
+   "topic": "Digital banking & NPCI",
+   "q": "UPI Tap & Pay, launched at Global Fintech Fest 2026 in September 2026, works on which technology?",
+   "options": [
+    "Near Field Communication (NFC)",
+    "USSD",
+    "QR code scanning",
+    "Bluetooth Low Energy"
+   ],
+   "answer": "A",
+   "explanation": "UPI Tap & Pay uses NFC between the phone and a POS terminal. Payments below Rs 5,000 need no PIN. MyUPI, an AI help platform, was launched alongside. Source: Adda247, 11 Sep 2026."
+  },
+  {
+   "id": "e0f58b974f",
+   "topic": "Digital banking & NPCI",
+   "q": "What is the per-transaction limit for IMPS?",
+   "options": [
+    "Rs 10 lakh",
+    "Rs 2 lakh",
+    "Rs 1 lakh",
+    "Rs 5 lakh"
+   ],
+   "answer": "D",
+   "explanation": "The IMPS limit was raised from Rs 2 lakh to Rs 5 lakh in October 2021. IMPS was launched by NPCI on 22 November 2010 and works 24x7. Source: RBI, Oct 2021 / Wikipedia (IMPS)."
+  },
+  {
+   "id": "63eca6c409",
+   "topic": "Financial institutions & regulators",
+   "q": "Which body regulates credit rating agencies in India?",
+   "options": [
+    "IRDAI",
+    "SEBI",
+    "Reserve Bank of India",
+    "Ministry of Finance"
+   ],
+   "answer": "B",
+   "explanation": "SEBI regulates credit rating agencies under the SEBI (Credit Rating Agencies) Regulations, 1999. CRISIL, set up in 1987, was India's first rating agency. Source: SEBI regulations list."
+  },
+  {
+   "id": "6f9f7174bd",
+   "topic": "Financial institutions & regulators",
+   "q": "Mutual funds in India are regulated by which body?",
+   "options": [
+    "Ministry of Corporate Affairs",
+    "Reserve Bank of India",
+    "SEBI",
+    "AMFI"
+   ],
+   "answer": "C",
+   "explanation": "SEBI regulates mutual funds; its new SEBI (Mutual Funds) Regulations, 2026 took effect on 1 April 2026. AMFI is only the industry association. Source: SEBI (Mutual Funds) Regulations, 2026."
+  },
+  {
+   "id": "2ed845fa39",
+   "topic": "Financial institutions & regulators",
+   "q": "The National Stock Exchange (NSE) was set up on the recommendation of which committee?",
+   "options": [
+    "Pherwani Committee",
+    "Malhotra Committee",
+    "Narasimham Committee",
+    "Kelkar Committee"
+   ],
+   "answer": "A",
+   "explanation": "The Pherwani Committee (1991) recommended a national stock exchange; NSE was incorporated in 1992 and began trading in 1994. BSE, set up in 1875, is Asia's oldest exchange. Source: Wikipedia (NSE)."
+  },
+  {
+   "id": "8686cae071",
+   "topic": "Financial institutions & regulators",
+   "q": "Who is the Chairman and Managing Director of SIDBI?",
+   "options": [
+    "Sanjay Shukla",
+    "Sivasubramanian Ramann",
+    "Shaji K. V.",
+    "Manoj Mittal"
+   ],
+   "answer": "D",
+   "explanation": "Manoj Mittal is CMD of SIDBI, which was set up on 2 April 1990 and is headquartered in Lucknow. Shaji K. V. heads NABARD. Source: SIDBI website, Nov 2026."
+  },
+  {
+   "id": "b97f77a484",
+   "topic": "Financial institutions & regulators",
+   "q": "Which body recommends Minimum Support Prices (MSP) to the Government?",
+   "options": [
+    "Food Corporation of India",
+    "NITI Aayog",
+    "NABARD",
+    "Commission for Agricultural Costs and Prices (CACP)"
+   ],
+   "answer": "D",
+   "explanation": "CACP recommends MSPs and the Cabinet Committee on Economic Affairs (CCEA) approves them. CACP is under the Ministry of Agriculture and Farmers Welfare. Source: Wikipedia (CACP)."
+  },
+  {
+   "id": "e440377dda",
+   "topic": "Financial institutions & regulators",
+   "q": "Who is the Chairman of SEBI?",
+   "options": [
+    "Tuhin Kanta Pandey",
+    "Ajay Seth",
+    "Sanjay Malhotra",
+    "Madhabi Puri Buch"
+   ],
+   "answer": "A",
+   "explanation": "Tuhin Kanta Pandey has been SEBI Chairman since 1 March 2025, succeeding Madhabi Puri Buch. SEBI is headquartered in Mumbai. Source: SEBI website, Nov 2026."
+  },
+  {
+   "id": "484a171743",
+   "topic": "Financial institutions & regulators",
+   "q": "After the 'One State, One RRB' amalgamation effective 1 May 2025, how many Regional Rural Banks does India have?",
+   "options": [
+    "28",
+    "43",
+    "38",
+    "21"
+   ],
+   "answer": "A",
+   "explanation": "The number of RRBs fell from 43 to 28 when 26 RRBs in 10 states and one Union Territory were merged into 11, effective 1 May 2025, under 'One State, One RRB'. This was the fourth phase of RRB consolidation. Source: Finance Ministry / News On AIR, 8 Apr 2025."
+  },
+  {
+   "id": "4e5640bcfa",
+   "topic": "Financial institutions & regulators",
+   "q": "The Financial Intelligence Unit-India (FIU-IND) works under which department of the Ministry of Finance?",
+   "options": [
+    "Department of Revenue",
+    "Department of Expenditure",
+    "Department of Financial Services",
+    "Department of Economic Affairs"
+   ],
+   "answer": "A",
+   "explanation": "FIU-IND, set up on 18 November 2004, is under the Department of Revenue and reports directly to the Economic Intelligence Council headed by the Finance Minister. IRS officer Satya Pal Kumar (2005 batch) was appointed its Director in July 2026 for a five-year term. Source: FIU-IND website; Business Standard, 24 Jul 2026."
+  },
+  {
+   "id": "01ae008bc8",
+   "topic": "Financial institutions & regulators",
+   "q": "At its board meeting on 24 September 2026, SEBI approved the SEBI (Portfolio Managers) Regulations, 2026. They replace the regulations of which year?",
+   "options": [
+    "2020",
+    "1993",
+    "2023",
+    "2012"
+   ],
+   "answer": "A",
+   "explanation": "The 2026 regulations supersede the SEBI (Portfolio Managers) Regulations, 2020 and take effect on 1 April 2027. This was SEBI's 215th board meeting, held in Mumbai. Source: SEBI PR 59/2026, 24 Sep 2026."
+  },
+  {
+   "id": "74ece8e480",
+   "topic": "Financial institutions & regulators",
+   "q": "Under SEBI rules, what is the minimum investment a client must make with a portfolio manager (PMS)?",
+   "options": [
+    "Rs 10 lakh",
+    "Rs 50 lakh",
+    "Rs 1 crore",
+    "Rs 25 lakh"
+   ],
+   "answer": "B",
+   "explanation": "The PMS minimum is Rs 50 lakh per client, kept in the 2026 regulations. The new PRIM route for mutual fund units has a Rs 25 lakh minimum. Source: SEBI (Portfolio Managers) Regulations, 2026, 7 Oct 2026."
+  },
+  {
+   "id": "843f5a30de",
+   "topic": "Financial institutions & regulators",
+   "q": "NABARD was set up in 1982 on the recommendation of which committee?",
+   "options": [
+    "Khusro Committee",
+    "Sivaraman Committee (CRAFICARD)",
+    "Narasimham Committee",
+    "Nachiket Mor Committee"
+   ],
+   "answer": "B",
+   "explanation": "NABARD was set up on 12 July 1982 under the NABARD Act, 1981, on the recommendation of CRAFICARD headed by B. Sivaraman. Its Chairman is Shaji K. V. Source: NABARD."
+  },
+  {
+   "id": "1e2cc48f0e",
+   "topic": "Financial institutions & regulators",
+   "q": "Who is the Chairman of NABARD?",
+   "options": [
+    "Manoj Mittal",
+    "Shaji K. V.",
+    "Harsha Bangari",
+    "Rajkiran Rai G."
+   ],
+   "answer": "B",
+   "explanation": "Shaji K. V. is NABARD's Chairman. NABARD is headquartered in Mumbai and is wholly owned by the Government of India. Source: NABARD website, Nov 2026."
+  },
+  {
+   "id": "37492173d6",
+   "topic": "Financial institutions & regulators",
+   "q": "MUDRA (Micro Units Development and Refinance Agency) is a subsidiary of which institution?",
+   "options": [
+    "EXIM Bank",
+    "NABARD",
+    "SIDBI",
+    "State Bank of India"
+   ],
+   "answer": "C",
+   "explanation": "MUDRA is a wholly owned subsidiary of SIDBI, launched on 8 April 2015 to refinance loans to micro units under PM Mudra Yojana. Source: Wikipedia (SIDBI)."
+  },
+  {
+   "id": "523a93900b",
+   "topic": "Financial institutions & regulators",
+   "q": "IRDAI was set up following the recommendations of which committee?",
+   "options": [
+    "Tarapore Committee",
+    "Malhotra Committee",
+    "Pherwani Committee",
+    "Rangarajan Committee"
+   ],
+   "answer": "B",
+   "explanation": "The R. N. Malhotra Committee (1994) recommended an insurance regulator; IRDA was set up under the IRDA Act, 1999. IRDAI is headquartered in Hyderabad. Its Chairman is Ajay Seth. Source: Wikipedia (IRDAI)."
+  },
+  {
+   "id": "fbb5a2d61c",
+   "topic": "Financial institutions & regulators",
+   "q": "Who chairs the Financial Stability and Development Council (FSDC)?",
+   "options": [
+    "SEBI Chairman",
+    "Union Finance Minister",
+    "RBI Governor",
+    "Prime Minister"
+   ],
+   "answer": "B",
+   "explanation": "The FSDC, set up in December 2010, is chaired by the Union Finance Minister. Its sub-committee is chaired by the RBI Governor. Source: Wikipedia (FSDC)."
+  },
+  {
+   "id": "0e4ba4c662",
+   "topic": "Financial institutions & regulators",
+   "q": "The RBI's list of Upper Layer NBFCs for 2026-27, released in August 2026, has how many NBFCs?",
+   "options": [
+    "20",
+    "17",
+    "15",
+    "16"
+   ],
+   "answer": "B",
+   "explanation": "The list grew from 15 to 17, with REC, PFC, IRFC and HUDCO added. The four NBFC layers are Base, Middle, Upper and Top. Source: Adda247 (RBI list), 7 Aug 2026."
+  },
+  {
+   "id": "a88884efb5",
+   "topic": "Financial institutions & regulators",
+   "q": "Which of these currencies is NOT part of the IMF's Special Drawing Rights (SDR) basket?",
+   "options": [
+    "Swiss franc",
+    "Chinese renminbi",
+    "Pound sterling",
+    "Japanese yen"
+   ],
+   "answer": "A",
+   "explanation": "The SDR basket has five currencies: US dollar, euro, Chinese renminbi, Japanese yen and pound sterling. The IMF is headquartered in Washington, D.C. The SDR was created in 1969. Source: IMF factsheet."
+  },
+  {
+   "id": "90ba63cdde",
+   "topic": "Financial institutions & regulators",
+   "q": "The Financial Action Task Force (FATF) mainly works against which of the following?",
+   "options": [
+    "Sovereign debt defaults",
+    "Money laundering and terror financing",
+    "Trade disputes between countries",
+    "Tax treaty violations"
+   ],
+   "answer": "B",
+   "explanation": "FATF, set up in 1989 by the G7 and based in Paris, sets standards against money laundering and terror financing. FIU-IND is India's financial intelligence unit. Source: Wikipedia (FATF)."
+  },
+  {
+   "id": "62912195da",
+   "topic": "Financial institutions & regulators",
+   "q": "Which arm of the World Bank Group gives concessional loans to the poorest countries?",
+   "options": [
+    "IFC",
+    "MIGA",
+    "IDA",
+    "IBRD"
+   ],
+   "answer": "C",
+   "explanation": "The International Development Association (IDA) is the soft-loan window. The group's five institutions are IBRD, IDA, IFC, MIGA and ICSID. Source: Wikipedia (IDA)."
+  },
+  {
+   "id": "dcad514f17",
+   "topic": "Financial institutions & regulators",
+   "q": "Credit information companies such as TransUnion CIBIL are regulated by which body?",
+   "options": [
+    "Reserve Bank of India",
+    "IBBI",
+    "Ministry of Corporate Affairs",
+    "SEBI"
+   ],
+   "answer": "A",
+   "explanation": "The RBI regulates credit information companies under the Credit Information Companies (Regulation) Act, 2005. The four CICs are TransUnion CIBIL, Equifax, Experian and CRIF High Mark. Source: Wikipedia (Credit bureau) / RBI."
+  },
+  {
+   "id": "a24a2dec29",
+   "topic": "Financial institutions & regulators",
+   "q": "The Financial Services Institutions Bureau (FSIB), reconstituted in October 2026, replaced which earlier body in 2022?",
+   "options": [
+    "Banks Board Bureau",
+    "Banking Codes and Standards Board of India",
+    "Indian Banks' Association",
+    "Board for Financial Supervision"
+   ],
+   "answer": "A",
+   "explanation": "FSIB replaced the Banks Board Bureau (set up in 2016) in 2022 and recommends top appointments in public sector banks, insurers and financial institutions. It is under the Department of Financial Services; S.C.L. Das was named Chairman in October 2026. Source: Adda247, 17 Oct 2026."
+  },
+  {
+   "id": "b39456220d",
+   "topic": "Financial institutions & regulators",
+   "q": "After its IPO in September 2026, the National Stock Exchange (NSE) listed its own shares on which exchange?",
+   "options": [
+    "India International Exchange (India INX)",
+    "NSE itself",
+    "Calcutta Stock Exchange",
+    "BSE"
+   ],
+   "answer": "D",
+   "explanation": "NSE listed on BSE on 24 September 2026 at Rs 1,800 after an IPO of about Rs 22,560 crore (all offer for sale, issue price Rs 1,785), because an exchange cannot list on itself. Its shares were also permitted to trade on the Metropolitan Stock Exchange from the same day. BSE itself is listed on NSE. Source: Kotak Neo / Angel One, 24 Sep 2026."
+  },
+  {
+   "id": "c4c74de7b4",
+   "topic": "Financial institutions & regulators",
+   "q": "The SEBI (Mutual Funds) Regulations, 2026, in force from 1 April 2026, replaced the mutual fund regulations of which year?",
+   "options": [
+    "1992",
+    "2003",
+    "1996",
+    "2012"
+   ],
+   "answer": "C",
+   "explanation": "The SEBI (Mutual Funds) Regulations, 1996 were repealed by the 2026 regulations. Source: SEBI (Mutual Funds) Regulations, 2026."
+  },
+  {
+   "id": "a91bcf184a",
+   "topic": "Financial institutions & regulators",
+   "q": "The Insolvency and Bankruptcy Board of India (IBBI) works under which ministry?",
+   "options": [
+    "Ministry of Finance",
+    "Ministry of Commerce and Industry",
+    "Ministry of Law and Justice",
+    "Ministry of Corporate Affairs"
+   ],
+   "answer": "D",
+   "explanation": "IBBI was set up on 1 October 2016 under the Insolvency and Bankruptcy Code, 2016, under the Ministry of Corporate Affairs. The Competition Commission of India is under the same ministry. Source: Wikipedia (IBBI)."
+  },
+  {
+   "id": "5c93e011cb",
+   "topic": "Banking & financial static",
+   "q": "State Bank of India came into being on 1 July 1955 by taking over which bank?",
+   "options": [
+    "Bank of Calcutta",
+    "Imperial Bank of India",
+    "Bank of Hindustan",
+    "Allahabad Bank"
+   ],
+   "answer": "B",
+   "explanation": "The Imperial Bank of India became the State Bank of India on 1 July 1955 under the State Bank of India Act, 1955. 1 July is observed as SBI's foundation day; SBI is headquartered in Mumbai. Source: Wikipedia (State Bank of India), read Nov 2026."
+  },
+  {
+   "id": "9dafae430f",
+   "topic": "Banking & financial static",
+   "q": "Who is the Chairman of State Bank of India as of November 2026?",
+   "options": [
+    "Rajnish Kumar",
+    "Challa Sreenivasulu Setty",
+    "Dinesh Kumar Khara",
+    "Ashwini Kumar Tewari"
+   ],
+   "answer": "B",
+   "explanation": "C. S. Setty became SBI's 27th Chairman on 28 August 2024, succeeding Dinesh Kumar Khara. SBI's first woman chairperson was Arundhati Bhattacharya (2013). Source: Wikipedia (Challa Sreenivasulu Setty), read Nov 2026."
+  },
+  {
+   "id": "1949be2f7b",
+   "topic": "Banking & financial static",
+   "q": "The headquarters of the Small Industries Development Bank of India (SIDBI) is in which city?",
+   "options": [
+    "Hyderabad",
+    "Lucknow",
+    "New Delhi",
+    "Mumbai"
+   ],
+   "answer": "B",
+   "explanation": "SIDBI's head office is at 15, Ashok Marg, Lucknow, Uttar Pradesh. It was set up on 2 April 1990 as the principal financial institution for MSMEs. Source: SIDBI website, read Nov 2026."
+  },
+  {
+   "id": "bf00814793",
+   "topic": "Banking & financial static",
+   "q": "SEBI, set up as a non-statutory body on 12 April 1988, became a statutory body in which year?",
+   "options": [
+    "1995",
+    "1988",
+    "1992",
+    "1990"
+   ],
+   "answer": "C",
+   "explanation": "The SEBI Act, 1992 came into force on 30 January 1992, giving SEBI statutory powers. SEBI's head office is in Mumbai. Source: SEBI (About SEBI), read Nov 2026."
+  },
+  {
+   "id": "b29428ef99",
+   "topic": "Banking & financial static",
+   "q": "The Deposit Insurance Corporation (1962) and the Credit Guarantee Corporation of India (1971) were merged to form DICGC in which year?",
+   "options": [
+    "1978",
+    "1971",
+    "1975",
+    "1982"
+   ],
+   "answer": "A",
+   "explanation": "DIC began on 1 January 1962 and CGCI on 14 January 1971; they merged on 15 July 1978 to form DICGC. DICGC is a wholly owned subsidiary of RBI, based in Mumbai. Source: DICGC (About Us), read Nov 2026."
+  },
+  {
+   "id": "62742b9874",
+   "topic": "Banking & financial static",
+   "q": "Which of the following organisation-headquarters pairs is correctly matched?",
+   "options": [
+    "National Housing Bank - Mumbai",
+    "Life Insurance Corporation of India - New Delhi",
+    "IFSCA - GIFT City, Gandhinagar",
+    "DICGC - New Delhi"
+   ],
+   "answer": "C",
+   "explanation": "IFSCA's head office is in GIFT City, Gandhinagar, Gujarat. NHB is in New Delhi, while LIC and DICGC are in Mumbai. Source: IFSCA website, read Nov 2026."
+  },
+  {
+   "id": "e3d7b4f072",
+   "topic": "Banking & financial static",
+   "q": "The Imperial Bank of India was formed in which year by merging the three Presidency banks?",
+   "options": [
+    "1806",
+    "1949",
+    "1921",
+    "1935"
+   ],
+   "answer": "C",
+   "explanation": "The Banks of Bengal, Bombay and Madras were amalgamated on 27 January 1921 to form the Imperial Bank of India. The Bank of Calcutta (later Bank of Bengal) dates from 1806. Source: Wikipedia (Imperial Bank of India), read Nov 2026."
+  },
+  {
+   "id": "59e63dd395",
+   "topic": "Banking & financial static",
+   "q": "Which bank, set up in 2013, was merged with State Bank of India on 1 April 2017 along with five associate banks?",
+   "options": [
+    "State Bank of Saurashtra",
+    "State Bank of Indore",
+    "Vijaya Bank",
+    "Bharatiya Mahila Bank"
+   ],
+   "answer": "D",
+   "explanation": "Bharatiya Mahila Bank (founded 19 November 2013) and five associate banks merged with SBI on 1 April 2017. The five were State Banks of Bikaner and Jaipur, Hyderabad, Mysore, Patiala and Travancore. Source: Wikipedia (Bharatiya Mahila Bank), read Nov 2026."
+  },
+  {
+   "id": "ef6eb60e4d",
+   "topic": "Banking & financial static",
+   "q": "Which associate bank was the first to be merged with State Bank of India, in 2008?",
+   "options": [
+    "State Bank of Patiala",
+    "State Bank of Mysore",
+    "State Bank of Saurashtra",
+    "State Bank of Indore"
+   ],
+   "answer": "C",
+   "explanation": "State Bank of Saurashtra merged with SBI on 13 August 2008; State Bank of Indore followed in 2010. The remaining five associates merged on 1 April 2017. Source: Wikipedia (State Bank of India), read Nov 2026."
+  },
+  {
+   "id": "f56db375b7",
+   "topic": "Banking & financial static",
+   "q": "In SBI's digital banking platform 'YONO', what does YONO stand for?",
+   "options": [
+    "Your Own Net Office",
+    "You Open New Opportunities",
+    "Your One New Option",
+    "You Only Need One"
+   ],
+   "answer": "D",
+   "explanation": "YONO means 'You Only Need One'. SBI launched it in November 2017. Source: Wikipedia (YONO), read Nov 2026."
+  },
+  {
+   "id": "d99de1d48d",
+   "topic": "Banking & financial static",
+   "q": "Which of the following bank-headquarters pairs is correctly matched?",
+   "options": [
+    "Canara Bank - Mangaluru",
+    "Indian Bank - Bengaluru",
+    "Bank of Maharashtra - Mumbai",
+    "UCO Bank - Kolkata"
+   ],
+   "answer": "D",
+   "explanation": "UCO Bank (founded 1943) is headquartered in Kolkata. Bank of Maharashtra is in Pune, Canara Bank in Bengaluru and Indian Bank in Chennai. Source: UCO Bank (About Us), read Nov 2026."
+  },
+  {
+   "id": "db081630a2",
+   "topic": "Banking & financial static",
+   "q": "Punjab National Bank opened for business on 12 April 1895 in which city?",
+   "options": [
+    "Amritsar",
+    "Karachi",
+    "Lahore",
+    "Delhi"
+   ],
+   "answer": "C",
+   "explanation": "PNB was registered on 19 May 1894 and opened at Anarkali Bazar, Lahore. Lala Lajpat Rai was the first to open an account; its corporate office is now in Dwarka, New Delhi. Source: PNB (Origin of PNB), read Nov 2026."
+  },
+  {
+   "id": "e6a579b8fb",
+   "topic": "Banking & financial static",
+   "q": "Which bank, founded in 1911 by Sir Sorabji Pochkhanawala, was the first Indian commercial bank wholly owned and managed by Indians?",
+   "options": [
+    "Punjab & Sind Bank",
+    "Central Bank of India",
+    "Indian Bank",
+    "Bank of India"
+   ],
+   "answer": "B",
+   "explanation": "Central Bank of India was established in 1911; Sir Pherozeshah Mehta was its first Chairman. Its head office is in Mumbai. Source: Central Bank of India (About Us), read Nov 2026."
+  },
+  {
+   "id": "d6b4315ab2",
+   "topic": "Banking & financial static",
+   "q": "Prathama Bank, India's first Regional Rural Bank, was set up on 2 October 1975 at which place?",
+   "options": [
+    "Gorakhpur",
+    "Moradabad",
+    "Jaipur",
+    "Bhiwani"
+   ],
+   "answer": "B",
+   "explanation": "Prathama Bank was set up at Moradabad, Uttar Pradesh, sponsored by Syndicate Bank. RRBs are owned 50% by the Centre, 35% by the sponsor bank and 15% by the state; there are 28 RRBs now. Source: Wikipedia (Regional rural bank), read Nov 2026."
+  },
+  {
+   "id": "4a379b4d60",
+   "topic": "Banking & financial static",
+   "q": "India Post Payments Bank (IPPB) works under which department of the Government of India?",
+   "options": [
+    "Department of Financial Services",
+    "Department of Economic Affairs",
+    "Department of Telecommunications",
+    "Department of Posts"
+   ],
+   "answer": "D",
+   "explanation": "IPPB is wholly owned by the Government of India under the Department of Posts, Ministry of Communications. It is based in New Delhi and was launched nationally on 1 September 2018. Source: Wikipedia (India Post Payments Bank), read Nov 2026."
+  },
+  {
+   "id": "129083b1c2",
+   "topic": "Banking & financial static",
+   "q": "When the Reserve Bank of India began operations on 1 April 1935, its Central Office was first located in which city?",
+   "options": [
+    "Kolkata",
+    "New Delhi",
+    "Mumbai",
+    "Chennai"
+   ],
+   "answer": "A",
+   "explanation": "RBI's Central Office was first set up in Kolkata and moved permanently to Mumbai in 1937. RBI was nationalised in 1949. Source: RBI (About Us), read Nov 2026."
+  },
+  {
+   "id": "e3a490d3a7",
+   "topic": "Banking & financial static",
+   "q": "Life Insurance Corporation of India (LIC) was created on which date?",
+   "options": [
+    "22 November 1972",
+    "1 July 1955",
+    "1 September 1956",
+    "19 July 1969"
+   ],
+   "answer": "C",
+   "explanation": "LIC was created on 1 September 1956 under the LIC Act passed in June 1956, with Rs 5 crore capital from the Government. Its corporate office 'Yogakshema' is in Mumbai; GIC was incorporated on 22 November 1972. Source: LIC (History), read Nov 2026."
+  },
+  {
+   "id": "c58653ea3b",
+   "topic": "Banking & financial static",
+   "q": "Which of the following cities does NOT have an India Government Mint?",
+   "options": [
+    "Mumbai",
+    "Noida",
+    "Nashik",
+    "Hyderabad"
+   ],
+   "answer": "C",
+   "explanation": "SPMCIL's four mints are at Mumbai, Kolkata, Hyderabad and Noida. Nashik has the Currency Note Press and India Security Press; Dewas has the Bank Note Press and Narmadapuram the Security Paper Mill. Source: SPMCIL website, read Nov 2026."
+  },
+  {
+   "id": "680d858f7d",
+   "topic": "Banking & financial static",
+   "q": "Which is the oldest stock exchange in Asia, founded in 1875?",
+   "options": [
+    "Tokyo Stock Exchange",
+    "National Stock Exchange",
+    "Calcutta Stock Exchange",
+    "BSE (Bombay Stock Exchange)"
+   ],
+   "answer": "D",
+   "explanation": "BSE was founded on 9 July 1875 as the Native Share & Stock Brokers' Association in Mumbai. Its benchmark index is the Sensex; NSE's is the Nifty 50. Source: Wikipedia (BSE Limited), read Nov 2026."
+  },
+  {
+   "id": "f97231990f",
+   "topic": "Banking & financial static",
+   "q": "How many member countries does the International Monetary Fund (IMF) have?",
+   "options": [
+    "191",
+    "190",
+    "189",
+    "193"
+   ],
+   "answer": "A",
+   "explanation": "The IMF has 191 members; it was conceived at the Bretton Woods Conference in July 1944 and is based in Washington, D.C. The World Bank's IBRD has 189 members. Source: IMF (IMF at a Glance), read Nov 2026."
+  },
+  {
+   "id": "4a9f580913",
+   "topic": "Banking & financial static",
+   "q": "Who is the Managing Director of the International Monetary Fund (IMF)?",
+   "options": [
+    "Kristalina Georgieva",
+    "Christine Lagarde",
+    "Ngozi Okonjo-Iweala",
+    "Ajay Banga"
+   ],
+   "answer": "A",
+   "explanation": "Kristalina Georgieva of Bulgaria has been IMF Managing Director since 1 October 2019; her second term began on 1 October 2024. Ajay Banga heads the World Bank and Ngozi Okonjo-Iweala the WTO. Source: IMF (senior officials), read Nov 2026."
+  },
+  {
+   "id": "061db3a7e3",
+   "topic": "Banking & financial static",
+   "q": "The Bank for International Settlements (BIS), established in 1930, is headquartered in which city?",
+   "options": [
+    "Brussels",
+    "Zurich",
+    "Basel",
+    "Geneva"
+   ],
+   "answer": "C",
+   "explanation": "BIS is based in Basel, Switzerland, and is owned by 63 central banks. The Basel norms on bank capital are named after the city. Source: BIS (About BIS), read Nov 2026."
+  },
+  {
+   "id": "edd440c37c",
+   "topic": "Banking & financial static",
+   "q": "The Financial Action Task Force (FATF), set up in 1989, has its headquarters in which city?",
+   "options": [
+    "Paris",
+    "Vienna",
+    "Washington, D.C.",
+    "Geneva"
+   ],
+   "answer": "A",
+   "explanation": "FATF was founded at the G7 Summit in Paris in 1989 and its secretariat is in Paris. India took up the FATF Vice-Presidency for the first time in July 2026. Source: Wikipedia (Financial Action Task Force), read Nov 2026."
+  },
+  {
+   "id": "8d05e068de",
+   "topic": "Banking & financial static",
+   "q": "The World Trade Organization (WTO), established on 1 January 1995, is located in which city?",
+   "options": [
+    "The Hague",
+    "Brussels",
+    "New York",
+    "Geneva"
+   ],
+   "answer": "D",
+   "explanation": "The WTO is in Geneva, Switzerland, and has 166 members. Its Director-General is Ngozi Okonjo-Iweala. Source: WTO (What is the WTO), read Nov 2026."
+  }
+ ]
+}

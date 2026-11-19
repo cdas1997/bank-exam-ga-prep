@@ -1,0 +1,724 @@
+{
+ "batches": [
+  {
+   "key": "ca-sports",
+   "name": "Sports",
+   "questions": [
+    {
+     "q": "Which country topped the medal table at the 2026 Commonwealth Games held in Glasgow?",
+     "options": [
+      "England",
+      "Canada",
+      "Australia",
+      "India"
+     ],
+     "answer": "C",
+     "explanation": "Australia finished first with 171 medals (70 gold, 45 silver, 56 bronze). England was second (29 gold) and Canada third (19 gold); India was fourth. Source: The Week, 2 Aug 2026.",
+     "likely": 5,
+     "fact": "Australia topped the Glasgow 2026 Commonwealth Games medal table with 70 gold and 171 medals.",
+     "event_date": "2026-08-02",
+     "kind": "news",
+     "source_url": "https://www.theweek.in/news/sports/2026/08/02/cwg-2026-india-ends-fourth-with-39-medal-haul-as-australia-tops-chart-yet-again.html",
+     "confidence": "high"
+    },
+    {
+     "q": "How many medals in total did India win at the 20th Asian Games 2026, where it finished fourth?",
+     "options": [
+      "70",
+      "85",
+      "96",
+      "107"
+     ],
+     "answer": "B",
+     "explanation": "India won 85 medals (21 gold, 27 silver, 37 bronze) and finished 4th, ahead of Uzbekistan on silver count. China, Japan and South Korea took the top three places. Source: News On AIR, 5 Oct 2026.",
+     "likely": 5,
+     "fact": "India won 85 medals (21 gold, 27 silver, 37 bronze) at the 2026 Asian Games and finished fourth.",
+     "event_date": "2026-10-04",
+     "kind": "news",
+     "source_url": "https://newsonair.gov.in/india-signs-off-with-85-medals-after-gold-rush-in-cricket-hockey-kabaddi-at-asian-games/",
+     "confidence": "high"
+    },
+    {
+     "q": "Which Indian city will host the 2030 Commonwealth Games, the centenary edition of the Games?",
+     "options": [
+      "New Delhi",
+      "Bhubaneswar",
+      "Hyderabad",
+      "Ahmedabad"
+     ],
+     "answer": "D",
+     "explanation": "Glasgow handed the Games over to Ahmedabad (Amdavad) at the closing ceremony on 2 August 2026. It will be India's second Commonwealth Games after New Delhi 2010. Source: The Week, 2 Aug 2026.",
+     "likely": 5,
+     "fact": "Ahmedabad will host the 2030 Commonwealth Games, the centenary edition.",
+     "event_date": "2026-08-02",
+     "kind": "news-static",
+     "source_url": "https://www.theweek.in/news/sports/2026/08/02/cwg-2026-india-ends-fourth-with-39-medal-haul-as-australia-tops-chart-yet-again.html",
+     "confidence": "high"
+    },
+    {
+     "q": "How many medals did Indian boxers win at the Asian Games 2026?",
+     "options": [
+      "Three",
+      "Five",
+      "Six",
+      "Nine"
+     ],
+     "answer": "C",
+     "explanation": "India won six boxing medals: three gold (Lovlina Borgohain 75 kg, Parveen Hooda 65 kg, Ankush Panghal 80 kg) and three bronze. Three golds is India's best boxing gold tally at an Asian Games. Source: News On AIR, 5 Oct 2026.",
+     "likely": 5,
+     "fact": "India won six boxing medals (3 gold, 3 bronze) at the 2026 Asian Games.",
+     "event_date": "2026-10-02",
+     "kind": "news",
+     "source_url": "https://newsonair.gov.in/india-signs-off-with-85-medals-after-gold-rush-in-cricket-hockey-kabaddi-at-asian-games/",
+     "confidence": "high"
+    },
+    {
+     "q": "Which country finished first in the medal table of the Asian Games 2026?",
+     "options": [
+      "China",
+      "Japan",
+      "South Korea",
+      "Uzbekistan"
+     ],
+     "answer": "A",
+     "explanation": "China topped the table with 341 medals, including 169 gold. Host Japan was second (83 gold) and South Korea third (39 gold); India was fourth with 21 gold. Source: Outlook India, Oct 2026.",
+     "likely": 5,
+     "fact": "China topped the 2026 Asian Games medal table with 169 gold and 341 medals.",
+     "event_date": "2026-10-04",
+     "kind": "news",
+     "source_url": "https://www.outlookindia.com/sports/others/india-asian-games-2026-wrap-total-medals-final-position-missed-chances-highlights-new-success",
+     "confidence": "high"
+    },
+    {
+     "q": "India won 39 medals at the 2026 Commonwealth Games. At which position did it finish in the medal table?",
+     "options": [
+      "Third",
+      "Fourth",
+      "Fifth",
+      "Sixth"
+     ],
+     "answer": "B",
+     "explanation": "India finished 4th with 13 gold, 17 silver and 9 bronze. Host Scotland also had 13 gold and 39 medals but fewer silver, so it was 5th. Source: The Week, 2 Aug 2026.",
+     "likely": 5,
+     "fact": "India finished fourth at the 2026 Commonwealth Games with 39 medals (13 gold, 17 silver, 9 bronze).",
+     "event_date": "2026-08-02",
+     "kind": "news",
+     "source_url": "https://www.theweek.in/news/sports/2026/08/02/cwg-2026-india-ends-fourth-with-39-medal-haul-as-australia-tops-chart-yet-again.html",
+     "confidence": "high"
+    },
+    {
+     "q": "Which city received the Olympic Council of Asia flag in October 2026 as host of the next Asian Games in 2030?",
+     "options": [
+      "Riyadh",
+      "Doha",
+      "Tashkent",
+      "Hangzhou"
+     ],
+     "answer": "B",
+     "explanation": "Doha (Qatar) will host the 21st Asian Games in 2030; it last hosted in 2006. Riyadh (Saudi Arabia) will host the 2034 edition. Source: Qatar News Agency, 4 Oct 2026.",
+     "likely": 4,
+     "fact": "Doha will host the 2030 Asian Games and Riyadh the 2034 Asian Games.",
+     "event_date": "2026-10-04",
+     "kind": "news-static",
+     "source_url": "https://qna.org.qa/en/News-Area/News/2026-10/4/new-identity-of-doha-2030-unveiled-at-closing-ceremony-of-asian-games-aichinagoya",
+     "confidence": "high"
+    },
+    {
+     "q": "The 20th Asian Games were held from 19 September to 4 October 2026 in which Japanese host region?",
+     "options": [
+      "Tokyo",
+      "Osaka",
+      "Hiroshima",
+      "Aichi-Nagoya"
+     ],
+     "answer": "D",
+     "explanation": "Aichi Prefecture and its capital Nagoya hosted the 20th Asian Games. Japan had earlier hosted the Games in Tokyo (1958) and Hiroshima (1994). The Games slogan was 'Imagine One Asia'. Source: Olympic Council of Asia.",
+     "likely": 4,
+     "fact": "The 20th Asian Games 2026 were held in Aichi-Nagoya, Japan, from 19 September to 4 October 2026.",
+     "event_date": "2026-09-19",
+     "kind": "news-static",
+     "source_url": "https://oca.asia/news/5211-meet-honohon-the-mascot-of-the-20th-asian-games-2026.html",
+     "confidence": "high"
+    },
+    {
+     "q": "What is the name of the unicorn mascot of the 2026 Commonwealth Games?",
+     "options": [
+      "Perry",
+      "Borobi",
+      "Finnie",
+      "Clyde"
+     ],
+     "answer": "C",
+     "explanation": "Finnie, a unicorn (Scotland's national animal), was the Glasgow 2026 mascot. Perry was the Birmingham 2022 mascot, Borobi Gold Coast 2018 and Clyde Glasgow 2014. Source: Glasgow 2026 official website.",
+     "likely": 4,
+     "fact": "Finnie, a unicorn, was the mascot of the Glasgow 2026 Commonwealth Games.",
+     "event_date": "2026-07-23",
+     "kind": "news-static",
+     "source_url": "https://www.glasgow2026.com/about/finnie",
+     "confidence": "high"
+    },
+    {
+     "q": "What is the name of the official mascot of the Asian Games 2026?",
+     "options": [
+      "Honohon",
+      "Miraitowa",
+      "Chenchen",
+      "Bhin Bhin"
+     ],
+     "answer": "A",
+     "explanation": "Honohon takes its name from 'honoho', an old Japanese word for flame. Miraitowa was the Tokyo 2020 Olympic mascot, Chenchen one of the Hangzhou Asian Games mascots and Bhin Bhin a Jakarta-Palembang 2018 mascot. Source: Olympic Council of Asia.",
+     "likely": 4,
+     "fact": "Honohon is the official mascot of the 20th Asian Games Aichi-Nagoya 2026.",
+     "event_date": "2026-09-19",
+     "kind": "news-static",
+     "source_url": "https://oca.asia/news/5211-meet-honohon-the-mascot-of-the-20th-asian-games-2026.html",
+     "confidence": "high"
+    },
+    {
+     "q": "Who was India's flag-bearer at the opening ceremony of the 2026 Commonwealth Games on 23 July 2026?",
+     "options": [
+      "Neeraj Chopra",
+      "Lovlina Borgohain",
+      "Tejaswin Shankar",
+      "Mirabai Chanu"
+     ],
+     "answer": "D",
+     "explanation": "Weightlifter Mirabai Chanu carried the flag and boxer Lovlina Borgohain was the baton-bearer at the OVO Hydro, Glasgow, where King Charles III opened the 23rd Games. Chanu later won India's first gold of the Games, in the women's 48 kg class. Source: News On AIR, 24 Jul 2026.",
+     "likely": 4,
+     "fact": "Mirabai Chanu was India's flag-bearer at the opening ceremony of the 2026 Commonwealth Games.",
+     "event_date": "2026-07-23",
+     "kind": "news",
+     "source_url": "https://newsonair.gov.in/23rd-commonwealth-games-begin-in-glasgow-with-colourful-opening-ceremony/",
+     "confidence": "high"
+    },
+    {
+     "q": "Who were India's flag-bearers at the opening ceremony of the Asian Games 2026 on 19 September 2026?",
+     "options": [
+      "Neeraj Chopra and P.V. Sindhu",
+      "Harmanpreet Singh and Lovlina Borgohain",
+      "Manu Bhaker and Pawan Sehrawat",
+      "Tajinderpal Singh Toor and Mirabai Chanu"
+     ],
+     "answer": "C",
+     "explanation": "Shooter Manu Bhaker and kabaddi player Pawan Sehrawat led India; Sehrawat replaced shot putter Tajinderpal Singh Toor, who was named first. Shooter Neeru Dhanda carried the flag at the closing ceremony. Source: Indian Olympic Association via Adda247, 19 Sep 2026; Wikipedia.",
+     "likely": 4,
+     "fact": "Manu Bhaker and Pawan Sehrawat were India's flag-bearers at the 2026 Asian Games opening ceremony.",
+     "event_date": "2026-09-19",
+     "kind": "news",
+     "source_url": "https://currentaffairs.adda247.com/pawan-sehrawat-replaces-tajinderpal-toor-as-indias-flag-bearer/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Which country won the 2026 FIFA World Cup by beating Argentina 1-0 after extra time in the final on 19 July 2026?",
+     "options": [
+      "France",
+      "Spain",
+      "England",
+      "Brazil"
+     ],
+     "answer": "B",
+     "explanation": "Ferran Torres scored in the 106th minute at the New York New Jersey (MetLife) Stadium to give Spain its second title after 2010. Rodri won the Golden Ball and France's Kylian Mbappe the Golden Boot with 10 goals. Source: Al Jazeera, 20 Jul 2026.",
+     "likely": 4,
+     "fact": "Spain won the 2026 FIFA World Cup, beating Argentina 1-0 after extra time.",
+     "event_date": "2026-07-19",
+     "kind": "news",
+     "source_url": "https://www.aljazeera.com/sports/2026/7/20/mbappe-takes-home-second-golden-boot-spain-sweeps-world-cup-awards",
+     "confidence": "high"
+    },
+    {
+     "q": "In which sport did India win seven gold medals, its highest from any sport, at the 2026 Commonwealth Games?",
+     "options": [
+      "Weightlifting",
+      "Judo",
+      "Athletics",
+      "Boxing"
+     ],
+     "answer": "D",
+     "explanation": "Indian boxers won 10 medals (7 gold, 3 silver), India's best boxing show at a Commonwealth Games. Gold winners included Preeti Pawar, Jaismine Lamboria, Sakshi Chaudhary, Priya Ghanghas, Arundhati Choudhary, Sachin Siwach and Ankush Panghal. Source: The Week, 2 Aug 2026.",
+     "likely": 4,
+     "fact": "Boxing gave India seven gold medals (10 medals in all) at the 2026 Commonwealth Games.",
+     "event_date": "2026-08-01",
+     "kind": "news",
+     "source_url": "https://www.theweek.in/news/sports/2026/08/02/cwg-2026-india-ends-fourth-with-39-medal-haul-as-australia-tops-chart-yet-again.html",
+     "confidence": "high"
+    },
+    {
+     "q": "The Indian women's hockey team won its first Asian Games gold since 1982 by beating which country 1-0 in the final in October 2026?",
+     "options": [
+      "Japan",
+      "South Korea",
+      "China",
+      "Malaysia"
+     ],
+     "answer": "C",
+     "explanation": "Lalremsiami scored the only goal against China. The men's team beat Malaysia 5-1 to keep its title, and both teams qualified for the Los Angeles 2028 Olympics. Source: News On AIR, 5 Oct 2026.",
+     "likely": 4,
+     "fact": "India beat China 1-0 to win the women's hockey gold at the 2026 Asian Games, its first since 1982.",
+     "event_date": "2026-10-02",
+     "kind": "news",
+     "source_url": "https://newsonair.gov.in/india-signs-off-with-85-medals-after-gold-rush-in-cricket-hockey-kabaddi-at-asian-games/",
+     "confidence": "high"
+    },
+    {
+     "q": "India retained the men's cricket gold medal at the Asian Games 2026 by beating which team in the final?",
+     "options": [
+      "Pakistan",
+      "Afghanistan",
+      "Sri Lanka",
+      "Bangladesh"
+     ],
+     "answer": "A",
+     "explanation": "India beat Pakistan by 19 runs. The Indian women's team also retained its gold, beating Sri Lanka by 147 runs. Afghanistan was the losing finalist at Hangzhou. Source: News On AIR, 5 Oct 2026.",
+     "likely": 4,
+     "fact": "India beat Pakistan by 19 runs to win the men's cricket gold at the 2026 Asian Games.",
+     "event_date": "2026-10-03",
+     "kind": "news",
+     "source_url": "https://newsonair.gov.in/india-signs-off-with-85-medals-after-gold-rush-in-cricket-hockey-kabaddi-at-asian-games/",
+     "confidence": "high"
+    },
+    {
+     "q": "The scaled-down 2026 Commonwealth Games in Glasgow featured how many sports?",
+     "options": [
+      "10",
+      "12",
+      "17",
+      "19"
+     ],
+     "answer": "A",
+     "explanation": "Glasgow 2026 had 10 sports, nine fewer than Birmingham 2022; hockey, wrestling, shooting, badminton, table tennis and cricket were among those left out. Athletes from 74 nations and territories took part. Source: News On AIR, 24 Jul 2026.",
+     "likely": 4,
+     "fact": "The 2026 Commonwealth Games in Glasgow featured 10 sports.",
+     "event_date": "2026-07-23",
+     "kind": "news-static",
+     "source_url": "https://newsonair.gov.in/23rd-commonwealth-games-begin-in-glasgow-with-colourful-opening-ceremony/",
+     "confidence": "high"
+    },
+    {
+     "q": "Which team won the ICC Women's T20 World Cup 2026, beating hosts England in the final at Lord's on 5 July 2026?",
+     "options": [
+      "India",
+      "South Africa",
+      "New Zealand",
+      "Australia"
+     ],
+     "answer": "D",
+     "explanation": "Australia won by seven wickets for a record seventh Women's T20 World Cup title. Beth Mooney was player of the final. Source: ICC, 5 Jul 2026.",
+     "likely": 4,
+     "fact": "Australia won the ICC Women's T20 World Cup 2026, beating England by seven wickets at Lord's.",
+     "event_date": "2026-07-05",
+     "kind": "news",
+     "source_url": "https://icc-cricket.com/tournaments/womens-t20-worldcup-2026/news/england-australia-final-womens-t20-world-cup-2026",
+     "confidence": "high"
+    },
+    {
+     "q": "Which Mercedes driver became the youngest Formula 1 World Champion by sealing the 2026 title at the Mexico City Grand Prix on 1 November 2026?",
+     "options": [
+      "George Russell",
+      "Kimi Antonelli",
+      "Oscar Piastri",
+      "Lando Norris"
+     ],
+     "answer": "B",
+     "explanation": "Italy's Kimi Antonelli, aged 20, clinched his first title by finishing third in Mexico City; Max Verstappen won the race. Lando Norris was the 2025 champion. Source: Formula1.com, 1 Nov 2026.",
+     "likely": 4,
+     "fact": "Kimi Antonelli of Mercedes won the 2026 Formula 1 drivers' title, becoming the youngest world champion.",
+     "event_date": "2026-11-01",
+     "kind": "news",
+     "source_url": "https://www.formula1.com/en/latest/article/antonelli-crowned-youngest-ever-f1-champion-as-verstappen-wins-eventful-mexico-city-grand-prix.xpMMeef0KmRURs9IDs3LH",
+     "confidence": "high"
+    },
+    {
+     "q": "Who won the men's Ballon d'Or 2026, announced in October 2026?",
+     "options": [
+      "Kylian Mbappe",
+      "Lamine Yamal",
+      "Harry Kane",
+      "Rodri"
+     ],
+     "answer": "C",
+     "explanation": "England and Bayern Munich striker Harry Kane won his first Ballon d'Or, ahead of Kylian Mbappe and Lamine Yamal; he also took the Gerd Muller Trophy. Spain's Alexia Putellas won the women's award for the third time. Source: ESPN, Oct 2026.",
+     "likely": 4,
+     "fact": "Harry Kane won the men's Ballon d'Or 2026.",
+     "event_date": "2026-10-26",
+     "kind": "news",
+     "source_url": "https://global.espn.com/football/story/_/id/50311415/bayern-honor-kane-ballon-dor-win-german-cup-rout",
+     "confidence": "high"
+    },
+    {
+     "q": "Who won the men's singles title at Wimbledon 2026?",
+     "options": [
+      "Carlos Alcaraz",
+      "Alexander Zverev",
+      "Novak Djokovic",
+      "Jannik Sinner"
+     ],
+     "answer": "D",
+     "explanation": "Italy's Jannik Sinner beat Alexander Zverev in four sets for his second straight Wimbledon title and fifth Grand Slam. Linda Noskova of Czechia won the women's singles. Source: News On AIR, 13 Jul 2026.",
+     "likely": 4,
+     "fact": "Jannik Sinner won the Wimbledon 2026 men's singles title, beating Alexander Zverev.",
+     "event_date": "2026-07-12",
+     "kind": "news",
+     "source_url": "https://newsonair.gov.in/jannik-sinner-retains-wimbledon-crown-guo-and-mladenovic-win-womens-doubles-title/",
+     "confidence": "high"
+    },
+    {
+     "q": "Who won the men's singles title at the US Open 2026, beating Ben Shelton in the final?",
+     "options": [
+      "Alexander Zverev",
+      "Jannik Sinner",
+      "Carlos Alcaraz",
+      "Taylor Fritz"
+     ],
+     "answer": "A",
+     "explanation": "Germany's Alexander Zverev won in four sets on 13 September 2026 for his second Grand Slam of the year after the French Open. Elena Rybakina beat Aryna Sabalenka for the women's title. Source: Associated Press, 13 Sep 2026.",
+     "likely": 4,
+     "fact": "Alexander Zverev won the US Open 2026 men's singles title, beating Ben Shelton.",
+     "event_date": "2026-09-13",
+     "kind": "news",
+     "source_url": "https://www.adn.com/sports/national-sports/2026/09/13/alexander-zverev-beats-ben-shelton-to-win-the-us-open-title-and-extend-a-drought-by-american-men/",
+     "confidence": "high"
+    },
+    {
+     "q": "Which country won the FIH Men's Hockey World Cup 2026, beating Spain 1-0 in the final on 30 August 2026?",
+     "options": [
+      "Netherlands",
+      "Belgium",
+      "Germany",
+      "Australia"
+     ],
+     "answer": "C",
+     "explanation": "Germany retained the title for its fourth World Cup; the final was at Wavre, Belgium. Belgium and the Netherlands co-hosted, and Argentina won the women's title. Source: News On AIR, 30 Aug 2026.",
+     "likely": 4,
+     "fact": "Germany won the FIH Men's Hockey World Cup 2026, beating Spain 1-0 in the final.",
+     "event_date": "2026-08-30",
+     "kind": "news",
+     "source_url": "https://newsonair.gov.in/germany-retain-fih-mens-hockey-world-cup-title-with-1-0-win-over-spain/",
+     "confidence": "high"
+    },
+    {
+     "q": "Which of the following Asian Games 2026 gold medallist and sport pairs is correctly matched?",
+     "options": [
+      "Aman Sehrawat - Boxing",
+      "Pranavi Urs - Golf",
+      "Parveen Hooda - Wrestling",
+      "Kumkum Mohod - Shooting"
+     ],
+     "answer": "B",
+     "explanation": "Pranavi Urs won the women's individual golf gold. Aman Sehrawat won gold in wrestling, Parveen Hooda in boxing (65 kg) and Kumkum Mohod in recurve archery. Source: Outlook India, Oct 2026.",
+     "likely": 4,
+     "fact": "At the 2026 Asian Games Pranavi Urs won gold in golf, Aman Sehrawat in wrestling, Parveen Hooda in boxing and Kumkum Mohod in archery.",
+     "event_date": "2026-10-03",
+     "kind": "news-static",
+     "source_url": "https://www.outlookindia.com/sports/others/india-asian-games-2026-wrap-total-medals-final-position-missed-chances-highlights-new-success",
+     "confidence": "high"
+    },
+    {
+     "q": "Which city is the venue of the FIDE World Chess Championship Match 2026 between D. Gukesh and Javokhir Sindarov, scheduled from 24 November 2026?",
+     "options": [
+      "Singapore",
+      "Samarkand",
+      "New Delhi",
+      "Geneva"
+     ],
+     "answer": "D",
+     "explanation": "The match is at the Fondation Martin Bodmer, Geneva, Switzerland, from 24 November to 12 December 2026, with a prize fund of USD 2.5 million. Sindarov of Uzbekistan won the Candidates 2026; the match is still in progress, so the winner is not yet known. Source: FIDE.",
+     "likely": 4,
+     "fact": "Geneva, Switzerland, hosts the FIDE World Championship Match 2026 between D. Gukesh and Javokhir Sindarov.",
+     "event_date": "2026-11",
+     "kind": "news",
+     "source_url": "https://www.fide.com/salesforce-fide-world-championship-match-2026-schedule-format-and-prize-fund-confirmed/",
+     "confidence": "high"
+    },
+    {
+     "q": "Which city hosted the 2026 Summer Youth Olympic Games, the first Olympic event held in Africa?",
+     "options": [
+      "Dakar",
+      "Cairo",
+      "Nairobi",
+      "Cape Town"
+     ],
+     "answer": "A",
+     "explanation": "Dakar, Senegal, hosted the 4th Summer Youth Olympic Games from 31 October to 13 November 2026. The previous edition was in Buenos Aires in 2018. Source: Wikipedia (2026 Summer Youth Olympics), citing Olympics.com.",
+     "likely": 4,
+     "fact": "Dakar, Senegal, hosted the 2026 Summer Youth Olympic Games, the first Olympic event in Africa.",
+     "event_date": "2026-11",
+     "kind": "news-static",
+     "source_url": "https://en.wikipedia.org/wiki/2026_Summer_Youth_Olympics",
+     "confidence": "medium"
+    },
+    {
+     "q": "Which of the following trophy and sport pairs is correctly matched?",
+     "options": [
+      "Davis Cup - Hockey",
+      "Thomas Cup - Badminton",
+      "Durand Cup - Cricket",
+      "Ranji Trophy - Football"
+     ],
+     "answer": "B",
+     "explanation": "The Thomas Cup is the men's world team badminton championship. The Davis Cup is tennis, the Durand Cup is football and the Ranji Trophy is cricket. Source: BWF.",
+     "likely": 4,
+     "fact": "The Thomas Cup is associated with badminton.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://bwfbadminton.com/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Which of the following sports term and sport pairs is correctly matched?",
+     "options": [
+      "LBW - Football",
+      "Checkmate - Golf",
+      "Bully - Hockey",
+      "Birdie - Boxing"
+     ],
+     "answer": "C",
+     "explanation": "A bully is used to restart play in hockey. LBW belongs to cricket, checkmate to chess and birdie to golf. Source: FIH Rules of Hockey.",
+     "likely": 4,
+     "fact": "The term 'bully' is used in hockey.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.fih.hockey/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Which city will host the 2028 Summer Olympic Games?",
+     "options": [
+      "Brisbane",
+      "Paris",
+      "Los Angeles",
+      "Tokyo"
+     ],
+     "answer": "C",
+     "explanation": "Los Angeles hosts the 2028 Games, where cricket returns to the Olympics. Brisbane will host in 2032; Paris hosted in 2024. Source: International Olympic Committee.",
+     "likely": 4,
+     "fact": "Los Angeles will host the 2028 Summer Olympics; Brisbane will host in 2032.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.olympics.com/ioc/olympic-games",
+     "confidence": "medium"
+    },
+    {
+     "q": "Which three countries will co-host the 2030 FIFA World Cup?",
+     "options": [
+      "Morocco, Portugal and Spain",
+      "Saudi Arabia, Qatar and UAE",
+      "Argentina, Chile and Uruguay",
+      "England, Scotland and Ireland"
+     ],
+     "answer": "A",
+     "explanation": "Morocco, Portugal and Spain will host in 2030, with three centenary matches in Uruguay, Argentina and Paraguay. Saudi Arabia will host the 2034 World Cup. Source: FIFA, Dec 2024.",
+     "likely": 4,
+     "fact": "Morocco, Portugal and Spain will co-host the 2030 FIFA World Cup; Saudi Arabia hosts in 2034.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://inside.fifa.com/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Which countries will co-host the ICC Men's Cricket World Cup 2027?",
+     "options": [
+      "India and Bangladesh",
+      "Australia and New Zealand",
+      "England and Ireland",
+      "South Africa, Zimbabwe and Namibia"
+     ],
+     "answer": "D",
+     "explanation": "The 2027 ODI World Cup will be held in South Africa, Zimbabwe and Namibia. India and Bangladesh will co-host the 2031 edition. Source: ICC.",
+     "likely": 4,
+     "fact": "South Africa, Zimbabwe and Namibia will co-host the ICC Men's Cricket World Cup 2027.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.icc-cricket.com/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Where is the headquarters of the International Cricket Council (ICC)?",
+     "options": [
+      "London",
+      "Dubai",
+      "Mumbai",
+      "Melbourne"
+     ],
+     "answer": "B",
+     "explanation": "The ICC moved its headquarters from Lord's, London, to Dubai in 2005. FIFA is based in Zurich, the IOC in Lausanne and the BCCI in Mumbai. Source: ICC.",
+     "likely": 4,
+     "fact": "The ICC is headquartered in Dubai, UAE.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.icc-cricket.com/about",
+     "confidence": "medium"
+    },
+    {
+     "q": "Which country won the gold medal in the Open section of the 46th Chess Olympiad, which ended on 27 September 2026?",
+     "options": [
+      "India",
+      "China",
+      "Uzbekistan",
+      "Germany"
+     ],
+     "answer": "C",
+     "explanation": "Hosts Uzbekistan won the Open gold at Samarkand, their second title after Chennai 2022; India took silver and Germany bronze. China won the women's section, where India took bronze. Source: FIDE, 27 Sep 2026.",
+     "likely": 3,
+     "fact": "Uzbekistan won the Open section of the 46th Chess Olympiad at Samarkand; India won silver.",
+     "event_date": "2026-09-27",
+     "kind": "news",
+     "source_url": "https://www.fide.com/uzbekistans-dream-finish-olympiad-gold-in-samarkand/",
+     "confidence": "high"
+    },
+    {
+     "q": "Which Indian city hosted the BWF World Badminton Championships in August 2026?",
+     "options": [
+      "Hyderabad",
+      "New Delhi",
+      "Bengaluru",
+      "Guwahati"
+     ],
+     "answer": "B",
+     "explanation": "The 2026 championships were held in New Delhi from 17 to 23 August 2026, India's second time as host after Hyderabad in 2009. Treesa Jolly and Gayatri Gopichand won India's only medal, a women's doubles bronze. Source: Wikipedia (2026 BWF World Championships), citing BWF and Olympics.com.",
+     "likely": 3,
+     "fact": "New Delhi hosted the BWF World Championships 2026.",
+     "event_date": "2026-08",
+     "kind": "news-static",
+     "source_url": "https://en.wikipedia.org/wiki/2026_BWF_World_Championships",
+     "confidence": "medium"
+    },
+    {
+     "q": "Rumesh Pathirage, who beat Neeraj Chopra to the men's javelin gold at the 2026 Commonwealth Games, represents which country?",
+     "options": [
+      "Pakistan",
+      "Grenada",
+      "Kenya",
+      "Sri Lanka"
+     ],
+     "answer": "D",
+     "explanation": "Sri Lanka's Rumesh Pathirage threw 89.75 m on 31 July 2026. Neeraj Chopra won silver with 85.83 m and Yashvir Singh bronze; defending champion Arshad Nadeem of Pakistan missed the top eight. Source: Al Jazeera, 31 Jul 2026.",
+     "likely": 3,
+     "fact": "Sri Lanka's Rumesh Pathirage won the men's javelin gold at the 2026 Commonwealth Games; Neeraj Chopra won silver.",
+     "event_date": "2026-07-31",
+     "kind": "news",
+     "source_url": "https://www.aljazeera.com/sports/2026/7/31/pathirage-wins-sri-lankas-first-athletics-gold-in-commonwealth-javelin",
+     "confidence": "high"
+    },
+    {
+     "q": "Which team won the Indian Premier League 2026, beating Gujarat Titans in the final at Ahmedabad?",
+     "options": [
+      "Royal Challengers Bengaluru",
+      "Rajasthan Royals",
+      "Punjab Kings",
+      "Mumbai Indians"
+     ],
+     "answer": "A",
+     "explanation": "RCB won by five wickets on 31 May 2026 to retain the title; Virat Kohli (75 not out) was Player of the Match. Vaibhav Sooryavanshi won the Orange Cap (776 runs) and Kagiso Rabada the Purple Cap (29 wickets). Source: News On AIR, 1 Jun 2026.",
+     "likely": 3,
+     "fact": "Royal Challengers Bengaluru won IPL 2026, beating Gujarat Titans by five wickets in the final.",
+     "event_date": "2026-05-31",
+     "kind": "news",
+     "source_url": "https://newsonair.gov.in/royal-challengers-bengaluru-beat-gujarat-titans-by-five-wickets-to-retain-ipl-title/",
+     "confidence": "high"
+    },
+    {
+     "q": "Who won the women's singles title at the French Open 2026?",
+     "options": [
+      "Iga Swiatek",
+      "Coco Gauff",
+      "Mirra Andreeva",
+      "Aryna Sabalenka"
+     ],
+     "answer": "C",
+     "explanation": "Mirra Andreeva, 19, beat Polish qualifier Maja Chwalinska 6-3, 6-2 on 6 June 2026 for her first Grand Slam title. Alexander Zverev won the men's singles. Source: NBC Sports / AP, 6 Jun 2026.",
+     "likely": 3,
+     "fact": "Mirra Andreeva won the French Open 2026 women's singles title.",
+     "event_date": "2026-06-06",
+     "kind": "news",
+     "source_url": "https://www.nbcsports.com/tennis/news/russian-teenager-mirra-andreeva-wins-french-open-to-claim-first-grand-slam-tennis-title",
+     "confidence": "high"
+    },
+    {
+     "q": "How many teams took part in the 2026 FIFA World Cup, which began on 11 June 2026?",
+     "options": [
+      "24",
+      "32",
+      "40",
+      "48"
+     ],
+     "answer": "D",
+     "explanation": "The 2026 World Cup was the first with 48 teams (up from 32) and had 104 matches. It was co-hosted by the United States, Canada and Mexico. Source: Wikipedia (2026 FIFA World Cup), citing FIFA.",
+     "likely": 3,
+     "fact": "The 2026 FIFA World Cup had 48 teams and was co-hosted by the USA, Canada and Mexico.",
+     "event_date": "2026-06-11",
+     "kind": "news-static",
+     "source_url": "https://en.wikipedia.org/wiki/2026_FIFA_World_Cup",
+     "confidence": "high"
+    },
+    {
+     "q": "How many players from each team are on the court at a time in a kabaddi match?",
+     "options": [
+      "Five",
+      "Six",
+      "Seven",
+      "Nine"
+     ],
+     "answer": "C",
+     "explanation": "Each kabaddi side has seven players on court from a squad of twelve. India won both the men's and women's kabaddi gold at the Asian Games 2026, beating Iran in both finals. Source: International Kabaddi Federation rules.",
+     "likely": 3,
+     "fact": "A kabaddi team has seven players on the court at a time.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.olympics.com/en/news/kabaddi-rules-regulations-how-to-play",
+     "confidence": "medium"
+    },
+    {
+     "q": "Who was the first Indian to win an individual Olympic gold medal?",
+     "options": [
+      "Neeraj Chopra",
+      "Rajyavardhan Singh Rathore",
+      "K.D. Jadhav",
+      "Abhinav Bindra"
+     ],
+     "answer": "D",
+     "explanation": "Abhinav Bindra won the men's 10 m air rifle gold at Beijing 2008. Neeraj Chopra won India's first athletics gold at Tokyo 2020, and K.D. Jadhav won independent India's first individual medal (bronze, 1952). Source: Olympics.com.",
+     "likely": 3,
+     "fact": "Abhinav Bindra was the first Indian to win an individual Olympic gold (Beijing 2008, 10 m air rifle).",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.olympics.com/en/athletes/abhinav-bindra",
+     "confidence": "medium"
+    },
+    {
+     "q": "Which region will host the 2030 Winter Olympic Games?",
+     "options": [
+      "French Alps",
+      "Salt Lake City-Utah",
+      "Milan-Cortina",
+      "Sapporo"
+     ],
+     "answer": "A",
+     "explanation": "The IOC awarded the 2030 Winter Games to the French Alps and the 2034 Games to Salt Lake City-Utah in July 2024. Milan-Cortina (Italy) hosted the 2026 Winter Olympics. Source: International Olympic Committee.",
+     "likely": 3,
+     "fact": "The French Alps will host the 2030 Winter Olympics.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.olympics.com/ioc/olympic-games",
+     "confidence": "medium"
+    },
+    {
+     "q": "Archery is the national sport of which country?",
+     "options": [
+      "Nepal",
+      "Bhutan",
+      "Sri Lanka",
+      "Japan"
+     ],
+     "answer": "B",
+     "explanation": "Archery (dha) is Bhutan's national sport. Sri Lanka's national sport is volleyball and Bangladesh's is kabaddi. Source: Olympics.com / Government of Bhutan.",
+     "likely": 3,
+     "fact": "Archery is the national sport of Bhutan.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://www.olympics.com/",
+     "confidence": "medium"
+    }
+   ]
+  }
+ ]
+}

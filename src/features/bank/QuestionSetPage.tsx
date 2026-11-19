@@ -6,14 +6,14 @@ import { ConfirmBox } from '@/components/ui/ConfirmBox';
 import { EmptyState } from '@/components/ui/EmptyState';
 import { isHot } from '@/lib/bank';
 import { formatMarks, netMarks, setStats } from '@/lib/scoring';
-import { SetFilter, type Answers, type Bank, type StudyMode } from '@/lib/types';
+import { SetFilter, type Answers, type Exam, type StudyMode } from '@/lib/types';
 import { profileStore } from '@/store/profileStore';
 import { QuestionList } from './QuestionList';
 import { SpecialSet, applyFilter, resolveSet } from './questionSets';
 import { StudyModeSwitch } from './StudyModeSwitch';
 import { usePracticeCard } from './usePracticeCard';
 
-type QuestionSetPageProps = { bank: Bank; setKey: string; initialFilter: SetFilter; answers: Answers; mode: StudyMode };
+type QuestionSetPageProps = { exam: Exam; setKey: string; initialFilter: SetFilter; answers: Answers; mode: StudyMode };
 
 const EMPTY: Record<SetFilter, string> = {
   all: 'No questions here.',
@@ -23,7 +23,8 @@ const EMPTY: Record<SetFilter, string> = {
   hot: 'No high-chance questions in this set.',
 };
 
-export function QuestionSetPage({ bank, setKey, initialFilter, answers, mode }: QuestionSetPageProps) {
+export function QuestionSetPage({ exam, setKey, initialFilter, answers, mode }: QuestionSetPageProps) {
+  const { bank, marking } = exam;
   const [filter, setFilter] = useState<SetFilter>(initialFilter);
   const [confirmReset, setConfirmReset] = useState(false);
   const [redo, setRedo] = useState<readonly string[] | null>(null);
@@ -71,7 +72,7 @@ export function QuestionSetPage({ bank, setKey, initialFilter, answers, mode }: 
           <h1 className="h-topic">{isMistakes && redo ? 'Redo my mistakes' : set.name}</h1>
           <p className="sub">
             {s.total} questions · {s.done} done
-            {s.done ? ` · ${s.right} right, ${s.wrong} wrong · net ${formatMarks(netMarks(s.right, s.wrong))}` : ''}
+            {s.done ? ` · ${s.right} right, ${s.wrong} wrong · net ${formatMarks(netMarks(s.right, s.wrong, marking))}` : ''}
           </p>
         </header>
         {isMistakes ? null : (

@@ -2,7 +2,7 @@ import { useState } from 'react';
 import { Footer } from '@/components/layout/Footer';
 import { PageHead } from '@/components/layout/PageHead';
 import { isAnsweredWrong, setStats } from '@/lib/scoring';
-import { TopicGroup, type Answers, type Bank, type StudyMode } from '@/lib/types';
+import { TopicGroup, type Answers, type Exam, type StudyMode } from '@/lib/types';
 import { profileStore } from '@/store/profileStore';
 import { QuestionList } from './QuestionList';
 import { searchQuestions } from './questionSets';
@@ -10,15 +10,19 @@ import { StudyModeSwitch } from './StudyModeSwitch';
 import { TopicList } from './TopicList';
 import { usePracticeCard } from './usePracticeCard';
 
-type BankPageProps = { bank: Bank; answers: Answers; mode: StudyMode };
+type BankPageProps = { exam: Exam; answers: Answers; mode: StudyMode };
 
 const GROUPS: readonly { group: TopicGroup; title: string; note: string }[] = [
   { group: TopicGroup.Focus, title: 'Targeted sets', note: 'Built from exam-pattern research' },
   { group: TopicGroup.Month, title: 'Last three months', note: 'Most current-affairs questions come from here' },
   { group: TopicGroup.Topic, title: 'Topics', note: '' },
+  { group: TopicGroup.Current, title: 'Current affairs', note: 'June to mid-November 2026' },
+  { group: TopicGroup.Banking, title: 'Banking & financial awareness', note: '' },
+  { group: TopicGroup.Static, title: 'Static GK', note: '' },
 ];
 
-export function BankPage({ bank, answers, mode }: BankPageProps) {
+export function BankPage({ exam, answers, mode }: BankPageProps) {
+  const { bank } = exam;
   const [query, setQuery] = useState('');
   const top = setStats(bank.top, answers);
   const all = setStats(bank.all, answers);
@@ -29,8 +33,7 @@ export function BankPage({ bank, answers, mode }: BankPageProps) {
   return (
     <>
       <PageHead title="Question bank">
-        {bank.all.length} fact-checked questions on General, Economy, Banking, Digital &amp; Financial Awareness, each with an
-        explanation.
+        {bank.all.length} fact-checked questions on {exam.syllabus}, each with an explanation.
       </PageHead>
       <main className="wrap stack">
         <div className="sechead">
@@ -42,7 +45,7 @@ export function BankPage({ bank, answers, mode }: BankPageProps) {
             <span className="label">Start here</span>
             <strong>The {bank.top.length} questions most likely to be asked</strong>
             <span className="m">
-              Ranked against past IBPS PO Mains papers and 2026 bank exams · {top.done} of {top.total} done
+              Ranked against {exam.rankedAgainst} · {top.done} of {top.total} done
             </span>
           </a>
         ) : null}

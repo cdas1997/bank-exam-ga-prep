@@ -1,12 +1,17 @@
 import { describe, expect, it } from 'vitest';
-import { MARK_WRONG, Strength, formatMarks, netMarks, setStats, strengthOf } from './scoring';
-import { makeTestBank } from './testBank';
+import { Strength, describeMarking, formatMarks, netMarks, setStats, strengthOf } from './scoring';
+import { IBPS_MARKING, SBI_MARKING, makeTestBank } from './testBank';
 
 describe('scoring', () => {
-  it('deducts a quarter of 1.2 marks for each wrong answer', () => {
-    expect(MARK_WRONG).toBeCloseTo(0.3);
-    expect(netMarks(40, 10)).toBeCloseTo(45);
-    expect(formatMarks(netMarks(0, 3))).toBe('-0.90');
+  it('deducts a quarter of 1.2 marks for each wrong IBPS answer', () => {
+    expect(netMarks(40, 10, IBPS_MARKING)).toBeCloseTo(45);
+    expect(formatMarks(netMarks(0, 3, IBPS_MARKING))).toBe('-0.90');
+    expect(describeMarking(IBPS_MARKING)).toEqual({ right: '1.2', wrong: '0.30' });
+  });
+
+  it('deducts a quarter mark for each wrong SBI answer', () => {
+    expect(formatMarks(netMarks(40, 10, SBI_MARKING))).toBe('37.50');
+    expect(describeMarking(SBI_MARKING)).toEqual({ right: '1', wrong: '0.25' });
   });
 
   it('counts right, wrong and unanswered questions', () => {

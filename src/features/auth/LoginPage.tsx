@@ -1,10 +1,11 @@
 import { useState, type FormEvent } from 'react';
 import { Button } from '@/components/ui/Button';
+import type { Exam } from '@/lib/types';
 import { checkUsername, listUsers } from '@/services/storage';
 
-type LoginPageProps = { questionCount: number; examLabel: string | null; onLogin: (name: string) => void };
+type LoginPageProps = { exams: readonly Exam[]; onLogin: (name: string) => void };
 
-export function LoginPage({ questionCount, examLabel, onLogin }: LoginPageProps) {
+export function LoginPage({ exams, onLogin }: LoginPageProps) {
   const [name, setName] = useState('');
   const [error, setError] = useState<string | null>(null);
   const users = listUsers();
@@ -23,13 +24,22 @@ export function LoginPage({ questionCount, examLabel, onLogin }: LoginPageProps)
     <main className="wrap login">
       <div className="login-card">
         <div className="stack-sm">
-          <p className="label">IBPS PO Mains 2026 · GA section</p>
-          <h1>PO Mains GA Prep</h1>
+          <p className="label">Bank exams 2026 · General Awareness</p>
+          <h1>Bank Exam GA Prep</h1>
           <p className="muted">
-            {questionCount} fact-checked questions on General, Economy, Banking, Digital &amp; Financial Awareness, timed mocks, and an
-            analysis of your weak spots.
+            Fact-checked General Awareness questions, timed mocks, and an analysis of your weak spots. You choose your exam after
+            you sign in.
           </p>
-          <p className="specline">50 Q · 60 marks · 35 min · −0.30 per wrong answer{examLabel ? ` · Exam ${examLabel}` : ''}</p>
+          <ul className="courselist">
+            {exams.map((exam) => (
+              <li key={exam.key}>
+                <b>{exam.name}</b>
+                <span className="specline">
+                  {exam.dateLabel} · {exam.bank.all.length} questions
+                </span>
+              </li>
+            ))}
+          </ul>
         </div>
         {users.length ? (
           <div className="stack-sm">

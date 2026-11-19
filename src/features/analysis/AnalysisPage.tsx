@@ -6,14 +6,14 @@ import {
   dailyTarget,
   estimateScore,
   marksLostToNegative,
-  mockLabel,
   mockPace,
   recommendTopics,
-  scaledTo60,
+  scaledToExam,
 } from '@/lib/analysis';
 import { examCountdown, formatShortDate } from '@/lib/dates';
-import { EXAM_PACE_SECS, formatMarks, netMarks, percent, setStats } from '@/lib/scoring';
-import type { Bank, Profile } from '@/lib/types';
+import { mockLabel } from '@/lib/mock';
+import { EXAM_PACE_SECS, describeMarking, formatMarks, netMarks, percent, setStats } from '@/lib/scoring';
+import type { Exam, Profile } from '@/lib/types';
 import { ChartsSection } from './ChartsSection';
 import { DataPanel } from './DataPanel';
 import { HeroPanel } from './HeroPanel';
@@ -22,13 +22,15 @@ import { Onboarding } from './Onboarding';
 import { Recommendations } from './Recommendations';
 import { TopicTable } from './TopicTable';
 
-type AnalysisPageProps = { bank: Bank; user: string; profile: Profile; storageOk: boolean; now: number };
+type AnalysisPageProps = { exam: Exam; user: string; profile: Profile; storageOk: boolean; now: number };
 
-function buildKpis(bank: Bank, profile: Profile): Kpi[] {
+function buildKpis(exam: Exam, profile: Profile): Kpi[] {
+  const { bank, marking } = exam;
+  const marks = describeMarking(marking);
   const s = setStats(bank.all, profile.answers);
   const top = setStats(bank.top, profile.answers);
   const pace = mockPace(profile.mocks);
-  const lost = marksLostToNegative(profile.mocks);
+  const lost = marksLostToNegative(profile.mocks, marking);
   const mockRight = profile.mocks.reduce((n, m) => n + m.right, 0);
   const mockWrong = profile.mocks.reduce((n, m) => n + m.wrong, 0);
   const plural = profile.mocks.length === 1 ? '' : 's';
@@ -41,12 +43,12 @@ function buildKpis(bank: Bank, profile: Profile): Kpi[] {
           <small> / {s.total}</small>
         </>
       ),
-      note: s.done ? `${s.wrong} wrong so far` : 'Start with the Top 100',
+      note: s.done ? `${s.wrong} wrong so far` : bank.sets.length ? 'Start with Set 1' : 'Start with the Top 100',
     },
     {
       label: 'Practice accuracy',
       value: s.done ? `${percent(s.right, s.done)}%` : '–',
-      note: s.done ? `Net ${formatMarks(netMarks(s.right, s.wrong))} marks at +1.2 / −0.3` : 'Answer a few questions first',
+      note: s.done ? `Net ${formatMarks(netMarks(s.right, s.wrong, marking))} marks at +${marks.right} / −${marks.wrong}` : 'Answer a few questions first',
     },
     {
       label: 'Time per question',
@@ -74,7 +76,8 @@ function buildKpis(bank: Bank, profile: Profile): Kpi[] {
   return items;
 }
 
-export function AnalysisPage({ bank, user, profile, storageOk, now }: AnalysisPageProps) {
+export function AnalysisPage({ exam, user, profile, storageOk, now }: AnalysisPageProps) {
+  const { bank } = exam;
   const s = setStats(bank.all, profile.answers);
   const countdown = examCountdown(bank.examDate, now);
   const fresh = !s.done && !profile.mocks.length;
@@ -83,8 +86,8 @@ export function AnalysisPage({ bank, user, profile, storageOk, now }: AnalysisPa
     .reverse()
     .map((m, i) => ({
       label: `M${i + 1}`,
-      value: scaledTo60(m),
-      detail: `${mockLabel(m.type)}, ${formatShortDate(m.startedAt)}`,
+      value: scaledToExam(m, exam.maxMarks),
+      detail: `${mockLabel(m)}, ${formatShortDate(m.startedAt)}`,
       accuracy: accuracyOf(m.right, m.wrong),
     }));
 
@@ -97,7 +100,9 @@ export function AnalysisPage({ bank, user, profile, storageOk, now }: AnalysisPa
       </PageHead>
       <main className="wrap stack">
         <HeroPanel
-          estimate={estimateScore(profile.mocks)}
+          estimate={estimateScore(profile.mocks, exam.maxMarks)}
+          maxMarks={exam.maxMarks}
+          examDayTip={exam.examDayTip}
           practiceAccuracy={s.done ? percent(s.right, s.done) : null}
           practiceDone={s.done}
           target={dailyTarget(bank, profile.answers, now)}
@@ -105,16 +110,16 @@ export function AnalysisPage({ bank, user, profile, storageOk, now }: AnalysisPa
           isExamDay={countdown?.daysLeft === 0}
         />
         {fresh ? (
-          <Onboarding daysLeft={countdown?.daysLeft ?? null} hasTopSet={bank.top.length > 0} />
+          <Onboarding daysLeft={countdown?.daysLeft ?? null} steps={exam.guide} startHref={bank.sets.length ? '#mocks' : bank.top.length ? '#set-top' : '#bank'} />
         ) : (
           <>
-            <KpiRow items={buildKpis(bank, profile)} />
+            <KpiRow items={buildKpis(exam, profile)} />
             <Recommendations items={recommendTopics(bank, profile.answers)} />
           </>
         )}
-        <ChartsSection trend={trend} activity={activityByDay({ answers: profile.answers, mocks: profile.mocks, now, days: 7 })} />
+        <ChartsSection trend={trend} maxMarks={exam.maxMarks} activity={activityByDay({ answers: profile.answers, mocks: profile.mocks, now, days: 7 })} />
         {fresh ? null : <TopicTable topics={bank.topics} answers={profile.answers} />}
-        <DataPanel profile={profile} storageOk={storageOk} />
+        <DataPanel exam={exam} profile={profile} storageOk={storageOk} />
         <Footer checked={bank.checked} />
       </main>
     </>

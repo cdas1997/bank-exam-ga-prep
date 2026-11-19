@@ -1,0 +1,675 @@
+{
+ "verdicts": [
+  {
+   "id": "430054c9d5",
+   "verdict": "ok",
+   "note": "Confirmed on ISRO GSLV-F18 mission page and reports: NVS-03, 3rd 2nd-gen NavIC satellite, 20th GSLV flight, SLP, 30 Oct 2026.",
+   "source_url": "https://www.isro.gov.in/Mission_GSLVF18.html"
+  },
+  {
+   "id": "7f1a0bd1a1",
+   "verdict": "fix",
+   "note": "Explanation said the sites were 'added on 15 October 2026'; Ramsar register dates differ, so reworded to the 15 Oct announcement and tightened sources.",
+   "fix": {
+    "explanation": "India's Ramsar tally reached 103 when Sukhna Wetland (Chandigarh) and Sauj Jheel (Mainpuri, Uttar Pradesh) were announced as new sites on 15 October 2026. The 100th site, Surha Tal (Jai Prakash Narayan Bird Sanctuary) in Ballia, came in June 2026 and the 101st, Glaw Lake in Arunachal Pradesh, in August 2026. India had 26 Ramsar sites in 2014. Source: News On AIR, 16 Oct 2026."
+   },
+   "source_url": "https://newsonair.gov.in/indias-ramsar-site-tally-reaches-103-with-inclusion-of-chandigarhs-sukhna-lake-ups-sauj-jheel-says-union-minister-kirti-vardhan-singh/"
+  },
+  {
+   "id": "882b6ac111",
+   "verdict": "fix",
+   "note": "Stem ('the satellite system for which ISRO launched NVS-03') gave away the answer to question 430054c9d5; stem made independent.",
+   "fix": {
+    "q": "What is the full form of NavIC, India's regional satellite navigation system?"
+   },
+   "source_url": "https://www.isro.gov.in/Mission_GSLVF18.html"
+  },
+  {
+   "id": "e720944cfe",
+   "verdict": "ok",
+   "note": "Static facts confirmed: Ramsar (Iran) 1971; India party 1 Feb 1982 (PIB NIS Jul 2026); first sites 1981.",
+   "source_url": "https://newindiasamachar.pib.gov.in/WriteReadData/flipbook/2026/Jul/1st/English/files/basic-html/page42.html"
+  },
+  {
+   "id": "9e9519332e",
+   "verdict": "fix",
+   "note": "Stem stated a 15 Oct 2026 designation date; that was the announcement date (Ramsar register dates differ). Reworded stem and explanation.",
+   "fix": {
+    "q": "Sukhna Lake, which was added to India's list of Ramsar sites in October 2026, is located in:",
+    "explanation": "Sukhna Wetland, a reservoir created in 1958 at the foot of the Shivalik hills, is Chandigarh's first Ramsar site. It was announced on 15 October 2026 together with Sauj Jheel in Mainpuri district, Uttar Pradesh, taking India's total to 103. Mainpuri is now the only district with two Ramsar sites (the other is Saman Bird Sanctuary). Source: News On AIR, 16 Oct 2026."
+   },
+   "source_url": "https://newsonair.gov.in/indias-ramsar-site-tally-reaches-103-with-inclusion-of-chandigarhs-sukhna-lake-ups-sauj-jheel-says-union-minister-kirti-vardhan-singh/"
+  },
+  {
+   "id": "c8211fac7d",
+   "verdict": "ok",
+   "note": "Confirmed: GSLV-F17/EOS-05, 4 Sep 2026, 19th GSLV flight, first ISRO success of 2026 after PSLV-C62 failure (The Week).",
+   "source_url": "https://www.theweek.in/news/sci-tech/2026/09/04/isro-successfully-launches-gslv-f-17-carrying-eos-05-satellite-why-its-a-milestone-for-india.amp.html"
+  },
+  {
+   "id": "064a981647",
+   "verdict": "ok",
+   "note": "Confirmed: Skyroot Vikram-1 reached orbit 18 Jul 2026 (Mission Aagaman); India third country with private orbital capability.",
+   "source_url": "https://space.com/space-exploration/launches-spacecraft/skyroot-aerospace-india-first-private-orbital-launch-vikram-1"
+  },
+  {
+   "id": "1016d17f29",
+   "verdict": "ok",
+   "note": "Confirmed: 22nd Yudh Abhyas (India-US) opened 15 Sep 2026 at Auli and Mahajan FFR, 600 personnel each.",
+   "source_url": "https://newsonair.gov.in/india-us-joint-military-exercise-yudh-abhyas-begins-at-auli-in-uttarakhand-mahajan-field-firing-range-in-rajasthan/"
+  },
+  {
+   "id": "c9ada32de2",
+   "verdict": "ok",
+   "note": "Confirmed: 18th Nomadic Elephant (India-Mongolia), Pithoragarh, 21 Sep-3 Oct 2026; distractor pairings all wrong.",
+   "source_url": "https://newsonair.gov.in/18th-india-mongolia-joint-military-exercise-nomadic-elephant-begins-in-pithoragarh/"
+  },
+  {
+   "id": "c3ced21089",
+   "verdict": "ok",
+   "note": "Confirmed: Pralay quasi-ballistic missile flight-tested 5 Nov 2026 from Dr APJ Abdul Kalam Island in user evaluation trials; developed by RCI Hyderabad.",
+   "source_url": "https://newsonair.gov.in/drdo-successfully-tests-indigenously-developed-pralay-missile/"
+  },
+  {
+   "id": "e9116e0169",
+   "verdict": "ok",
+   "note": "Confirmed: INS Samarthak built by L&T Kattupalli, commissioned at Karwar 16 Oct 2026 with VP C.P. Radhakrishnan; sister ship Utkarsh.",
+   "source_url": "https://openthemagazine.com/india/indian-navy-commissions-indigenous-multi-purpose-warship-ins-samarthak"
+  },
+  {
+   "id": "c69dcec959",
+   "verdict": "ok",
+   "note": "Confirmed: INS Mahendragiri, sixth P17A frigate, MDL-built, commissioned Visakhapatnam 11 Jul 2026; Dunagiri commissioned June 2026.",
+   "source_url": "https://www.marineinsight.com/indian-navy-commissions-sixth-indigenous-project-17a-stealth-guided-missile-frigate-ins-mahendragiri/"
+  },
+  {
+   "id": "a47f48da16",
+   "verdict": "ok",
+   "note": "Confirmed: Glaw Lake (Lohit district, Kamlang TR) India's 101st and Arunachal's first Ramsar site, 3 Aug 2026.",
+   "source_url": "https://newsonair.gov.in/glaw-lake-of-arunachal-pradesh-designated-as-101st-ramsar-site-first-in-the-state/"
+  },
+  {
+   "id": "4b260c2782",
+   "verdict": "ok",
+   "note": "Confirmed: JP Narayan Bird Sanctuary (Surha Tal, Ballia) 100th Ramsar site June 2026; Shekha Jheel 99th (Apr 2026).",
+   "source_url": "https://newindiasamachar.pib.gov.in/WriteReadData/flipbook/2026/Jul/1st/English/files/basic-html/page42.html"
+  },
+  {
+   "id": "b4e14bf8b9",
+   "verdict": "ok",
+   "note": "Confirmed: Vyommitra flies on G1; Business Today 18 Nov 2026 reports G1 targeted for December 2026, crewed flight 2027.",
+   "source_url": "https://www.businesstoday.in/latest/trends/photo/gaganyaans-first-test-flight-is-set-for-december-what-flies-what-it-tests-and-when-astronauts-follow-568238-2026-11-18"
+  },
+  {
+   "id": "6a0aae96b6",
+   "verdict": "ok",
+   "note": "Confirmed: V. Narayanan is ISRO Chairman (quoted at GSLV-F17, Sep 2026 and on G1, Nov 2026); succeeded Somanath Jan 2025.",
+   "source_url": "https://www.theweek.in/news/sci-tech/2026/09/04/isro-successfully-launches-gslv-f-17-carrying-eos-05-satellite-why-its-a-milestone-for-india.amp.html"
+  },
+  {
+   "id": "35c095003f",
+   "verdict": "ok",
+   "note": "Confirmed: Sriharikota (SDSC-SHAR) is in Andhra Pradesh; GSLV-F18 used the Second Launch Pad.",
+   "source_url": "https://www.isro.gov.in/Mission_GSLVF18.html"
+  },
+  {
+   "id": "15549285ab",
+   "verdict": "ok",
+   "note": "Confirmed: 33rd SIMBEX, 21-26 Oct 2026, hosted at Visakhapatnam.",
+   "source_url": "https://ddindia.co.in/2026/10/33rd-india-singapore-maritime-exercise-simbex-2026-begins-in-visakhapatnam/"
+  },
+  {
+   "id": "0031052c84",
+   "verdict": "fix",
+   "note": "Removed unconfirmed '32 observer nations' claim; rest confirmed (2nd edition, Jodhpur, 26 Sep-12 Oct 2026, seven foreign air forces, theme).",
+   "fix": {
+    "explanation": "Tarang Shakti is the Indian Air Force's multinational air exercise. The 2026 edition, the second after the first in 2024, was held at Air Force Station Jodhpur with the air forces of seven partner countries under the theme 'Power in Partnership'. Source: Adda247, Sep 2026."
+   },
+   "source_url": "https://currentaffairs.adda247.com/exercise-tarang-shakti-2026-begins-at-jodhpur-with-seven-foreign-air-forces/amp/"
+  },
+  {
+   "id": "14eacb0732",
+   "verdict": "fix",
+   "note": "Stem said 'Madhya Pradesh's Nauradehi sanctuary', giving away the answer to question 1de4da818a; state removed from stem. Answer Namibia and Botswana (9, Feb 2026) confirmed.",
+   "fix": {
+    "q": "In October 2026 two cheetahs were released in Nauradehi (Veerangana Durgavati Tiger Reserve), a new home for Project Cheetah. From which country did the first cheetahs of Project Cheetah come in September 2022?",
+    "explanation": "Eight cheetahs from Namibia were released at Kuno National Park on 17 September 2022. South Africa sent 12 in 2023 and Botswana 9 in February 2026. Nauradehi became the third cheetah site after Kuno and Gandhi Sagar when two cheetahs were moved there from Kuno on 7 October 2026. Source: Free Press Journal, 16 Sep 2026; ThePrint, Oct 2026."
+   },
+   "source_url": "https://theprint.in/india/mp-cheetahs-get-3rd-habitat-as-cm-yadav-releases-2-cheetahs-in-veerangana-durgavati-tiger-reserve/3064638/"
+  },
+  {
+   "id": "069c2d17ed",
+   "verdict": "ok",
+   "note": "Confirmed: 58 tiger reserves (Madhav 58th, Mar 2025), MP has 9; no 59th found in 2026.",
+   "source_url": "https://www.tribuneindia.com/news/india/india-gets-58th-tiger-reserve-in-madhya-pradesh"
+  },
+  {
+   "id": "760c0b9a76",
+   "verdict": "fix",
+   "note": "Removed unconfirmed claim of a Rs 1.10 lakh crore DAC clearance on 7 Sep 2026; added confirmed 82% domestic share.",
+   "fix": {
+    "explanation": "The DAC is headed by the Defence Minister (Rajnath Singh) and grants Acceptance of Necessity (AoN) for capital purchases. About 82% of the proposals cleared on 26 October 2026 are to be sourced from Indian industry. Source: News On AIR, 26 Oct 2026."
+   },
+   "source_url": "https://newsonair.gov.in/defence-acquisition-council-clears-capital-acquisition-proposals-worth-around-%E2%82%B92-12-lakh-crore/"
+  },
+  {
+   "id": "d971485734",
+   "verdict": "ok",
+   "note": "Confirmed: Kusha LR-SAM maiden flight test 23 Jul 2026 from Dr APJ Abdul Kalam Island.",
+   "source_url": "https://newsonair.gov.in/drdo-successfully-conducts-maiden-flight-test-of-surface-to-air-missile-kusha/"
+  },
+  {
+   "id": "18b63eb176",
+   "verdict": "ok",
+   "note": "Confirmed: Tamil Nadu 20 and Uttar Pradesh 14 of 103 sites (Sauj Jheel is UP's 14th after Surha Tal as 13th); Sundarban largest.",
+   "source_url": "https://vajiramandravi.com/upsc-exam/ramsar-sites-in-india/"
+  },
+  {
+   "id": "6b16fc90ae",
+   "verdict": "fix",
+   "note": "Explanation called Murasu and Akvan 'the next two names', but Murasu was used on 3 Nov 2026; updated. Bangladesh as namer confirmed.",
+   "fix": {
+    "explanation": "Arnab took a name given by Bangladesh. It was the first cyclonic storm in the North Indian Ocean since Cyclone Ditwah of November 2025. The next name on the list, Murasu (India), went to the cyclone that hit near Ongole on 3 November 2026; Akvan (Iran) comes next. Source: bdnews24 (Bangladesh Meteorological Department), 26-28 Oct 2026; IMD list of cyclone names."
+   },
+   "source_url": "https://bdnews24.com/bangladesh/5hplb1a7qh"
+  },
+  {
+   "id": "a194ec325e",
+   "verdict": "ok",
+   "note": "Confirmed: Severe Cyclonic Storm Murasu crossed coast near Ongole (Prakasam, AP) early 3 Nov 2026; Arnab hit near Yanam 28 Oct.",
+   "source_url": "https://ddindia.co.in/2026/11/cyclone-murasu-crosses-andhra-coast-near-ongole-with-winds-up-to-120-kmph-heavy-rain-likely/"
+  },
+  {
+   "id": "a3ba515a7f",
+   "verdict": "ok",
+   "note": "Confirmed: Agni-4 tested 6 Aug 2026 from ITR Chandipur, Odisha.",
+   "source_url": "https://newsonair.gov.in/india-successfully-test-fires-medium-range-agni-4-ballistic-missile-in-odisha/"
+  },
+  {
+   "id": "da8193b5a2",
+   "verdict": "ok",
+   "note": "Confirmed: INS Nipun, second Nistar-class DSV built by HSL, commissioned at Mumbai 31 Aug 2026.",
+   "source_url": "https://newsonair.gov.in/indian-navy-commissions-ins-nipun-at-naval-dockyard-mumbai/"
+  },
+  {
+   "id": "412cbc0768",
+   "verdict": "ok",
+   "note": "Confirmed: PM commissioned Dunagiri, Sanshodhak and Agray at Kolkata 21 Jun 2026; all built by GRSE.",
+   "source_url": "https://www.navalnews.com/naval-news/2026/06/indian-navy-commissions-nilgiri-class-frigate-asw-vessel-and-survey-vessel/"
+  },
+  {
+   "id": "d7061d2b8b",
+   "verdict": "ok",
+   "note": "Static fact: NISAR is NASA-ISRO SAR, launched on GSLV-F16, 30 Jul 2025.",
+   "source_url": "https://www.isro.gov.in/"
+  },
+  {
+   "id": "9166ab4ff2",
+   "verdict": "ok",
+   "note": "Static fact: ISRO HQ Bengaluru; formed 15 Aug 1969.",
+   "source_url": "https://www.isro.gov.in/"
+  },
+  {
+   "id": "543318e80a",
+   "verdict": "ok",
+   "note": "Confirmed: CBD COP-17 Yerevan 19-30 Oct 2026; CBD Secretariat in Montreal.",
+   "source_url": "https://www.cbd.int/conferences/2026/info-note"
+  },
+  {
+   "id": "d9aaa37d7c",
+   "verdict": "ok",
+   "note": "Confirmed on RBI PR 2026-2027/1264 (7 Oct 2026) and RBI homepage: repo 5.50% after 25 bps hike; held at 5.25% in Aug 2026.",
+   "source_url": "https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63742"
+  },
+  {
+   "id": "61eaad2976",
+   "verdict": "ok",
+   "note": "Confirmed on RBI homepage (19 Nov 2026) and PR 2026-2027/1264: SDF 5.25%.",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "5a7fa92d06",
+   "verdict": "ok",
+   "note": "Confirmed on RBI homepage (19 Nov 2026): MSF and Bank Rate 5.75%.",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "77a5f92422",
+   "verdict": "ok",
+   "note": "Confirmed on RBI PR 2026-2027/1264: stance changed to calibrated tightening; Nagesh Kumar and Ram Singh wanted neutral.",
+   "source_url": "https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63742"
+  },
+  {
+   "id": "de0c177f30",
+   "verdict": "ok",
+   "note": "Confirmed: RB-IOS 2026 effective 1 Jul 2026; Rs 30 lakh (was Rs 20 lakh) plus up to Rs 3 lakh for harassment; no limit on dispute value.",
+   "source_url": "https://www.businesstoday.in/personal-finance/banking/story/rbi-revamps-customer-grievance-redressal-heres-what-changes-for-bank-nbfc-customers-541259-2026-07-06"
+  },
+  {
+   "id": "4fcdb76480",
+   "verdict": "ok",
+   "note": "Confirmed: RBI PR 2026-2027/533 of 24 Jun 2026, effective 1 Jan 2027; 85% of net loss or Rs 25,000, losses up to Rs 50,000 (Business Today).",
+   "source_url": "https://www.rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63011"
+  },
+  {
+   "id": "579cee1c55",
+   "verdict": "ok",
+   "note": "Confirmed: Sanjay Malhotra chaired the Oct 2026 MPC (RBI PR 2026-2027/1264); took charge 11 Dec 2024.",
+   "source_url": "https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63742"
+  },
+  {
+   "id": "4296062a09",
+   "verdict": "ok",
+   "note": "Static fact: one-rupee note issued by GoI, signed by Finance Secretary.",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "b5a59b638f",
+   "verdict": "ok",
+   "note": "Confirmed on RBI homepage 19 Nov 2026: CRR 3.00%.",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "8a511dcfdb",
+   "verdict": "ok",
+   "note": "Confirmed on RBI homepage 19 Nov 2026: SLR 18.00%.",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "d603af1d42",
+   "verdict": "ok",
+   "note": "Confirmed: RBI PR 2026-2027/1264 GDP 7.1%; August 2026 projection 6.7%, June 6.6% (News On AIR 5 Aug 2026).",
+   "source_url": "https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63742"
+  },
+  {
+   "id": "95b101089a",
+   "verdict": "ok",
+   "note": "Confirmed: CPI 2026-27 at 5.2% with Q3 at 6.0%; August projection 5.0%, June 5.1%.",
+   "source_url": "https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63742"
+  },
+  {
+   "id": "78638537b7",
+   "verdict": "ok",
+   "note": "Confirmed in RBI PR 2026-2027/1264: next MPC meeting 2-4 December 2026.",
+   "source_url": "https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63742"
+  },
+  {
+   "id": "97e74f4582",
+   "verdict": "ok",
+   "note": "Confirmed: circular RBI/2026-27/290 of 9 Oct 2026 raised daily CRR minimum from 90% to 99% from fortnight beginning 16 Oct 2026.",
+   "source_url": "https://www.kotakneo.com/news/regulations/rbi-raises-daily-crr-requirement-to-99-percent-from-16-october/"
+  },
+  {
+   "id": "58b1884a35",
+   "verdict": "ok",
+   "note": "Confirmed: DEA notification 25 Mar 2026 retains 4% +/-2% for 1 Apr 2026-31 Mar 2031 under Sec 45ZA.",
+   "source_url": "https://www.businesstoday.in/latest/economy/story/govt-retains-inflation-target-at-4-with-2-6-band-for-next-five-years-522390-2026-03-25"
+  },
+  {
+   "id": "a9a5d22302",
+   "verdict": "fix",
+   "note": "Press release number 2026-2027/1342 could not be confirmed; source replaced. Facts (16 Oct sanction, Sec 44A, effective 1 Dec 2026) confirmed.",
+   "fix": {
+    "explanation": "The RBI sanctioned the scheme on 16 October 2026 under Section 44A of the Banking Regulation Act, 1949. From 1 December 2026 the three Indian branches of Dubai-based Emirates NBD (Mumbai, Chennai, Gurugram) will work as RBL Bank branches. Source: Khaleej Times / Moneylife, Oct 2026."
+   },
+   "source_url": "https://www.khaleejtimes.com/business/rbi-approves-merger-emirates-nbd-indian-branches-rbl-bank"
+  },
+  {
+   "id": "02ff779a28",
+   "verdict": "fix",
+   "note": "Press release number 2026-2027/1384 could not be confirmed; source replaced. Facts confirmed.",
+   "fix": {
+    "explanation": "The Rs 169 crore facility is at Jatni near Bhubaneswar, Odisha. The Tier IV-certified Data Centre supports RBI-run systems such as RTGS and NEFT, and the institute will train staff in cybersecurity, data science and AI. Source: News On AIR, 25 Oct 2026."
+   },
+   "source_url": "https://newsonair.gov.in/pm-modi-inaugurates-rbi-data-centre-and-cybersecurity-training-institute-in-odisha/"
+  },
+  {
+   "id": "eb3b85f4da",
+   "verdict": "ok",
+   "note": "Confirmed on RBI PR 2026-2027/1306 (10 Oct 2026): USD window for IOCL, HPCL, BPCL from 12 Oct 2026.",
+   "source_url": "https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63784"
+  },
+  {
+   "id": "7fd2037b06",
+   "verdict": "ok",
+   "note": "Confirmed on RBI PR 2026-2027/686 (16 Jul 2026): FI-Index 70.0 (Mar 2026) vs 67.0; first published Aug 2021.",
+   "source_url": "https://rbi.org.in/scripts/BS_PressReleaseDisplay.aspx?prid=63164"
+  },
+  {
+   "id": "d664aa4d74",
+   "verdict": "fix",
+   "note": "Press release number 2026-2027/811 and the '2004' pause year could not be confirmed; replaced with confirmed PR 2026-2027/816 and 'about two decades'.",
+   "fix": {
+    "explanation": "The RBI announced this in its Statement on Developmental and Regulatory Policies of 5 August 2026, after a discussion paper of 13 January 2026, and released draft guidelines for public comment the same day. New UCB licences had been paused for about two decades. Source: RBI press release 2026-2027/816, 5 Aug 2026."
+   },
+   "source_url": "https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63294"
+  },
+  {
+   "id": "164dc465f8",
+   "verdict": "ok",
+   "note": "Confirmed on RBI PR 2026-2027/823 (6 Aug 2026): 17 NBFC-UL incl. REC, PFC, IRFC, HUDCO; PNB Housing and Sammaan Capital retained under five-year rule.",
+   "source_url": "https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63301"
+  },
+  {
+   "id": "12b02ae215",
+   "verdict": "ok",
+   "note": "Confirmed: amendment directions of 24 Jun 2026 set Rs 1 lakh crore asset threshold replacing scoring method.",
+   "source_url": "https://www.businesstoday.in/industry/banks/story/which-nbfcs-are-classified-in-the-upper-layer-here-what-rbis-final-norms-say-539046-2026-06-24"
+  },
+  {
+   "id": "7963f68d6e",
+   "verdict": "ok",
+   "note": "Confirmed on RBI Master Directions RBI/DPSS/2026-27/475 of 5 Nov 2026, para 22(d): report within 6 hours; also CERT-In.",
+   "source_url": "https://www.rbi.org.in/scripts/FS_Notification.aspx?Id=13751&Mode=0&fn=9"
+  },
+  {
+   "id": "ad4cb8ddd9",
+   "verdict": "ok",
+   "note": "Confirmed: RBI/DOR/2026-27/398 dated 27 Apr 2026, in force 1 Apr 2027; SFBs, PBs, LABs excluded.",
+   "source_url": "https://www.rbi.org.in/Scripts/NotificationUser.aspx?Id=13400"
+  },
+  {
+   "id": "ba3b3e31fa",
+   "verdict": "ok",
+   "note": "Confirmed: surplus Rs 2,86,588.46 crore for 2025-26 (vs ~2.69 lakh crore); balance sheet Rs 91.97 lakh crore (Annual Report 29 May 2026).",
+   "source_url": "https://newsonair.gov.in/rbi-approves-record-%E2%82%B92-86-lakh-crore-surplus-transfer-to-central-government-for-financial-year-2025-26/"
+  },
+  {
+   "id": "b0e101536b",
+   "verdict": "ok",
+   "note": "Static fact: RBI set up on Hilton Young Commission recommendations.",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "d6e0ba5bb9",
+   "verdict": "ok",
+   "note": "Static fact: RBI nationalised 1 Jan 1949; BR Act in force 16 Mar 1949.",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "a2a3a8a909",
+   "verdict": "ok",
+   "note": "Static fact: C.D. Deshmukh, 3rd Governor (Aug 1943), first Indian; Osborne Smith first Governor.",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "c469bcaa71",
+   "verdict": "ok",
+   "note": "Confirmed on RBI Deputy Governors page (Nov 2026): Rohit Jain, S.C. Murmu, Poonam Gupta, Swaminathan J; Act allows up to four.",
+   "source_url": "https://www.rbi.org.in/Scripts/AboutusDisplay.aspx?pg=Deputygovernors.htm"
+  },
+  {
+   "id": "39b91b1dac",
+   "verdict": "ok",
+   "note": "Static fact: six-member MPC under Sec 45ZB, at least four meetings a year.",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "ed8a535bc9",
+   "verdict": "ok",
+   "note": "Static fact: SDF is floor of LAF corridor since April 2022.",
+   "source_url": "https://www.rbi.org.in/"
+  },
+  {
+   "id": "c8da1b7f20",
+   "verdict": "ok",
+   "note": "Static fact: DICGC wholly owned RBI subsidiary (15 Jul 1978); cover still Rs 5 lakh (no 2026 increase found).",
+   "source_url": "https://www.dicgc.org.in/"
+  },
+  {
+   "id": "28b32fe619",
+   "verdict": "ok",
+   "note": "Confirmed: Cabinet 11 Nov 2026 extended Stand-Up India to 31 Mar 2031 with Rs 4,111 crore guarantee corpus, 2.5 lakh more entrepreneurs.",
+   "source_url": "https://psuwatch.com/newsupdates/govt-extends-stand-up-india-scheme-till-march-31-2031"
+  },
+  {
+   "id": "959b9db87f",
+   "verdict": "ok",
+   "note": "Confirmed: Cabinet 6 Aug 2026 approved GOBARdhan National Circular Bioenergy Scheme for CBG, Rs 23,731 crore, 2026-27 to 2035-36.",
+   "source_url": "https://www.gktoday.in/cabinet-clears-rs-23731-crore-gobardhan-scheme-rs-8970-crore-assam-corridor/"
+  },
+  {
+   "id": "54c0c84f00",
+   "verdict": "ok",
+   "note": "Static fact: PM-JAY covers 3 days pre- and 15 days post-hospitalisation; launched 23 Sep 2018 at Ranchi.",
+   "source_url": "https://nha.gov.in/PM-JAY"
+  },
+  {
+   "id": "f02f05844c",
+   "verdict": "fix",
+   "note": "Source was Wikipedia (which is self-contradictory); replaced with EPFO's own FAQ confirming S.O. 5109(E) of 17 Sep 2026.",
+   "fix": {
+    "explanation": "Notification S.O. 5109(E) of 17 September 2026 raised the EPFO wage ceiling to Rs 25,000 a month from that date; it had been Rs 15,000 since 1 September 2014. The new ceiling applies to EPF, EPS and EDLI and is expected to bring over 51 lakh more employees under mandatory cover. EPFO works under the Ministry of Labour and Employment. Source: EPFO FAQs on revision of wage ceiling, Sep 2026."
+   },
+   "source_url": "https://pmvbry-cdn.epfindia.gov.in/wp-content/uploads/2026/09/EPFO_Wage_Ceiling_FAQs.pdf"
+  },
+  {
+   "id": "285a1fd3e7",
+   "verdict": "ok",
+   "note": "Confirmed: Oct 2026 CPI 6.09% (Sep 5.54%), food 8.94%, released 12 Nov 2026.",
+   "source_url": "https://tradingeconomics.com/india/inflation-cpi"
+  },
+  {
+   "id": "cd9e2ce050",
+   "verdict": "fix",
+   "note": "Present-tense stem could go stale if the scheme period is extended (not checkable); reframed to the February 2024 approval, which is fixed.",
+   "fix": {
+    "q": "When the Union Cabinet approved PM Surya Ghar: Muft Bijli Yojana in February 2024 with an outlay of Rs 75,021 crore, it was to be implemented up to which financial year?",
+    "explanation": "The Cabinet approved the scheme on 29 February 2024 with Rs 75,021 crore, to be implemented till FY 2026-27, for rooftop solar in 1 crore households. The Ministry of New and Renewable Energy runs it. Source: PIB (Cabinet decision), 29 Feb 2024."
+   },
+   "source_url": "https://en.wikipedia.org/wiki/Pradhan_Mantri_Surya_Ghar_Muft_Bijli_Yojana"
+  },
+  {
+   "id": "208dbf81d2",
+   "verdict": "ok",
+   "note": "Static fact: GSTIN = 2-digit state code + 10-char PAN + entity no. + Z + check digit.",
+   "source_url": "https://www.gst.gov.in/"
+  },
+  {
+   "id": "39f59779ca",
+   "verdict": "drop",
+   "note": "VISTAR scheme (MoSPI, ~Rs 4,371 crore, 4 Nov 2026) could not be confirmed from any page reachable after search quota ran out; unconfirmed post-May-2026 fact."
+  },
+  {
+   "id": "0f1f56f457",
+   "verdict": "ok",
+   "note": "Confirmed: Cabinet 28 Oct 2026 approved PM VGSY, CSS, Rs 7,395.55 crore (central Rs 4,869.48 crore), 2.55 lakh+ panchayats.",
+   "source_url": "https://www.gktoday.in/cabinet-approves-viksit-gram-swaraj-yojana-with-%e2%82%b97395-crore/"
+  },
+  {
+   "id": "680585cd7e",
+   "verdict": "ok",
+   "note": "Confirmed: Cabinet 14 Oct 2026 continued NSAP for 2026-27 to 2030-31 with Rs 53,428 crore, renamed Pradhan Mantri Samajik Sahayata Yojana; 3.2 crore beneficiaries.",
+   "source_url": "https://www.gktoday.in/cabinet-expands-disability-pension-coverage-to-27-lakh-beneficiaries/"
+  },
+  {
+   "id": "45022750fe",
+   "verdict": "drop",
+   "note": "PPF rate for Oct-Dec 2026 (30 Sep 2026 decision) could not be confirmed on an official or news page; unconfirmed post-May-2026 fact."
+  },
+  {
+   "id": "078ff9119d",
+   "verdict": "ok",
+   "note": "Static fact: PFRDA regulates NPS and APY; Tier-I minimum Rs 1,000 a year.",
+   "source_url": "https://www.pfrda.org.in/"
+  },
+  {
+   "id": "c3def27927",
+   "verdict": "ok",
+   "note": "Static fact: AB PM-JAY Vay Vandana gives Rs 5 lakh cover to all aged 70+ since 29 Oct 2024.",
+   "source_url": "https://nha.gov.in/PM-JAY"
+  },
+  {
+   "id": "57988e7073",
+   "verdict": "fix",
+   "note": "7.8% confirmed by the RBI's Oct 2026 statement; source upgraded from Trading Economics.",
+   "fix": {
+    "explanation": "Real GDP grew 7.8% in Q1 of 2026-27 as per NSO estimates released on 31 August 2026; the RBI called it higher than expected in its October 2026 policy. The July-September figure is due at the end of November 2026. Source: RBI press release 2026-2027/1264, 7 Oct 2026."
+   },
+   "source_url": "https://rbi.org.in/Scripts/BS_PressReleaseDisplay.aspx?prid=63742"
+  },
+  {
+   "id": "13f78d8862",
+   "verdict": "fix",
+   "note": "Month of the Cabinet decision (July 2026) could not be confirmed; removed from stem. Continuation to 2030-31, Rs 3.15 lakh crore and Rs 6,000 confirmed in NIS 16-31 Aug 2026.",
+   "fix": {
+    "q": "In 2026 the Union Cabinet approved continuing PM-KISAN up to 2030-31. How much does an eligible farmer family get per year under it?"
+   },
+   "source_url": "https://newindiasamachar.pib.gov.in/WriteReadData/flipbook/2026/Aug/2nd/English/files/basic-html/page8.html"
+  },
+  {
+   "id": "fde0fc6a71",
+   "verdict": "ok",
+   "note": "Confirmed: GOBARdhan scheme (2026-27 to 2035-36) administered by Ministry of Petroleum and Natural Gas.",
+   "source_url": "https://www.gktoday.in/cabinet-clears-rs-23731-crore-gobardhan-scheme-rs-8970-crore-assam-corridor/"
+  },
+  {
+   "id": "48133f5638",
+   "verdict": "ok",
+   "note": "Confirmed on PRS: FD 4.3% (2026-27 BE) vs 4.4% (2025-26 RE); expenditure Rs 53,47,315 crore; capex Rs 12.2 lakh crore.",
+   "source_url": "https://prsindia.org/budgets/parliament/union-budget-2026-27-analysis"
+  },
+  {
+   "id": "2762576d2b",
+   "verdict": "fix",
+   "note": "Month of approval (July 2026) could not be confirmed; removed from stem. Rs 5,070 crore and 5,000 MW floating solar confirmed in NIS 16-31 Aug 2026.",
+   "fix": {
+    "q": "Pradhan Mantri Surya Sarovar Yojana, approved by the Union Cabinet in 2026 with Rs 5,070 crore, promotes which type of project?"
+   },
+   "source_url": "https://newindiasamachar.pib.gov.in/WriteReadData/flipbook/2026/Aug/2nd/English/files/basic-html/page9.html"
+  },
+  {
+   "id": "1b897b0bf6",
+   "verdict": "ok",
+   "note": "Confirmed: Cabinet 30 Sep 2026 raised wheat MSP by Rs 25 (from Rs 2,585 for RMS 2026-27) to Rs 2,610.",
+   "source_url": "https://www.gktoday.in/cabinet-approves-%e2%82%b92-79-trillion-for-rabi-msps-green-energy-and-delhi-traffic-system/"
+  },
+  {
+   "id": "8d80a2fa81",
+   "verdict": "ok",
+   "note": "Static fact: PMJJBY Rs 436/yr (18-50); PMSBY Rs 20/yr (18-70); both 9 May 2015.",
+   "source_url": "https://jansuraksha.gov.in/"
+  },
+  {
+   "id": "abba05a9eb",
+   "verdict": "ok",
+   "note": "Static fact: APY entry age 18-40; taxpayers barred from 1 Oct 2022.",
+   "source_url": "https://www.pfrda.org.in/"
+  },
+  {
+   "id": "57fd0e505c",
+   "verdict": "ok",
+   "note": "Static fact: Art. 279A (101st Amendment, 2016) provides for GST Council.",
+   "source_url": "https://gstcouncil.gov.in/"
+  },
+  {
+   "id": "edaa230979",
+   "verdict": "fix",
+   "note": "Explanation stated the current SCSS rate (8.2%), which could not be confirmed for Oct-Dec 2026; removed. Rs 30 lakh limit confirmed.",
+   "fix": {
+    "explanation": "The SCSS deposit limit was raised from Rs 15 lakh to Rs 30 lakh from 1 April 2023 (Budget 2023-24). The minimum age is 60, the tenure is 5 years (extendable by 3 years) and interest is paid quarterly. Source: National Savings Institute."
+   }
+  },
+  {
+   "id": "d66d1f9495",
+   "verdict": "drop",
+   "note": "October 2026 gross GST (Rs 2,31,290 crore) not confirmed: official GST statistics file only runs to Sep 2026 (it does confirm the Apr 2026 record of Rs 2.43 lakh crore); unconfirmed post-May-2026 fact."
+  },
+  {
+   "id": "263db3d4c5",
+   "verdict": "ok",
+   "note": "Static fact: Pong Dam on Beas, Kangra; Maharana Pratap Sagar."
+  },
+  {
+   "id": "9bab9ef597",
+   "verdict": "ok",
+   "note": "Static fact: Wangala is the Garo harvest festival."
+  },
+  {
+   "id": "08cc15bb71",
+   "verdict": "ok",
+   "note": "Static fact: Godavari rises at Trimbakeshwar, Nashik, Maharashtra."
+  },
+  {
+   "id": "f9986157dd",
+   "verdict": "ok",
+   "note": "Static fact: Jim Corbett NP (Hailey NP, 1936) is India's first national park."
+  },
+  {
+   "id": "c468cce83e",
+   "verdict": "ok",
+   "note": "Static fact: Chilika and Keoladeo designated 1 Oct 1981."
+  },
+  {
+   "id": "047633e4c5",
+   "verdict": "ok",
+   "note": "Static fact: Tehri Dam (260.5 m) on the Bhagirathi, THDC."
+  },
+  {
+   "id": "dad094a858",
+   "verdict": "ok",
+   "note": "Static fact: Chenab Rail Bridge, Reasi, 359 m, opened 6 Jun 2025."
+  },
+  {
+   "id": "d282c7d214",
+   "verdict": "fix",
+   "note": "Stem's 'India's largest nuclear power station' could not be confirmed as current (Rawatbhata's capacity is growing with RAPP 7-8); descriptor replaced with a stable one. Answer unchanged.",
+   "fix": {
+    "q": "Kudankulam Nuclear Power Plant, built with Russian collaboration, is in which state?",
+    "explanation": "Kudankulam is in Tirunelveli district, Tamil Nadu, and is run by NPCIL with Russian-designed VVER reactors. Kaiga is in Karnataka, Kakrapar in Gujarat and Tarapur in Maharashtra. Source: NPCIL."
+   },
+   "source_url": "https://www.npcil.nic.in/"
+  },
+  {
+   "id": "cb70e96496",
+   "verdict": "ok",
+   "note": "Static fact: Sattriya from Assam, recognised as classical by SNA in 2000."
+  },
+  {
+   "id": "0505d58d72",
+   "verdict": "ok",
+   "note": "Static fact: Hornbill Festival, Kisama near Kohima, Nagaland, 1-10 Dec, since 2000."
+  },
+  {
+   "id": "bb82301e14",
+   "verdict": "ok",
+   "note": "Static fact: Vizhinjam port in Thiruvananthapuram, Kerala, inaugurated 2 May 2025."
+  },
+  {
+   "id": "d1093bb6fd",
+   "verdict": "ok",
+   "note": "Confirmed: Darjeeling Tea first GI (2004-05) per GI list.",
+   "source_url": "https://en.wikipedia.org/wiki/List_of_geographical_indications_in_India"
+  },
+  {
+   "id": "4c893321a3",
+   "verdict": "ok",
+   "note": "Confirmed: tigress from Valmiki TR (Bihar) released in Buxa TR (West Bengal, declared 1983) to start a phased reintroduction (Drishti 6 Oct 2026).",
+   "source_url": "https://www.drishtiias.com/statepcs/06-10-2026/west-bengal"
+  },
+  {
+   "id": "0377041f3a",
+   "verdict": "fix",
+   "note": "Stem said 'six states' though Delhi is a UT; dam height differs across sources (232.6 m vs 236 m) so removed. Tons river and 15 Sep 2026 agreement confirmed.",
+   "fix": {
+    "q": "The Kishau Dam project, for which five states and Delhi signed an agreement on 15 September 2026, is on which river?",
+    "explanation": "Kishau is a concrete gravity dam planned on the Tons, a tributary of the Yamuna, on the Uttarakhand-Himachal Pradesh border. The signatories were Uttar Pradesh, Uttarakhand, Himachal Pradesh, Rajasthan, Haryana and Delhi; the Centre will bear about 90% of the cost. Source: Drishti IAS, 16 Sep 2026."
+   },
+   "source_url": "https://www.drishtiias.com/statepcs/16-09-2026/uttarakhand"
+  },
+  {
+   "id": "90a8d124be",
+   "verdict": "drop",
+   "note": "Ambaji Mohanthal GI tag (Oct 2026) could not be confirmed from any reachable source; unconfirmed post-May-2026 fact."
+  },
+  {
+   "id": "1de4da818a",
+   "verdict": "fix",
+   "note": "Explanation placed the reserve only in Sagar and Damoh; reworded to 'mainly', added confirmed Oct 2026 cheetah release (now that Q20's stem no longer names the state).",
+   "fix": {
+    "explanation": "The reserve, which includes the old Nauradehi Wildlife Sanctuary, lies mainly in Sagar and Damoh districts of Madhya Pradesh and was notified in 2023; it is the state's largest tiger reserve. On 7 October 2026 it became Madhya Pradesh's third cheetah habitat after Kuno and Gandhi Sagar. Source: Drishti IAS / ThePrint, 8 Oct 2026."
+   },
+   "source_url": "https://www.drishtiias.com/state-pcs-current-affairs/veerangana-durgavati-tiger-reserve-becomes-cheetah-habitat/print_manually"
+  }
+ ]
+}

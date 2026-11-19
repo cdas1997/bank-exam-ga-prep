@@ -1,0 +1,724 @@
+{
+ "batches": [
+  {
+   "key": "ca-awards",
+   "name": "Awards, honours & obituaries",
+   "questions": [
+    {
+     "q": "Who was awarded the Nobel Peace Prize 2026, announced in Oslo on 9 October 2026?",
+     "options": [
+      "Narges Mohammadi",
+      "Maria Corina Machado",
+      "Navi Pillay",
+      "Fatou Bensouda"
+     ],
+     "answer": "C",
+     "explanation": "South African jurist Navi Pillay won for promoting peace and international law. She was UN High Commissioner for Human Rights (2008-2014) and a judge of the International Criminal Court. Maria Corina Machado won in 2025. Source: AP, 12 Oct 2026.",
+     "likely": 5,
+     "fact": "Navi Pillay of South Africa won the Nobel Peace Prize 2026.",
+     "event_date": "2026-10-09",
+     "kind": "news",
+     "source_url": "https://www.clickorlando.com/news/2026/10/12/a-list-of-this-years-nobel-prize-winners/",
+     "confidence": "high"
+    },
+    {
+     "q": "Which bank was named the 'World's Best Consumer Bank 2026' by Global Finance magazine in July 2026?",
+     "options": [
+      "HDFC Bank",
+      "State Bank of India",
+      "DBS Bank",
+      "ICICI Bank"
+     ],
+     "answer": "B",
+     "explanation": "Global Finance named SBI the World's Best Consumer Bank for 2026. Santander was named World's Best Bank and DBS the World's Best Corporate Bank. The awards were presented in Bangkok on 17 October 2026 during the IMF-World Bank Annual Meetings. Source: Global Finance, 16 Jul 2026.",
+     "likely": 5,
+     "fact": "Global Finance named State Bank of India the World's Best Consumer Bank 2026.",
+     "event_date": "2026-07-16",
+     "kind": "news",
+     "source_url": "https://gfmag.com/award/award-winners/banco-santander-worlds-best-bank-2026/",
+     "confidence": "high"
+    },
+    {
+     "q": "The 2026 Nobel Memorial Prize in Economic Sciences was awarded to which pair of economists?",
+     "options": [
+      "Joel Mokyr and Philippe Aghion",
+      "Daron Acemoglu and Simon Johnson",
+      "Claudia Goldin and David Card",
+      "Robert E. Hall and Michael Woodford"
+     ],
+     "answer": "D",
+     "explanation": "Robert E. Hall (Stanford) and Michael Woodford (Columbia), both American, won for the microeconomic foundations of macroeconomic stabilisation. The prize was announced on 12 October 2026. Mokyr, Aghion and Howitt won in 2025. Source: AP, 12 Oct 2026.",
+     "likely": 5,
+     "fact": "Robert E. Hall and Michael Woodford won the 2026 Economics Nobel.",
+     "event_date": "2026-10-12",
+     "kind": "news",
+     "source_url": "https://www.clickorlando.com/news/2026/10/12/a-list-of-this-years-nobel-prize-winners/",
+     "confidence": "high"
+    },
+    {
+     "q": "Who won the Booker Prize 2026, announced in London in November 2026, for the novel 'The End of Everything'?",
+     "options": [
+      "M. John Harrison",
+      "David Szalay",
+      "Samantha Harvey",
+      "Douglas Stuart"
+     ],
+     "answer": "A",
+     "explanation": "British writer M. John Harrison won on 9 November 2026. At 81 he is the oldest winner, and his is the first science fiction work to win. The prize money is 50,000 pounds; Mary Beard chaired the judges. Source: AP, 10 Nov 2026.",
+     "likely": 5,
+     "fact": "M. John Harrison won the Booker Prize 2026 for 'The End of Everything'.",
+     "event_date": "2026-11-09",
+     "kind": "news",
+     "source_url": "https://www.adn.com/arts/books/2026/11/10/the-end-of-everything-by-m-john-harrison-wins-the-2026-booker-prize-for-fiction/",
+     "confidence": "high"
+    },
+    {
+     "q": "Which film won the Best Feature Film award at the 72nd National Film Awards, presented by the President in September 2026?",
+     "options": [
+      "Kalki 2898 AD",
+      "Amaran",
+      "Article 370",
+      "Srikanth"
+     ],
+     "answer": "C",
+     "explanation": "'Article 370' won Best Feature Film. 'Kalki 2898 AD' won the popular film award, 'Srikanth' was Best Hindi Film, and Rajkumar Periasamy won Best Direction for 'Amaran'. The awards were announced on 18 July 2026 for films of 2024. Source: News On AIR, 22 Sep 2026.",
+     "likely": 5,
+     "fact": "'Article 370' won Best Feature Film at the 72nd National Film Awards.",
+     "event_date": "2026-09-22",
+     "kind": "news",
+     "source_url": "https://newsonair.gov.in/president-murmu-presents-72nd-national-film-awards-at-ekta-nagar-in-gujarat/",
+     "confidence": "high"
+    },
+    {
+     "q": "Which veteran actor received the Dadasaheb Phalke Award (for 2024) at the 72nd National Film Awards on 22 September 2026?",
+     "options": [
+      "Mohanlal",
+      "Mithun Chakraborty",
+      "Waheeda Rehman",
+      "Anant Nag"
+     ],
+     "answer": "D",
+     "explanation": "Kannada actor Anant Nag received the award from President Droupadi Murmu. The award was first given in 1969 to Devika Rani. Mohanlal received the previous award (for 2023). Source: News On AIR, 22 Sep 2026.",
+     "likely": 5,
+     "fact": "Anant Nag received the Dadasaheb Phalke Award for 2024.",
+     "event_date": "2026-09-22",
+     "kind": "news",
+     "source_url": "https://newsonair.gov.in/president-murmu-presents-72nd-national-film-awards-at-ekta-nagar-in-gujarat/",
+     "confidence": "high"
+    },
+    {
+     "q": "In the National Sports Awards 2025, announced on 18 August 2026, which award was not given to anyone?",
+     "options": [
+      "Arjuna Award",
+      "Major Dhyan Chand Khel Ratna",
+      "Dronacharya Award",
+      "Rashtriya Khel Protsahan Puraskar"
+     ],
+     "answer": "B",
+     "explanation": "The Sports Ministry named no Khel Ratna awardee for 2025, the first such year since 2014. It named 17 Arjuna awardees, including Tejaswin Shankar and Divya Deshmukh. The President gave the awards on 13 November 2026. Source: PTI/ThePrint, 18 Aug 2026.",
+     "likely": 5,
+     "fact": "No Major Dhyan Chand Khel Ratna was given for 2025.",
+     "event_date": "2026-08-18",
+     "kind": "news",
+     "source_url": "https://theprint.in/sport/no-khel-ratna-for-2025-tejaswin-divya-and-gayatri-gopichand-among-arjuna-awardees/3018100/",
+     "confidence": "high"
+    },
+    {
+     "q": "Who won the Nobel Prize in Literature 2026?",
+     "options": [
+      "Laszlo Krasznahorkai",
+      "Han Kang",
+      "Anne Carson",
+      "Margaret Atwood"
+     ],
+     "answer": "C",
+     "explanation": "Canadian poet, essayist and translator Anne Carson, born in Toronto, won the prize announced on 8 October 2026. Laszlo Krasznahorkai won in 2025 and Han Kang in 2024. Source: AP, 12 Oct 2026.",
+     "likely": 5,
+     "fact": "Anne Carson of Canada won the Nobel Prize in Literature 2026.",
+     "event_date": "2026-10-08",
+     "kind": "news",
+     "source_url": "https://www.clickorlando.com/news/2026/10/12/a-list-of-this-years-nobel-prize-winners/",
+     "confidence": "high"
+    },
+    {
+     "q": "The Ramon Magsaysay Award, whose 2026 winners were announced on 31 August 2026, is named after a former President of which country?",
+     "options": [
+      "Indonesia",
+      "Philippines",
+      "Thailand",
+      "Malaysia"
+     ],
+     "answer": "B",
+     "explanation": "The award is named after Philippine President Ramon Magsaysay, who died in a plane crash in 1957. It was first given in 1958, is called Asia's Nobel Prize and is presented in Manila. Source: AP, 31 Aug 2026.",
+     "likely": 4,
+     "fact": "The Ramon Magsaysay Award is named after a former President of the Philippines.",
+     "event_date": "2026-08-31",
+     "kind": "news-static",
+     "source_url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/08/31/singapore-diplomat-myanmar-activist-and-bangladeshi-aid-giver-win-magsaysay-awards",
+     "confidence": "high"
+    },
+    {
+     "q": "Who among the following is one of the three winners of the Ramon Magsaysay Award 2026?",
+     "options": [
+      "Tommy Koh",
+      "Ravish Kumar",
+      "Sonam Wangchuk",
+      "Hayao Miyazaki"
+     ],
+     "answer": "A",
+     "explanation": "The 2026 winners are Singapore diplomat Tommy Koh, Bangladeshi social worker Runa Khan and Myanmar activist Bo Kyi. Koh presided over the conference that adopted the UN Convention on the Law of the Sea in 1982. Source: AP, 31 Aug 2026.",
+     "likely": 4,
+     "fact": "Tommy Koh, Runa Khan and Bo Kyi won the Ramon Magsaysay Award 2026.",
+     "event_date": "2026-08-31",
+     "kind": "news",
+     "source_url": "https://ny1.com/nyc/all-boroughs/ap-top-news/2026/08/31/singapore-diplomat-myanmar-activist-and-bangladeshi-aid-giver-win-magsaysay-awards",
+     "confidence": "high"
+    },
+    {
+     "q": "The prize in economic sciences in memory of Alfred Nobel, awarded in October 2026, was established in 1968 by which institution?",
+     "options": [
+      "Nobel Foundation",
+      "Bank for International Settlements",
+      "Royal Swedish Academy of Sciences",
+      "Sveriges Riksbank"
+     ],
+     "answer": "D",
+     "explanation": "Sweden's central bank, Sveriges Riksbank, set up the prize in 1968 for its 300th anniversary. It was first awarded in 1969. The Royal Swedish Academy of Sciences selects the winners. Source: Sveriges Riksbank.",
+     "likely": 4,
+     "fact": "The economics prize was established by Sveriges Riksbank in 1968 and first awarded in 1969.",
+     "event_date": "static",
+     "kind": "news-static",
+     "source_url": "https://www.riksbank.se/en-gb/about-the-riksbank/the-tasks-of-the-riksbank/research/economics-prize/",
+     "confidence": "high"
+    },
+    {
+     "q": "The 'Order of the White Double Cross (1st Class)', conferred on PM Narendra Modi in June 2026, is the highest state honour of which country?",
+     "options": [
+      "Slovenia",
+      "Slovakia",
+      "Serbia",
+      "Croatia"
+     ],
+     "answer": "B",
+     "explanation": "Slovak President Peter Pellegrini conferred the honour in Bratislava on 15 June 2026. It was reported as PM Modi's 33rd international honour. Source: IANS, 16 Jun 2026.",
+     "likely": 4,
+     "fact": "Slovakia conferred the Order of the White Double Cross (1st Class) on PM Modi in June 2026.",
+     "event_date": "2026-06-15",
+     "kind": "news",
+     "source_url": "https://www.newkerala.com/news/a/recognition-indias-growing-stature-bjps-naveen-jindal-congratulates-676.htm",
+     "confidence": "high"
+    },
+    {
+     "q": "In July 2026, PM Narendra Modi received Indonesia's highest civilian honour in Jakarta. What is it called?",
+     "options": [
+      "Order of the Druk Gyalpo",
+      "Order of Mubarak Al-Kabeer",
+      "Bintang Republik Indonesia Adipurna",
+      "Grand Collar of the Order of Timor-Leste"
+     ],
+     "answer": "C",
+     "explanation": "President Prabowo Subianto conferred the Bintang Adipurna on 7 July 2026, reported as PM Modi's 35th international honour. The Order of the Druk Gyalpo is Bhutan's and the Order of Mubarak Al-Kabeer is Kuwait's. Source: PTI/OrissaPost, 7 Jul 2026.",
+     "likely": 4,
+     "fact": "Indonesia conferred the Bintang Republik Indonesia Adipurna on PM Modi on 7 July 2026.",
+     "event_date": "2026-07-07",
+     "kind": "news",
+     "source_url": "https://www.orissapost.com/pm-modi-receives-indonesias-highest-civilian-honour/",
+     "confidence": "high"
+    },
+    {
+     "q": "The 'Oliy Darajali Do'stlik' Order, conferred on PM Narendra Modi on 30 August 2026, is the highest honour for foreign leaders of which country?",
+     "options": [
+      "Kazakhstan",
+      "Kyrgyzstan",
+      "Tajikistan",
+      "Uzbekistan"
+     ],
+     "answer": "D",
+     "explanation": "President Shavkat Mirziyoyev conferred it in Tashkent. PM Modi then went to Kyrgyzstan for the SCO summit. Source: PTI/Deccan Herald, 30 Aug 2026.",
+     "likely": 4,
+     "fact": "Uzbekistan conferred the Oliy Darajali Do'stlik Order on PM Modi on 30 August 2026.",
+     "event_date": "2026-08-30",
+     "kind": "news",
+     "source_url": "https://www.deccanherald.com/india/pm-modi-conferred-with-uzbekistans-prestigious-order-of-oliy-darajali-dostlik-4129023",
+     "confidence": "high"
+    },
+    {
+     "q": "Which bank was named 'India's Best Bank' in the Euromoney Awards for Excellence 2026?",
+     "options": [
+      "HDFC Bank",
+      "State Bank of India",
+      "Axis Bank",
+      "Kotak Mahindra Bank"
+     ],
+     "answer": "A",
+     "explanation": "Euromoney named HDFC Bank India's best bank on 17 July 2026, citing 100 million customers and 9,616 branches. Santander was the world's best bank and HSBC was Asia's best bank. Source: Euromoney, 17 Jul 2026.",
+     "likely": 4,
+     "fact": "Euromoney named HDFC Bank India's Best Bank for 2026.",
+     "event_date": "2026-07-17",
+     "kind": "news",
+     "source_url": "https://www.euromoney.com/article/9aemiby4w34ss84wgw8kw4os/investment-banking/awards-for-excellence-country-territory-winners-2026-india/",
+     "confidence": "high"
+    },
+    {
+     "q": "Which film was selected in September 2026 as India's official entry for the 99th Academy Awards (Oscars 2027)?",
+     "options": [
+      "Homebound",
+      "Laapataa Ladies",
+      "Gondhal",
+      "Kalki 2898 AD"
+     ],
+     "answer": "C",
+     "explanation": "The Film Federation of India chose the Marathi film 'Gondhal', directed by Santosh Davakhar, from 33 films. It is the fourth Marathi entry after Shwaas, Harishchandrachi Factory and Court. 'Homebound' was the previous entry. Source: PTI/Onmanorama, 19 Sep 2026.",
+     "likely": 4,
+     "fact": "The Marathi film 'Gondhal' is India's official entry for the Oscars 2027.",
+     "event_date": "2026-09-18",
+     "kind": "news",
+     "source_url": "https://www.onmanorama.com/entertainment/entertainment-news/2026/09/19/india-official-entry-oscars-99th-academy-awards-gondhal.amp.html",
+     "confidence": "high"
+    },
+    {
+     "q": "How many gallantry awards did the President approve for armed forces and central police personnel on the eve of Independence Day 2026?",
+     "options": [
+      "70",
+      "78",
+      "89",
+      "103"
+     ],
+     "answer": "B",
+     "explanation": "President Murmu approved 78 gallantry awards on 14 August 2026, 13 of them posthumous. They include 9 Kirti Chakras and 19 Shaurya Chakras. The Kirti Chakra is the second-highest peacetime gallantry award after the Ashok Chakra. Source: PTI/ThePrint, 14 Aug 2026.",
+     "likely": 4,
+     "fact": "The President approved 78 gallantry awards, including 9 Kirti Chakras, on the eve of Independence Day 2026.",
+     "event_date": "2026-08-14",
+     "kind": "news",
+     "source_url": "https://theprint.in/india/president-murmu-approves-78-gallantry-awards/3015293/",
+     "confidence": "high"
+    },
+    {
+     "q": "Joheirry Mola, who was crowned Miss World 2026 in Vietnam on 5 September 2026, represents which country?",
+     "options": [
+      "Thailand",
+      "Spain",
+      "Puerto Rico",
+      "Dominican Republic"
+     ],
+     "answer": "D",
+     "explanation": "She won the 73rd Miss World at Nha Trang, Vietnam, and was crowned by Opal Suchata Chuangsri of Thailand. Spain was first runner-up. India's Nikita Porwal reached the top 40. Source: Khaleej Times, 6 Sep 2026.",
+     "likely": 4,
+     "fact": "Joheirry Mola of the Dominican Republic won Miss World 2026 in Nha Trang, Vietnam.",
+     "event_date": "2026-09-05",
+     "kind": "news",
+     "source_url": "https://www.khaleejtimes.com/world/miss-world-2026-dominican-republic-joheirry-mola-wins?amp=1",
+     "confidence": "high"
+    },
+    {
+     "q": "R. Vairamuthu, who was chosen for the 60th Jnanpith Award (for 2025), writes in which language?",
+     "options": [
+      "Telugu",
+      "Malayalam",
+      "Tamil",
+      "Kannada"
+     ],
+     "answer": "C",
+     "explanation": "Poet and lyricist Vairamuthu is the third Tamil writer to win the Jnanpith, after Akilan (1975) and Jayakanthan (2002). The award was announced in March 2026 and reported as conferred in New Delhi in July 2026. Source: The Federal, 14 Mar 2026.",
+     "likely": 4,
+     "fact": "Tamil poet R. Vairamuthu won the 60th Jnanpith Award for 2025.",
+     "event_date": "2026-07",
+     "kind": "news",
+     "source_url": "https://thefederal.com/category/states/south/tamil-nadu/tamil-poet-lyricist-r-vairamuthu-conferred-2025-jnanpith-award-234209",
+     "confidence": "high"
+    },
+    {
+     "q": "Which institution won the European Parliament's Sakharov Prize for Freedom of Thought 2026?",
+     "options": [
+      "International Criminal Court",
+      "International Court of Justice",
+      "Reporters Without Borders",
+      "UN Relief and Works Agency"
+     ],
+     "answer": "A",
+     "explanation": "European Parliament President Roberta Metsola announced the award to the International Criminal Court on 22 October 2026. The ICC is based in The Hague. The prize is named after Soviet physicist Andrei Sakharov. Source: Al Jazeera, 22 Oct 2026.",
+     "likely": 4,
+     "fact": "The International Criminal Court won the Sakharov Prize 2026.",
+     "event_date": "2026-10-22",
+     "kind": "news",
+     "source_url": "https://www.aljazeera.com/amp/news/2026/10/22/us-sanctioned-icc-wins-sakharov-prize-eus-top-human-rights-award",
+     "confidence": "high"
+    },
+    {
+     "q": "Francis Halzen won the Nobel Prize in Physics 2026 for his work on which observatory in Antarctica?",
+     "options": [
+      "Event Horizon Telescope",
+      "IceCube Neutrino Observatory",
+      "LIGO",
+      "Super-Kamiokande"
+     ],
+     "answer": "B",
+     "explanation": "Belgian-born Francis Halzen won for his work on IceCube, which uses Antarctic ice to detect neutrinos. The prize was announced on 6 October 2026. Each Nobel Prize in 2026 carries 12 million Swedish kronor. Source: AP, 12 Oct 2026.",
+     "likely": 4,
+     "fact": "Francis Halzen won the 2026 Physics Nobel for the IceCube Neutrino Observatory.",
+     "event_date": "2026-10-06",
+     "kind": "news",
+     "source_url": "https://www.clickorlando.com/news/2026/10/12/a-list-of-this-years-nobel-prize-winners/",
+     "confidence": "high"
+    },
+    {
+     "q": "The Nobel Prize in Physiology or Medicine 2026 was awarded to Karl Deisseroth, Peter Hegemann and Georg Nagel for work on:",
+     "options": [
+      "mRNA vaccines",
+      "microRNA",
+      "Peripheral immune tolerance",
+      "Optogenetics"
+     ],
+     "answer": "D",
+     "explanation": "They won for light-gated ion channels and optogenetics, which uses light and genes to switch neurons on and off. The prize was announced on 5 October 2026. The other three options are the 2023, 2024 and 2025 topics. Source: AP, 12 Oct 2026.",
+     "likely": 4,
+     "fact": "The 2026 Medicine Nobel went to Deisseroth, Hegemann and Nagel for optogenetics.",
+     "event_date": "2026-10-05",
+     "kind": "news",
+     "source_url": "https://www.clickorlando.com/news/2026/10/12/a-list-of-this-years-nobel-prize-winners/",
+     "confidence": "high"
+    },
+    {
+     "q": "Who won the Nobel Prize in Chemistry 2026?",
+     "options": [
+      "Susumu Kitagawa and Omar Yaghi",
+      "David Baker and Demis Hassabis",
+      "Henri B. Kagan and Kenso Soai",
+      "Moungi Bawendi and Louis Brus"
+     ],
+     "answer": "C",
+     "explanation": "Henri B. Kagan and Kenso Soai won for work on asymmetric synthesis of mirror-image molecules, which is used to make many drugs. The prize was announced on 7 October 2026. Source: AP, 12 Oct 2026.",
+     "likely": 4,
+     "fact": "Henri B. Kagan and Kenso Soai won the 2026 Chemistry Nobel.",
+     "event_date": "2026-10-07",
+     "kind": "news",
+     "source_url": "https://www.clickorlando.com/news/2026/10/12/a-list-of-this-years-nobel-prize-winners/",
+     "confidence": "high"
+    },
+    {
+     "q": "At the 72nd National Film Awards, the Best Actor award was shared by Kartik Aaryan ('Chandu Champion') and which other actor?",
+     "options": [
+      "Mammootty",
+      "Mohanlal",
+      "Vikrant Massey",
+      "Allu Arjun"
+     ],
+     "answer": "A",
+     "explanation": "Mammootty won for 'Bramayugam'. Yami Gautam won Best Actress for 'Article 370'. Source: News On AIR, 22 Sep 2026.",
+     "likely": 4,
+     "fact": "Mammootty and Kartik Aaryan shared Best Actor at the 72nd National Film Awards.",
+     "event_date": "2026-09-22",
+     "kind": "news",
+     "source_url": "https://newsonair.gov.in/president-murmu-presents-72nd-national-film-awards-at-ekta-nagar-in-gujarat/",
+     "confidence": "high"
+    },
+    {
+     "q": "At which place in Gujarat did the President present the 72nd National Film Awards on 22 September 2026?",
+     "options": [
+      "Gandhinagar",
+      "Ekta Nagar (Kevadia)",
+      "Ahmedabad",
+      "Vadodara"
+     ],
+     "answer": "B",
+     "explanation": "The ceremony was held near the Statue of Unity at Ekta Nagar instead of New Delhi. In all, 92 awardees were honoured. Source: News On AIR, 22 Sep 2026.",
+     "likely": 4,
+     "fact": "The 72nd National Film Awards were presented at Ekta Nagar, Gujarat.",
+     "event_date": "2026-09-22",
+     "kind": "news",
+     "source_url": "https://newsonair.gov.in/president-murmu-presents-72nd-national-film-awards-at-ekta-nagar-in-gujarat/",
+     "confidence": "high"
+    },
+    {
+     "q": "Which veteran actor was awarded the Padma Vibhushan posthumously in the Padma Awards 2026?",
+     "options": [
+      "Manoj Kumar",
+      "Asrani",
+      "Satish Shah",
+      "Dharmendra"
+     ],
+     "answer": "D",
+     "explanation": "The 2026 list has 131 awards: 5 Padma Vibhushan, 13 Padma Bhushan and 113 Padma Shri. The other Padma Vibhushan awardees are V.S. Achuthanandan (posthumous), K.T. Thomas, N. Rajam and P. Narayanan. Banker Uday Kotak received the Padma Bhushan. Source: Adda247, 25 Jan 2026.",
+     "likely": 4,
+     "fact": "Dharmendra was awarded the Padma Vibhushan posthumously in 2026.",
+     "event_date": "2026-01-25",
+     "kind": "news",
+     "source_url": "https://currentaffairs.adda247.com/padma-awards-2026-announced-celebrating-service-beyond-the-spotlight/",
+     "confidence": "high"
+    },
+    {
+     "q": "Who was awarded the Ashok Chakra, India's highest peacetime gallantry award, on Republic Day 2026?",
+     "options": [
+      "Group Captain Prashanth Balakrishnan Nair",
+      "Major Arshdeep Singh",
+      "Group Captain Shubhanshu Shukla",
+      "Group Captain Ajit Krishnan"
+     ],
+     "answer": "C",
+     "explanation": "Shubhanshu Shukla was the first Indian to visit the International Space Station. Prashanth Balakrishnan Nair and Major Arshdeep Singh received the Kirti Chakra. Source: Adda247, 26 Jan 2026.",
+     "likely": 4,
+     "fact": "Group Captain Shubhanshu Shukla was awarded the Ashok Chakra on Republic Day 2026.",
+     "event_date": "2026-01-26",
+     "kind": "news",
+     "source_url": "https://currentaffairs.adda247.com/president-approves-ashok-chakra-for-group-captain-shubhanshu-shukla/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Alan Greenspan, who died in June 2026 at the age of 100, was a former chairman of which central bank?",
+     "options": [
+      "Bank of England",
+      "US Federal Reserve",
+      "European Central Bank",
+      "Bank of Canada"
+     ],
+     "answer": "B",
+     "explanation": "Greenspan was the 13th Chair of the Federal Reserve, from 1987 to 2006. He succeeded Paul Volcker and was followed by Ben Bernanke. He died on 22 June 2026. Source: 6abc (ABC), 2026.",
+     "likely": 4,
+     "fact": "Former US Federal Reserve chairman Alan Greenspan died on 22 June 2026.",
+     "event_date": "2026-06-22",
+     "kind": "news",
+     "source_url": "https://6abc.com/post/famous-people-died-2025/18669120/",
+     "confidence": "high"
+    },
+    {
+     "q": "Teejan Bai, the Padma Vibhushan awardee who died in July 2026, was a famous performer of which folk art form?",
+     "options": [
+      "Pandavani",
+      "Bharthari",
+      "Nautanki",
+      "Tamasha"
+     ],
+     "answer": "A",
+     "explanation": "Teejan Bai performed Pandavani, the Chhattisgarh tradition of telling Mahabharata stories, in the Kapalik style. She died in Raipur on 5 July 2026. Source: The Federal, 6 Jul 2026.",
+     "likely": 4,
+     "fact": "Pandavani singer Teejan Bai of Chhattisgarh died on 5 July 2026.",
+     "event_date": "2026-07-05",
+     "kind": "news",
+     "source_url": "https://thefederal.com/category/obituary/teejan-bai-death-obituary-pandavani-chhattisgarh-mahabharata-india-folk-art-women-performers-249161",
+     "confidence": "high"
+    },
+    {
+     "q": "Actor Nana Patekar, who died in October 2026, won a National Film Award for his role as the gangster Anna in which 1989 film?",
+     "options": [
+      "Salaam Bombay!",
+      "Prahaar",
+      "Parinda",
+      "Ab Tak Chhappan"
+     ],
+     "answer": "C",
+     "explanation": "Nana Patekar died in Goa on 8 October 2026, aged 75. He received the Padma Shri in 2013. His other films include Krantiveer and Welcome. Source: The Federal, 8 Oct 2026.",
+     "likely": 4,
+     "fact": "Actor Nana Patekar died on 8 October 2026; he won a National Award for 'Parinda'.",
+     "event_date": "2026-10-08",
+     "kind": "news",
+     "source_url": "https://thefederal.com/category/obituary/nana-patekar-death-obituary-actor-bollywood-hindi-marathi-cinema-angry-young-man-258940",
+     "confidence": "high"
+    },
+    {
+     "q": "Sir Garfield Sobers, who died in July 2026, played Test cricket for which team?",
+     "options": [
+      "Australia",
+      "England",
+      "South Africa",
+      "West Indies"
+     ],
+     "answer": "D",
+     "explanation": "The Barbados-born all-rounder played for the West Indies from 1954 to 1974 and died on 17 July 2026, aged 89. He scored 365 not out against Pakistan in 1958 and hit six sixes in an over in 1968. Source: Adda247, 18 Jul 2026.",
+     "likely": 4,
+     "fact": "West Indies cricketer Sir Garfield Sobers died on 17 July 2026.",
+     "event_date": "2026-07-17",
+     "kind": "news",
+     "source_url": "https://currentaffairs.adda247.com/west-indies-legend-sir-garfield-sobers-passes-away-at-89/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Who is the World Food Prize laureate for 2026, honoured at the prize's 40th anniversary ceremony in October 2026?",
+     "options": [
+      "Mariangela Hungria",
+      "Huub Lelieveld",
+      "Geoffrey Hawtin",
+      "Heidi Kuhn"
+     ],
+     "answer": "B",
+     "explanation": "Dutch food safety scientist Huub Lelieveld was named laureate in March 2026. The prize carries USD 500,000 and is given by the World Food Prize Foundation in Des Moines, Iowa. Source: Food Safety News, 27 Mar 2026.",
+     "likely": 3,
+     "fact": "Huub Lelieveld of the Netherlands is the 2026 World Food Prize laureate.",
+     "event_date": "2026-10",
+     "kind": "news",
+     "source_url": "https://www.foodsafetynews.com/2026/03/food-safety-scientist-scoops-world-food-prize/",
+     "confidence": "high"
+    },
+    {
+     "q": "Who was chosen for the Indira Gandhi Prize for Peace, Disarmament and Development for 2025, announced in January 2026?",
+     "options": [
+      "Michelle Bachelet",
+      "Daniel Barenboim",
+      "David Attenborough",
+      "Graca Machel"
+     ],
+     "answer": "D",
+     "explanation": "Mozambican rights activist Graca Machel was chosen by a jury headed by Shivshankar Menon. The Indira Gandhi Memorial Trust gives the prize. Michelle Bachelet won for 2024. Source: PTI/ThePrint, 21 Jan 2026.",
+     "likely": 3,
+     "fact": "Graca Machel of Mozambique won the Indira Gandhi Peace Prize for 2025.",
+     "event_date": "2026-01-21",
+     "kind": "news",
+     "source_url": "https://theprint.in/india/mozambican-rights-activist-graca-machel-to-be-conferred-with-indira-gandhi-peace-prize/2832563",
+     "confidence": "high"
+    },
+    {
+     "q": "How many school teachers were selected for the National Teachers' Awards 2026, conferred by the President on 5 September 2026?",
+     "options": [
+      "45",
+      "50",
+      "48",
+      "75"
+     ],
+     "answer": "C",
+     "explanation": "The 48 teachers came from 27 states, 7 Union Territories and 6 central organisations. The Ministry of Education gives the awards at Vigyan Bhawan, New Delhi, on Teachers' Day. Source: News On AIR, 22 Aug 2026.",
+     "likely": 3,
+     "fact": "48 school teachers were selected for the National Teachers' Awards 2026.",
+     "event_date": "2026-09-05",
+     "kind": "news",
+     "source_url": "https://newsonair.gov.in/president-droupadi-murmu-to-confer-national-teachers-awards-on-september-5/",
+     "confidence": "high"
+    },
+    {
+     "q": "Divya Deshmukh, one of the 17 Arjuna Award winners for 2025, is associated with which sport?",
+     "options": [
+      "Chess",
+      "Badminton",
+      "Shooting",
+      "Boxing"
+     ],
+     "answer": "A",
+     "explanation": "Chess players Divya Deshmukh and Vidit Gujrathi are both on the list. The President presented the awards at Rashtrapati Bhavan on 13 November 2026. The Arjuna Award carries Rs 15 lakh. Source: PTI/ThePrint, 18 Aug 2026.",
+     "likely": 3,
+     "fact": "Chess player Divya Deshmukh received the Arjuna Award for 2025.",
+     "event_date": "2026-11-13",
+     "kind": "news-static",
+     "source_url": "https://theprint.in/sport/no-khel-ratna-for-2025-tejaswin-divya-and-gayatri-gopichand-among-arjuna-awardees/3018100/",
+     "confidence": "high"
+    },
+    {
+     "q": "Which book won the International Booker Prize 2026?",
+     "options": [
+      "Heart Lamp",
+      "Taiwan Travelogue",
+      "Kairos",
+      "Time Shelter"
+     ],
+     "answer": "B",
+     "explanation": "'Taiwan Travelogue' by Yang Shuang-zi, translated by Lin King, is the first winner translated from Mandarin Chinese. From 2027 the prize will be called the Bukhman International Booker Prize with prize money of 100,000 pounds. 'Heart Lamp' won in 2025. Source: Adda247, 22 May 2026.",
+     "likely": 3,
+     "fact": "'Taiwan Travelogue' by Yang Shuang-zi won the International Booker Prize 2026.",
+     "event_date": "2026-05",
+     "kind": "news",
+     "source_url": "https://currentaffairs.adda247.com/taiwan-travelogue-wins-international-booker-prize-2026-as-first-mandarin-translated-winner/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Who was selected for the Saraswati Samman 2025 for the Bengali novel 'Hara Parbati Katha'?",
+     "options": [
+      "Sadhu Bhadreshdas",
+      "Prabha Varma",
+      "Ramkumar Mukhopadhyay",
+      "Sivasankari"
+     ],
+     "answer": "C",
+     "explanation": "The K.K. Birla Foundation, which started the award in 1991, announced the choice in March 2026. The award carries Rs 15 lakh. Sadhu Bhadreshdas won for 2024. Source: News On AIR, 25 Mar 2026.",
+     "likely": 3,
+     "fact": "Ramkumar Mukhopadhyay won the Saraswati Samman 2025.",
+     "event_date": "2026-03-25",
+     "kind": "news",
+     "source_url": "https://newsonair.gov.in/bengali-novel-hara-parbati-katha-by-author-ramkumar-mukhopadhyay-selected-for-saraswati-samman/",
+     "confidence": "high"
+    },
+    {
+     "q": "Indian physicist Deepak Dhar was named a winner of the Dirac Medal in August 2026. Which institution gives this medal?",
+     "options": [
+      "CERN, Geneva",
+      "Royal Society, London",
+      "American Physical Society",
+      "International Centre for Theoretical Physics, Trieste"
+     ],
+     "answer": "D",
+     "explanation": "ICTP in Trieste, Italy, has given the medal since 1985 and announces it on 8 August, Paul Dirac's birthday. Dhar shared the 2026 medal with Bernard Derrida, Marc Mezard and Haim Sompolinsky. Source: Adda247, 11 Aug 2026.",
+     "likely": 3,
+     "fact": "The Dirac Medal, won by Deepak Dhar in 2026, is given by ICTP, Trieste.",
+     "event_date": "2026-08-08",
+     "kind": "news-static",
+     "source_url": "https://currentaffairs.adda247.com/indian-physicist-deepak-dhar-wins-2026-dirac-medal/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Jaspal Rana, who died in June 2026, was associated with which sport?",
+     "options": [
+      "Archery",
+      "Shooting",
+      "Wrestling",
+      "Hockey"
+     ],
+     "answer": "B",
+     "explanation": "Pistol shooter and coach Jaspal Rana died in New Delhi on 12 June 2026, aged 49. He won the Arjuna Award (1994) and Dronacharya Award (2020) and coached Manu Bhaker. Source: Adda247, 12 Jun 2026.",
+     "likely": 3,
+     "fact": "Shooter and coach Jaspal Rana died on 12 June 2026.",
+     "event_date": "2026-06-12",
+     "kind": "news",
+     "source_url": "https://currentaffairs.adda247.com/shooting-legend-jaspal-rana-passes-away-at-49-indian-sports-mourns/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Jeffrey Archer, who died in October 2026, was a best-selling novelist from which country?",
+     "options": [
+      "United Kingdom",
+      "United States",
+      "Australia",
+      "Ireland"
+     ],
+     "answer": "A",
+     "explanation": "The British author and former MP died on 5 October 2026, aged 86. 'Kane and Abel' is his best-known novel. Source: The Federal, 7 Oct 2026.",
+     "likely": 3,
+     "fact": "British novelist Jeffrey Archer died on 5 October 2026.",
+     "event_date": "2026-10-05",
+     "kind": "news",
+     "source_url": "https://thefederal.com/category/obituary/jeffrey-archer-obituary-bestselling-writer-death-career-politics-criminal-case-books-literature-258792",
+     "confidence": "high"
+    },
+    {
+     "q": "Dolly Parton, who died in August 2026, was a legend of which field?",
+     "options": [
+      "Tennis",
+      "Fashion design",
+      "Country music",
+      "Astrophysics"
+     ],
+     "answer": "C",
+     "explanation": "The American singer-songwriter, known as the Queen of Country, died on 25 August 2026, aged 80. She wrote 'I Will Always Love You'. Source: The Federal, 26 Aug 2026.",
+     "likely": 3,
+     "fact": "American country music singer Dolly Parton died on 25 August 2026.",
+     "event_date": "2026-08-25",
+     "kind": "news",
+     "source_url": "https://thefederal.com/category/obituary/dolly-parton-death-obituary-country-music-singer-actor-songwriter-philathropist-254822",
+     "confidence": "high"
+    },
+    {
+     "q": "Arpita Singh, the Padma Bhushan awardee who died in November 2026, was associated with which field?",
+     "options": [
+      "Classical dance",
+      "Hindustani vocal music",
+      "Journalism",
+      "Painting"
+     ],
+     "answer": "D",
+     "explanation": "The modernist painter died in New Delhi on 9 November 2026, aged 89. She received the Padma Bhushan in 2011. Source: GKToday, 10 Nov 2026.",
+     "likely": 3,
+     "fact": "Painter Arpita Singh died on 9 November 2026.",
+     "event_date": "2026-11-09",
+     "kind": "news",
+     "source_url": "https://www.gktoday.in/current-affairs/category/awards-honours-persons-news-current-affairs/page/2/",
+     "confidence": "medium"
+    }
+   ]
+  }
+ ]
+}

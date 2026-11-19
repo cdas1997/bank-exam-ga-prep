@@ -1,6 +1,6 @@
 import { isHot } from './bank';
-import { EXAM_PACE_SECS, MARK_RIGHT, choiceOf, isAnsweredWrong, netMarks, setStats } from './scoring';
-import { MockType, type Answers, type Bank, type LiveMock, type MockRecord, type Question } from './types';
+import { EXAM_PACE_SECS, choiceOf, isAnsweredWrong, netMarks, setStats } from './scoring';
+import { MockType, type Answers, type Bank, type Exam, type LiveMock, type MockRecord, type Question } from './types';
 
 type MockConfig = { label: string; questions: number; seconds: number; blurb: string };
 
@@ -23,7 +23,18 @@ export const MOCK_CONFIG: Readonly<Record<MockType, MockConfig>> = {
     seconds: 25 * EXAM_PACE_SECS,
     blurb: 'Built from your mistakes and your lowest-scoring topics, so you drill what costs you marks.',
   },
+  [MockType.Set]: {
+    label: 'Full set',
+    questions: 50,
+    seconds: 35 * 60,
+    blurb: 'One full paper with the same topic mix, size and clock as the real section.',
+  },
 };
+
+/** "Set 3" for a paper set, otherwise the name of the mock type. */
+export function mockLabel(mock: Pick<MockRecord, 'type' | 'setNo'>): string {
+  return mock.type === MockType.Set && mock.setNo !== null ? `Set ${mock.setNo}` : MOCK_CONFIG[mock.type].label;
+}
 
 export const WEAK_MOCK_MIN_ANSWERS = 20;
 const HOT_SHARE = 0.7;
@@ -43,7 +54,7 @@ function unique(list: readonly Question[]): Question[] {
   return list.filter((q) => (seen.has(q.id) ? false : (seen.add(q.id), true)));
 }
 
-type PickArgs = { type: MockType; bank: Bank; answers: Answers; random: () => number };
+type PickArgs = { type: MockType; bank: Bank; answers: Answers; random: () => number; setNo?: number | null };
 
 function pickWeakAreas({ bank, answers, random }: PickArgs, count: number): Question[] {
   const weakest = bank.topics
@@ -65,6 +76,7 @@ function pickWeakAreas({ bank, answers, random }: PickArgs, count: number): Ques
 }
 
 export function pickMockQuestions(args: PickArgs): Question[] {
+  if (args.type === MockType.Set) return [...(args.bank.sets.find((s) => s.n === args.setNo)?.questions ?? [])];
   const count = Math.min(MOCK_CONFIG[args.type].questions, args.bank.all.length);
   if (args.type === MockType.Weak) return pickWeakAreas(args, count);
   const hot = shuffled(args.bank.all.filter(isHot), args.random);
@@ -80,6 +92,7 @@ export function createLiveMock(args: PickArgs & { now: number }): LiveMock {
   return {
     id: `m${args.now}`,
     type: args.type,
+    setNo: args.type === MockType.Set ? (args.setNo ?? null) : null,
     questionIds: pickMockQuestions(args).map((q) => q.id),
     responses: {},
     marked: {},
@@ -112,7 +125,8 @@ export function goToQuestion(live: LiveMock, index: number, now: number): LiveMo
   return { ...next, index: clamped, visited: next.visited.includes(clamped) ? next.visited : [...next.visited, clamped] };
 }
 
-export function finishLiveMock(live: LiveMock, bank: Bank, now: number): MockRecord {
+export function finishLiveMock(live: LiveMock, exam: Pick<Exam, 'bank' | 'marking'>, now: number): MockRecord {
+  const { bank, marking } = exam;
   const done = accrueTime(live, now);
   let right = 0;
   let wrong = 0;
@@ -125,6 +139,7 @@ export function finishLiveMock(live: LiveMock, bank: Bank, now: number): MockRec
   return {
     id: done.id,
     type: done.type,
+    setNo: done.setNo,
     startedAt: done.startedAt,
     questionIds: done.questionIds,
     responses: done.responses,
@@ -132,8 +147,8 @@ export function finishLiveMock(live: LiveMock, bank: Bank, now: number): MockRec
     right,
     wrong,
     skipped: done.questionIds.length - right - wrong,
-    net: netMarks(right, wrong),
-    maxMarks: done.questionIds.length * MARK_RIGHT,
+    net: netMarks(right, wrong, marking),
+    maxMarks: done.questionIds.length * marking.right,
     usedMs: Math.min(now, done.endsAt) - done.startedAt,
     limitSecs: done.limitSecs,
   };

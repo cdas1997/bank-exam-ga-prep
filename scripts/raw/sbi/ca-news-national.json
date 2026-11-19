@@ -1,0 +1,622 @@
+{
+ "batches": [
+  {
+   "key": "ca-news",
+   "name": "National & international news",
+   "questions": [
+    {
+     "q": "In October 2026, the Cabinet Committee on Economic Affairs approved the sale of a majority stake in IDBI Bank to a subsidiary of which group?",
+     "options": [
+      "Emirates NBD",
+      "Fairfax Financial Holdings",
+      "Kotak Mahindra Group",
+      "Oaktree Capital"
+     ],
+     "answer": "B",
+     "explanation": "The CCEA cleared the sale to 10955230 Canada Inc., an arm of Canada's Fairfax Financial Holdings, for Rs 52,878 crore. The Government and LIC are the sellers; RBI approval of the buyer is still awaited. IDBI Bank is headquartered in Mumbai. Source: PRS Monthly Policy Review, October 2026; Outlook Business, 14 Oct 2026.",
+     "likely": 5,
+     "fact": "The CCEA approved the sale of 60.72% of IDBI Bank to a Fairfax Financial Holdings subsidiary in October 2026.",
+     "event_date": "2026-10-14",
+     "kind": "news",
+     "source_url": "https://www.outlookbusiness.com/corporate/idbi-bank-gets-new-owner-as-fairfax-wins-6072-stake-sale",
+     "confidence": "high"
+    },
+    {
+     "q": "The Supreme Court (Number of Judges) Amendment Act, 2026 raised the sanctioned strength of the Supreme Court, including the Chief Justice of India, from 34 to what number?",
+     "options": [
+      "36",
+      "37",
+      "38",
+      "40"
+     ],
+     "answer": "C",
+     "explanation": "The Act raised the number of judges other than the CJI from 33 to 37, so the total is 38. It replaced an Ordinance of 16 May 2026 and amends the Supreme Court (Number of Judges) Act, 1956. Source: LiveLaw, 12 Aug 2026; PRS Session Wrap, Monsoon Session 2026.",
+     "likely": 5,
+     "fact": "The Supreme Court's sanctioned strength including the CJI rose from 34 to 38 in 2026.",
+     "event_date": "2026-08-11",
+     "kind": "news",
+     "source_url": "https://www.livelaw.in/top-stories/president-grants-assent-to-law-increasing-strength-of-supreme-court-judges-to-38-545405",
+     "confidence": "high"
+    },
+    {
+     "q": "The Prevention of Insults to National Honour (Amendment) Act, 2026, passed in the Monsoon Session, made it an offence to deliberately disrupt the singing of which of the following?",
+     "options": [
+      "Saare Jahan Se Achha",
+      "The National Pledge",
+      "Vande Mataram",
+      "Abide With Me"
+     ],
+     "answer": "C",
+     "explanation": "The amendment extends the 1971 Act's protection from the National Anthem to the National Song, Vande Mataram, written by Bankim Chandra Chattopadhyay. The penalty is up to three years' imprisonment, or fine, or both. Source: PRS Session Wrap, Monsoon Session 2026; SCC Online, 21 Aug 2026.",
+     "likely": 5,
+     "fact": "The 2026 amendment to the Prevention of Insults to National Honour Act, 1971 covers the National Song, Vande Mataram.",
+     "event_date": "2026-08-06",
+     "kind": "news",
+     "source_url": "https://prsindia.org/sessiontrack/monsoon-session-2026/session-wrap",
+     "confidence": "high"
+    },
+    {
+     "q": "In October 2026 the Finance Ministry set up a High Level Committee on Banking for Viksit Bharat. Who chairs it?",
+     "options": [
+      "Bimal Jalan",
+      "Suresh N. Patel",
+      "K. V. Kamath",
+      "Uday Kotak"
+     ],
+     "answer": "B",
+     "explanation": "Former Central Vigilance Commissioner Suresh N. Patel chairs the committee, which has six months to report. It was announced in the Union Budget 2026-27 and will review banking regulation, including RRBs and co-operative banks. Source: PRS Monthly Policy Review, October 2026.",
+     "likely": 5,
+     "fact": "Suresh N. Patel chairs the High Level Committee on Banking for Viksit Bharat set up in October 2026.",
+     "event_date": "2026-10",
+     "kind": "news",
+     "source_url": "https://prsindia.org/policy/monthly-policy-review/october-2026",
+     "confidence": "high"
+    },
+    {
+     "q": "What percentage stake in IDBI Bank, held jointly by the Government of India and LIC, was approved for sale in October 2026?",
+     "options": [
+      "51.00%",
+      "60.72%",
+      "45.48%",
+      "74.00%"
+     ],
+     "answer": "B",
+     "explanation": "The stake of 60.72% is made up of 30.48% from the Government and 30.24% from LIC, for Rs 52,878 crore. After the sale the Government keeps 15% and LIC 19%. Source: PRS Monthly Policy Review, October 2026; Outlook Business, 14 Oct 2026.",
+     "likely": 4,
+     "fact": "A 60.72% stake in IDBI Bank was approved for sale in October 2026.",
+     "event_date": "2026-10-14",
+     "kind": "news",
+     "source_url": "https://prsindia.org/policy/monthly-policy-review/october-2026",
+     "confidence": "high"
+    },
+    {
+     "q": "Kerala was renamed 'Keralam' by the Kerala (Alteration of Name) Act, 2026. Which Article of the Constitution empowers Parliament to alter the name of a State?",
+     "options": [
+      "Article 1",
+      "Article 3",
+      "Article 368",
+      "Article 370"
+     ],
+     "answer": "B",
+     "explanation": "Article 3 allows Parliament to form new States and alter the areas, boundaries or names of existing States. The Act received Presidential assent on 14 August 2026 and changes the First Schedule. Source: SCC Online, 21 Aug 2026; PRS Monthly Policy Review, August 2026.",
+     "likely": 4,
+     "fact": "Parliament alters the name of a State under Article 3.",
+     "event_date": "2026-08-14",
+     "kind": "news-static",
+     "source_url": "https://www.scconline.com/blog/post/2026/08/21/parliament-monsoon-session-2026-key-acts-bills/",
+     "confidence": "high"
+    },
+    {
+     "q": "In November 2026, State Bank of India secured a social loan from the International Finance Corporation (IFC) to finance about 8.64 lakh rural women. What was the loan amount?",
+     "options": [
+      "USD 100 million",
+      "USD 150 million",
+      "USD 250 million",
+      "USD 500 million"
+     ],
+     "answer": "B",
+     "explanation": "The USD 150 million loan mainly reaches women through Self-Help Groups. It is IFC's first line of credit to a public sector bank in India. IFC is the private-sector arm of the World Bank Group, based in Washington DC. Source: PTI via The Week, 6 Nov 2026.",
+     "likely": 4,
+     "fact": "SBI secured a USD 150 million social loan from IFC in November 2026.",
+     "event_date": "2026-11-06",
+     "kind": "news",
+     "source_url": "https://www.theweek.in/wire-updates/business/2026/11/06/sbi-deepens-partnership-with-ifc-secures-usd-150-mn-social-loan-to-empower-8-64-lakh-rural-women.html",
+     "confidence": "high"
+    },
+    {
+     "q": "The Viksit Bharat - Guarantee for Rozgar and Ajeevika Mission (Gramin) Act, 2025, known as VB-G RAM G, came into force on 1 July 2026. Which law did it replace?",
+     "options": [
+      "National Food Security Act, 2013",
+      "Mahatma Gandhi National Rural Employment Guarantee Act, 2005",
+      "Unorganised Workers' Social Security Act, 2008",
+      "Forest Rights Act, 2006"
+     ],
+     "answer": "B",
+     "explanation": "VB-G RAM G replaced MGNREGA from 1 July 2026, when the Rural Development Ministry notified the wage-payment and transition rules. The Ministry of Rural Development implements it. Source: PRS Monthly Policy Review, July 2026.",
+     "likely": 4,
+     "fact": "The VB-G RAM G Act, 2025 replaced MGNREGA, 2005 from 1 July 2026.",
+     "event_date": "2026-07-01",
+     "kind": "news",
+     "source_url": "https://prsindia.org/policy/monthly-policy-review/july-2026",
+     "confidence": "high"
+    },
+    {
+     "q": "Who heads the 8th Central Pay Commission, whose report was still awaited in 2026?",
+     "options": [
+      "Justice Ashok Kumar Mathur",
+      "Justice B. N. Srikrishna",
+      "Justice Ranjana Prakash Desai",
+      "Arvind Panagariya"
+     ],
+     "answer": "C",
+     "explanation": "Former Supreme Court judge Ranjana Prakash Desai chairs the 8th Pay Commission, set up by a resolution of 3 November 2025 with 18 months to report. Justice A. K. Mathur headed the 7th and Justice B. N. Srikrishna the 6th. Source: The Hans India, 2026.",
+     "likely": 4,
+     "fact": "Justice Ranjana Prakash Desai chairs the 8th Central Pay Commission.",
+     "event_date": "2025-11",
+     "kind": "news-static",
+     "source_url": "https://www.thehansindia.com/business/central-government-clarifies-status-of-8th-pay-commission-report-deadline-1109604",
+     "confidence": "high"
+    },
+    {
+     "q": "Commercial flights at Noida International Airport, Jewar, began on 15 June 2026. Which airline operated the first flight?",
+     "options": [
+      "Air India Express",
+      "Akasa Air",
+      "IndiGo",
+      "SpiceJet"
+     ],
+     "answer": "C",
+     "explanation": "An IndiGo flight from Lucknow was the first to land. Akasa Air started the next day. The airport is in Gautam Buddh Nagar district, Uttar Pradesh, and was inaugurated by the Prime Minister on 28 March 2026. Source: All India Radio News, 15 Jun 2026.",
+     "likely": 4,
+     "fact": "IndiGo operated the first commercial flight at Noida International Airport on 15 June 2026.",
+     "event_date": "2026-06-15",
+     "kind": "news",
+     "source_url": "https://newsonair.gov.in/noida-international-airport-in-jewar-begins-commercial-flight-operations-this-morning/",
+     "confidence": "high"
+    },
+    {
+     "q": "Which defence shipbuilder was granted Navratna status in June 2026, becoming India's 29th Navratna CPSE?",
+     "options": [
+      "Goa Shipyard Limited",
+      "Cochin Shipyard Limited",
+      "Hindustan Shipyard Limited",
+      "Garden Reach Shipbuilders & Engineers"
+     ],
+     "answer": "D",
+     "explanation": "GRSE, based in Kolkata under the Ministry of Defence, was upgraded on 19 June 2026. Chennai Petroleum Corporation became the 28th Navratna the same day. A Navratna can invest up to Rs 1,000 crore in a project without government approval. Source: Indian Mandarins, 22 Jun 2026.",
+     "likely": 4,
+     "fact": "GRSE became the 29th Navratna CPSE on 19 June 2026.",
+     "event_date": "2026-06-19",
+     "kind": "news",
+     "source_url": "https://www.indianmandarins.com/news/grse-conferred-navratna-status-becomes-29th-psu-to-achieve-the-feat/32781",
+     "confidence": "high"
+    },
+    {
+     "q": "SBI Funds Management Ltd, which listed on the stock exchanges on 21 July 2026, is a joint venture between State Bank of India and which French asset manager?",
+     "options": [
+      "AXA",
+      "Amundi",
+      "BNP Paribas",
+      "Societe Generale"
+     ],
+     "answer": "B",
+     "explanation": "SBI Funds Management, which runs SBI Mutual Fund, is a joint venture of SBI and Amundi of France. Its IPO of about Rs 9,813 crore was entirely an offer for sale at Rs 574 a share. Source: Groww, 21 Jul 2026.",
+     "likely": 4,
+     "fact": "SBI Funds Management is a joint venture of SBI and Amundi.",
+     "event_date": "2026-07-21",
+     "kind": "news-static",
+     "source_url": "https://groww.in/blog/sbi-funds-management-shares-list-at-6-85-premium-debuts-at-613-on-nse",
+     "confidence": "medium"
+    },
+    {
+     "q": "The Bankers' Books Evidence Act, 2026, in force from 1 October 2026, replaced an Act of which year?",
+     "options": [
+      "1872",
+      "1881",
+      "1891",
+      "1934"
+     ],
+     "answer": "C",
+     "explanation": "It replaced the Bankers' Books Evidence Act, 1891 and recognises electronic and digital bank records as evidence. Presidential assent came on 13 August 2026. Source: PRS Session Wrap, Monsoon Session 2026; SCC Online, 21 Aug 2026.",
+     "likely": 4,
+     "fact": "The Bankers' Books Evidence Act, 2026 replaced the 1891 Act.",
+     "event_date": "2026-08-13",
+     "kind": "news",
+     "source_url": "https://prsindia.org/sessiontrack/monsoon-session-2026/session-wrap",
+     "confidence": "high"
+    },
+    {
+     "q": "The MSME Development (Amendment) Act, 2026 makes central PSUs settle MSME invoices on TReDS. What does TReDS stand for?",
+     "options": [
+      "Trade Receivables Discounting System",
+      "Trade Remittance and Deposit Scheme",
+      "Treasury Receipts Electronic Dealing System",
+      "Trade Revenue Digital Settlement"
+     ],
+     "answer": "A",
+     "explanation": "TReDS is the Trade Receivables Discounting System, an RBI-regulated platform where MSME invoices are discounted. The Act also lets the Centre set MSME thresholds on investment and turnover. Source: PRS Monthly Policy Review, August 2026.",
+     "likely": 4,
+     "fact": "TReDS stands for Trade Receivables Discounting System.",
+     "event_date": "2026-08-13",
+     "kind": "news-static",
+     "source_url": "https://prsindia.org/policy/monthly-policy-review/august-2026",
+     "confidence": "high"
+    },
+    {
+     "q": "The Bill for simultaneous elections ('One Nation, One Election'), still before a Joint Parliamentary Committee in 2026, is which Constitution Amendment Bill?",
+     "options": [
+      "Constitution (127th Amendment) Bill",
+      "Constitution (128th Amendment) Bill",
+      "Constitution (129th Amendment) Bill",
+      "Constitution (131st Amendment) Bill"
+     ],
+     "answer": "C",
+     "explanation": "The Constitution (129th Amendment) Bill, 2024 provides for simultaneous Lok Sabha and Assembly elections; the JPC is chaired by P. P. Chaudhary. The 130th Amendment Bill, 2025 deals with removal of ministers held in detention. Source: PRS Session Wrap, Monsoon Session 2026.",
+     "likely": 4,
+     "fact": "The simultaneous elections Bill is the Constitution (129th Amendment) Bill, 2024.",
+     "event_date": "static",
+     "kind": "news-static",
+     "source_url": "https://prsindia.org/sessiontrack/monsoon-session-2026/session-wrap",
+     "confidence": "high"
+    },
+    {
+     "q": "Sarnath, inscribed in July 2026 as India's 45th UNESCO World Heritage Site, is located in which state?",
+     "options": [
+      "Bihar",
+      "Uttar Pradesh",
+      "Madhya Pradesh",
+      "Odisha"
+     ],
+     "answer": "B",
+     "explanation": "Sarnath, near Varanasi in Uttar Pradesh, is where the Buddha gave his first sermon. It was inscribed on 25 July 2026 at the World Heritage Committee session in Busan, South Korea. Source: Wikipedia, 2026 in India, 25 Jul 2026.",
+     "likely": 4,
+     "fact": "Sarnath in Uttar Pradesh became India's 45th World Heritage Site in July 2026.",
+     "event_date": "2026-07-25",
+     "kind": "news-static",
+     "source_url": "https://en.wikipedia.org/wiki/2026_in_India",
+     "confidence": "high"
+    },
+    {
+     "q": "What is the reference date for Census 2027, India's first digital census, for most of the country?",
+     "options": [
+      "1 October 2026",
+      "1 January 2027",
+      "1 March 2027",
+      "1 April 2027"
+     ],
+     "answer": "C",
+     "explanation": "The reference date is 00:00 hours of 1 March 2027; for snow-bound areas it is 1 October 2026. Population enumeration is scheduled for February 2027 under the Registrar General and Census Commissioner, Ministry of Home Affairs. Source: MHA notification, Jun 2025; Adda247, 31 Oct 2026.",
+     "likely": 4,
+     "fact": "The Census 2027 reference date is 1 March 2027.",
+     "event_date": "static",
+     "kind": "static",
+     "source_url": "https://currentaffairs.adda247.com/national-current-affairs/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Emirates NBD acquired a 60% stake in which Indian private sector bank in June 2026?",
+     "options": [
+      "Yes Bank",
+      "RBL Bank",
+      "Bandhan Bank",
+      "IDFC FIRST Bank"
+     ],
+     "answer": "B",
+     "explanation": "Emirates NBD of Dubai completed the purchase of 60% of RBL Bank in June 2026 through a preferential issue. RBI later approved merging Emirates NBD's Indian branches into RBL Bank. RBL Bank is headquartered in Mumbai. Source: AffairsCloud, 19 Oct 2026; Adda247, 17 Oct 2026.",
+     "likely": 4,
+     "fact": "Emirates NBD acquired 60% of RBL Bank in June 2026.",
+     "event_date": "2026-06-18",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-18-19-october-2026/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Which Indian bank was named the World's Best Consumer Bank 2026 by Global Finance magazine?",
+     "options": [
+      "HDFC Bank",
+      "ICICI Bank",
+      "State Bank of India",
+      "Bank of Baroda"
+     ],
+     "answer": "C",
+     "explanation": "SBI won the title for the second year in a row; the award was presented in Bangkok during the IMF-World Bank annual meetings in October 2026. SBI's chairman is C. S. Setty and its headquarters is in Mumbai. Source: AffairsCloud, 20 Oct 2026.",
+     "likely": 4,
+     "fact": "Global Finance named SBI the World's Best Consumer Bank 2026.",
+     "event_date": "2026-07-16",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-20-october-2026/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Sankoo, carved out of Kargil in October 2026, became the 8th district of which Union Territory?",
+     "options": [
+      "Jammu and Kashmir",
+      "Ladakh",
+      "Puducherry",
+      "Andaman and Nicobar Islands"
+     ],
+     "answer": "B",
+     "explanation": "Ladakh's Lieutenant Governor announced Sankoo as the 8th district on 16 October 2026, with its own Hill Development Council. Ladakh became a Union Territory on 31 October 2019. Source: AffairsCloud, 19 Oct 2026; Wikipedia, Ladakh.",
+     "likely": 4,
+     "fact": "Sankoo became Ladakh's 8th district in October 2026.",
+     "event_date": "2026-10-16",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-18-19-october-2026/",
+     "confidence": "medium"
+    },
+    {
+     "q": "Chennai Petroleum Corporation Ltd, which became India's 28th Navratna CPSE in June 2026, is a subsidiary of which company?",
+     "options": [
+      "Bharat Petroleum Corporation",
+      "Hindustan Petroleum Corporation",
+      "Indian Oil Corporation",
+      "ONGC"
+     ],
+     "answer": "C",
+     "explanation": "CPCL is a subsidiary of Indian Oil Corporation under the Ministry of Petroleum and Natural Gas. It was upgraded from Miniratna Category-I on 19 June 2026. Source: Indian Mandarins, 22 Jun 2026.",
+     "likely": 3,
+     "fact": "CPCL is a subsidiary of Indian Oil Corporation.",
+     "event_date": "2026-06-19",
+     "kind": "news-static",
+     "source_url": "https://www.indianmandarins.com/news/grse-conferred-navratna-status-becomes-29th-psu-to-achieve-the-feat/32781",
+     "confidence": "high"
+    },
+    {
+     "q": "The Tribunals Reforms Act, 2026 creates which new body to handle appointments to tribunals and review their performance?",
+     "options": [
+      "National Judicial Appointments Commission",
+      "National Tribunals Commission",
+      "Central Tribunals Authority",
+      "Law Commission of India"
+     ],
+     "answer": "B",
+     "explanation": "The National Tribunals Commission is chaired by a former Supreme Court judge or High Court Chief Justice. The Act repeals the Tribunals Reforms Act, 2021 and received assent on 13 August 2026. Source: PRS Monthly Policy Review, August 2026.",
+     "likely": 3,
+     "fact": "The Tribunals Reforms Act, 2026 creates the National Tribunals Commission.",
+     "event_date": "2026-08-13",
+     "kind": "news",
+     "source_url": "https://prsindia.org/policy/monthly-policy-review/august-2026",
+     "confidence": "high"
+    },
+    {
+     "q": "The Bharatiya Vayuyan Niyam, 2026, notified by the Ministry of Civil Aviation and effective from 1 January 2027, replace which rules?",
+     "options": [
+      "Aircraft Rules, 1937",
+      "Carriage by Air Rules, 1972",
+      "Airports Authority Rules, 1994",
+      "Drone Rules, 2021"
+     ],
+     "answer": "A",
+     "explanation": "The new rules are framed under the Bharatiya Vayuyan Adhiniyam, 2024 and replace the Aircraft Rules, 1937. The DGCA is the civil aviation regulator. Source: PRS Monthly Policy Review, October 2026.",
+     "likely": 3,
+     "fact": "The Bharatiya Vayuyan Niyam, 2026 replace the Aircraft Rules, 1937.",
+     "event_date": "2026-10",
+     "kind": "news",
+     "source_url": "https://prsindia.org/policy/monthly-policy-review/october-2026",
+     "confidence": "high"
+    },
+    {
+     "q": "The Registration of Births and Deaths (Amendment) Act, 2026 amends the parent Act of which year?",
+     "options": [
+      "1955",
+      "1969",
+      "1976",
+      "1986"
+     ],
+     "answer": "B",
+     "explanation": "It amends the Registration of Births and Deaths Act, 1969. A registration delayed beyond two years now needs an order of a Judicial Magistrate First Class. Source: SCC Online, 21 Aug 2026; PRS Session Wrap, Monsoon Session 2026.",
+     "likely": 3,
+     "fact": "The 2026 amendment changes the Registration of Births and Deaths Act, 1969.",
+     "event_date": "2026-08-06",
+     "kind": "news-static",
+     "source_url": "https://www.scconline.com/blog/post/2026/08/21/parliament-monsoon-session-2026-key-acts-bills/",
+     "confidence": "high"
+    },
+    {
+     "q": "The Supreme Court (Number of Judges) Amendment Ordinance of May 2026 was promulgated by the President under which Article of the Constitution?",
+     "options": [
+      "Article 72",
+      "Article 123",
+      "Article 143",
+      "Article 213"
+     ],
+     "answer": "B",
+     "explanation": "Article 123 lets the President promulgate Ordinances when Parliament is not in session; Article 213 gives the same power to Governors. Parliament replaced the Ordinance with an Act in August 2026. Source: SCC Online, 2026.",
+     "likely": 3,
+     "fact": "The President promulgates Ordinances under Article 123.",
+     "event_date": "2026-05-16",
+     "kind": "news-static",
+     "source_url": "https://www.scconline.com/blog/post/2026/08/03/lok-sabha-passes-supreme-court-number-of-judges-amendment-bill-2026/",
+     "confidence": "high"
+    },
+    {
+     "q": "The National Co-operative Development Corporation (NCDC), whose Act was amended in the Monsoon Session 2026, works under which ministry?",
+     "options": [
+      "Ministry of Agriculture and Farmers Welfare",
+      "Ministry of Cooperation",
+      "Ministry of Rural Development",
+      "Ministry of Finance"
+     ],
+     "answer": "B",
+     "explanation": "NCDC is a statutory body under the Ministry of Cooperation, set up under the NCDC Act, 1962, with headquarters in New Delhi. The 2026 amendment widens the activities it can fund. Source: PRS Session Wrap, Monsoon Session 2026.",
+     "likely": 3,
+     "fact": "NCDC works under the Ministry of Cooperation.",
+     "event_date": "2026-08-14",
+     "kind": "news-static",
+     "source_url": "https://prsindia.org/sessiontrack/monsoon-session-2026/session-wrap",
+     "confidence": "medium"
+    },
+    {
+     "q": "The Viksit Bharat Shiksha Adhishthan Bill, 2025, referred to a Joint Parliamentary Committee, proposes one higher-education regulator in place of UGC, AICTE and which other body?",
+     "options": [
+      "NCERT",
+      "NCTE",
+      "NAAC",
+      "CBSE"
+     ],
+     "answer": "B",
+     "explanation": "The Bill would replace the University Grants Commission, the All India Council for Technical Education and the National Council for Teacher Education. It was introduced in the Lok Sabha on 15 December 2025. Source: SCC Online, 21 Aug 2026.",
+     "likely": 3,
+     "fact": "The Viksit Bharat Shiksha Adhishthan Bill would replace UGC, AICTE and NCTE.",
+     "event_date": "static",
+     "kind": "news-static",
+     "source_url": "https://www.scconline.com/blog/post/2026/08/21/parliament-monsoon-session-2026-key-acts-bills/",
+     "confidence": "high"
+    },
+    {
+     "q": "The Delimitation Bill, 2026, introduced in the Lok Sabha in April 2026 and still pending, seeks to repeal the Delimitation Act of which year?",
+     "options": [
+      "1972",
+      "1992",
+      "2002",
+      "2008"
+     ],
+     "answer": "C",
+     "explanation": "The Bill provides for a new Delimitation Commission and repeals the Delimitation Act, 2002. A linked Constitution (131st Amendment) Bill proposes raising Lok Sabha seats to 850. Source: PRS Legislative Research, 2026.",
+     "likely": 3,
+     "fact": "The Delimitation Bill, 2026 seeks to repeal the Delimitation Act, 2002.",
+     "event_date": "2026-04-16",
+     "kind": "news-static",
+     "source_url": "https://prsindia.org/billtrack/the-delimitation-bill-2026",
+     "confidence": "high"
+    },
+    {
+     "q": "The 10th India Mobile Congress was held at Yashobhoomi, New Delhi, in October 2026. It is organised by the Department of Telecommunications and which industry body?",
+     "options": [
+      "NASSCOM",
+      "COAI",
+      "FICCI",
+      "TRAI"
+     ],
+     "answer": "B",
+     "explanation": "India Mobile Congress is organised jointly by the DoT and the Cellular Operators Association of India. The 2026 edition ran from 7 to 10 October with the theme 'Scale Without Boundaries'. Source: AffairsCloud, 14 Oct 2026.",
+     "likely": 3,
+     "fact": "India Mobile Congress is organised by the DoT and COAI.",
+     "event_date": "2026-10-07",
+     "kind": "news-static",
+     "source_url": "https://affairscloud.com/current-affairs-14-october-2026/",
+     "confidence": "medium"
+    },
+    {
+     "q": "In November 2026, which state signed an MoU with State Bank of India so that Village Councils can collect their own revenue digitally through the SAMARTH Panchayat Portal?",
+     "options": [
+      "Nagaland",
+      "Mizoram",
+      "Manipur",
+      "Tripura"
+     ],
+     "answer": "B",
+     "explanation": "Mizoram signed the MoU on 10 November 2026, the first north-eastern state to do so. Mizoram's capital is Aizawl. Source: AffairsCloud, 12 Nov 2026 (single source; recheck before use).",
+     "likely": 3,
+     "fact": "Mizoram signed an MoU with SBI on 10 November 2026 for digital revenue collection by Village Councils.",
+     "event_date": "2026-11-10",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-12-november-2026/",
+     "confidence": "medium"
+    },
+    {
+     "q": "The Western Dedicated Freight Corridor, dedicated to the nation by the Prime Minister in September 2026, runs from Dadri in Uttar Pradesh to which port?",
+     "options": [
+      "Kandla Port",
+      "Mundra Port",
+      "Jawaharlal Nehru Port",
+      "Mormugao Port"
+     ],
+     "answer": "C",
+     "explanation": "The 1,506 km Western DFC links Dadri with Jawaharlal Nehru Port in Navi Mumbai and was dedicated on 8 September 2026. The Eastern DFC runs from Ludhiana to Sonnagar. Source: Wikipedia, Western Dedicated Freight Corridor; AffairsCloud, 11 Sep 2026.",
+     "likely": 3,
+     "fact": "The Western Dedicated Freight Corridor connects Dadri with Jawaharlal Nehru Port.",
+     "event_date": "2026-09-08",
+     "kind": "news-static",
+     "source_url": "https://en.wikipedia.org/wiki/Western_Dedicated_Freight_Corridor",
+     "confidence": "medium"
+    },
+    {
+     "q": "Alluri Sitarama Raju International Airport at Bhogapuram, inaugurated by the Prime Minister on 1 August 2026, is in which state?",
+     "options": [
+      "Telangana",
+      "Odisha",
+      "Andhra Pradesh",
+      "Tamil Nadu"
+     ],
+     "answer": "C",
+     "explanation": "Bhogapuram is in Vizianagaram district near Visakhapatnam, Andhra Pradesh. The GMR-built airport began commercial flights on 17 August 2026. Source: Wikipedia, Alluri Sitarama Raju International Airport.",
+     "likely": 3,
+     "fact": "Alluri Sitarama Raju International Airport at Bhogapuram is in Andhra Pradesh.",
+     "event_date": "2026-08-01",
+     "kind": "news-static",
+     "source_url": "https://en.wikipedia.org/wiki/Alluri_Sitarama_Raju_International_Airport",
+     "confidence": "medium"
+    },
+    {
+     "q": "Which Indian city hosted the World Circular Economy Forum (WCEF) 2026 from 15 to 18 September 2026?",
+     "options": [
+      "New Delhi",
+      "Gandhinagar",
+      "Hyderabad",
+      "Pune"
+     ],
+     "answer": "B",
+     "explanation": "WCEF 2026 was held at Mahatma Mandir, Gandhinagar, Gujarat, organised by Finland's innovation fund Sitra with the Central Pollution Control Board. The 2025 forum was held in Brazil. Source: Wikipedia, World Circular Economy Forum; AffairsCloud, 24 Sep 2026.",
+     "likely": 3,
+     "fact": "Gandhinagar hosted the World Circular Economy Forum 2026.",
+     "event_date": "2026-09-15",
+     "kind": "news",
+     "source_url": "https://en.wikipedia.org/wiki/World_Circular_Economy_Forum",
+     "confidence": "medium"
+    },
+    {
+     "q": "In September 2026 the Centre notified India's first four 'mega ports'. Which of them is the only privately operated port on the list?",
+     "options": [
+      "Jawaharlal Nehru Port",
+      "Paradip Port",
+      "Deendayal Port, Kandla",
+      "Mundra Port"
+     ],
+     "answer": "D",
+     "explanation": "JNPA, Paradip, Deendayal (Kandla) and Adani's Mundra were notified as mega ports under the Indian Ports Act, 2025. Mundra is in Kutch, Gujarat. Source: AffairsCloud, 28 Sep 2026; Adda247, 26 Sep 2026.",
+     "likely": 3,
+     "fact": "Mundra is the only private port among the four mega ports notified in September 2026.",
+     "event_date": "2026-09",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-27-28-september-2026/",
+     "confidence": "medium"
+    },
+    {
+     "q": "India's first LNG-powered train was flagged off in September 2026 from Sabarmati station. In which state is Sabarmati?",
+     "options": [
+      "Rajasthan",
+      "Maharashtra",
+      "Gujarat",
+      "Madhya Pradesh"
+     ],
+     "answer": "C",
+     "explanation": "Home Minister Amit Shah flagged off the diesel-LNG dual-fuel DEMU from Sabarmati, Ahmedabad, Gujarat. It can cut diesel use by up to 40%. Source: AffairsCloud, 29 Sep 2026; Adda247, 28 Sep 2026.",
+     "likely": 3,
+     "fact": "India's first LNG-powered train was flagged off from Sabarmati, Gujarat, in September 2026.",
+     "event_date": "2026-09",
+     "kind": "news-static",
+     "source_url": "https://affairscloud.com/current-affairs-29-september-2026/",
+     "confidence": "medium"
+    },
+    {
+     "q": "In October 2026, which bank became the second public sector bank, after SBI, to be appointed as sponsor of a pension fund by PFRDA?",
+     "options": [
+      "Punjab National Bank",
+      "Canara Bank",
+      "Bank of Baroda",
+      "Union Bank of India"
+     ],
+     "answer": "C",
+     "explanation": "Bank of Baroda received the certificate for BoB Pension Fund Management Company on NPS Diwas (1 October). SBI was the first, in 2008. PFRDA regulates the NPS and is based in New Delhi. Source: AffairsCloud, 5 Oct 2026; Adda247, 6 Oct 2026.",
+     "likely": 3,
+     "fact": "Bank of Baroda became the second public sector bank to sponsor a pension fund under PFRDA.",
+     "event_date": "2026-10",
+     "kind": "news",
+     "source_url": "https://affairscloud.com/current-affairs-4-5-october-2026/",
+     "confidence": "medium"
+    }
+   ]
+  }
+ ]
+}

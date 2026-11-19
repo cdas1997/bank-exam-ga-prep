@@ -1,7 +1,9 @@
 import { parseProfile } from './profile';
-import type { Profile } from './types';
+import { ExamKey, type Profile } from './types';
 
 const VERSION = 1;
+/** Codes made before the app had more than one exam carry no exam key; they all came from this course. */
+const LEGACY_EXAM: ExamKey = ExamKey.IbpsPo;
 
 export class BackupError extends Error {
   readonly code = 'backup/unreadable';
@@ -21,11 +23,13 @@ function fromBase64(code: string): string {
   return new TextDecoder().decode(Uint8Array.from(binary, (c) => c.charCodeAt(0)));
 }
 
-export function encodeBackup(profile: Profile): string {
-  return toBase64(JSON.stringify({ v: VERSION, answers: profile.answers, mocks: profile.mocks }));
+export function encodeBackup(profile: Profile, examKey: ExamKey): string {
+  return toBase64(JSON.stringify({ v: VERSION, exam: examKey, answers: profile.answers, mocks: profile.mocks }));
 }
 
-export function decodeBackup(code: string, knownIds: ReadonlySet<string>): Profile {
+type RestoreTarget = { key: ExamKey; knownIds: ReadonlySet<string> };
+
+export function decodeBackup(code: string, exam: RestoreTarget): Profile {
   let data: unknown;
   try {
     data = JSON.parse(fromBase64(code.trim()));
@@ -35,5 +39,9 @@ export function decodeBackup(code: string, knownIds: ReadonlySet<string>): Profi
   if (typeof data !== 'object' || data === null || !('answers' in data) || !('mocks' in data)) {
     throw new BackupError('That text is not a backup code from this site.');
   }
-  return parseProfile(data, knownIds);
+  const from = 'exam' in data && typeof data.exam === 'string' ? data.exam : LEGACY_EXAM;
+  if (from !== exam.key) {
+    throw new BackupError('That code is from the other exam course. Switch to that exam and restore it there.');
+  }
+  return parseProfile(data, exam.knownIds);
 }
