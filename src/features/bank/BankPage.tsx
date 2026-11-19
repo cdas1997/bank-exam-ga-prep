@@ -16,9 +16,10 @@ const GROUPS: readonly { group: TopicGroup; title: string; note: string }[] = [
   { group: TopicGroup.Focus, title: 'Targeted sets', note: 'Built from exam-pattern research' },
   { group: TopicGroup.Month, title: 'Last three months', note: 'Most current-affairs questions come from here' },
   { group: TopicGroup.Topic, title: 'Topics', note: '' },
-  { group: TopicGroup.Current, title: 'Current affairs', note: 'June to mid-November 2026' },
+  { group: TopicGroup.Current, title: 'Current affairs', note: '' },
   { group: TopicGroup.Banking, title: 'Banking & financial awareness', note: '' },
   { group: TopicGroup.Static, title: 'Static GK', note: '' },
+  { group: TopicGroup.Computer, title: 'Computer knowledge', note: '' },
 ];
 
 export function BankPage({ exam, answers, mode }: BankPageProps) {

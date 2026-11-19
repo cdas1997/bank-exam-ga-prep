@@ -76,7 +76,7 @@ export function MocksPage({ exam, answeredCount, mocks, live }: MocksPageProps) 
                   {Math.min(cfg.questions, bank.all.length)} questions · {formatClock(cfg.seconds)}
                 </span>
                 <p>
-                  {cfg.blurb}
+                  {type === MockType.Full && exam.fullMockBlurb ? exam.fullMockBlurb : cfg.blurb}
                   {locked ? ` Unlocks after you answer ${WEAK_MOCK_MIN_ANSWERS} questions in the bank (${answeredCount} so far).` : ''}
                 </p>
                 <Button variant={type === MockType.Full ? 'primary' : 'secondary'} disabled={locked || Boolean(running)} onClick={() => handleStart(type)}>

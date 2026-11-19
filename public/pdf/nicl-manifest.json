@@ -1,0 +1,15 @@
+{
+ "bankSha256": "07a0aec61573cd187f2f9b4098ad33f46446bae5b27b9fd4962ae9c990c2deb2",
+ "keys": [
+  "nicl-current",
+  "nicl-insurance",
+  "nicl-banking",
+  "nicl-schemes",
+  "nicl-static",
+  "nicl-ck-fundamentals",
+  "nicl-ck-os",
+  "nicl-ck-office",
+  "nicl-ck-networking",
+  "nicl-ck-dbms"
+ ]
+}

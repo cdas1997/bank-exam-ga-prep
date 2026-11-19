@@ -5,6 +5,7 @@ export const TopicGroup = {
   Current: 'current',
   Banking: 'banking',
   Static: 'static',
+  Computer: 'computer',
 } as const;
 export type TopicGroup = (typeof TopicGroup)[keyof typeof TopicGroup];
 
@@ -100,7 +101,7 @@ export type Profile = {
 export const SetFilter = { All: 'all', Todo: 'todo', Wrong: 'wrong', Right: 'right', Hot: 'hot' } as const;
 export type SetFilter = (typeof SetFilter)[keyof typeof SetFilter];
 
-export const ExamKey = { IbpsPo: 'ibps-po-mains-2026', SbiClerk: 'sbi-clerk-mains-2026' } as const;
+export const ExamKey = { IbpsPo: 'ibps-po-mains-2026', SbiClerk: 'sbi-clerk-mains-2026', NiclAssistant: 'nicl-assistant-mains-2026' } as const;
 export type ExamKey = (typeof ExamKey)[keyof typeof ExamKey];
 
 /** Marks for a right answer and marks deducted for a wrong one. */
@@ -131,6 +132,8 @@ export type Exam = {
   /** what the likelihood ranking was built from */
   rankedAgainst: string;
   examDayTip: string;
+  /** replaces the full mock's standard description when the bank's paper differs from a 50-question GA section */
+  fullMockBlurb?: string;
   guide: readonly GuideStep[];
   marking: Marking;
   /** marks for the full section */

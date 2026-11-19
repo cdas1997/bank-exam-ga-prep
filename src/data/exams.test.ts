@@ -22,7 +22,7 @@ const SBI_SET_MIX: Record<string, number> = {
 
 describe('exam courses', () => {
   it('lists the upcoming exam first and finds a course by key', () => {
-    expect(EXAMS.map((e) => e.key)).toEqual([ExamKey.SbiClerk, ExamKey.IbpsPo]);
+    expect(EXAMS.map((e) => e.key)).toEqual([ExamKey.SbiClerk, ExamKey.NiclAssistant, ExamKey.IbpsPo]);
     expect(examByKey(ExamKey.IbpsPo)?.name).toBe('IBPS PO Mains 2026');
     expect(examByKey(null)).toBeNull();
   });
@@ -38,6 +38,23 @@ describe('exam courses', () => {
   it('gives each course its own set of question ids', () => {
     // A question may appear word for word in both courses; progress never mixes because each course saves separately.
     for (const exam of EXAMS) expect(exam.knownIds.size, exam.name).toBe(exam.bank.all.length);
+  });
+
+  describe('NICL Assistant Mains', () => {
+    const nicl = examByKey(ExamKey.NiclAssistant);
+
+    it('has the 200 imported questions in 10 topics, marked +1 / -0.25, dated 30 October 2026', () => {
+      expect(nicl?.bank.all).toHaveLength(200);
+      expect(nicl?.bank.topics).toHaveLength(10);
+      expect(nicl?.bank.sets).toEqual([]);
+      expect(nicl?.marking).toEqual({ right: 1, wrong: 0.25 });
+      expect(nicl?.bank.examDate).toBe('2026-10-30');
+    });
+
+    it('keeps 80 Computer Knowledge questions in their own group', () => {
+      const computer = nicl?.bank.topics.filter((t) => t.group === 'computer') ?? [];
+      expect(computer.reduce((n, t) => n + t.questions.length, 0)).toBe(80);
+    });
   });
 
   describe('SBI Clerk Mains', () => {

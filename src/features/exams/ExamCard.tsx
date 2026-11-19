@@ -13,7 +13,9 @@ export function ExamCard({ exam, done, mocksTaken, now, onOpen }: ExamCardProps)
     <button type="button" className="examcard" onClick={onOpen}>
       {phase ? <span className={`examtag ${phase.kind}`}>{phaseLabel(phase)}</span> : null}
       <span className="examname">{exam.name}</span>
-      <span className="examdate">{exam.dateLabel}</span>
+      <span className="examdate">
+        <span className="examdate-label">Exam date</span> {exam.dateLabel}
+      </span>
       <span className="examdesc">
         {exam.section}. {total} questions{sets ? ` in ${sets} full sets` : ''}, timed mocks, topic-wise Q&amp;A with PDF export, and your analysis.
       </span>

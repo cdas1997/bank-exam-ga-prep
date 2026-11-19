@@ -1,0 +1,2476 @@
+{
+ "checked": "23 October 2026",
+ "exam": "2026-10-30",
+ "topics": [
+  {
+   "key": "nicl-current",
+   "name": "Current affairs",
+   "group": "current",
+   "questions": [
+    {
+     "id": "nicl-91967bcf97",
+     "q": "Who is the current RBI Governor (October 2026)?",
+     "options": [
+      "Shaktikanta Das",
+      "Raghuram Rajan",
+      "Urjit Patel",
+      "Sanjay Malhotra"
+     ],
+     "answer": "D",
+     "explanation": "Sanjay Malhotra took charge as the 26th RBI Governor in December 2025."
+    },
+    {
+     "id": "nicl-2d51e3c770",
+     "q": "The repo rate after the October 2026 MPC meeting is:",
+     "options": [
+      "5.75%",
+      "5.50%",
+      "5.25%",
+      "6.00%"
+     ],
+     "answer": "B",
+     "explanation": "MPC hiked by 25 bps to 5.50% on 7 Oct 2026 — first hike since Feb 2023."
+    },
+    {
+     "id": "nicl-536f53a097",
+     "q": "After the Oct 2026 hike, the RBI's monetary policy stance is:",
+     "options": [
+      "Withdrawal of Accommodation",
+      "Neutral",
+      "Accommodative",
+      "Calibrated Tightening"
+     ],
+     "answer": "D",
+     "explanation": "Stance shifted from neutral to 'calibrated tightening'. Two external members dissented on the stance change."
+    },
+    {
+     "id": "nicl-6515956595",
+     "q": "The MSF rate after Oct 2026 policy is:",
+     "options": [
+      "6.00%",
+      "5.25%",
+      "5.50%",
+      "5.75%"
+     ],
+     "answer": "D",
+     "explanation": "MSF = repo + 25 bps = 5.75%. Bank Rate is also 5.75%."
+    },
+    {
+     "id": "nicl-9cb438d2db",
+     "q": "The Standing Deposit Facility (SDF) rate after Oct 2026 is:",
+     "options": [
+      "4.75%",
+      "5.50%",
+      "5.00%",
+      "5.25%"
+     ],
+     "answer": "D",
+     "explanation": "SDF = repo – 25 bps = 5.25%."
+    },
+    {
+     "id": "nicl-d25960174b",
+     "q": "RBI's revised FY27 GDP growth forecast (Oct 2026) is:",
+     "options": [
+      "7.1%",
+      "7.4%",
+      "6.8%",
+      "6.6%"
+     ],
+     "answer": "A",
+     "explanation": "RBI raised FY27 GDP to 7.1% in Oct 2026. Earlier (June) it was 6.6%."
+    },
+    {
+     "id": "nicl-1fccd3eb23",
+     "q": "RBI's revised CPI inflation projection for FY27 (Oct 2026) is:",
+     "options": [
+      "4.8%",
+      "5.0%",
+      "5.5%",
+      "5.2%"
+     ],
+     "answer": "D",
+     "explanation": "CPI inflation projection raised to 5.2% from 5.1% (June estimate)."
+    },
+    {
+     "id": "nicl-639be0afa6",
+     "q": "India's retail inflation (CPI) for September 2026 was:",
+     "options": [
+      "5.54%",
+      "4.83%",
+      "5.10%",
+      "6.01%"
+     ],
+     "answer": "A",
+     "explanation": "Sep 2026 CPI came in at 5.54%, above the RBI's 4±2% target band."
+    },
+    {
+     "id": "nicl-bb80f334cc",
+     "q": "The next RBI MPC meeting after October 2026 is scheduled for:",
+     "options": [
+      "February 2027",
+      "January 2027",
+      "December 2–4, 2026",
+      "November 2026"
+     ],
+     "answer": "C",
+     "explanation": "Next MPC meeting: 2–4 December 2026."
+    },
+    {
+     "id": "nicl-0f47511fa7",
+     "q": "The MPC has how many members?",
+     "options": [
+      "6",
+      "3",
+      "4",
+      "9"
+     ],
+     "answer": "A",
+     "explanation": "6 members: 3 from RBI (Governor as chair) + 3 external members appointed by Government."
+    },
+    {
+     "id": "nicl-a0cecfa005",
+     "q": "India's inflation target under the flexible inflation targeting framework is:",
+     "options": [
+      "2% ± 1%",
+      "5% ± 1%",
+      "3% ± 2%",
+      "4% ± 2%"
+     ],
+     "answer": "D",
+     "explanation": "CPI target: 4% with ±2% band (2% to 6%), set under the RBI Act amendment."
+    },
+    {
+     "id": "nicl-6fb8c703ee",
+     "q": "The repo rate before the Oct 2026 hike was kept at 5.25% after cumulative cuts of how many bps from Feb 2025?",
+     "options": [
+      "150 bps",
+      "75 bps",
+      "125 bps",
+      "100 bps"
+     ],
+     "answer": "C",
+     "explanation": "Cuts: 25 bps (Feb 2025) + 50 bps (Apr 2025) + 25 bps (Jun 2025) + 25 bps (Aug 2025) = 125 bps total, from 6.50% to 5.25%."
+    },
+    {
+     "id": "nicl-5483b4c824",
+     "q": "Cash Reserve Ratio (CRR) as of 2026 is:",
+     "options": [
+      "4.5%",
+      "5.0%",
+      "4.0%",
+      "3.5%"
+     ],
+     "answer": "C",
+     "explanation": "CRR was cut to 4.0% from 4.5% in Dec 2024. Banks deposit this % of NDTL with RBI."
+    },
+    {
+     "id": "nicl-122d71232a",
+     "q": "Statutory Liquidity Ratio (SLR) as of 2026 is:",
+     "options": [
+      "16%",
+      "19%",
+      "18%",
+      "17%"
+     ],
+     "answer": "C",
+     "explanation": "SLR is 18%. Banks hold 18% of NDTL in gold, cash, or approved government securities."
+    },
+    {
+     "id": "nicl-c68aaef64b",
+     "q": "DICGC insures bank deposits up to:",
+     "options": [
+      "₹3 lakh",
+      "₹1 lakh",
+      "₹5 lakh",
+      "₹10 lakh"
+     ],
+     "answer": "C",
+     "explanation": "DICGC (subsidiary of RBI) covers deposits up to ₹5 lakh per depositor per bank since 2020."
+    },
+    {
+     "id": "nicl-a943b3ea96",
+     "q": "The 18th BRICS Summit 2026 was held at:",
+     "options": [
+      "Beijing",
+      "Cape Town",
+      "Bharat Mandapam, New Delhi",
+      "Kazan, Russia"
+     ],
+     "answer": "C",
+     "explanation": "18th BRICS Summit: 12–13 Sep 2026 at Bharat Mandapam, New Delhi. Theme: 'Building for Resilience, Innovation, Cooperation and Sustainability.'"
+    },
+    {
+     "id": "nicl-d22a7f32a7",
+     "q": "BRICS now has how many full member nations (2026)?",
+     "options": [
+      "10",
+      "11",
+      "9",
+      "5"
+     ],
+     "answer": "B",
+     "explanation": "11 members: Brazil, Russia, India, China, South Africa + Egypt, Ethiopia, Indonesia, Iran, Saudi Arabia, UAE."
+    },
+    {
+     "id": "nicl-17b95a1f28",
+     "q": "The 2026 Nobel Prize in Physics was awarded to Francis Halzen for:",
+     "options": [
+      "Gravitational waves",
+      "Dark matter",
+      "IceCube Neutrino Observatory",
+      "Quantum computing"
+     ],
+     "answer": "C",
+     "explanation": "Halzen won for high-energy astrophysical neutrino detection via the IceCube Observatory at the South Pole."
+    },
+    {
+     "id": "nicl-042efada40",
+     "q": "The 2026 Nobel Prize in Chemistry was awarded to Kagan and Soai for:",
+     "options": [
+      "Asymmetric organic synthesis",
+      "CRISPR gene editing",
+      "Quantum dots",
+      "Lithium-ion batteries"
+     ],
+     "answer": "A",
+     "explanation": "Henri B. Kagan and Kenso Soai won for non-linear effects and autocatalysis in asymmetric organic synthesis."
+    },
+    {
+     "id": "nicl-44d4864482",
+     "q": "The 2026 Nobel Peace Prize was awarded to:",
+     "options": [
+      "UNICEF",
+      "Volodymyr Zelenskyy",
+      "UNHCR",
+      "Navanethem 'Navi' Pillay"
+     ],
+     "answer": "D",
+     "explanation": "South African jurist Navi Pillay won for efforts to promote peace and international law."
+    },
+    {
+     "id": "nicl-8127e2e4d1",
+     "q": "The 2026 Nobel Prize in Literature was awarded to:",
+     "options": [
+      "Jon Fosse",
+      "Salman Rushdie",
+      "Anne Carson",
+      "Haruki Murakami"
+     ],
+     "answer": "C",
+     "explanation": "Canadian poet and essayist Anne Carson received the 2026 Literature prize."
+    },
+    {
+     "id": "nicl-567792cf70",
+     "q": "The 2026 Nobel Prize in Economics was won by Robert Hall and Michael Woodford for:",
+     "options": [
+      "Microeconomic foundations of macroeconomic stabilisation",
+      "Poverty research",
+      "Behavioural economics",
+      "Auction theory"
+     ],
+     "answer": "A",
+     "explanation": "Both American economists; prize worth 12 million SEK. Announced 12 Oct 2026."
+    },
+    {
+     "id": "nicl-afb80ffd62",
+     "q": "The 2026 Nobel Prize in Medicine was awarded for research on:",
+     "options": [
+      "mRNA vaccines",
+      "Cancer immunotherapy",
+      "Hepatitis C",
+      "Optogenetics"
+     ],
+     "answer": "D",
+     "explanation": "Karl Deisseroth, Peter Hegemann and Georg Nagel won for pioneering work on optogenetics."
+    },
+    {
+     "id": "nicl-4aecc73191",
+     "q": "The 2026 Asian Games were held in:",
+     "options": [
+      "Doha, Qatar",
+      "Hangzhou, China",
+      "Riyadh",
+      "Aichi-Nagoya, Japan"
+     ],
+     "answer": "D",
+     "explanation": "20th Asian Games: Aichi-Nagoya, Japan, 19 Sep – 4 Oct 2026."
+    },
+    {
+     "id": "nicl-0a1070d552",
+     "q": "India's total medal count at the 2026 Asian Games was:",
+     "options": [
+      "71",
+      "85",
+      "107",
+      "95"
+     ],
+     "answer": "B",
+     "explanation": "India finished 4th with 85 medals (21 gold, 27 silver, 37 bronze)."
+    },
+    {
+     "id": "nicl-6e416afe8e",
+     "q": "Which country topped the 2026 Asian Games medal tally?",
+     "options": [
+      "South Korea",
+      "India",
+      "Japan",
+      "China"
+     ],
+     "answer": "D",
+     "explanation": "China topped for the 12th consecutive edition: 169 gold, 341 total."
+    },
+    {
+     "id": "nicl-6b8c57ccd0",
+     "q": "India's women's hockey team won Asian Games gold after how many years?",
+     "options": [
+      "Never won before",
+      "20",
+      "32",
+      "44"
+     ],
+     "answer": "D",
+     "explanation": "Women's hockey beat China 1–0 for gold — first since 1982 (44 years)."
+    },
+    {
+     "id": "nicl-e526d266d2",
+     "q": "India's first athletics gold at the 2026 Asian Games came from:",
+     "options": [
+      "Men's marathon",
+      "Women's 4×400m relay",
+      "Hima Das",
+      "Neeraj Chopra"
+     ],
+     "answer": "B",
+     "explanation": "The women's 4×400m relay team won India's first athletics gold at Aichi-Nagoya."
+    },
+    {
+     "id": "nicl-16e6abe61d",
+     "q": "Who has been named next MD & CEO of HDFC Bank (from 27 Oct 2026)?",
+     "options": [
+      "Aditya Puri",
+      "Sashidhar Jagdishan",
+      "Anup Bagchi",
+      "Kaizad Bharucha"
+     ],
+     "answer": "C",
+     "explanation": "Board chose Anup Bagchi for 3 years, pending RBI approval, succeeding Sashidhar Jagdishan."
+    },
+    {
+     "id": "nicl-579b27095a",
+     "q": "The 57th GST Council meeting (Oct 2026) raised the prosecution threshold to:",
+     "options": [
+      "₹2 crore",
+      "₹10 crore",
+      "₹1 crore",
+      "₹5 crore"
+     ],
+     "answer": "D",
+     "explanation": "57th GST Council (8 Oct, chaired by FM Sitharaman) raised prosecution threshold to ₹5 crore and removed arrest powers for tax officers."
+    },
+    {
+     "id": "nicl-0fd6bb9d6e",
+     "q": "Indian Air Force Day is celebrated on:",
+     "options": [
+      "1 October",
+      "15 October",
+      "8 October",
+      "26 January"
+     ],
+     "answer": "C",
+     "explanation": "IAF Day: 8 October, marking IAF's founding in 1932. 2026 was the 94th IAF Day."
+    },
+    {
+     "id": "nicl-0bc872c2fe",
+     "q": "NHRC Foundation Day is observed on:",
+     "options": [
+      "14 November",
+      "12 October",
+      "2 October",
+      "26 November"
+     ],
+     "answer": "B",
+     "explanation": "NHRC was established 12 Oct 1993. 33rd Foundation Day celebrated on 12 Oct 2026."
+    },
+    {
+     "id": "nicl-df0e6ffdb0",
+     "q": "Gandhi Jayanti (2 October) is also observed internationally as:",
+     "options": [
+      "International Day of Non-Violence",
+      "UN Day",
+      "World Peace Day",
+      "World Health Day"
+     ],
+     "answer": "A",
+     "explanation": "The UN declared 2 Oct as International Day of Non-Violence in 2007 in honour of Mahatma Gandhi."
+    },
+    {
+     "id": "nicl-d0671fb5c3",
+     "q": "National Unity Day (31 October) marks the birth anniversary of:",
+     "options": [
+      "Jawaharlal Nehru",
+      "Mahatma Gandhi",
+      "Sardar Vallabhbhai Patel",
+      "B.R. Ambedkar"
+     ],
+     "answer": "C",
+     "explanation": "Rashtriya Ekta Diwas (31 Oct) honours Sardar Patel's birthday — he unified 562 princely states."
+    },
+    {
+     "id": "nicl-be69ef7ff2",
+     "q": "Constitution Day is observed on:",
+     "options": [
+      "26 November",
+      "26 January",
+      "14 November",
+      "15 August"
+     ],
+     "answer": "A",
+     "explanation": "26 Nov: Constituent Assembly adopted the Constitution in 1949. Republic Day (26 Jan) is when it came into effect in 1950."
+    },
+    {
+     "id": "nicl-3971d8a799",
+     "q": "World Food Day is observed on:",
+     "options": [
+      "5 October",
+      "16 October",
+      "1 November",
+      "24 October"
+     ],
+     "answer": "B",
+     "explanation": "World Food Day: 16 October, marking FAO's founding in 1945."
+    },
+    {
+     "id": "nicl-328cc7bb94",
+     "q": "Lavanya R Mundayur was appointed CMD of which insurance company in Sep 2026?",
+     "options": [
+      "Oriental Insurance",
+      "NICL",
+      "New India Assurance",
+      "United India Insurance"
+     ],
+     "answer": "C",
+     "explanation": "Mundayur became CMD of New India Assurance on 30 Sep 2026, tenure till May 2029."
+    },
+    {
+     "id": "nicl-425880d68e",
+     "q": "The Digital Personal Data Protection (DPDP) Act was enacted in India in:",
+     "options": [
+      "2025",
+      "2022",
+      "2023",
+      "2024"
+     ],
+     "answer": "C",
+     "explanation": "DPDP Act passed by Parliament in Aug 2023."
+    },
+    {
+     "id": "nicl-89b8e24cf6",
+     "q": "Chandrayaan-3 successfully landed on the Moon's south pole on:",
+     "options": [
+      "14 July 2023",
+      "23 August 2023",
+      "15 September 2023",
+      "2 October 2023"
+     ],
+     "answer": "B",
+     "explanation": "Chandrayaan-3's Vikram lander soft-landed on 23 Aug 2023, making India the 4th country to land on the Moon."
+    },
+    {
+     "id": "nicl-2dc219eaf8",
+     "q": "The Unified Pension Scheme (UPS) announced in Aug 2024 guarantees what % of average basic pay?",
+     "options": [
+      "60%",
+      "30%",
+      "40%",
+      "50%"
+     ],
+     "answer": "D",
+     "explanation": "UPS guarantees 50% of the average basic pay of last 12 months for 25+ years of service."
+    }
+   ]
+  },
+  {
+   "key": "nicl-insurance",
+   "name": "Insurance awareness",
+   "group": "banking",
+   "questions": [
+    {
+     "id": "nicl-9f4b0168f7",
+     "q": "IRDAI is headquartered at:",
+     "options": [
+      "Hyderabad",
+      "Chennai",
+      "Mumbai",
+      "New Delhi"
+     ],
+     "answer": "A",
+     "explanation": "IRDAI HQ: Hyderabad, Telangana. Established under IRDAI Act 1999."
+    },
+    {
+     "id": "nicl-20cd4932d9",
+     "q": "Who is the current Chairman of IRDAI (Oct 2026)?",
+     "options": [
+      "SVVS Murthi",
+      "Ajay Seth",
+      "Subhash Chandra Khuntia",
+      "Debasish Panda"
+     ],
+     "answer": "B",
+     "explanation": "Ajay Seth appointed IRDAI Chairman succeeding Debasish Panda. Chaired the 134th meeting in Mar 2026."
+    },
+    {
+     "id": "nicl-b80722a3d8",
+     "q": "The Insurance Act was originally enacted in:",
+     "options": [
+      "1999",
+      "1956",
+      "1938",
+      "1972"
+     ],
+     "answer": "C",
+     "explanation": "Insurance Act 1938 is the foundational legislation. IRDAI Act came in 1999."
+    },
+    {
+     "id": "nicl-7ca7cf10ba",
+     "q": "The Sabka Bima Sabki Raksha Act 2025 raised the FDI limit in insurance to:",
+     "options": [
+      "100%",
+      "49%",
+      "51%",
+      "74%"
+     ],
+     "answer": "A",
+     "explanation": "FDI cap raised from 74% to 100% of paid-up equity. Effective 5 Feb 2026."
+    },
+    {
+     "id": "nicl-8618df3a6a",
+     "q": "Under the Sabka Bima Act, the net owned fund for foreign reinsurance branches was reduced to:",
+     "options": [
+      "₹1,000 crore",
+      "₹5,000 crore",
+      "₹500 crore",
+      "₹2,000 crore"
+     ],
+     "answer": "A",
+     "explanation": "Reduced from ₹5,000 cr to ₹1,000 cr to encourage more foreign reinsurers."
+    },
+    {
+     "id": "nicl-1137cb14cf",
+     "q": "Under the new insurance law, the max penalty on intermediaries was raised to:",
+     "options": [
+      "₹10 crore",
+      "₹25 crore",
+      "₹5 crore",
+      "₹1 crore"
+     ],
+     "answer": "A",
+     "explanation": "Penalty cap on intermediaries increased from ₹1 crore to ₹10 crore."
+    },
+    {
+     "id": "nicl-9acf2433a6",
+     "q": "IRDAI's goal of 'Insurance for All' is targeted for which year?",
+     "options": [
+      "2050",
+      "2035",
+      "2047",
+      "2030"
+     ],
+     "answer": "C",
+     "explanation": "Insurance for All by 2047, aligned with India@100 vision."
+    },
+    {
+     "id": "nicl-97f7771708",
+     "q": "National Insurance Company Limited (NICL) was founded in:",
+     "options": [
+      "1906",
+      "1947",
+      "1901",
+      "1919"
+     ],
+     "answer": "A",
+     "explanation": "NICL established in 1906 in Kolkata, nationalised in 1972."
+    },
+    {
+     "id": "nicl-d7b2e27ead",
+     "q": "NICL is headquartered at:",
+     "options": [
+      "Chennai",
+      "Kolkata",
+      "Mumbai",
+      "New Delhi"
+     ],
+     "answer": "B",
+     "explanation": "National Insurance Company Limited HQ: Kolkata, West Bengal."
+    },
+    {
+     "id": "nicl-c6bc25d75e",
+     "q": "New India Assurance was founded in 1919 by:",
+     "options": [
+      "Dorabji Tata",
+      "GD Birla",
+      "JRD Tata",
+      "Mahatma Gandhi"
+     ],
+     "answer": "A",
+     "explanation": "Sir Dorabji Tata founded New India Assurance in 1919. HQ: Mumbai."
+    },
+    {
+     "id": "nicl-5a53375d29",
+     "q": "How many PSU general insurance companies exist in India?",
+     "options": [
+      "5",
+      "3",
+      "6",
+      "4"
+     ],
+     "answer": "D",
+     "explanation": "4 PSU general insurers: NICL, New India Assurance, Oriental Insurance, United India Insurance. GIC Re is the sole reinsurer."
+    },
+    {
+     "id": "nicl-1205a3107a",
+     "q": "Oriental Insurance Company is headquartered at:",
+     "options": [
+      "Mumbai",
+      "Kolkata",
+      "New Delhi",
+      "Chennai"
+     ],
+     "answer": "C",
+     "explanation": "Oriental Insurance HQ: New Delhi. Founded 1947."
+    },
+    {
+     "id": "nicl-a4691d3861",
+     "q": "United India Insurance Company is headquartered at:",
+     "options": [
+      "Chennai",
+      "Mumbai",
+      "Kolkata",
+      "New Delhi"
+     ],
+     "answer": "A",
+     "explanation": "United India Insurance HQ: Chennai. Founded 1938."
+    },
+    {
+     "id": "nicl-6b55b08bdc",
+     "q": "GIC Re (sole Indian reinsurer) is headquartered at:",
+     "options": [
+      "Mumbai",
+      "Kolkata",
+      "Hyderabad",
+      "New Delhi"
+     ],
+     "answer": "A",
+     "explanation": "General Insurance Corporation of India HQ: Mumbai."
+    },
+    {
+     "id": "nicl-aaec2328b5",
+     "q": "General insurance companies were nationalised in India in:",
+     "options": [
+      "1969",
+      "1972",
+      "1980",
+      "1956"
+     ],
+     "answer": "B",
+     "explanation": "1972 under General Insurance Business (Nationalisation) Act. Life (LIC): 1956. Banks: 1969 & 1980."
+    },
+    {
+     "id": "nicl-e4c3576820",
+     "q": "The principle of 'Utmost Good Faith' (Uberrima Fides) means:",
+     "options": [
+      "Insurer must always pay",
+      "Both parties must disclose all material facts",
+      "Agent gets max commission",
+      "Premium is non-refundable"
+     ],
+     "answer": "B",
+     "explanation": "Both insurer and insured must disclose all material facts honestly."
+    },
+    {
+     "id": "nicl-88c727f6ce",
+     "q": "'Subrogation' in insurance means:",
+     "options": [
+      "Co-insurance",
+      "Cancellation of policy",
+      "Transfer of policy",
+      "Insurer's right to recover from third party after paying claim"
+     ],
+     "answer": "D",
+     "explanation": "After paying a claim, insurer steps into insured's shoes to recover from the liable third party."
+    },
+    {
+     "id": "nicl-459f3cefec",
+     "q": "The principle of 'Indemnity' ensures:",
+     "options": [
+      "Policy auto-renews",
+      "Insured profits from loss",
+      "Insured is restored to pre-loss position, no profit",
+      "Premium is returned"
+     ],
+     "answer": "C",
+     "explanation": "Indemnity = insured cannot profit from insurance. Only actual loss is compensated."
+    },
+    {
+     "id": "nicl-3407c40465",
+     "q": "'Proximate Cause' (Causa Proxima) determines:",
+     "options": [
+      "The dominant/effective cause of the loss",
+      "Sum insured",
+      "Premium amount",
+      "Policy tenure"
+     ],
+     "answer": "A",
+     "explanation": "The nearest, dominant cause of loss — to decide if it falls within the policy coverage."
+    },
+    {
+     "id": "nicl-047de58293",
+     "q": "PMJJBY provides life cover of ₹2 lakh for an annual premium of:",
+     "options": [
+      "₹330",
+      "₹342",
+      "₹436",
+      "₹500"
+     ],
+     "answer": "C",
+     "explanation": "PM Jeevan Jyoti Bima Yojana: ₹2L cover, premium revised to ₹436/year from June 2022, ages 18-50."
+    },
+    {
+     "id": "nicl-f1146dc128",
+     "q": "PMSBY (accident insurance) provides ₹2 lakh cover for a premium of:",
+     "options": [
+      "₹12/year",
+      "₹20/year",
+      "₹30/year",
+      "₹50/year"
+     ],
+     "answer": "B",
+     "explanation": "PM Suraksha Bima Yojana: ₹20/year for ₹2L accidental death + ₹1L partial disability."
+    },
+    {
+     "id": "nicl-055e9d406a",
+     "q": "Ayushman Bharat PM-JAY provides health coverage of:",
+     "options": [
+      "₹2 lakh",
+      "₹1 lakh",
+      "₹10 lakh",
+      "₹5 lakh"
+     ],
+     "answer": "D",
+     "explanation": "₹5 lakh per family per year for secondary and tertiary hospitalisation."
+    },
+    {
+     "id": "nicl-e7f04bbebd",
+     "q": "'Bima Vistaar' by IRDAI is:",
+     "options": [
+      "A life-only product",
+      "Reinsurance scheme",
+      "Motor insurance",
+      "All-in-one affordable cover (life+health+property+accident)"
+     ],
+     "answer": "D",
+     "explanation": "Bima Vistaar bundles life, health, property and accident cover for underserved populations."
+    },
+    {
+     "id": "nicl-d842bf8565",
+     "q": "'Saral Jeevan Bima' mandated by IRDAI is a standardised:",
+     "options": [
+      "Pension plan",
+      "Motor policy",
+      "Health policy",
+      "Pure term life insurance"
+     ],
+     "answer": "D",
+     "explanation": "All life insurers must offer Saral Jeevan Bima with uniform features — standard pure term plan."
+    },
+    {
+     "id": "nicl-bf2ab11558",
+     "q": "'Arogya Sanjeevani' standard health policy has sum insured from:",
+     "options": [
+      "₹2L to ₹10L",
+      "₹50K to ₹3L",
+      "₹1L to ₹5L",
+      "₹5L to ₹25L"
+     ],
+     "answer": "C",
+     "explanation": "IRDAI-mandated standard health policy: ₹1L to ₹5L, offered by all general/health insurers."
+    },
+    {
+     "id": "nicl-8b5d46a6e7",
+     "q": "Insurance Ombudsman resolves complaints for claims up to:",
+     "options": [
+      "₹20 lakh",
+      "₹30 lakh",
+      "₹50 lakh",
+      "₹10 lakh"
+     ],
+     "answer": "B",
+     "explanation": "Insurance Ombudsman covers disputes up to ₹30 lakh."
+    },
+    {
+     "id": "nicl-b2e4bfa4f2",
+     "q": "'Third Party Insurance' in motor insurance covers:",
+     "options": [
+      "Theft of own vehicle",
+      "Personal accident of driver only",
+      "Own vehicle damage",
+      "Liability to third party's person/property"
+     ],
+     "answer": "D",
+     "explanation": "Mandatory third-party cover: liability to others for bodily injury or property damage."
+    },
+    {
+     "id": "nicl-5fb6d10ed5",
+     "q": "'Moral Hazard' in insurance means:",
+     "options": [
+      "Insured acts carelessly because they're covered",
+      "Policy lapse risk",
+      "Agent fraud",
+      "Natural disaster risk"
+     ],
+     "answer": "A",
+     "explanation": "Moral hazard: insured may behave recklessly knowing insurance covers the loss."
+    },
+    {
+     "id": "nicl-d050a32630",
+     "q": "Which new general insurer received IRDAI registration in 2026?",
+     "options": [
+      "Tata AIG",
+      "ProTec General Insurance",
+      "Acko General",
+      "Digit Insurance"
+     ],
+     "answer": "B",
+     "explanation": "ProTec General Insurance Limited received registration in 2026."
+    },
+    {
+     "id": "nicl-4f47c3d9ef",
+     "q": "LIC was established in:",
+     "options": [
+      "1950",
+      "1953",
+      "1956",
+      "1960"
+     ],
+     "answer": "C",
+     "explanation": "LIC established 1 Sep 1956 by merging 245 private life insurers. HQ: Mumbai."
+    }
+   ]
+  },
+  {
+   "key": "nicl-banking",
+   "name": "Banking & financial awareness",
+   "group": "banking",
+   "questions": [
+    {
+     "id": "nicl-d2fc683903",
+     "q": "UPI was developed by:",
+     "options": [
+      "NPCI",
+      "SBI",
+      "SEBI",
+      "RBI"
+     ],
+     "answer": "A",
+     "explanation": "NPCI (National Payments Corporation of India) developed and manages UPI."
+    },
+    {
+     "id": "nicl-a6d7222e0f",
+     "q": "DICGC is a subsidiary of:",
+     "options": [
+      "SEBI",
+      "Government of India",
+      "SBI",
+      "RBI"
+     ],
+     "answer": "D",
+     "explanation": "DICGC is a wholly owned subsidiary of RBI."
+    },
+    {
+     "id": "nicl-9756d31d0b",
+     "q": "PM Jan Dhan Yojana provides overdraft facility up to:",
+     "options": [
+      "₹15,000",
+      "₹10,000",
+      "₹5,000",
+      "₹20,000"
+     ],
+     "answer": "B",
+     "explanation": "PMJDY: OD up to ₹10,000 per household, subject to satisfactory account operation."
+    },
+    {
+     "id": "nicl-27601b6af7",
+     "q": "NABARD stands for:",
+     "options": [
+      "National Bank for Agriculture and Rural Development",
+      "National Board for Agricultural Research",
+      "New Agency for Banking and Rural Development",
+      "National Bureau of Agriculture"
+     ],
+     "answer": "A",
+     "explanation": "NABARD: set up 1982, HQ Mumbai. Apex development bank for rural and agriculture credit."
+    },
+    {
+     "id": "nicl-427f27f5be",
+     "q": "Small Finance Banks and Payment Banks were recommended by:",
+     "options": [
+      "PJ Nayak Committee",
+      "Raghuram Rajan Committee",
+      "Usha Thorat Committee",
+      "Nachiket Mor Committee"
+     ],
+     "answer": "D",
+     "explanation": "Nachiket Mor Committee (2013) on financial inclusion recommended differentiated banks."
+    },
+    {
+     "id": "nicl-88f78fccb4",
+     "q": "The Digital Rupee (CBDC) retail pilot was launched in:",
+     "options": [
+      "2022",
+      "2023",
+      "2024",
+      "2021"
+     ],
+     "answer": "A",
+     "explanation": "RBI launched e₹ wholesale pilot Nov 2022, retail pilot Dec 2022."
+    },
+    {
+     "id": "nicl-88ac322434",
+     "q": "e-RUPI is a:",
+     "options": [
+      "Digital rupee",
+      "Cryptocurrency",
+      "UPI app",
+      "Person-specific digital payment voucher"
+     ],
+     "answer": "D",
+     "explanation": "e-RUPI: cashless, contactless, person- and purpose-specific digital voucher via QR/SMS."
+    },
+    {
+     "id": "nicl-6c5f94d2e3",
+     "q": "SIDBI stands for:",
+     "options": [
+      "Small Investment Development Bank",
+      "Small Industries Development Bank of India",
+      "Syndicate Industrial Development Bank",
+      "State Industrial Development Bureau"
+     ],
+     "answer": "B",
+     "explanation": "SIDBI: est. 1990, HQ Lucknow. Principal financial institution for MSME sector."
+    },
+    {
+     "id": "nicl-38af7cd013",
+     "q": "SEBI (securities market regulator) is headquartered at:",
+     "options": [
+      "Chennai",
+      "Kolkata",
+      "Mumbai",
+      "New Delhi"
+     ],
+     "answer": "C",
+     "explanation": "SEBI HQ: Mumbai. Established 1988, statutory powers via SEBI Act 1992."
+    },
+    {
+     "id": "nicl-7998f59d85",
+     "q": "PFRDA regulates:",
+     "options": [
+      "Insurance",
+      "Mutual funds",
+      "Pension funds (NPS)",
+      "Stock exchanges"
+     ],
+     "answer": "C",
+     "explanation": "PFRDA: Pension Fund Regulatory and Development Authority — regulates NPS."
+    },
+    {
+     "id": "nicl-404352c9b4",
+     "q": "Standard UPI transaction limit is:",
+     "options": [
+      "₹1 lakh",
+      "₹50,000",
+      "₹5 lakh",
+      "₹2 lakh"
+     ],
+     "answer": "A",
+     "explanation": "₹1 lakh per transaction (higher for specific categories like tax, IPO, hospitals)."
+    },
+    {
+     "id": "nicl-ca7d2a6da2",
+     "q": "PM Surya Ghar Muft Bijli Yojana provides:",
+     "options": [
+      "Free smart meters",
+      "Subsidised rooftop solar with up to 300 units free electricity",
+      "Free EV charging",
+      "Free gas cylinders"
+     ],
+     "answer": "B",
+     "explanation": "Launched 2024: subsidised rooftop solar for 1 crore households, up to 300 units free/month."
+    },
+    {
+     "id": "nicl-3d9bce93f3",
+     "q": "The 'Insurance Surety Bond' introduced by IRDAI is an alternative to:",
+     "options": [
+      "Motor insurance",
+      "Reinsurance",
+      "Life insurance",
+      "Bank guarantees"
+     ],
+     "answer": "D",
+     "explanation": "Insurance surety bonds replace bank guarantees for infrastructure/government contracts, freeing bank credit."
+    },
+    {
+     "id": "nicl-a1b342a4dc",
+     "q": "The National Financial Reporting Authority (NFRA) oversees:",
+     "options": [
+      "Banks",
+      "Stock brokers",
+      "Insurance companies",
+      "Chartered Accountants/Auditors"
+     ],
+     "answer": "D",
+     "explanation": "NFRA (Companies Act 2013) regulates auditing standards and oversees the audit profession."
+    },
+    {
+     "id": "nicl-65b92bf61c",
+     "q": "Which committee recommended 'four-tier' regulation for Urban Cooperative Banks?",
+     "options": [
+      "NS Vishwanathan Committee",
+      "PJ Nayak Committee",
+      "Malegam Committee",
+      "Narasimham Committee"
+     ],
+     "answer": "A",
+     "explanation": "NS Vishwanathan Committee (2021) recommended four-tier regulatory framework for UCBs."
+    },
+    {
+     "id": "nicl-a0adf113b1",
+     "q": "The Basel III norms deal with:",
+     "options": [
+      "Bank capital adequacy and liquidity",
+      "Insurance regulation",
+      "Stock market rules",
+      "Forex management"
+     ],
+     "answer": "A",
+     "explanation": "Basel III (BCBS): strengthens bank capital requirements, leverage ratio, and liquidity ratios (LCR, NSFR)."
+    },
+    {
+     "id": "nicl-af4875c763",
+     "q": "Asian Development Bank (ADB) is headquartered at:",
+     "options": [
+      "Manila, Philippines",
+      "Tokyo",
+      "Washington DC",
+      "Beijing"
+     ],
+     "answer": "A",
+     "explanation": "ADB HQ: Manila. AIIB: Beijing. World Bank & IMF: Washington DC."
+    },
+    {
+     "id": "nicl-ab1e21e2ff",
+     "q": "SWIFT is headquartered in:",
+     "options": [
+      "Brussels, Belgium",
+      "London",
+      "New York",
+      "Zurich"
+     ],
+     "answer": "A",
+     "explanation": "SWIFT HQ: La Hulpe, near Brussels. Global financial messaging system."
+    },
+    {
+     "id": "nicl-5b018f104a",
+     "q": "The FRBM Act was enacted in:",
+     "options": [
+      "2010",
+      "2005",
+      "2000",
+      "2003"
+     ],
+     "answer": "D",
+     "explanation": "Fiscal Responsibility and Budget Management Act 2003 mandates fiscal discipline."
+    },
+    {
+     "id": "nicl-63f90b50da",
+     "q": "IMF is headquartered at:",
+     "options": [
+      "London",
+      "New York",
+      "Geneva",
+      "Washington DC"
+     ],
+     "answer": "D",
+     "explanation": "IMF HQ: Washington DC. Established 1944 at Bretton Woods."
+    }
+   ]
+  },
+  {
+   "key": "nicl-schemes",
+   "name": "Government schemes",
+   "group": "banking",
+   "questions": [
+    {
+     "id": "nicl-20503355cd",
+     "q": "PM Vishwakarma Yojana (2023) supports:",
+     "options": [
+      "Startups",
+      "Farmers",
+      "Students",
+      "Traditional artisans and craftspeople (18 categories)"
+     ],
+     "answer": "D",
+     "explanation": "Training, toolkit, credit support, digital empowerment for 18 craft categories."
+    },
+    {
+     "id": "nicl-873d1ac8b4",
+     "q": "PM MUDRA loan categories — which is NOT one?",
+     "options": [
+      "Tarun",
+      "Shishu",
+      "Kishore",
+      "Yuva"
+     ],
+     "answer": "D",
+     "explanation": "Shishu (up to ₹50K), Kishore (₹50K–5L), Tarun (₹5L–10L). No 'Yuva' category."
+    },
+    {
+     "id": "nicl-27db61889d",
+     "q": "Atal Pension Yojana guarantees monthly pension of:",
+     "options": [
+      "₹500–₹5,000",
+      "₹2,000–₹10,000",
+      "₹1,000–₹5,000",
+      "₹1,000–₹10,000"
+     ],
+     "answer": "C",
+     "explanation": "₹1,000 to ₹5,000/month after age 60, based on contribution."
+    },
+    {
+     "id": "nicl-671dcfc220",
+     "q": "PM-KISAN provides annual income support of:",
+     "options": [
+      "₹4,000",
+      "₹6,000",
+      "₹2,000",
+      "₹10,000"
+     ],
+     "answer": "B",
+     "explanation": "₹6,000/year in 3 instalments of ₹2,000 each to eligible farmer families."
+    },
+    {
+     "id": "nicl-65e6306d91",
+     "q": "Stand-Up India provides bank loans (₹10L–₹1Cr) for:",
+     "options": [
+      "Government employees",
+      "Farmers only",
+      "All MSMEs",
+      "SC/ST and women entrepreneurs"
+     ],
+     "answer": "D",
+     "explanation": "At least 1 SC/ST + 1 woman entrepreneur per bank branch for greenfield enterprises."
+    },
+    {
+     "id": "nicl-d46605ce4e",
+     "q": "Sukanya Samriddhi Yojana is for:",
+     "options": [
+      "Girl child",
+      "Farmers",
+      "Senior citizens",
+      "MSMEs"
+     ],
+     "answer": "A",
+     "explanation": "SSY: savings scheme for girl child under Beti Bachao Beti Padhao. High interest + tax benefits."
+    },
+    {
+     "id": "nicl-f3d1ab399e",
+     "q": "NPS (National Pension System) is regulated by:",
+     "options": [
+      "IRDAI",
+      "RBI",
+      "SEBI",
+      "PFRDA"
+     ],
+     "answer": "D",
+     "explanation": "PFRDA regulates NPS under PFRDA Act 2013."
+    },
+    {
+     "id": "nicl-a48a5b47e3",
+     "q": "PM Garib Kalyan Anna Yojana (PMGKAY) provides how much free foodgrain per person/month?",
+     "options": [
+      "3 kg",
+      "10 kg",
+      "5 kg",
+      "7 kg"
+     ],
+     "answer": "C",
+     "explanation": "5 kg free foodgrain per beneficiary per month (made permanent from Jan 2024)."
+    },
+    {
+     "id": "nicl-8a33cf4d47",
+     "q": "Sovereign Gold Bonds are issued by:",
+     "options": [
+      "SEBI",
+      "LIC",
+      "SBI",
+      "RBI on behalf of Government of India"
+     ],
+     "answer": "D",
+     "explanation": "SGBs: government securities denominated in gold, issued by RBI on behalf of GoI."
+    },
+    {
+     "id": "nicl-169b58cbb3",
+     "q": "ECLGS (Emergency Credit Line Guarantee Scheme) supported:",
+     "options": [
+      "MSMEs and businesses during COVID",
+      "Students",
+      "Farmers only",
+      "Healthcare workers"
+     ],
+     "answer": "A",
+     "explanation": "Collateral-free guaranteed credit for MSMEs/businesses during the pandemic."
+    },
+    {
+     "id": "nicl-3d9c5bc1b0",
+     "q": "PM Jan Dhan Yojana accounts provide accidental insurance cover of:",
+     "options": [
+      "₹1 lakh",
+      "₹50,000",
+      "₹2 lakh",
+      "₹5 lakh"
+     ],
+     "answer": "C",
+     "explanation": "PMJDY: ₹2 lakh accidental insurance cover + ₹30,000 life cover via RuPay card."
+    },
+    {
+     "id": "nicl-7a2580f2a9",
+     "q": "Ayushman Bharat PM-JAY was launched in:",
+     "options": [
+      "2019",
+      "2017",
+      "2020",
+      "2018"
+     ],
+     "answer": "D",
+     "explanation": "PM-JAY launched 23 Sep 2018 (Pandit Deendayal Upadhyaya Jayanti). World's largest health scheme."
+    },
+    {
+     "id": "nicl-3b447b3089",
+     "q": "The 'One Nation One Election' committee was headed by:",
+     "options": [
+      "Ravi Shankar Prasad",
+      "Justice DY Chandrachud",
+      "Justice NV Ramana",
+      "Ram Nath Kovind"
+     ],
+     "answer": "D",
+     "explanation": "Former President Ram Nath Kovind headed the High-Level Committee on simultaneous elections."
+    },
+    {
+     "id": "nicl-8b95a31bbf",
+     "q": "SEMICON India 2026 (5th edition) was held at:",
+     "options": [
+      "Gandhinagar",
+      "Yashobhoomi, New Delhi",
+      "Hyderabad",
+      "Bengaluru"
+     ],
+     "answer": "B",
+     "explanation": "SEMICON India 2026: 17 Sep at Yashobhoomi, New Delhi. Focus on semiconductor ecosystem."
+    },
+    {
+     "id": "nicl-465a3a36a3",
+     "q": "The 18th BRICS Summit declaration was called:",
+     "options": [
+      "BRICS New Delhi Declaration",
+      "Kazan Declaration",
+      "Brasilia Communiqué",
+      "Johannesburg Declaration"
+     ],
+     "answer": "A",
+     "explanation": "BRICS New Delhi Declaration 2026 covered global governance reform, Middle East, trade, and sustainability."
+    }
+   ]
+  },
+  {
+   "key": "nicl-static",
+   "name": "Static GK",
+   "group": "static",
+   "questions": [
+    {
+     "id": "nicl-048a8f296a",
+     "q": "SEBI was established in which year?",
+     "options": [
+      "1996",
+      "1988",
+      "1992",
+      "2000"
+     ],
+     "answer": "C",
+     "explanation": "SEBI est. 1988, statutory powers via SEBI Act 1992. HQ: Mumbai."
+    },
+    {
+     "id": "nicl-beb06115be",
+     "q": "World Bank is headquartered at:",
+     "options": [
+      "Washington DC",
+      "Geneva",
+      "New York",
+      "London"
+     ],
+     "answer": "A",
+     "explanation": "World Bank (IBRD + IDA) HQ: Washington DC."
+    },
+    {
+     "id": "nicl-f782dc5a74",
+     "q": "Imperial Bank of India was nationalised and renamed SBI in:",
+     "options": [
+      "1980",
+      "1947",
+      "1969",
+      "1955"
+     ],
+     "answer": "D",
+     "explanation": "Imperial Bank → SBI in 1955, the first nationalisation. 14 banks: 1969, 6 banks: 1980."
+    },
+    {
+     "id": "nicl-d9b51b2e82",
+     "q": "World Teachers' Day is observed on:",
+     "options": [
+      "5 October",
+      "14 November",
+      "1 May",
+      "5 September"
+     ],
+     "answer": "A",
+     "explanation": "World Teachers' Day: 5 October. In India, Teachers' Day is 5 Sep (Radhakrishnan birthday)."
+    },
+    {
+     "id": "nicl-6d02582fd4",
+     "q": "United Nations Day is observed on:",
+     "options": [
+      "14 November",
+      "1 January",
+      "24 October",
+      "10 October"
+     ],
+     "answer": "C",
+     "explanation": "UN Day: 24 October, marking the UN Charter coming into force in 1945."
+    },
+    {
+     "id": "nicl-619b9b4020",
+     "q": "Children's Day in India is observed on:",
+     "options": [
+      "5 September",
+      "1 November",
+      "14 November",
+      "20 November"
+     ],
+     "answer": "C",
+     "explanation": "14 November: Jawaharlal Nehru's birthday. World Children's Day is 20 November."
+    },
+    {
+     "id": "nicl-c6b64b63da",
+     "q": "Which boxer won gold in women's 75kg at the 2026 Asian Games?",
+     "options": [
+      "Nitu Ghanghas",
+      "Mary Kom",
+      "Lovlina Borgohain",
+      "Nikhat Zareen"
+     ],
+     "answer": "C",
+     "explanation": "Lovlina Borgohain won gold in women's 75kg boxing at Aichi-Nagoya."
+    },
+    {
+     "id": "nicl-194f715455",
+     "q": "India's men's hockey team beat which country in the 2026 Asian Games final?",
+     "options": [
+      "China",
+      "Malaysia",
+      "Pakistan",
+      "Japan"
+     ],
+     "answer": "B",
+     "explanation": "India defeated Malaysia 5–1 to retain the Asian Games hockey gold."
+    },
+    {
+     "id": "nicl-49ad5c837d",
+     "q": "The GST Council is chaired by:",
+     "options": [
+      "Union Finance Minister",
+      "CBIC Chairman",
+      "PM of India",
+      "RBI Governor"
+     ],
+     "answer": "A",
+     "explanation": "Union Finance Minister chairs the GST Council. State FMs are members."
+    },
+    {
+     "id": "nicl-eefc13341d",
+     "q": "The Nobel Prize in Economics was first awarded in:",
+     "options": [
+      "1901",
+      "1895",
+      "1969",
+      "1972"
+     ],
+     "answer": "C",
+     "explanation": "First awarded 1969 — established by Sweden's central bank (Sveriges Riksbank) in 1968."
+    },
+    {
+     "id": "nicl-d745b5185d",
+     "q": "Each 2026 Nobel Prize is worth:",
+     "options": [
+      "12M SEK",
+      "10M SEK",
+      "8M SEK",
+      "11M SEK"
+     ],
+     "answer": "A",
+     "explanation": "12 million Swedish kronor (~$1.2 million) per prize in 2026."
+    },
+    {
+     "id": "nicl-3c2e727919",
+     "q": "National Education Day (11 November) marks the birthday of:",
+     "options": [
+      "Mahatma Gandhi",
+      "APJ Abdul Kalam",
+      "Sarvepalli Radhakrishnan",
+      "Abul Kalam Azad"
+     ],
+     "answer": "D",
+     "explanation": "Maulana Abul Kalam Azad — India's first Education Minister."
+    },
+    {
+     "id": "nicl-bab68b7659",
+     "q": "India's rank in the 2026 Asian Games medal tally was:",
+     "options": [
+      "5th",
+      "2nd",
+      "4th",
+      "3rd"
+     ],
+     "answer": "C",
+     "explanation": "4th: China (1st), Japan (2nd), South Korea (3rd), India (4th)."
+    },
+    {
+     "id": "nicl-b786f0df60",
+     "q": "President Droupadi Murmu appointed governors for how many states on 12 Oct 2026?",
+     "options": [
+      "3",
+      "4",
+      "8",
+      "6"
+     ],
+     "answer": "D",
+     "explanation": "Six states, including Braj Mohan Ram (Odisha) and Dr Sudha Yadav (Karnataka)."
+    },
+    {
+     "id": "nicl-0501322d91",
+     "q": "India's women's hockey team won their first Asian Games gold since which year?",
+     "options": [
+      "1998",
+      "2002",
+      "1986",
+      "1982"
+     ],
+     "answer": "D",
+     "explanation": "First women's hockey gold since 1982 — 44-year gap. Beat China 1–0 in the final."
+    }
+   ]
+  },
+  {
+   "key": "nicl-ck-fundamentals",
+   "name": "Computer fundamentals",
+   "group": "computer",
+   "questions": [
+    {
+     "id": "nicl-f0585ca35c",
+     "q": "Which is NOT an input device?",
+     "options": [
+      "Monitor",
+      "Keyboard",
+      "Microphone",
+      "Scanner"
+     ],
+     "answer": "A",
+     "explanation": "Monitor is output. Keyboard, scanner, microphone are input devices."
+    },
+    {
+     "id": "nicl-e9bd8737e2",
+     "q": "RAM is volatile because it:",
+     "options": [
+      "Stores data permanently",
+      "Cannot be expanded",
+      "Loses data when power is off",
+      "Is slow"
+     ],
+     "answer": "C",
+     "explanation": "RAM (Random Access Memory) is volatile — data is lost when the computer shuts down."
+    },
+    {
+     "id": "nicl-099b738f9f",
+     "q": "Which memory is non-volatile?",
+     "options": [
+      "ROM",
+      "RAM",
+      "Register",
+      "Cache"
+     ],
+     "answer": "A",
+     "explanation": "ROM (Read Only Memory) retains data without power. EEPROM/Flash are also non-volatile."
+    },
+    {
+     "id": "nicl-2995f0cc50",
+     "q": "1 GB equals:",
+     "options": [
+      "1024 MB",
+      "1024 KB",
+      "1000 KB",
+      "1024 TB"
+     ],
+     "answer": "A",
+     "explanation": "1 GB = 1024 MB = 1,048,576 KB."
+    },
+    {
+     "id": "nicl-4ce033d561",
+     "q": "BIOS stands for:",
+     "options": [
+      "Binary Input Output System",
+      "Basic Input Output System",
+      "Built-in Operating Software",
+      "Basic Internal Operating System"
+     ],
+     "answer": "B",
+     "explanation": "BIOS: firmware that initialises hardware during boot. Now often replaced by UEFI."
+    },
+    {
+     "id": "nicl-8b7ff85a6c",
+     "q": "Third generation computers used:",
+     "options": [
+      "Microprocessors",
+      "Integrated Circuits (ICs)",
+      "Transistors",
+      "Vacuum tubes"
+     ],
+     "answer": "B",
+     "explanation": "1st: vacuum tubes, 2nd: transistors, 3rd: ICs (1964-71), 4th: microprocessors, 5th: AI/parallel."
+    },
+    {
+     "id": "nicl-5334cdc193",
+     "q": "ALU (Arithmetic Logic Unit) is part of:",
+     "options": [
+      "CPU",
+      "Hard disk",
+      "RAM",
+      "Monitor"
+     ],
+     "answer": "A",
+     "explanation": "ALU is inside the CPU — performs arithmetic and logical operations."
+    },
+    {
+     "id": "nicl-1c7a3a9eb9",
+     "q": "An interpreter translates code:",
+     "options": [
+      "Only loops",
+      "Only functions",
+      "One instruction at a time",
+      "Entire program at once"
+     ],
+     "answer": "C",
+     "explanation": "Interpreter: one line at a time. Compiler: entire program at once into machine code."
+    },
+    {
+     "id": "nicl-2a7af2d113",
+     "q": "SSD stands for:",
+     "options": [
+      "Solid System Disk",
+      "System Storage Device",
+      "Solid State Drive",
+      "Super Speed Disk"
+     ],
+     "answer": "C",
+     "explanation": "SSD uses flash memory, no moving parts — faster, more durable than HDD."
+    },
+    {
+     "id": "nicl-3152065d78",
+     "q": "The process of starting a computer is called:",
+     "options": [
+      "Debugging",
+      "Booting",
+      "Logging",
+      "Compiling"
+     ],
+     "answer": "B",
+     "explanation": "Booting: loading OS into memory. Cold boot = from off; warm boot = restart."
+    },
+    {
+     "id": "nicl-43e0896976",
+     "q": "Processor speed is measured in:",
+     "options": [
+      "Bytes",
+      "GHz",
+      "Bps",
+      "Watts"
+     ],
+     "answer": "B",
+     "explanation": "GHz (gigahertz) = billions of clock cycles per second."
+    },
+    {
+     "id": "nicl-7920330d9f",
+     "q": "Cache memory is used to:",
+     "options": [
+      "Speed up CPU access to frequently used data",
+      "Store permanent data",
+      "Back up hard drive",
+      "Connect to internet"
+     ],
+     "answer": "A",
+     "explanation": "Cache: small, fast memory between CPU and RAM storing frequently accessed data."
+    },
+    {
+     "id": "nicl-a881f81b74",
+     "q": "USB stands for:",
+     "options": [
+      "Unified System Bus",
+      "Universal System Byte",
+      "Ultra Speed Bus",
+      "Universal Serial Bus"
+     ],
+     "answer": "D",
+     "explanation": "USB: standard interface for connecting peripherals."
+    },
+    {
+     "id": "nicl-07cb9f200f",
+     "q": "GPU stands for:",
+     "options": [
+      "Graphics Processing Unit",
+      "Graphics Power Unit",
+      "Global Performance Utility",
+      "General Processing Unit"
+     ],
+     "answer": "A",
+     "explanation": "GPU: specialised processor for rendering graphics and parallel computation."
+    },
+    {
+     "id": "nicl-90fa8e0df6",
+     "q": "HDMI is used to connect:",
+     "options": [
+      "Printer",
+      "Display/Monitor",
+      "Hard disk",
+      "Network cable"
+     ],
+     "answer": "B",
+     "explanation": "HDMI (High-Definition Multimedia Interface): transmits video + audio digitally."
+    },
+    {
+     "id": "nicl-961c216562",
+     "q": "Binary number system uses base:",
+     "options": [
+      "2",
+      "16",
+      "10",
+      "8"
+     ],
+     "answer": "A",
+     "explanation": "Binary = base 2 (0,1). Octal = 8, Decimal = 10, Hexadecimal = 16."
+    },
+    {
+     "id": "nicl-9ce3fce033",
+     "q": "Which is a high-level programming language?",
+     "options": [
+      "Python",
+      "Microcode",
+      "Machine language",
+      "Assembly language"
+     ],
+     "answer": "A",
+     "explanation": "Python is high-level. Machine (binary) and assembly are low-level."
+    },
+    {
+     "id": "nicl-fb55470439",
+     "q": "An operating system is an example of:",
+     "options": [
+      "System software",
+      "Firmware",
+      "Malware",
+      "Application software"
+     ],
+     "answer": "A",
+     "explanation": "OS is system software managing hardware and providing services to applications."
+    },
+    {
+     "id": "nicl-796d558e85",
+     "q": "ASCII stands for:",
+     "options": [
+      "Automated Standard for Computer Instructions",
+      "Advanced System Code for Integration",
+      "American Standard Code for Information Interchange",
+      "American System for Coded Information"
+     ],
+     "answer": "C",
+     "explanation": "ASCII: 7-bit character encoding (128 characters). Extended ASCII uses 8 bits."
+    },
+    {
+     "id": "nicl-e679d293b7",
+     "q": "What does IoT stand for?",
+     "options": [
+      "Integrated Operating Tool",
+      "Internet of Things",
+      "Input of Technology",
+      "Internal Output Transfer"
+     ],
+     "answer": "B",
+     "explanation": "IoT: interconnected everyday devices communicating over the internet."
+    }
+   ]
+  },
+  {
+   "key": "nicl-ck-os",
+   "name": "Operating systems",
+   "group": "computer",
+   "questions": [
+    {
+     "id": "nicl-348f473ade",
+     "q": "Which is NOT an operating system?",
+     "options": [
+      "Windows",
+      "Oracle",
+      "macOS",
+      "Linux"
+     ],
+     "answer": "B",
+     "explanation": "Oracle is an RDBMS. Windows, Linux, macOS are operating systems."
+    },
+    {
+     "id": "nicl-d8d7215484",
+     "q": "Linux is an example of:",
+     "options": [
+      "Firmware",
+      "Proprietary software",
+      "Malware",
+      "Open-source software"
+     ],
+     "answer": "D",
+     "explanation": "Linux: open-source under GPL license. Source code freely available."
+    },
+    {
+     "id": "nicl-a95e61cd46",
+     "q": "The 'kernel' of an OS is:",
+     "options": [
+      "User interface",
+      "An application",
+      "A virus",
+      "Core component managing hardware resources"
+     ],
+     "answer": "D",
+     "explanation": "Kernel: core of OS managing memory, processes, devices, system calls."
+    },
+    {
+     "id": "nicl-5195541d49",
+     "q": "Windows uses which default file system?",
+     "options": [
+      "FAT16",
+      "NTFS",
+      "ext4",
+      "HFS+"
+     ],
+     "answer": "B",
+     "explanation": "NTFS (New Technology File System). ext4 = Linux, HFS+ = older macOS."
+    },
+    {
+     "id": "nicl-64ee693b8a",
+     "q": "Android OS is based on:",
+     "options": [
+      "macOS",
+      "Windows",
+      "Unix BSD",
+      "Linux kernel"
+     ],
+     "answer": "D",
+     "explanation": "Android built on Linux kernel, developed primarily by Google."
+    },
+    {
+     "id": "nicl-3ff11a5258",
+     "q": "Virtual memory uses part of which storage as extended RAM?",
+     "options": [
+      "Cache",
+      "USB drive",
+      "Hard disk/SSD",
+      "ROM"
+     ],
+     "answer": "C",
+     "explanation": "Virtual memory: uses disk page file/swap space when physical RAM is full."
+    },
+    {
+     "id": "nicl-07f999c56d",
+     "q": "UNIX was developed at:",
+     "options": [
+      "Microsoft",
+      "AT&T Bell Labs",
+      "Apple",
+      "IBM"
+     ],
+     "answer": "B",
+     "explanation": "UNIX: 1969 at AT&T Bell Labs by Ken Thompson and Dennis Ritchie."
+    },
+    {
+     "id": "nicl-8f70c3081a",
+     "q": "In Windows, Ctrl+Alt+Delete opens:",
+     "options": [
+      "File Explorer",
+      "Security screen/Task Manager",
+      "Control Panel",
+      "Settings"
+     ],
+     "answer": "B",
+     "explanation": "Ctrl+Alt+Delete: security screen. Ctrl+Shift+Esc: Task Manager directly."
+    },
+    {
+     "id": "nicl-4e4bfec61f",
+     "q": "GUI stands for:",
+     "options": [
+      "Graphical User Interface",
+      "Graphical Unified Input",
+      "General User Interface",
+      "Global Utility Integration"
+     ],
+     "answer": "A",
+     "explanation": "GUI: windows, icons, menus, pointers. Contrast with CLI (Command Line Interface)."
+    },
+    {
+     "id": "nicl-a2c78b1f55",
+     "q": "Multitasking means:",
+     "options": [
+      "Multiple monitors",
+      "Running multiple programs simultaneously",
+      "Using multiple computers",
+      "Multiple users"
+     ],
+     "answer": "B",
+     "explanation": "OS runs multiple programs concurrently by managing CPU time sharing."
+    }
+   ]
+  },
+  {
+   "key": "nicl-ck-office",
+   "name": "MS Office",
+   "group": "computer",
+   "questions": [
+    {
+     "id": "nicl-d0d0b88b59",
+     "q": "Ctrl + B in MS Word:",
+     "options": [
+      "Opens file",
+      "Creates bookmark",
+      "Inserts break",
+      "Bolds selected text"
+     ],
+     "answer": "D",
+     "explanation": "Ctrl+B: toggle bold. Ctrl+I: italic. Ctrl+U: underline."
+    },
+    {
+     "id": "nicl-24fa7ded56",
+     "q": "Default file extension for Word 2007+ is:",
+     "options": [
+      ".docx",
+      ".rtf",
+      ".doc",
+      ".txt"
+     ],
+     "answer": "A",
+     "explanation": ".docx (Office Open XML). Older format was .doc."
+    },
+    {
+     "id": "nicl-def5cbd5ca",
+     "q": "=AVERAGE() in Excel calculates:",
+     "options": [
+      "Maximum",
+      "Sum",
+      "Count",
+      "Arithmetic mean"
+     ],
+     "answer": "D",
+     "explanation": "=AVERAGE(range) returns the arithmetic mean. No built-in MEAN() in Excel."
+    },
+    {
+     "id": "nicl-776c606b21",
+     "q": "Cell address 'B5' means:",
+     "options": [
+      "Sheet B, Cell 5",
+      "Block B, Line 5",
+      "Column B, Row 5",
+      "Row B, Column 5"
+     ],
+     "answer": "C",
+     "explanation": "Letter = column, number = row. B5 = Column B, Row 5."
+    },
+    {
+     "id": "nicl-3b07c9ec48",
+     "q": "Ctrl + ; in Excel inserts:",
+     "options": [
+      "Comment",
+      "Current time",
+      "Current date",
+      "Formula"
+     ],
+     "answer": "C",
+     "explanation": "Ctrl+; = today's date. Ctrl+Shift+; = current time."
+    },
+    {
+     "id": "nicl-29c9500b7c",
+     "q": "=VLOOKUP() stands for:",
+     "options": [
+      "Visual Lookup",
+      "Variable Lookup",
+      "Value Lookup",
+      "Vertical Lookup"
+     ],
+     "answer": "D",
+     "explanation": "Searches first column of a range, returns a value from a specified column in the same row."
+    },
+    {
+     "id": "nicl-e7e463452b",
+     "q": "'$A$1' in Excel is an example of:",
+     "options": [
+      "Mixed reference",
+      "Relative reference",
+      "Absolute reference",
+      "Circular reference"
+     ],
+     "answer": "C",
+     "explanation": "$A$1 = absolute (both locked). A1 = relative. $A1 or A$1 = mixed."
+    },
+    {
+     "id": "nicl-74749220e1",
+     "q": "Max rows in Excel 2007+ worksheet:",
+     "options": [
+      "16,384",
+      "1,048,576",
+      "65,536",
+      "256"
+     ],
+     "answer": "B",
+     "explanation": "1,048,576 rows × 16,384 columns. Older: 65,536 × 256."
+    },
+    {
+     "id": "nicl-894ec21a03",
+     "q": "F5 in PowerPoint:",
+     "options": [
+      "Opens new slide",
+      "Starts slideshow from beginning",
+      "Saves file",
+      "Prints"
+     ],
+     "answer": "B",
+     "explanation": "F5: slideshow from slide 1. Shift+F5: from current slide."
+    },
+    {
+     "id": "nicl-fa3c71c02a",
+     "q": "Ctrl + Z is used for:",
+     "options": [
+      "Close",
+      "Undo",
+      "Find",
+      "Zoom"
+     ],
+     "answer": "B",
+     "explanation": "Ctrl+Z = Undo. Ctrl+Y = Redo."
+    },
+    {
+     "id": "nicl-59ba034a77",
+     "q": "Mail Merge in Word is found under which tab?",
+     "options": [
+      "Home",
+      "Review",
+      "Mailings",
+      "Insert"
+     ],
+     "answer": "C",
+     "explanation": "Mailings tab contains Start Mail Merge, Select Recipients, Insert Merge Field, etc."
+    },
+    {
+     "id": "nicl-c3a6a50249",
+     "q": "=COUNT() in Excel counts:",
+     "options": [
+      "Only text cells",
+      "All cells",
+      "Only cells with numbers",
+      "Empty cells"
+     ],
+     "answer": "C",
+     "explanation": "COUNT: numeric cells. COUNTA: non-empty. COUNTBLANK: empty cells."
+    },
+    {
+     "id": "nicl-e39a410493",
+     "q": "Ctrl + N in Excel creates a:",
+     "options": [
+      "New worksheet",
+      "New chart",
+      "New row",
+      "New workbook"
+     ],
+     "answer": "D",
+     "explanation": "Ctrl+N = New workbook. Ctrl+O = Open. Ctrl+S = Save. Ctrl+W = Close."
+    },
+    {
+     "id": "nicl-85772dc412",
+     "q": "Print Layout view in Word shows:",
+     "options": [
+      "Web format",
+      "Outline only",
+      "Only text",
+      "Document as it will print"
+     ],
+     "answer": "D",
+     "explanation": "Print Layout: headers, footers, margins — exact printed output."
+    },
+    {
+     "id": "nicl-cc1c9f5ee3",
+     "q": "PowerPoint file extension is:",
+     "options": [
+      ".docx",
+      ".xlsx",
+      ".pptx",
+      ".pdf"
+     ],
+     "answer": "C",
+     "explanation": ".pptx since Office 2007. Older format was .ppt."
+    },
+    {
+     "id": "nicl-573093a587",
+     "q": "=IF() function in Excel is used for:",
+     "options": [
+      "Sorting",
+      "Formatting",
+      "Counting",
+      "Conditional logic"
+     ],
+     "answer": "D",
+     "explanation": "=IF(condition, value_if_true, value_if_false). Most-used logical function."
+    },
+    {
+     "id": "nicl-554aa95038",
+     "q": "Ctrl + P is used to:",
+     "options": [
+      "Open properties",
+      "Insert page break",
+      "Print",
+      "Paste"
+     ],
+     "answer": "C",
+     "explanation": "Ctrl+P = Print dialog in all Office apps."
+    },
+    {
+     "id": "nicl-69a9209af8",
+     "q": "Which function joins text from multiple cells in Excel?",
+     "options": [
+      "=LEFT()",
+      "=SUM()",
+      "=CONCATENATE() / =CONCAT()",
+      "=AVERAGE()"
+     ],
+     "answer": "C",
+     "explanation": "CONCATENATE or CONCAT joins text strings. Also & operator: =A1&B1."
+    },
+    {
+     "id": "nicl-8c364d3b60",
+     "q": "Ctrl + F is used to:",
+     "options": [
+      "Font change",
+      "Format",
+      "Footer",
+      "Find"
+     ],
+     "answer": "D",
+     "explanation": "Ctrl+F = Find. Ctrl+H = Find & Replace."
+    },
+    {
+     "id": "nicl-9780caf7f5",
+     "q": "In Excel, what does '#VALUE!' error mean?",
+     "options": [
+      "Division by zero",
+      "Wrong value type in formula",
+      "File corrupt",
+      "Cell reference missing"
+     ],
+     "answer": "B",
+     "explanation": "#VALUE! = wrong data type (e.g., text where number expected). #DIV/0! = division by zero. #REF! = invalid reference."
+    }
+   ]
+  },
+  {
+   "key": "nicl-ck-networking",
+   "name": "Networking & internet",
+   "group": "computer",
+   "questions": [
+    {
+     "id": "nicl-0d04e3b54e",
+     "q": "HTTP stands for:",
+     "options": [
+      "High Tech Transfer Protocol",
+      "Home Tool Transfer Protocol",
+      "Hyper Text Transfer Protocol",
+      "Hyper Transfer Text Program"
+     ],
+     "answer": "C",
+     "explanation": "HTTP: protocol for transmitting web pages. HTTPS adds SSL/TLS encryption."
+    },
+    {
+     "id": "nicl-69be802722",
+     "q": "An IP address uniquely identifies:",
+     "options": [
+      "A website name",
+      "An email",
+      "A device on a network",
+      "A file"
+     ],
+     "answer": "C",
+     "explanation": "IP (Internet Protocol) address: unique identifier for each network device."
+    },
+    {
+     "id": "nicl-cccd43157d",
+     "q": "SMTP is used for:",
+     "options": [
+      "Database queries",
+      "Sending emails",
+      "File transfer",
+      "Web browsing"
+     ],
+     "answer": "B",
+     "explanation": "SMTP = Simple Mail Transfer Protocol (sending). POP3/IMAP = receiving."
+    },
+    {
+     "id": "nicl-0694f7d5e9",
+     "q": "DNS translates:",
+     "options": [
+      "Domain names to IP addresses",
+      "Files to folders",
+      "Audio to text",
+      "Code to machine language"
+     ],
+     "answer": "A",
+     "explanation": "DNS = Domain Name System. google.com → 142.250.x.x."
+    },
+    {
+     "id": "nicl-f8a8cfc7a2",
+     "q": "A Router connects:",
+     "options": [
+      "Monitor to CPU",
+      "Multiple networks and routes data packets",
+      "Keyboard to CPU",
+      "Printer to network"
+     ],
+     "answer": "B",
+     "explanation": "Router: routes packets between networks using IP addresses. Switch: within a LAN."
+    },
+    {
+     "id": "nicl-57a89f2f55",
+     "q": "Star topology connects all devices to a:",
+     "options": [
+      "Ring",
+      "Single cable",
+      "Central hub/switch",
+      "Each other"
+     ],
+     "answer": "C",
+     "explanation": "Star: all nodes → central hub. Bus: single cable. Ring: circular. Mesh: all-to-all."
+    },
+    {
+     "id": "nicl-06ad70188c",
+     "q": "Phishing is:",
+     "options": [
+      "Hardware failure",
+      "An OS feature",
+      "A virus",
+      "Cyber fraud via fake emails/websites to steal data"
+     ],
+     "answer": "D",
+     "explanation": "Social engineering attack impersonating trusted entities to steal passwords/card details."
+    },
+    {
+     "id": "nicl-0fbf5f8f33",
+     "q": "A Firewall protects a network by:",
+     "options": [
+      "Monitoring and controlling traffic based on security rules",
+      "Compressing files",
+      "Speeding up internet",
+      "Storing data"
+     ],
+     "answer": "A",
+     "explanation": "Firewall: monitors incoming/outgoing traffic, blocks unauthorised access."
+    },
+    {
+     "id": "nicl-ed90066fa7",
+     "q": "FTP stands for:",
+     "options": [
+      "File Text Program",
+      "File Transfer Protocol",
+      "Fast Text Processing",
+      "Folder Transfer Path"
+     ],
+     "answer": "B",
+     "explanation": "FTP: transfers files between client and server over a network."
+    },
+    {
+     "id": "nicl-734b5b6336",
+     "q": "HTTPS provides security through:",
+     "options": [
+      "Larger bandwidth",
+      "Better DNS",
+      "Faster servers",
+      "SSL/TLS encryption"
+     ],
+     "answer": "D",
+     "explanation": "HTTPS = HTTP + SSL/TLS. Encrypts data between browser and server."
+    },
+    {
+     "id": "nicl-db727fdcb3",
+     "q": "Ransomware is malware that:",
+     "options": [
+      "Updates OS",
+      "Speeds up PC",
+      "Repairs data",
+      "Encrypts files and demands payment"
+     ],
+     "answer": "D",
+     "explanation": "Encrypts victim's files, demands ransom (often cryptocurrency) for decryption key."
+    },
+    {
+     "id": "nicl-0ca14a12bb",
+     "q": "OSI model has how many layers?",
+     "options": [
+      "4",
+      "7",
+      "6",
+      "5"
+     ],
+     "answer": "B",
+     "explanation": "7: Physical, Data Link, Network, Transport, Session, Presentation, Application."
+    },
+    {
+     "id": "nicl-e78143393c",
+     "q": "The Network layer (Layer 3) handles:",
+     "options": [
+      "Physical signals",
+      "Routing and IP addressing",
+      "Encryption",
+      "Email"
+     ],
+     "answer": "B",
+     "explanation": "Layer 3: routing, forwarding, IP addressing. Layer 4: Transport (TCP/UDP)."
+    },
+    {
+     "id": "nicl-82db768c0e",
+     "q": "VPN stands for:",
+     "options": [
+      "Verified Public Network",
+      "Variable Protocol Network",
+      "Virtual Private Network",
+      "Visual Processing Node"
+     ],
+     "answer": "C",
+     "explanation": "VPN: encrypted tunnel over public network for private, secure communication."
+    },
+    {
+     "id": "nicl-7b876f7330",
+     "q": "URL stands for:",
+     "options": [
+      "Uniform Resource Locator",
+      "Universal Resource Locator",
+      "Uniform Reference Locator",
+      "United Reference Link"
+     ],
+     "answer": "A",
+     "explanation": "URL = Uniform Resource Locator — the address of a web resource."
+    },
+    {
+     "id": "nicl-3fc59c0837",
+     "q": "ISP stands for:",
+     "options": [
+      "Integrated Service Platform",
+      "Internet Security Program",
+      "Internet Service Provider",
+      "Internal System Protocol"
+     ],
+     "answer": "C",
+     "explanation": "ISP: company providing internet access (Jio, Airtel, BSNL, etc.)."
+    },
+    {
+     "id": "nicl-0335a9cad7",
+     "q": "LAN covers:",
+     "options": [
+      "The whole internet",
+      "A small area like a building/campus",
+      "A city",
+      "Entire country"
+     ],
+     "answer": "B",
+     "explanation": "LAN = Local Area Network. WAN = Wide Area Network (country/global). MAN = Metropolitan."
+    },
+    {
+     "id": "nicl-3f0ec0f0ee",
+     "q": "Two-Factor Authentication (2FA) uses:",
+     "options": [
+      "Two accounts",
+      "Two different verification methods",
+      "Two logins",
+      "Two passwords"
+     ],
+     "answer": "B",
+     "explanation": "2FA: e.g., password + OTP, or password + biometric. Enhances security."
+    },
+    {
+     "id": "nicl-1e6c722b25",
+     "q": "'Cloud Computing' means:",
+     "options": [
+      "A type of virus",
+      "Accessing data/services over the internet on demand",
+      "Computing in the sky",
+      "Local storage only"
+     ],
+     "answer": "B",
+     "explanation": "Delivers computing services (storage, servers, databases) over the internet. Examples: AWS, Azure, GCP."
+    },
+    {
+     "id": "nicl-4d2178153d",
+     "q": "SaaS stands for:",
+     "options": [
+      "Software Architecture System",
+      "System and Application Storage",
+      "Software as a Service",
+      "Secure Access and Support"
+     ],
+     "answer": "C",
+     "explanation": "SaaS (Gmail, Office 365). PaaS = Platform. IaaS = Infrastructure."
+    }
+   ]
+  },
+  {
+   "key": "nicl-ck-dbms",
+   "name": "DBMS & miscellaneous",
+   "group": "computer",
+   "questions": [
+    {
+     "id": "nicl-ee2851a863",
+     "q": "SQL stands for:",
+     "options": [
+      "Structured Query Language",
+      "System Query Logic",
+      "Standard Quick Lookup",
+      "Simple Question Language"
+     ],
+     "answer": "A",
+     "explanation": "SQL: manages and queries relational databases."
+    },
+    {
+     "id": "nicl-f96e26e4bb",
+     "q": "A Primary Key in a database:",
+     "options": [
+      "Stores images only",
+      "Can be NULL",
+      "Uniquely identifies each row, cannot be NULL or duplicate",
+      "Is optional"
+     ],
+     "answer": "C",
+     "explanation": "Primary key: unique, non-null identifier for each record in a table."
+    },
+    {
+     "id": "nicl-e5eec892e5",
+     "q": "SELECT in SQL is used to:",
+     "options": [
+      "Delete rows",
+      "Insert rows",
+      "Update rows",
+      "Retrieve data"
+     ],
+     "answer": "D",
+     "explanation": "SELECT: retrieves data. INSERT: adds. UPDATE: modifies. DELETE: removes."
+    },
+    {
+     "id": "nicl-7525a2e1bc",
+     "q": "AWS stands for:",
+     "options": [
+      "Amazon Web Services",
+      "Advanced Web System",
+      "Automated Wireless System",
+      "Application Web Server"
+     ],
+     "answer": "A",
+     "explanation": "AWS: largest cloud provider. Others: Microsoft Azure, Google Cloud Platform."
+    },
+    {
+     "id": "nicl-d339b8db36",
+     "q": "PDF stands for:",
+     "options": [
+      "Print Document Folder",
+      "Portable Document Format",
+      "Program Definition File",
+      "Personal Data File"
+     ],
+     "answer": "B",
+     "explanation": "PDF: developed by Adobe for device-independent document sharing."
+    },
+    {
+     "id": "nicl-0e43778e1e",
+     "q": "An Algorithm is:",
+     "options": [
+      "A type of hardware",
+      "A step-by-step procedure to solve a problem",
+      "A programming language",
+      "A network protocol"
+     ],
+     "answer": "B",
+     "explanation": "Finite, ordered set of well-defined instructions for solving a computational problem."
+    },
+    {
+     "id": "nicl-ad18a3c3b7",
+     "q": "Blockchain is primarily:",
+     "options": [
+      "Word processor",
+      "Image editor",
+      "Decentralised, tamper-proof distributed ledger",
+      "Email service"
+     ],
+     "answer": "C",
+     "explanation": "Blockchain: immutable distributed ledger — basis of cryptocurrencies and decentralised applications."
+    },
+    {
+     "id": "nicl-8470061237",
+     "q": "Mozilla Firefox is an example of:",
+     "options": [
+      "Proprietary browser",
+      "Operating system",
+      "Open-source browser",
+      "Database"
+     ],
+     "answer": "C",
+     "explanation": "Firefox: open-source (Mozilla Public License). Chrome, Edge, Safari are proprietary."
+    },
+    {
+     "id": "nicl-78c5c107df",
+     "q": "AI stands for:",
+     "options": [
+      "Advanced Interface",
+      "Automated Integration",
+      "Application Installer",
+      "Artificial Intelligence"
+     ],
+     "answer": "D",
+     "explanation": "AI: machines simulating human intelligence — learning, reasoning, problem-solving."
+    },
+    {
+     "id": "nicl-719f7a1954",
+     "q": "'Deepfake' technology uses AI to:",
+     "options": [
+      "Improve Wi-Fi",
+      "Encrypt files",
+      "Create realistic fake videos/images of people",
+      "Speed up computers"
+     ],
+     "answer": "C",
+     "explanation": "Deepfakes use deep learning to generate convincing fake media — a growing cybersecurity concern."
+    }
+   ]
+  }
+ ]
+}

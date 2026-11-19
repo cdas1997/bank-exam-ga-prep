@@ -12,6 +12,7 @@
     "test": "vitest run",
     "bank": "python3 scripts/build_bank.py && python3 scripts/build_pdfs.py ibps-po",
     "bank:sbi": "python3 scripts/build_sbi_bank.py && python3 scripts/build_pdfs.py sbi-clerk",
+    "bank:nicl": "python3 scripts/build_nicl_bank.py && python3 scripts/build_pdfs.py nicl",
     "artifact": "vite build && python3 scripts/make_artifact.py",
     "pdf": "python3 scripts/build_pdfs.py"
   },

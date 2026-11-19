@@ -1,0 +1,2806 @@
+{
+ "source": "claude.ai artifact \"NICL Assistant Mains 2026\" (KtsezzDEYykmnmXfgL55wQ), version 1792764208-8b73, imported as-is on 19 Nov 2026",
+ "exam": "2026-10-30",
+ "questions": [
+  {
+   "id": 1,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "Who is the current RBI Governor (October 2026)?",
+   "o": [
+    "Shaktikanta Das",
+    "Sanjay Malhotra",
+    "Urjit Patel",
+    "Raghuram Rajan"
+   ],
+   "a": 1,
+   "e": "Sanjay Malhotra took charge as the 26th RBI Governor in December 2025."
+  },
+  {
+   "id": 2,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "The repo rate after the October 2026 MPC meeting is:",
+   "o": [
+    "5.25%",
+    "5.50%",
+    "5.75%",
+    "6.00%"
+   ],
+   "a": 1,
+   "e": "MPC hiked by 25 bps to 5.50% on 7 Oct 2026 — first hike since Feb 2023."
+  },
+  {
+   "id": 3,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "After the Oct 2026 hike, the RBI's monetary policy stance is:",
+   "o": [
+    "Accommodative",
+    "Neutral",
+    "Calibrated Tightening",
+    "Withdrawal of Accommodation"
+   ],
+   "a": 2,
+   "e": "Stance shifted from neutral to 'calibrated tightening'. Two external members dissented on the stance change."
+  },
+  {
+   "id": 4,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "The MSF rate after Oct 2026 policy is:",
+   "o": [
+    "5.25%",
+    "5.50%",
+    "5.75%",
+    "6.00%"
+   ],
+   "a": 2,
+   "e": "MSF = repo + 25 bps = 5.75%. Bank Rate is also 5.75%."
+  },
+  {
+   "id": 5,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "The Standing Deposit Facility (SDF) rate after Oct 2026 is:",
+   "o": [
+    "5.00%",
+    "5.25%",
+    "5.50%",
+    "4.75%"
+   ],
+   "a": 1,
+   "e": "SDF = repo – 25 bps = 5.25%."
+  },
+  {
+   "id": 6,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "RBI's revised FY27 GDP growth forecast (Oct 2026) is:",
+   "o": [
+    "6.6%",
+    "6.8%",
+    "7.1%",
+    "7.4%"
+   ],
+   "a": 2,
+   "e": "RBI raised FY27 GDP to 7.1% in Oct 2026. Earlier (June) it was 6.6%."
+  },
+  {
+   "id": 7,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "RBI's revised CPI inflation projection for FY27 (Oct 2026) is:",
+   "o": [
+    "4.8%",
+    "5.0%",
+    "5.2%",
+    "5.5%"
+   ],
+   "a": 2,
+   "e": "CPI inflation projection raised to 5.2% from 5.1% (June estimate)."
+  },
+  {
+   "id": 8,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "India's retail inflation (CPI) for September 2026 was:",
+   "o": [
+    "4.83%",
+    "5.10%",
+    "5.54%",
+    "6.01%"
+   ],
+   "a": 2,
+   "e": "Sep 2026 CPI came in at 5.54%, above the RBI's 4±2% target band."
+  },
+  {
+   "id": 9,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "The next RBI MPC meeting after October 2026 is scheduled for:",
+   "o": [
+    "November 2026",
+    "December 2–4, 2026",
+    "January 2027",
+    "February 2027"
+   ],
+   "a": 1,
+   "e": "Next MPC meeting: 2–4 December 2026."
+  },
+  {
+   "id": 10,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "The MPC has how many members?",
+   "o": [
+    "3",
+    "4",
+    "6",
+    "9"
+   ],
+   "a": 2,
+   "e": "6 members: 3 from RBI (Governor as chair) + 3 external members appointed by Government."
+  },
+  {
+   "id": 11,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "India's inflation target under the flexible inflation targeting framework is:",
+   "o": [
+    "2% ± 1%",
+    "4% ± 2%",
+    "5% ± 1%",
+    "3% ± 2%"
+   ],
+   "a": 1,
+   "e": "CPI target: 4% with ±2% band (2% to 6%), set under the RBI Act amendment."
+  },
+  {
+   "id": 12,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "The repo rate before the Oct 2026 hike was kept at 5.25% after cumulative cuts of how many bps from Feb 2025?",
+   "o": [
+    "75 bps",
+    "100 bps",
+    "125 bps",
+    "150 bps"
+   ],
+   "a": 2,
+   "e": "Cuts: 25 bps (Feb 2025) + 50 bps (Apr 2025) + 25 bps (Jun 2025) + 25 bps (Aug 2025) = 125 bps total, from 6.50% to 5.25%."
+  },
+  {
+   "id": 13,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "Cash Reserve Ratio (CRR) as of 2026 is:",
+   "o": [
+    "3.5%",
+    "4.0%",
+    "4.5%",
+    "5.0%"
+   ],
+   "a": 1,
+   "e": "CRR was cut to 4.0% from 4.5% in Dec 2024. Banks deposit this % of NDTL with RBI."
+  },
+  {
+   "id": 14,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "Statutory Liquidity Ratio (SLR) as of 2026 is:",
+   "o": [
+    "16%",
+    "17%",
+    "18%",
+    "19%"
+   ],
+   "a": 2,
+   "e": "SLR is 18%. Banks hold 18% of NDTL in gold, cash, or approved government securities."
+  },
+  {
+   "id": 15,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "DICGC insures bank deposits up to:",
+   "o": [
+    "₹1 lakh",
+    "₹3 lakh",
+    "₹5 lakh",
+    "₹10 lakh"
+   ],
+   "a": 2,
+   "e": "DICGC (subsidiary of RBI) covers deposits up to ₹5 lakh per depositor per bank since 2020."
+  },
+  {
+   "id": 16,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "The 18th BRICS Summit 2026 was held at:",
+   "o": [
+    "Cape Town",
+    "Kazan, Russia",
+    "Bharat Mandapam, New Delhi",
+    "Beijing"
+   ],
+   "a": 2,
+   "e": "18th BRICS Summit: 12–13 Sep 2026 at Bharat Mandapam, New Delhi. Theme: 'Building for Resilience, Innovation, Cooperation and Sustainability.'"
+  },
+  {
+   "id": 17,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "BRICS now has how many full member nations (2026)?",
+   "o": [
+    "5",
+    "9",
+    "10",
+    "11"
+   ],
+   "a": 3,
+   "e": "11 members: Brazil, Russia, India, China, South Africa + Egypt, Ethiopia, Indonesia, Iran, Saudi Arabia, UAE."
+  },
+  {
+   "id": 18,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "The 2026 Nobel Prize in Physics was awarded to Francis Halzen for:",
+   "o": [
+    "Quantum computing",
+    "IceCube Neutrino Observatory",
+    "Dark matter",
+    "Gravitational waves"
+   ],
+   "a": 1,
+   "e": "Halzen won for high-energy astrophysical neutrino detection via the IceCube Observatory at the South Pole."
+  },
+  {
+   "id": 19,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "The 2026 Nobel Prize in Chemistry was awarded to Kagan and Soai for:",
+   "o": [
+    "CRISPR gene editing",
+    "Asymmetric organic synthesis",
+    "Quantum dots",
+    "Lithium-ion batteries"
+   ],
+   "a": 1,
+   "e": "Henri B. Kagan and Kenso Soai won for non-linear effects and autocatalysis in asymmetric organic synthesis."
+  },
+  {
+   "id": 20,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "The 2026 Nobel Peace Prize was awarded to:",
+   "o": [
+    "UNHCR",
+    "Navanethem 'Navi' Pillay",
+    "Volodymyr Zelenskyy",
+    "UNICEF"
+   ],
+   "a": 1,
+   "e": "South African jurist Navi Pillay won for efforts to promote peace and international law."
+  },
+  {
+   "id": 21,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "The 2026 Nobel Prize in Literature was awarded to:",
+   "o": [
+    "Haruki Murakami",
+    "Anne Carson",
+    "Salman Rushdie",
+    "Jon Fosse"
+   ],
+   "a": 1,
+   "e": "Canadian poet and essayist Anne Carson received the 2026 Literature prize."
+  },
+  {
+   "id": 22,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "The 2026 Nobel Prize in Economics was won by Robert Hall and Michael Woodford for:",
+   "o": [
+    "Auction theory",
+    "Microeconomic foundations of macroeconomic stabilisation",
+    "Behavioural economics",
+    "Poverty research"
+   ],
+   "a": 1,
+   "e": "Both American economists; prize worth 12 million SEK. Announced 12 Oct 2026."
+  },
+  {
+   "id": 23,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "The 2026 Nobel Prize in Medicine was awarded for research on:",
+   "o": [
+    "mRNA vaccines",
+    "Optogenetics",
+    "Cancer immunotherapy",
+    "Hepatitis C"
+   ],
+   "a": 1,
+   "e": "Karl Deisseroth, Peter Hegemann and Georg Nagel won for pioneering work on optogenetics."
+  },
+  {
+   "id": 24,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "The 2026 Asian Games were held in:",
+   "o": [
+    "Hangzhou, China",
+    "Aichi-Nagoya, Japan",
+    "Doha, Qatar",
+    "Riyadh"
+   ],
+   "a": 1,
+   "e": "20th Asian Games: Aichi-Nagoya, Japan, 19 Sep – 4 Oct 2026."
+  },
+  {
+   "id": 25,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "India's total medal count at the 2026 Asian Games was:",
+   "o": [
+    "71",
+    "85",
+    "95",
+    "107"
+   ],
+   "a": 1,
+   "e": "India finished 4th with 85 medals (21 gold, 27 silver, 37 bronze)."
+  },
+  {
+   "id": 26,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "Which country topped the 2026 Asian Games medal tally?",
+   "o": [
+    "Japan",
+    "South Korea",
+    "China",
+    "India"
+   ],
+   "a": 2,
+   "e": "China topped for the 12th consecutive edition: 169 gold, 341 total."
+  },
+  {
+   "id": 27,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "India's women's hockey team won Asian Games gold after how many years?",
+   "o": [
+    "20",
+    "32",
+    "44",
+    "Never won before"
+   ],
+   "a": 2,
+   "e": "Women's hockey beat China 1–0 for gold — first since 1982 (44 years)."
+  },
+  {
+   "id": 28,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "India's first athletics gold at the 2026 Asian Games came from:",
+   "o": [
+    "Neeraj Chopra",
+    "Women's 4×400m relay",
+    "Men's marathon",
+    "Hima Das"
+   ],
+   "a": 1,
+   "e": "The women's 4×400m relay team won India's first athletics gold at Aichi-Nagoya."
+  },
+  {
+   "id": 29,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "Who has been named next MD & CEO of HDFC Bank (from 27 Oct 2026)?",
+   "o": [
+    "Sashidhar Jagdishan",
+    "Anup Bagchi",
+    "Aditya Puri",
+    "Kaizad Bharucha"
+   ],
+   "a": 1,
+   "e": "Board chose Anup Bagchi for 3 years, pending RBI approval, succeeding Sashidhar Jagdishan."
+  },
+  {
+   "id": 30,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "The 57th GST Council meeting (Oct 2026) raised the prosecution threshold to:",
+   "o": [
+    "₹1 crore",
+    "₹2 crore",
+    "₹5 crore",
+    "₹10 crore"
+   ],
+   "a": 2,
+   "e": "57th GST Council (8 Oct, chaired by FM Sitharaman) raised prosecution threshold to ₹5 crore and removed arrest powers for tax officers."
+  },
+  {
+   "id": 31,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "Indian Air Force Day is celebrated on:",
+   "o": [
+    "1 October",
+    "8 October",
+    "15 October",
+    "26 January"
+   ],
+   "a": 1,
+   "e": "IAF Day: 8 October, marking IAF's founding in 1932. 2026 was the 94th IAF Day."
+  },
+  {
+   "id": 32,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "NHRC Foundation Day is observed on:",
+   "o": [
+    "2 October",
+    "12 October",
+    "14 November",
+    "26 November"
+   ],
+   "a": 1,
+   "e": "NHRC was established 12 Oct 1993. 33rd Foundation Day celebrated on 12 Oct 2026."
+  },
+  {
+   "id": 33,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "Gandhi Jayanti (2 October) is also observed internationally as:",
+   "o": [
+    "World Peace Day",
+    "International Day of Non-Violence",
+    "World Health Day",
+    "UN Day"
+   ],
+   "a": 1,
+   "e": "The UN declared 2 Oct as International Day of Non-Violence in 2007 in honour of Mahatma Gandhi."
+  },
+  {
+   "id": 34,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "National Unity Day (31 October) marks the birth anniversary of:",
+   "o": [
+    "Mahatma Gandhi",
+    "Jawaharlal Nehru",
+    "Sardar Vallabhbhai Patel",
+    "B.R. Ambedkar"
+   ],
+   "a": 2,
+   "e": "Rashtriya Ekta Diwas (31 Oct) honours Sardar Patel's birthday — he unified 562 princely states."
+  },
+  {
+   "id": 35,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "Constitution Day is observed on:",
+   "o": [
+    "15 August",
+    "26 November",
+    "26 January",
+    "14 November"
+   ],
+   "a": 1,
+   "e": "26 Nov: Constituent Assembly adopted the Constitution in 1949. Republic Day (26 Jan) is when it came into effect in 1950."
+  },
+  {
+   "id": 36,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "World Food Day is observed on:",
+   "o": [
+    "5 October",
+    "16 October",
+    "24 October",
+    "1 November"
+   ],
+   "a": 1,
+   "e": "World Food Day: 16 October, marking FAO's founding in 1945."
+  },
+  {
+   "id": 37,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "Lavanya R Mundayur was appointed CMD of which insurance company in Sep 2026?",
+   "o": [
+    "NICL",
+    "Oriental Insurance",
+    "New India Assurance",
+    "United India Insurance"
+   ],
+   "a": 2,
+   "e": "Mundayur became CMD of New India Assurance on 30 Sep 2026, tenure till May 2029."
+  },
+  {
+   "id": 38,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "The Digital Personal Data Protection (DPDP) Act was enacted in India in:",
+   "o": [
+    "2022",
+    "2023",
+    "2024",
+    "2025"
+   ],
+   "a": 1,
+   "e": "DPDP Act passed by Parliament in Aug 2023."
+  },
+  {
+   "id": 39,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "Chandrayaan-3 successfully landed on the Moon's south pole on:",
+   "o": [
+    "14 July 2023",
+    "23 August 2023",
+    "15 September 2023",
+    "2 October 2023"
+   ],
+   "a": 1,
+   "e": "Chandrayaan-3's Vikram lander soft-landed on 23 Aug 2023, making India the 4th country to land on the Moon."
+  },
+  {
+   "id": 40,
+   "s": "GA",
+   "cat": "Current Affairs",
+   "q": "The Unified Pension Scheme (UPS) announced in Aug 2024 guarantees what % of average basic pay?",
+   "o": [
+    "30%",
+    "40%",
+    "50%",
+    "60%"
+   ],
+   "a": 2,
+   "e": "UPS guarantees 50% of the average basic pay of last 12 months for 25+ years of service."
+  },
+  {
+   "id": 41,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "IRDAI is headquartered at:",
+   "o": [
+    "Mumbai",
+    "New Delhi",
+    "Hyderabad",
+    "Chennai"
+   ],
+   "a": 2,
+   "e": "IRDAI HQ: Hyderabad, Telangana. Established under IRDAI Act 1999."
+  },
+  {
+   "id": 42,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "Who is the current Chairman of IRDAI (Oct 2026)?",
+   "o": [
+    "Debasish Panda",
+    "Ajay Seth",
+    "Subhash Chandra Khuntia",
+    "SVVS Murthi"
+   ],
+   "a": 1,
+   "e": "Ajay Seth appointed IRDAI Chairman succeeding Debasish Panda. Chaired the 134th meeting in Mar 2026."
+  },
+  {
+   "id": 43,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "The Insurance Act was originally enacted in:",
+   "o": [
+    "1938",
+    "1956",
+    "1972",
+    "1999"
+   ],
+   "a": 0,
+   "e": "Insurance Act 1938 is the foundational legislation. IRDAI Act came in 1999."
+  },
+  {
+   "id": 44,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "The Sabka Bima Sabki Raksha Act 2025 raised the FDI limit in insurance to:",
+   "o": [
+    "49%",
+    "74%",
+    "100%",
+    "51%"
+   ],
+   "a": 2,
+   "e": "FDI cap raised from 74% to 100% of paid-up equity. Effective 5 Feb 2026."
+  },
+  {
+   "id": 45,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "Under the Sabka Bima Act, the net owned fund for foreign reinsurance branches was reduced to:",
+   "o": [
+    "₹500 crore",
+    "₹1,000 crore",
+    "₹2,000 crore",
+    "₹5,000 crore"
+   ],
+   "a": 1,
+   "e": "Reduced from ₹5,000 cr to ₹1,000 cr to encourage more foreign reinsurers."
+  },
+  {
+   "id": 46,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "Under the new insurance law, the max penalty on intermediaries was raised to:",
+   "o": [
+    "₹1 crore",
+    "₹5 crore",
+    "₹10 crore",
+    "₹25 crore"
+   ],
+   "a": 2,
+   "e": "Penalty cap on intermediaries increased from ₹1 crore to ₹10 crore."
+  },
+  {
+   "id": 47,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "IRDAI's goal of 'Insurance for All' is targeted for which year?",
+   "o": [
+    "2030",
+    "2035",
+    "2047",
+    "2050"
+   ],
+   "a": 2,
+   "e": "Insurance for All by 2047, aligned with India@100 vision."
+  },
+  {
+   "id": 48,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "National Insurance Company Limited (NICL) was founded in:",
+   "o": [
+    "1901",
+    "1906",
+    "1919",
+    "1947"
+   ],
+   "a": 1,
+   "e": "NICL established in 1906 in Kolkata, nationalised in 1972."
+  },
+  {
+   "id": 49,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "NICL is headquartered at:",
+   "o": [
+    "Mumbai",
+    "New Delhi",
+    "Kolkata",
+    "Chennai"
+   ],
+   "a": 2,
+   "e": "National Insurance Company Limited HQ: Kolkata, West Bengal."
+  },
+  {
+   "id": 50,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "New India Assurance was founded in 1919 by:",
+   "o": [
+    "Mahatma Gandhi",
+    "Dorabji Tata",
+    "GD Birla",
+    "JRD Tata"
+   ],
+   "a": 1,
+   "e": "Sir Dorabji Tata founded New India Assurance in 1919. HQ: Mumbai."
+  },
+  {
+   "id": 51,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "How many PSU general insurance companies exist in India?",
+   "o": [
+    "3",
+    "4",
+    "5",
+    "6"
+   ],
+   "a": 1,
+   "e": "4 PSU general insurers: NICL, New India Assurance, Oriental Insurance, United India Insurance. GIC Re is the sole reinsurer."
+  },
+  {
+   "id": 52,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "Oriental Insurance Company is headquartered at:",
+   "o": [
+    "Mumbai",
+    "New Delhi",
+    "Kolkata",
+    "Chennai"
+   ],
+   "a": 1,
+   "e": "Oriental Insurance HQ: New Delhi. Founded 1947."
+  },
+  {
+   "id": 53,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "United India Insurance Company is headquartered at:",
+   "o": [
+    "Mumbai",
+    "New Delhi",
+    "Kolkata",
+    "Chennai"
+   ],
+   "a": 3,
+   "e": "United India Insurance HQ: Chennai. Founded 1938."
+  },
+  {
+   "id": 54,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "GIC Re (sole Indian reinsurer) is headquartered at:",
+   "o": [
+    "Hyderabad",
+    "Mumbai",
+    "New Delhi",
+    "Kolkata"
+   ],
+   "a": 1,
+   "e": "General Insurance Corporation of India HQ: Mumbai."
+  },
+  {
+   "id": 55,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "General insurance companies were nationalised in India in:",
+   "o": [
+    "1956",
+    "1969",
+    "1972",
+    "1980"
+   ],
+   "a": 2,
+   "e": "1972 under General Insurance Business (Nationalisation) Act. Life (LIC): 1956. Banks: 1969 & 1980."
+  },
+  {
+   "id": 56,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "The principle of 'Utmost Good Faith' (Uberrima Fides) means:",
+   "o": [
+    "Insurer must always pay",
+    "Both parties must disclose all material facts",
+    "Agent gets max commission",
+    "Premium is non-refundable"
+   ],
+   "a": 1,
+   "e": "Both insurer and insured must disclose all material facts honestly."
+  },
+  {
+   "id": 57,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "'Subrogation' in insurance means:",
+   "o": [
+    "Transfer of policy",
+    "Insurer's right to recover from third party after paying claim",
+    "Cancellation of policy",
+    "Co-insurance"
+   ],
+   "a": 1,
+   "e": "After paying a claim, insurer steps into insured's shoes to recover from the liable third party."
+  },
+  {
+   "id": 58,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "The principle of 'Indemnity' ensures:",
+   "o": [
+    "Insured profits from loss",
+    "Insured is restored to pre-loss position, no profit",
+    "Premium is returned",
+    "Policy auto-renews"
+   ],
+   "a": 1,
+   "e": "Indemnity = insured cannot profit from insurance. Only actual loss is compensated."
+  },
+  {
+   "id": 59,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "'Proximate Cause' (Causa Proxima) determines:",
+   "o": [
+    "Premium amount",
+    "The dominant/effective cause of the loss",
+    "Policy tenure",
+    "Sum insured"
+   ],
+   "a": 1,
+   "e": "The nearest, dominant cause of loss — to decide if it falls within the policy coverage."
+  },
+  {
+   "id": 60,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "PMJJBY provides life cover of ₹2 lakh for an annual premium of:",
+   "o": [
+    "₹330",
+    "₹342",
+    "₹436",
+    "₹500"
+   ],
+   "a": 2,
+   "e": "PM Jeevan Jyoti Bima Yojana: ₹2L cover, premium revised to ₹436/year from June 2022, ages 18-50."
+  },
+  {
+   "id": 61,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "PMSBY (accident insurance) provides ₹2 lakh cover for a premium of:",
+   "o": [
+    "₹12/year",
+    "₹20/year",
+    "₹30/year",
+    "₹50/year"
+   ],
+   "a": 1,
+   "e": "PM Suraksha Bima Yojana: ₹20/year for ₹2L accidental death + ₹1L partial disability."
+  },
+  {
+   "id": 62,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "Ayushman Bharat PM-JAY provides health coverage of:",
+   "o": [
+    "₹1 lakh",
+    "₹2 lakh",
+    "₹5 lakh",
+    "₹10 lakh"
+   ],
+   "a": 2,
+   "e": "₹5 lakh per family per year for secondary and tertiary hospitalisation."
+  },
+  {
+   "id": 63,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "'Bima Vistaar' by IRDAI is:",
+   "o": [
+    "A life-only product",
+    "All-in-one affordable cover (life+health+property+accident)",
+    "Motor insurance",
+    "Reinsurance scheme"
+   ],
+   "a": 1,
+   "e": "Bima Vistaar bundles life, health, property and accident cover for underserved populations."
+  },
+  {
+   "id": 64,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "'Saral Jeevan Bima' mandated by IRDAI is a standardised:",
+   "o": [
+    "Health policy",
+    "Motor policy",
+    "Pure term life insurance",
+    "Pension plan"
+   ],
+   "a": 2,
+   "e": "All life insurers must offer Saral Jeevan Bima with uniform features — standard pure term plan."
+  },
+  {
+   "id": 65,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "'Arogya Sanjeevani' standard health policy has sum insured from:",
+   "o": [
+    "₹50K to ₹3L",
+    "₹1L to ₹5L",
+    "₹2L to ₹10L",
+    "₹5L to ₹25L"
+   ],
+   "a": 1,
+   "e": "IRDAI-mandated standard health policy: ₹1L to ₹5L, offered by all general/health insurers."
+  },
+  {
+   "id": 66,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "Insurance Ombudsman resolves complaints for claims up to:",
+   "o": [
+    "₹10 lakh",
+    "₹20 lakh",
+    "₹30 lakh",
+    "₹50 lakh"
+   ],
+   "a": 2,
+   "e": "Insurance Ombudsman covers disputes up to ₹30 lakh."
+  },
+  {
+   "id": 67,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "'Third Party Insurance' in motor insurance covers:",
+   "o": [
+    "Own vehicle damage",
+    "Liability to third party's person/property",
+    "Theft of own vehicle",
+    "Personal accident of driver only"
+   ],
+   "a": 1,
+   "e": "Mandatory third-party cover: liability to others for bodily injury or property damage."
+  },
+  {
+   "id": 68,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "'Moral Hazard' in insurance means:",
+   "o": [
+    "Natural disaster risk",
+    "Insured acts carelessly because they're covered",
+    "Policy lapse risk",
+    "Agent fraud"
+   ],
+   "a": 1,
+   "e": "Moral hazard: insured may behave recklessly knowing insurance covers the loss."
+  },
+  {
+   "id": 69,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "Which new general insurer received IRDAI registration in 2026?",
+   "o": [
+    "Acko General",
+    "ProTec General Insurance",
+    "Digit Insurance",
+    "Tata AIG"
+   ],
+   "a": 1,
+   "e": "ProTec General Insurance Limited received registration in 2026."
+  },
+  {
+   "id": 70,
+   "s": "GA",
+   "cat": "Insurance",
+   "q": "LIC was established in:",
+   "o": [
+    "1950",
+    "1953",
+    "1956",
+    "1960"
+   ],
+   "a": 2,
+   "e": "LIC established 1 Sep 1956 by merging 245 private life insurers. HQ: Mumbai."
+  },
+  {
+   "id": 71,
+   "s": "GA",
+   "cat": "Banking",
+   "q": "UPI was developed by:",
+   "o": [
+    "RBI",
+    "SBI",
+    "NPCI",
+    "SEBI"
+   ],
+   "a": 2,
+   "e": "NPCI (National Payments Corporation of India) developed and manages UPI."
+  },
+  {
+   "id": 72,
+   "s": "GA",
+   "cat": "Banking",
+   "q": "DICGC is a subsidiary of:",
+   "o": [
+    "SEBI",
+    "Government of India",
+    "RBI",
+    "SBI"
+   ],
+   "a": 2,
+   "e": "DICGC is a wholly owned subsidiary of RBI."
+  },
+  {
+   "id": 73,
+   "s": "GA",
+   "cat": "Banking",
+   "q": "PM Jan Dhan Yojana provides overdraft facility up to:",
+   "o": [
+    "₹5,000",
+    "₹10,000",
+    "₹15,000",
+    "₹20,000"
+   ],
+   "a": 1,
+   "e": "PMJDY: OD up to ₹10,000 per household, subject to satisfactory account operation."
+  },
+  {
+   "id": 74,
+   "s": "GA",
+   "cat": "Banking",
+   "q": "NABARD stands for:",
+   "o": [
+    "National Bank for Agriculture and Rural Development",
+    "National Board for Agricultural Research",
+    "New Agency for Banking and Rural Development",
+    "National Bureau of Agriculture"
+   ],
+   "a": 0,
+   "e": "NABARD: set up 1982, HQ Mumbai. Apex development bank for rural and agriculture credit."
+  },
+  {
+   "id": 75,
+   "s": "GA",
+   "cat": "Banking",
+   "q": "Small Finance Banks and Payment Banks were recommended by:",
+   "o": [
+    "Nachiket Mor Committee",
+    "Raghuram Rajan Committee",
+    "Usha Thorat Committee",
+    "PJ Nayak Committee"
+   ],
+   "a": 0,
+   "e": "Nachiket Mor Committee (2013) on financial inclusion recommended differentiated banks."
+  },
+  {
+   "id": 76,
+   "s": "GA",
+   "cat": "Banking",
+   "q": "The Digital Rupee (CBDC) retail pilot was launched in:",
+   "o": [
+    "2021",
+    "2022",
+    "2023",
+    "2024"
+   ],
+   "a": 1,
+   "e": "RBI launched e₹ wholesale pilot Nov 2022, retail pilot Dec 2022."
+  },
+  {
+   "id": 77,
+   "s": "GA",
+   "cat": "Banking",
+   "q": "e-RUPI is a:",
+   "o": [
+    "Cryptocurrency",
+    "Person-specific digital payment voucher",
+    "UPI app",
+    "Digital rupee"
+   ],
+   "a": 1,
+   "e": "e-RUPI: cashless, contactless, person- and purpose-specific digital voucher via QR/SMS."
+  },
+  {
+   "id": 78,
+   "s": "GA",
+   "cat": "Banking",
+   "q": "SIDBI stands for:",
+   "o": [
+    "Small Industries Development Bank of India",
+    "State Industrial Development Bureau",
+    "Small Investment Development Bank",
+    "Syndicate Industrial Development Bank"
+   ],
+   "a": 0,
+   "e": "SIDBI: est. 1990, HQ Lucknow. Principal financial institution for MSME sector."
+  },
+  {
+   "id": 79,
+   "s": "GA",
+   "cat": "Banking",
+   "q": "SEBI (securities market regulator) is headquartered at:",
+   "o": [
+    "New Delhi",
+    "Mumbai",
+    "Chennai",
+    "Kolkata"
+   ],
+   "a": 1,
+   "e": "SEBI HQ: Mumbai. Established 1988, statutory powers via SEBI Act 1992."
+  },
+  {
+   "id": 80,
+   "s": "GA",
+   "cat": "Banking",
+   "q": "PFRDA regulates:",
+   "o": [
+    "Insurance",
+    "Pension funds (NPS)",
+    "Mutual funds",
+    "Stock exchanges"
+   ],
+   "a": 1,
+   "e": "PFRDA: Pension Fund Regulatory and Development Authority — regulates NPS."
+  },
+  {
+   "id": 81,
+   "s": "GA",
+   "cat": "Banking",
+   "q": "Standard UPI transaction limit is:",
+   "o": [
+    "₹50,000",
+    "₹1 lakh",
+    "₹2 lakh",
+    "₹5 lakh"
+   ],
+   "a": 1,
+   "e": "₹1 lakh per transaction (higher for specific categories like tax, IPO, hospitals)."
+  },
+  {
+   "id": 82,
+   "s": "GA",
+   "cat": "Banking",
+   "q": "PM Surya Ghar Muft Bijli Yojana provides:",
+   "o": [
+    "Free gas cylinders",
+    "Subsidised rooftop solar with up to 300 units free electricity",
+    "Free EV charging",
+    "Free smart meters"
+   ],
+   "a": 1,
+   "e": "Launched 2024: subsidised rooftop solar for 1 crore households, up to 300 units free/month."
+  },
+  {
+   "id": 83,
+   "s": "GA",
+   "cat": "Banking",
+   "q": "The 'Insurance Surety Bond' introduced by IRDAI is an alternative to:",
+   "o": [
+    "Life insurance",
+    "Bank guarantees",
+    "Reinsurance",
+    "Motor insurance"
+   ],
+   "a": 1,
+   "e": "Insurance surety bonds replace bank guarantees for infrastructure/government contracts, freeing bank credit."
+  },
+  {
+   "id": 84,
+   "s": "GA",
+   "cat": "Banking",
+   "q": "The National Financial Reporting Authority (NFRA) oversees:",
+   "o": [
+    "Banks",
+    "Insurance companies",
+    "Chartered Accountants/Auditors",
+    "Stock brokers"
+   ],
+   "a": 2,
+   "e": "NFRA (Companies Act 2013) regulates auditing standards and oversees the audit profession."
+  },
+  {
+   "id": 85,
+   "s": "GA",
+   "cat": "Banking",
+   "q": "Which committee recommended 'four-tier' regulation for Urban Cooperative Banks?",
+   "o": [
+    "Narasimham Committee",
+    "NS Vishwanathan Committee",
+    "PJ Nayak Committee",
+    "Malegam Committee"
+   ],
+   "a": 1,
+   "e": "NS Vishwanathan Committee (2021) recommended four-tier regulatory framework for UCBs."
+  },
+  {
+   "id": 86,
+   "s": "GA",
+   "cat": "Banking",
+   "q": "The Basel III norms deal with:",
+   "o": [
+    "Insurance regulation",
+    "Bank capital adequacy and liquidity",
+    "Stock market rules",
+    "Forex management"
+   ],
+   "a": 1,
+   "e": "Basel III (BCBS): strengthens bank capital requirements, leverage ratio, and liquidity ratios (LCR, NSFR)."
+  },
+  {
+   "id": 87,
+   "s": "GA",
+   "cat": "Banking",
+   "q": "Asian Development Bank (ADB) is headquartered at:",
+   "o": [
+    "Washington DC",
+    "Tokyo",
+    "Manila, Philippines",
+    "Beijing"
+   ],
+   "a": 2,
+   "e": "ADB HQ: Manila. AIIB: Beijing. World Bank & IMF: Washington DC."
+  },
+  {
+   "id": 88,
+   "s": "GA",
+   "cat": "Banking",
+   "q": "SWIFT is headquartered in:",
+   "o": [
+    "New York",
+    "Brussels, Belgium",
+    "London",
+    "Zurich"
+   ],
+   "a": 1,
+   "e": "SWIFT HQ: La Hulpe, near Brussels. Global financial messaging system."
+  },
+  {
+   "id": 89,
+   "s": "GA",
+   "cat": "Banking",
+   "q": "The FRBM Act was enacted in:",
+   "o": [
+    "2000",
+    "2003",
+    "2005",
+    "2010"
+   ],
+   "a": 1,
+   "e": "Fiscal Responsibility and Budget Management Act 2003 mandates fiscal discipline."
+  },
+  {
+   "id": 90,
+   "s": "GA",
+   "cat": "Banking",
+   "q": "IMF is headquartered at:",
+   "o": [
+    "New York",
+    "Geneva",
+    "Washington DC",
+    "London"
+   ],
+   "a": 2,
+   "e": "IMF HQ: Washington DC. Established 1944 at Bretton Woods."
+  },
+  {
+   "id": 91,
+   "s": "GA",
+   "cat": "Schemes",
+   "q": "PM Vishwakarma Yojana (2023) supports:",
+   "o": [
+    "Farmers",
+    "Traditional artisans and craftspeople (18 categories)",
+    "Students",
+    "Startups"
+   ],
+   "a": 1,
+   "e": "Training, toolkit, credit support, digital empowerment for 18 craft categories."
+  },
+  {
+   "id": 92,
+   "s": "GA",
+   "cat": "Schemes",
+   "q": "PM MUDRA loan categories — which is NOT one?",
+   "o": [
+    "Shishu",
+    "Kishore",
+    "Tarun",
+    "Yuva"
+   ],
+   "a": 3,
+   "e": "Shishu (up to ₹50K), Kishore (₹50K–5L), Tarun (₹5L–10L). No 'Yuva' category."
+  },
+  {
+   "id": 93,
+   "s": "GA",
+   "cat": "Schemes",
+   "q": "Atal Pension Yojana guarantees monthly pension of:",
+   "o": [
+    "₹500–₹5,000",
+    "₹1,000–₹5,000",
+    "₹1,000–₹10,000",
+    "₹2,000–₹10,000"
+   ],
+   "a": 1,
+   "e": "₹1,000 to ₹5,000/month after age 60, based on contribution."
+  },
+  {
+   "id": 94,
+   "s": "GA",
+   "cat": "Schemes",
+   "q": "PM-KISAN provides annual income support of:",
+   "o": [
+    "₹2,000",
+    "₹4,000",
+    "₹6,000",
+    "₹10,000"
+   ],
+   "a": 2,
+   "e": "₹6,000/year in 3 instalments of ₹2,000 each to eligible farmer families."
+  },
+  {
+   "id": 95,
+   "s": "GA",
+   "cat": "Schemes",
+   "q": "Stand-Up India provides bank loans (₹10L–₹1Cr) for:",
+   "o": [
+    "All MSMEs",
+    "SC/ST and women entrepreneurs",
+    "Farmers only",
+    "Government employees"
+   ],
+   "a": 1,
+   "e": "At least 1 SC/ST + 1 woman entrepreneur per bank branch for greenfield enterprises."
+  },
+  {
+   "id": 96,
+   "s": "GA",
+   "cat": "Schemes",
+   "q": "Sukanya Samriddhi Yojana is for:",
+   "o": [
+    "Senior citizens",
+    "Girl child",
+    "Farmers",
+    "MSMEs"
+   ],
+   "a": 1,
+   "e": "SSY: savings scheme for girl child under Beti Bachao Beti Padhao. High interest + tax benefits."
+  },
+  {
+   "id": 97,
+   "s": "GA",
+   "cat": "Schemes",
+   "q": "NPS (National Pension System) is regulated by:",
+   "o": [
+    "RBI",
+    "SEBI",
+    "PFRDA",
+    "IRDAI"
+   ],
+   "a": 2,
+   "e": "PFRDA regulates NPS under PFRDA Act 2013."
+  },
+  {
+   "id": 98,
+   "s": "GA",
+   "cat": "Schemes",
+   "q": "PM Garib Kalyan Anna Yojana (PMGKAY) provides how much free foodgrain per person/month?",
+   "o": [
+    "3 kg",
+    "5 kg",
+    "7 kg",
+    "10 kg"
+   ],
+   "a": 1,
+   "e": "5 kg free foodgrain per beneficiary per month (made permanent from Jan 2024)."
+  },
+  {
+   "id": 99,
+   "s": "GA",
+   "cat": "Schemes",
+   "q": "Sovereign Gold Bonds are issued by:",
+   "o": [
+    "SEBI",
+    "RBI on behalf of Government of India",
+    "SBI",
+    "LIC"
+   ],
+   "a": 1,
+   "e": "SGBs: government securities denominated in gold, issued by RBI on behalf of GoI."
+  },
+  {
+   "id": 100,
+   "s": "GA",
+   "cat": "Schemes",
+   "q": "ECLGS (Emergency Credit Line Guarantee Scheme) supported:",
+   "o": [
+    "Farmers only",
+    "MSMEs and businesses during COVID",
+    "Students",
+    "Healthcare workers"
+   ],
+   "a": 1,
+   "e": "Collateral-free guaranteed credit for MSMEs/businesses during the pandemic."
+  },
+  {
+   "id": 101,
+   "s": "GA",
+   "cat": "Schemes",
+   "q": "PM Jan Dhan Yojana accounts provide accidental insurance cover of:",
+   "o": [
+    "₹50,000",
+    "₹1 lakh",
+    "₹2 lakh",
+    "₹5 lakh"
+   ],
+   "a": 2,
+   "e": "PMJDY: ₹2 lakh accidental insurance cover + ₹30,000 life cover via RuPay card."
+  },
+  {
+   "id": 102,
+   "s": "GA",
+   "cat": "Schemes",
+   "q": "Ayushman Bharat PM-JAY was launched in:",
+   "o": [
+    "2017",
+    "2018",
+    "2019",
+    "2020"
+   ],
+   "a": 1,
+   "e": "PM-JAY launched 23 Sep 2018 (Pandit Deendayal Upadhyaya Jayanti). World's largest health scheme."
+  },
+  {
+   "id": 103,
+   "s": "GA",
+   "cat": "Schemes",
+   "q": "The 'One Nation One Election' committee was headed by:",
+   "o": [
+    "Justice DY Chandrachud",
+    "Ram Nath Kovind",
+    "Justice NV Ramana",
+    "Ravi Shankar Prasad"
+   ],
+   "a": 1,
+   "e": "Former President Ram Nath Kovind headed the High-Level Committee on simultaneous elections."
+  },
+  {
+   "id": 104,
+   "s": "GA",
+   "cat": "Schemes",
+   "q": "SEMICON India 2026 (5th edition) was held at:",
+   "o": [
+    "Bengaluru",
+    "Yashobhoomi, New Delhi",
+    "Gandhinagar",
+    "Hyderabad"
+   ],
+   "a": 1,
+   "e": "SEMICON India 2026: 17 Sep at Yashobhoomi, New Delhi. Focus on semiconductor ecosystem."
+  },
+  {
+   "id": 105,
+   "s": "GA",
+   "cat": "Schemes",
+   "q": "The 18th BRICS Summit declaration was called:",
+   "o": [
+    "Kazan Declaration",
+    "BRICS New Delhi Declaration",
+    "Johannesburg Declaration",
+    "Brasilia Communiqué"
+   ],
+   "a": 1,
+   "e": "BRICS New Delhi Declaration 2026 covered global governance reform, Middle East, trade, and sustainability."
+  },
+  {
+   "id": 106,
+   "s": "GA",
+   "cat": "Static GK",
+   "q": "SEBI was established in which year?",
+   "o": [
+    "1988",
+    "1992",
+    "1996",
+    "2000"
+   ],
+   "a": 1,
+   "e": "SEBI est. 1988, statutory powers via SEBI Act 1992. HQ: Mumbai."
+  },
+  {
+   "id": 107,
+   "s": "GA",
+   "cat": "Static GK",
+   "q": "World Bank is headquartered at:",
+   "o": [
+    "New York",
+    "Geneva",
+    "Washington DC",
+    "London"
+   ],
+   "a": 2,
+   "e": "World Bank (IBRD + IDA) HQ: Washington DC."
+  },
+  {
+   "id": 108,
+   "s": "GA",
+   "cat": "Static GK",
+   "q": "Imperial Bank of India was nationalised and renamed SBI in:",
+   "o": [
+    "1947",
+    "1955",
+    "1969",
+    "1980"
+   ],
+   "a": 1,
+   "e": "Imperial Bank → SBI in 1955, the first nationalisation. 14 banks: 1969, 6 banks: 1980."
+  },
+  {
+   "id": 109,
+   "s": "GA",
+   "cat": "Static GK",
+   "q": "World Teachers' Day is observed on:",
+   "o": [
+    "5 September",
+    "5 October",
+    "14 November",
+    "1 May"
+   ],
+   "a": 1,
+   "e": "World Teachers' Day: 5 October. In India, Teachers' Day is 5 Sep (Radhakrishnan birthday)."
+  },
+  {
+   "id": 110,
+   "s": "GA",
+   "cat": "Static GK",
+   "q": "United Nations Day is observed on:",
+   "o": [
+    "10 October",
+    "24 October",
+    "14 November",
+    "1 January"
+   ],
+   "a": 1,
+   "e": "UN Day: 24 October, marking the UN Charter coming into force in 1945."
+  },
+  {
+   "id": 111,
+   "s": "GA",
+   "cat": "Static GK",
+   "q": "Children's Day in India is observed on:",
+   "o": [
+    "1 November",
+    "5 September",
+    "14 November",
+    "20 November"
+   ],
+   "a": 2,
+   "e": "14 November: Jawaharlal Nehru's birthday. World Children's Day is 20 November."
+  },
+  {
+   "id": 112,
+   "s": "GA",
+   "cat": "Static GK",
+   "q": "Which boxer won gold in women's 75kg at the 2026 Asian Games?",
+   "o": [
+    "Mary Kom",
+    "Nikhat Zareen",
+    "Lovlina Borgohain",
+    "Nitu Ghanghas"
+   ],
+   "a": 2,
+   "e": "Lovlina Borgohain won gold in women's 75kg boxing at Aichi-Nagoya."
+  },
+  {
+   "id": 113,
+   "s": "GA",
+   "cat": "Static GK",
+   "q": "India's men's hockey team beat which country in the 2026 Asian Games final?",
+   "o": [
+    "Pakistan",
+    "China",
+    "Malaysia",
+    "Japan"
+   ],
+   "a": 2,
+   "e": "India defeated Malaysia 5–1 to retain the Asian Games hockey gold."
+  },
+  {
+   "id": 114,
+   "s": "GA",
+   "cat": "Static GK",
+   "q": "The GST Council is chaired by:",
+   "o": [
+    "PM of India",
+    "Union Finance Minister",
+    "RBI Governor",
+    "CBIC Chairman"
+   ],
+   "a": 1,
+   "e": "Union Finance Minister chairs the GST Council. State FMs are members."
+  },
+  {
+   "id": 115,
+   "s": "GA",
+   "cat": "Static GK",
+   "q": "The Nobel Prize in Economics was first awarded in:",
+   "o": [
+    "1895",
+    "1901",
+    "1969",
+    "1972"
+   ],
+   "a": 2,
+   "e": "First awarded 1969 — established by Sweden's central bank (Sveriges Riksbank) in 1968."
+  },
+  {
+   "id": 116,
+   "s": "GA",
+   "cat": "Static GK",
+   "q": "Each 2026 Nobel Prize is worth:",
+   "o": [
+    "8M SEK",
+    "10M SEK",
+    "11M SEK",
+    "12M SEK"
+   ],
+   "a": 3,
+   "e": "12 million Swedish kronor (~$1.2 million) per prize in 2026."
+  },
+  {
+   "id": 117,
+   "s": "GA",
+   "cat": "Static GK",
+   "q": "National Education Day (11 November) marks the birthday of:",
+   "o": [
+    "Mahatma Gandhi",
+    "Abul Kalam Azad",
+    "Sarvepalli Radhakrishnan",
+    "APJ Abdul Kalam"
+   ],
+   "a": 1,
+   "e": "Maulana Abul Kalam Azad — India's first Education Minister."
+  },
+  {
+   "id": 118,
+   "s": "GA",
+   "cat": "Static GK",
+   "q": "India's rank in the 2026 Asian Games medal tally was:",
+   "o": [
+    "2nd",
+    "3rd",
+    "4th",
+    "5th"
+   ],
+   "a": 2,
+   "e": "4th: China (1st), Japan (2nd), South Korea (3rd), India (4th)."
+  },
+  {
+   "id": 119,
+   "s": "GA",
+   "cat": "Static GK",
+   "q": "President Droupadi Murmu appointed governors for how many states on 12 Oct 2026?",
+   "o": [
+    "3",
+    "4",
+    "6",
+    "8"
+   ],
+   "a": 2,
+   "e": "Six states, including Braj Mohan Ram (Odisha) and Dr Sudha Yadav (Karnataka)."
+  },
+  {
+   "id": 120,
+   "s": "GA",
+   "cat": "Static GK",
+   "q": "India's women's hockey team won their first Asian Games gold since which year?",
+   "o": [
+    "1986",
+    "1982",
+    "1998",
+    "2002"
+   ],
+   "a": 1,
+   "e": "First women's hockey gold since 1982 — 44-year gap. Beat China 1–0 in the final."
+  },
+  {
+   "id": 121,
+   "s": "CK",
+   "cat": "Fundamentals",
+   "q": "Which is NOT an input device?",
+   "o": [
+    "Keyboard",
+    "Scanner",
+    "Monitor",
+    "Microphone"
+   ],
+   "a": 2,
+   "e": "Monitor is output. Keyboard, scanner, microphone are input devices."
+  },
+  {
+   "id": 122,
+   "s": "CK",
+   "cat": "Fundamentals",
+   "q": "RAM is volatile because it:",
+   "o": [
+    "Is slow",
+    "Loses data when power is off",
+    "Cannot be expanded",
+    "Stores data permanently"
+   ],
+   "a": 1,
+   "e": "RAM (Random Access Memory) is volatile — data is lost when the computer shuts down."
+  },
+  {
+   "id": 123,
+   "s": "CK",
+   "cat": "Fundamentals",
+   "q": "Which memory is non-volatile?",
+   "o": [
+    "RAM",
+    "Cache",
+    "ROM",
+    "Register"
+   ],
+   "a": 2,
+   "e": "ROM (Read Only Memory) retains data without power. EEPROM/Flash are also non-volatile."
+  },
+  {
+   "id": 124,
+   "s": "CK",
+   "cat": "Fundamentals",
+   "q": "1 GB equals:",
+   "o": [
+    "1000 KB",
+    "1024 KB",
+    "1024 MB",
+    "1024 TB"
+   ],
+   "a": 2,
+   "e": "1 GB = 1024 MB = 1,048,576 KB."
+  },
+  {
+   "id": 125,
+   "s": "CK",
+   "cat": "Fundamentals",
+   "q": "BIOS stands for:",
+   "o": [
+    "Binary Input Output System",
+    "Basic Internal Operating System",
+    "Basic Input Output System",
+    "Built-in Operating Software"
+   ],
+   "a": 2,
+   "e": "BIOS: firmware that initialises hardware during boot. Now often replaced by UEFI."
+  },
+  {
+   "id": 126,
+   "s": "CK",
+   "cat": "Fundamentals",
+   "q": "Third generation computers used:",
+   "o": [
+    "Vacuum tubes",
+    "Transistors",
+    "Integrated Circuits (ICs)",
+    "Microprocessors"
+   ],
+   "a": 2,
+   "e": "1st: vacuum tubes, 2nd: transistors, 3rd: ICs (1964-71), 4th: microprocessors, 5th: AI/parallel."
+  },
+  {
+   "id": 127,
+   "s": "CK",
+   "cat": "Fundamentals",
+   "q": "ALU (Arithmetic Logic Unit) is part of:",
+   "o": [
+    "RAM",
+    "Hard disk",
+    "CPU",
+    "Monitor"
+   ],
+   "a": 2,
+   "e": "ALU is inside the CPU — performs arithmetic and logical operations."
+  },
+  {
+   "id": 128,
+   "s": "CK",
+   "cat": "Fundamentals",
+   "q": "An interpreter translates code:",
+   "o": [
+    "Entire program at once",
+    "One instruction at a time",
+    "Only functions",
+    "Only loops"
+   ],
+   "a": 1,
+   "e": "Interpreter: one line at a time. Compiler: entire program at once into machine code."
+  },
+  {
+   "id": 129,
+   "s": "CK",
+   "cat": "Fundamentals",
+   "q": "SSD stands for:",
+   "o": [
+    "Solid State Drive",
+    "Super Speed Disk",
+    "System Storage Device",
+    "Solid System Disk"
+   ],
+   "a": 0,
+   "e": "SSD uses flash memory, no moving parts — faster, more durable than HDD."
+  },
+  {
+   "id": 130,
+   "s": "CK",
+   "cat": "Fundamentals",
+   "q": "The process of starting a computer is called:",
+   "o": [
+    "Logging",
+    "Booting",
+    "Compiling",
+    "Debugging"
+   ],
+   "a": 1,
+   "e": "Booting: loading OS into memory. Cold boot = from off; warm boot = restart."
+  },
+  {
+   "id": 131,
+   "s": "CK",
+   "cat": "Fundamentals",
+   "q": "Processor speed is measured in:",
+   "o": [
+    "Bytes",
+    "GHz",
+    "Bps",
+    "Watts"
+   ],
+   "a": 1,
+   "e": "GHz (gigahertz) = billions of clock cycles per second."
+  },
+  {
+   "id": 132,
+   "s": "CK",
+   "cat": "Fundamentals",
+   "q": "Cache memory is used to:",
+   "o": [
+    "Store permanent data",
+    "Speed up CPU access to frequently used data",
+    "Back up hard drive",
+    "Connect to internet"
+   ],
+   "a": 1,
+   "e": "Cache: small, fast memory between CPU and RAM storing frequently accessed data."
+  },
+  {
+   "id": 133,
+   "s": "CK",
+   "cat": "Fundamentals",
+   "q": "USB stands for:",
+   "o": [
+    "Universal Serial Bus",
+    "Unified System Bus",
+    "Universal System Byte",
+    "Ultra Speed Bus"
+   ],
+   "a": 0,
+   "e": "USB: standard interface for connecting peripherals."
+  },
+  {
+   "id": 134,
+   "s": "CK",
+   "cat": "Fundamentals",
+   "q": "GPU stands for:",
+   "o": [
+    "General Processing Unit",
+    "Graphics Processing Unit",
+    "Global Performance Utility",
+    "Graphics Power Unit"
+   ],
+   "a": 1,
+   "e": "GPU: specialised processor for rendering graphics and parallel computation."
+  },
+  {
+   "id": 135,
+   "s": "CK",
+   "cat": "Fundamentals",
+   "q": "HDMI is used to connect:",
+   "o": [
+    "Printer",
+    "Display/Monitor",
+    "Hard disk",
+    "Network cable"
+   ],
+   "a": 1,
+   "e": "HDMI (High-Definition Multimedia Interface): transmits video + audio digitally."
+  },
+  {
+   "id": 136,
+   "s": "CK",
+   "cat": "Fundamentals",
+   "q": "Binary number system uses base:",
+   "o": [
+    "2",
+    "8",
+    "10",
+    "16"
+   ],
+   "a": 0,
+   "e": "Binary = base 2 (0,1). Octal = 8, Decimal = 10, Hexadecimal = 16."
+  },
+  {
+   "id": 137,
+   "s": "CK",
+   "cat": "Fundamentals",
+   "q": "Which is a high-level programming language?",
+   "o": [
+    "Machine language",
+    "Assembly language",
+    "Python",
+    "Microcode"
+   ],
+   "a": 2,
+   "e": "Python is high-level. Machine (binary) and assembly are low-level."
+  },
+  {
+   "id": 138,
+   "s": "CK",
+   "cat": "Fundamentals",
+   "q": "An operating system is an example of:",
+   "o": [
+    "Application software",
+    "System software",
+    "Firmware",
+    "Malware"
+   ],
+   "a": 1,
+   "e": "OS is system software managing hardware and providing services to applications."
+  },
+  {
+   "id": 139,
+   "s": "CK",
+   "cat": "Fundamentals",
+   "q": "ASCII stands for:",
+   "o": [
+    "American Standard Code for Information Interchange",
+    "Advanced System Code for Integration",
+    "Automated Standard for Computer Instructions",
+    "American System for Coded Information"
+   ],
+   "a": 0,
+   "e": "ASCII: 7-bit character encoding (128 characters). Extended ASCII uses 8 bits."
+  },
+  {
+   "id": 140,
+   "s": "CK",
+   "cat": "Fundamentals",
+   "q": "What does IoT stand for?",
+   "o": [
+    "Internet of Things",
+    "Input of Technology",
+    "Integrated Operating Tool",
+    "Internal Output Transfer"
+   ],
+   "a": 0,
+   "e": "IoT: interconnected everyday devices communicating over the internet."
+  },
+  {
+   "id": 141,
+   "s": "CK",
+   "cat": "OS",
+   "q": "Which is NOT an operating system?",
+   "o": [
+    "Windows",
+    "Linux",
+    "Oracle",
+    "macOS"
+   ],
+   "a": 2,
+   "e": "Oracle is an RDBMS. Windows, Linux, macOS are operating systems."
+  },
+  {
+   "id": 142,
+   "s": "CK",
+   "cat": "OS",
+   "q": "Linux is an example of:",
+   "o": [
+    "Proprietary software",
+    "Open-source software",
+    "Firmware",
+    "Malware"
+   ],
+   "a": 1,
+   "e": "Linux: open-source under GPL license. Source code freely available."
+  },
+  {
+   "id": 143,
+   "s": "CK",
+   "cat": "OS",
+   "q": "The 'kernel' of an OS is:",
+   "o": [
+    "User interface",
+    "Core component managing hardware resources",
+    "An application",
+    "A virus"
+   ],
+   "a": 1,
+   "e": "Kernel: core of OS managing memory, processes, devices, system calls."
+  },
+  {
+   "id": 144,
+   "s": "CK",
+   "cat": "OS",
+   "q": "Windows uses which default file system?",
+   "o": [
+    "ext4",
+    "FAT16",
+    "NTFS",
+    "HFS+"
+   ],
+   "a": 2,
+   "e": "NTFS (New Technology File System). ext4 = Linux, HFS+ = older macOS."
+  },
+  {
+   "id": 145,
+   "s": "CK",
+   "cat": "OS",
+   "q": "Android OS is based on:",
+   "o": [
+    "Windows",
+    "Linux kernel",
+    "macOS",
+    "Unix BSD"
+   ],
+   "a": 1,
+   "e": "Android built on Linux kernel, developed primarily by Google."
+  },
+  {
+   "id": 146,
+   "s": "CK",
+   "cat": "OS",
+   "q": "Virtual memory uses part of which storage as extended RAM?",
+   "o": [
+    "USB drive",
+    "Hard disk/SSD",
+    "ROM",
+    "Cache"
+   ],
+   "a": 1,
+   "e": "Virtual memory: uses disk page file/swap space when physical RAM is full."
+  },
+  {
+   "id": 147,
+   "s": "CK",
+   "cat": "OS",
+   "q": "UNIX was developed at:",
+   "o": [
+    "Microsoft",
+    "Apple",
+    "AT&T Bell Labs",
+    "IBM"
+   ],
+   "a": 2,
+   "e": "UNIX: 1969 at AT&T Bell Labs by Ken Thompson and Dennis Ritchie."
+  },
+  {
+   "id": 148,
+   "s": "CK",
+   "cat": "OS",
+   "q": "In Windows, Ctrl+Alt+Delete opens:",
+   "o": [
+    "File Explorer",
+    "Security screen/Task Manager",
+    "Control Panel",
+    "Settings"
+   ],
+   "a": 1,
+   "e": "Ctrl+Alt+Delete: security screen. Ctrl+Shift+Esc: Task Manager directly."
+  },
+  {
+   "id": 149,
+   "s": "CK",
+   "cat": "OS",
+   "q": "GUI stands for:",
+   "o": [
+    "General User Interface",
+    "Graphical User Interface",
+    "Global Utility Integration",
+    "Graphical Unified Input"
+   ],
+   "a": 1,
+   "e": "GUI: windows, icons, menus, pointers. Contrast with CLI (Command Line Interface)."
+  },
+  {
+   "id": 150,
+   "s": "CK",
+   "cat": "OS",
+   "q": "Multitasking means:",
+   "o": [
+    "Using multiple computers",
+    "Running multiple programs simultaneously",
+    "Multiple users",
+    "Multiple monitors"
+   ],
+   "a": 1,
+   "e": "OS runs multiple programs concurrently by managing CPU time sharing."
+  },
+  {
+   "id": 151,
+   "s": "CK",
+   "cat": "MS Office",
+   "q": "Ctrl + B in MS Word:",
+   "o": [
+    "Opens file",
+    "Bolds selected text",
+    "Creates bookmark",
+    "Inserts break"
+   ],
+   "a": 1,
+   "e": "Ctrl+B: toggle bold. Ctrl+I: italic. Ctrl+U: underline."
+  },
+  {
+   "id": 152,
+   "s": "CK",
+   "cat": "MS Office",
+   "q": "Default file extension for Word 2007+ is:",
+   "o": [
+    ".doc",
+    ".txt",
+    ".docx",
+    ".rtf"
+   ],
+   "a": 2,
+   "e": ".docx (Office Open XML). Older format was .doc."
+  },
+  {
+   "id": 153,
+   "s": "CK",
+   "cat": "MS Office",
+   "q": "=AVERAGE() in Excel calculates:",
+   "o": [
+    "Sum",
+    "Arithmetic mean",
+    "Count",
+    "Maximum"
+   ],
+   "a": 1,
+   "e": "=AVERAGE(range) returns the arithmetic mean. No built-in MEAN() in Excel."
+  },
+  {
+   "id": 154,
+   "s": "CK",
+   "cat": "MS Office",
+   "q": "Cell address 'B5' means:",
+   "o": [
+    "Row B, Column 5",
+    "Column B, Row 5",
+    "Sheet B, Cell 5",
+    "Block B, Line 5"
+   ],
+   "a": 1,
+   "e": "Letter = column, number = row. B5 = Column B, Row 5."
+  },
+  {
+   "id": 155,
+   "s": "CK",
+   "cat": "MS Office",
+   "q": "Ctrl + ; in Excel inserts:",
+   "o": [
+    "Current time",
+    "Current date",
+    "Formula",
+    "Comment"
+   ],
+   "a": 1,
+   "e": "Ctrl+; = today's date. Ctrl+Shift+; = current time."
+  },
+  {
+   "id": 156,
+   "s": "CK",
+   "cat": "MS Office",
+   "q": "=VLOOKUP() stands for:",
+   "o": [
+    "Vertical Lookup",
+    "Visual Lookup",
+    "Value Lookup",
+    "Variable Lookup"
+   ],
+   "a": 0,
+   "e": "Searches first column of a range, returns a value from a specified column in the same row."
+  },
+  {
+   "id": 157,
+   "s": "CK",
+   "cat": "MS Office",
+   "q": "'$A$1' in Excel is an example of:",
+   "o": [
+    "Relative reference",
+    "Absolute reference",
+    "Mixed reference",
+    "Circular reference"
+   ],
+   "a": 1,
+   "e": "$A$1 = absolute (both locked). A1 = relative. $A1 or A$1 = mixed."
+  },
+  {
+   "id": 158,
+   "s": "CK",
+   "cat": "MS Office",
+   "q": "Max rows in Excel 2007+ worksheet:",
+   "o": [
+    "65,536",
+    "256",
+    "1,048,576",
+    "16,384"
+   ],
+   "a": 2,
+   "e": "1,048,576 rows × 16,384 columns. Older: 65,536 × 256."
+  },
+  {
+   "id": 159,
+   "s": "CK",
+   "cat": "MS Office",
+   "q": "F5 in PowerPoint:",
+   "o": [
+    "Saves file",
+    "Opens new slide",
+    "Starts slideshow from beginning",
+    "Prints"
+   ],
+   "a": 2,
+   "e": "F5: slideshow from slide 1. Shift+F5: from current slide."
+  },
+  {
+   "id": 160,
+   "s": "CK",
+   "cat": "MS Office",
+   "q": "Ctrl + Z is used for:",
+   "o": [
+    "Zoom",
+    "Close",
+    "Undo",
+    "Find"
+   ],
+   "a": 2,
+   "e": "Ctrl+Z = Undo. Ctrl+Y = Redo."
+  },
+  {
+   "id": 161,
+   "s": "CK",
+   "cat": "MS Office",
+   "q": "Mail Merge in Word is found under which tab?",
+   "o": [
+    "Home",
+    "Insert",
+    "Mailings",
+    "Review"
+   ],
+   "a": 2,
+   "e": "Mailings tab contains Start Mail Merge, Select Recipients, Insert Merge Field, etc."
+  },
+  {
+   "id": 162,
+   "s": "CK",
+   "cat": "MS Office",
+   "q": "=COUNT() in Excel counts:",
+   "o": [
+    "All cells",
+    "Only cells with numbers",
+    "Only text cells",
+    "Empty cells"
+   ],
+   "a": 1,
+   "e": "COUNT: numeric cells. COUNTA: non-empty. COUNTBLANK: empty cells."
+  },
+  {
+   "id": 163,
+   "s": "CK",
+   "cat": "MS Office",
+   "q": "Ctrl + N in Excel creates a:",
+   "o": [
+    "New worksheet",
+    "New workbook",
+    "New row",
+    "New chart"
+   ],
+   "a": 1,
+   "e": "Ctrl+N = New workbook. Ctrl+O = Open. Ctrl+S = Save. Ctrl+W = Close."
+  },
+  {
+   "id": 164,
+   "s": "CK",
+   "cat": "MS Office",
+   "q": "Print Layout view in Word shows:",
+   "o": [
+    "Only text",
+    "Document as it will print",
+    "Outline only",
+    "Web format"
+   ],
+   "a": 1,
+   "e": "Print Layout: headers, footers, margins — exact printed output."
+  },
+  {
+   "id": 165,
+   "s": "CK",
+   "cat": "MS Office",
+   "q": "PowerPoint file extension is:",
+   "o": [
+    ".docx",
+    ".xlsx",
+    ".pptx",
+    ".pdf"
+   ],
+   "a": 2,
+   "e": ".pptx since Office 2007. Older format was .ppt."
+  },
+  {
+   "id": 166,
+   "s": "CK",
+   "cat": "MS Office",
+   "q": "=IF() function in Excel is used for:",
+   "o": [
+    "Counting",
+    "Conditional logic",
+    "Formatting",
+    "Sorting"
+   ],
+   "a": 1,
+   "e": "=IF(condition, value_if_true, value_if_false). Most-used logical function."
+  },
+  {
+   "id": 167,
+   "s": "CK",
+   "cat": "MS Office",
+   "q": "Ctrl + P is used to:",
+   "o": [
+    "Paste",
+    "Print",
+    "Open properties",
+    "Insert page break"
+   ],
+   "a": 1,
+   "e": "Ctrl+P = Print dialog in all Office apps."
+  },
+  {
+   "id": 168,
+   "s": "CK",
+   "cat": "MS Office",
+   "q": "Which function joins text from multiple cells in Excel?",
+   "o": [
+    "=SUM()",
+    "=CONCATENATE() / =CONCAT()",
+    "=AVERAGE()",
+    "=LEFT()"
+   ],
+   "a": 1,
+   "e": "CONCATENATE or CONCAT joins text strings. Also & operator: =A1&B1."
+  },
+  {
+   "id": 169,
+   "s": "CK",
+   "cat": "MS Office",
+   "q": "Ctrl + F is used to:",
+   "o": [
+    "Format",
+    "Find",
+    "Font change",
+    "Footer"
+   ],
+   "a": 1,
+   "e": "Ctrl+F = Find. Ctrl+H = Find & Replace."
+  },
+  {
+   "id": 170,
+   "s": "CK",
+   "cat": "MS Office",
+   "q": "In Excel, what does '#VALUE!' error mean?",
+   "o": [
+    "Division by zero",
+    "Wrong value type in formula",
+    "Cell reference missing",
+    "File corrupt"
+   ],
+   "a": 1,
+   "e": "#VALUE! = wrong data type (e.g., text where number expected). #DIV/0! = division by zero. #REF! = invalid reference."
+  },
+  {
+   "id": 171,
+   "s": "CK",
+   "cat": "Networking",
+   "q": "HTTP stands for:",
+   "o": [
+    "Hyper Text Transfer Protocol",
+    "High Tech Transfer Protocol",
+    "Hyper Transfer Text Program",
+    "Home Tool Transfer Protocol"
+   ],
+   "a": 0,
+   "e": "HTTP: protocol for transmitting web pages. HTTPS adds SSL/TLS encryption."
+  },
+  {
+   "id": 172,
+   "s": "CK",
+   "cat": "Networking",
+   "q": "An IP address uniquely identifies:",
+   "o": [
+    "A file",
+    "A device on a network",
+    "An email",
+    "A website name"
+   ],
+   "a": 1,
+   "e": "IP (Internet Protocol) address: unique identifier for each network device."
+  },
+  {
+   "id": 173,
+   "s": "CK",
+   "cat": "Networking",
+   "q": "SMTP is used for:",
+   "o": [
+    "Web browsing",
+    "Sending emails",
+    "File transfer",
+    "Database queries"
+   ],
+   "a": 1,
+   "e": "SMTP = Simple Mail Transfer Protocol (sending). POP3/IMAP = receiving."
+  },
+  {
+   "id": 174,
+   "s": "CK",
+   "cat": "Networking",
+   "q": "DNS translates:",
+   "o": [
+    "Files to folders",
+    "Domain names to IP addresses",
+    "Code to machine language",
+    "Audio to text"
+   ],
+   "a": 1,
+   "e": "DNS = Domain Name System. google.com → 142.250.x.x."
+  },
+  {
+   "id": 175,
+   "s": "CK",
+   "cat": "Networking",
+   "q": "A Router connects:",
+   "o": [
+    "Keyboard to CPU",
+    "Multiple networks and routes data packets",
+    "Monitor to CPU",
+    "Printer to network"
+   ],
+   "a": 1,
+   "e": "Router: routes packets between networks using IP addresses. Switch: within a LAN."
+  },
+  {
+   "id": 176,
+   "s": "CK",
+   "cat": "Networking",
+   "q": "Star topology connects all devices to a:",
+   "o": [
+    "Single cable",
+    "Ring",
+    "Central hub/switch",
+    "Each other"
+   ],
+   "a": 2,
+   "e": "Star: all nodes → central hub. Bus: single cable. Ring: circular. Mesh: all-to-all."
+  },
+  {
+   "id": 177,
+   "s": "CK",
+   "cat": "Networking",
+   "q": "Phishing is:",
+   "o": [
+    "A virus",
+    "Hardware failure",
+    "Cyber fraud via fake emails/websites to steal data",
+    "An OS feature"
+   ],
+   "a": 2,
+   "e": "Social engineering attack impersonating trusted entities to steal passwords/card details."
+  },
+  {
+   "id": 178,
+   "s": "CK",
+   "cat": "Networking",
+   "q": "A Firewall protects a network by:",
+   "o": [
+    "Speeding up internet",
+    "Monitoring and controlling traffic based on security rules",
+    "Storing data",
+    "Compressing files"
+   ],
+   "a": 1,
+   "e": "Firewall: monitors incoming/outgoing traffic, blocks unauthorised access."
+  },
+  {
+   "id": 179,
+   "s": "CK",
+   "cat": "Networking",
+   "q": "FTP stands for:",
+   "o": [
+    "File Transfer Protocol",
+    "Fast Text Processing",
+    "File Text Program",
+    "Folder Transfer Path"
+   ],
+   "a": 0,
+   "e": "FTP: transfers files between client and server over a network."
+  },
+  {
+   "id": 180,
+   "s": "CK",
+   "cat": "Networking",
+   "q": "HTTPS provides security through:",
+   "o": [
+    "Faster servers",
+    "SSL/TLS encryption",
+    "Larger bandwidth",
+    "Better DNS"
+   ],
+   "a": 1,
+   "e": "HTTPS = HTTP + SSL/TLS. Encrypts data between browser and server."
+  },
+  {
+   "id": 181,
+   "s": "CK",
+   "cat": "Networking",
+   "q": "Ransomware is malware that:",
+   "o": [
+    "Speeds up PC",
+    "Encrypts files and demands payment",
+    "Repairs data",
+    "Updates OS"
+   ],
+   "a": 1,
+   "e": "Encrypts victim's files, demands ransom (often cryptocurrency) for decryption key."
+  },
+  {
+   "id": 182,
+   "s": "CK",
+   "cat": "Networking",
+   "q": "OSI model has how many layers?",
+   "o": [
+    "4",
+    "5",
+    "6",
+    "7"
+   ],
+   "a": 3,
+   "e": "7: Physical, Data Link, Network, Transport, Session, Presentation, Application."
+  },
+  {
+   "id": 183,
+   "s": "CK",
+   "cat": "Networking",
+   "q": "The Network layer (Layer 3) handles:",
+   "o": [
+    "Physical signals",
+    "Routing and IP addressing",
+    "Email",
+    "Encryption"
+   ],
+   "a": 1,
+   "e": "Layer 3: routing, forwarding, IP addressing. Layer 4: Transport (TCP/UDP)."
+  },
+  {
+   "id": 184,
+   "s": "CK",
+   "cat": "Networking",
+   "q": "VPN stands for:",
+   "o": [
+    "Virtual Private Network",
+    "Visual Processing Node",
+    "Variable Protocol Network",
+    "Verified Public Network"
+   ],
+   "a": 0,
+   "e": "VPN: encrypted tunnel over public network for private, secure communication."
+  },
+  {
+   "id": 185,
+   "s": "CK",
+   "cat": "Networking",
+   "q": "URL stands for:",
+   "o": [
+    "Universal Resource Locator",
+    "Uniform Resource Locator",
+    "United Reference Link",
+    "Uniform Reference Locator"
+   ],
+   "a": 1,
+   "e": "URL = Uniform Resource Locator — the address of a web resource."
+  },
+  {
+   "id": 186,
+   "s": "CK",
+   "cat": "Networking",
+   "q": "ISP stands for:",
+   "o": [
+    "Internet Service Provider",
+    "Internal System Protocol",
+    "Internet Security Program",
+    "Integrated Service Platform"
+   ],
+   "a": 0,
+   "e": "ISP: company providing internet access (Jio, Airtel, BSNL, etc.)."
+  },
+  {
+   "id": 187,
+   "s": "CK",
+   "cat": "Networking",
+   "q": "LAN covers:",
+   "o": [
+    "Entire country",
+    "A city",
+    "A small area like a building/campus",
+    "The whole internet"
+   ],
+   "a": 2,
+   "e": "LAN = Local Area Network. WAN = Wide Area Network (country/global). MAN = Metropolitan."
+  },
+  {
+   "id": 188,
+   "s": "CK",
+   "cat": "Networking",
+   "q": "Two-Factor Authentication (2FA) uses:",
+   "o": [
+    "Two passwords",
+    "Two different verification methods",
+    "Two logins",
+    "Two accounts"
+   ],
+   "a": 1,
+   "e": "2FA: e.g., password + OTP, or password + biometric. Enhances security."
+  },
+  {
+   "id": 189,
+   "s": "CK",
+   "cat": "Networking",
+   "q": "'Cloud Computing' means:",
+   "o": [
+    "Computing in the sky",
+    "Accessing data/services over the internet on demand",
+    "Local storage only",
+    "A type of virus"
+   ],
+   "a": 1,
+   "e": "Delivers computing services (storage, servers, databases) over the internet. Examples: AWS, Azure, GCP."
+  },
+  {
+   "id": 190,
+   "s": "CK",
+   "cat": "Networking",
+   "q": "SaaS stands for:",
+   "o": [
+    "Software as a Service",
+    "System and Application Storage",
+    "Secure Access and Support",
+    "Software Architecture System"
+   ],
+   "a": 0,
+   "e": "SaaS (Gmail, Office 365). PaaS = Platform. IaaS = Infrastructure."
+  },
+  {
+   "id": 191,
+   "s": "CK",
+   "cat": "DBMS & Misc",
+   "q": "SQL stands for:",
+   "o": [
+    "Structured Query Language",
+    "Simple Question Language",
+    "System Query Logic",
+    "Standard Quick Lookup"
+   ],
+   "a": 0,
+   "e": "SQL: manages and queries relational databases."
+  },
+  {
+   "id": 192,
+   "s": "CK",
+   "cat": "DBMS & Misc",
+   "q": "A Primary Key in a database:",
+   "o": [
+    "Can be NULL",
+    "Uniquely identifies each row, cannot be NULL or duplicate",
+    "Is optional",
+    "Stores images only"
+   ],
+   "a": 1,
+   "e": "Primary key: unique, non-null identifier for each record in a table."
+  },
+  {
+   "id": 193,
+   "s": "CK",
+   "cat": "DBMS & Misc",
+   "q": "SELECT in SQL is used to:",
+   "o": [
+    "Insert rows",
+    "Update rows",
+    "Retrieve data",
+    "Delete rows"
+   ],
+   "a": 2,
+   "e": "SELECT: retrieves data. INSERT: adds. UPDATE: modifies. DELETE: removes."
+  },
+  {
+   "id": 194,
+   "s": "CK",
+   "cat": "DBMS & Misc",
+   "q": "AWS stands for:",
+   "o": [
+    "Advanced Web System",
+    "Amazon Web Services",
+    "Automated Wireless System",
+    "Application Web Server"
+   ],
+   "a": 1,
+   "e": "AWS: largest cloud provider. Others: Microsoft Azure, Google Cloud Platform."
+  },
+  {
+   "id": 195,
+   "s": "CK",
+   "cat": "DBMS & Misc",
+   "q": "PDF stands for:",
+   "o": [
+    "Portable Document Format",
+    "Personal Data File",
+    "Program Definition File",
+    "Print Document Folder"
+   ],
+   "a": 0,
+   "e": "PDF: developed by Adobe for device-independent document sharing."
+  },
+  {
+   "id": 196,
+   "s": "CK",
+   "cat": "DBMS & Misc",
+   "q": "An Algorithm is:",
+   "o": [
+    "A type of hardware",
+    "A step-by-step procedure to solve a problem",
+    "A programming language",
+    "A network protocol"
+   ],
+   "a": 1,
+   "e": "Finite, ordered set of well-defined instructions for solving a computational problem."
+  },
+  {
+   "id": 197,
+   "s": "CK",
+   "cat": "DBMS & Misc",
+   "q": "Blockchain is primarily:",
+   "o": [
+    "Word processor",
+    "Decentralised, tamper-proof distributed ledger",
+    "Image editor",
+    "Email service"
+   ],
+   "a": 1,
+   "e": "Blockchain: immutable distributed ledger — basis of cryptocurrencies and decentralised applications."
+  },
+  {
+   "id": 198,
+   "s": "CK",
+   "cat": "DBMS & Misc",
+   "q": "Mozilla Firefox is an example of:",
+   "o": [
+    "Proprietary browser",
+    "Open-source browser",
+    "Operating system",
+    "Database"
+   ],
+   "a": 1,
+   "e": "Firefox: open-source (Mozilla Public License). Chrome, Edge, Safari are proprietary."
+  },
+  {
+   "id": 199,
+   "s": "CK",
+   "cat": "DBMS & Misc",
+   "q": "AI stands for:",
+   "o": [
+    "Automated Integration",
+    "Artificial Intelligence",
+    "Advanced Interface",
+    "Application Installer"
+   ],
+   "a": 1,
+   "e": "AI: machines simulating human intelligence — learning, reasoning, problem-solving."
+  },
+  {
+   "id": 200,
+   "s": "CK",
+   "cat": "DBMS & Misc",
+   "q": "'Deepfake' technology uses AI to:",
+   "o": [
+    "Speed up computers",
+    "Create realistic fake videos/images of people",
+    "Encrypt files",
+    "Improve Wi-Fi"
+   ],
+   "a": 1,
+   "e": "Deepfakes use deep learning to generate convincing fake media — a growing cybersecurity concern."
+  }
+ ]
+}

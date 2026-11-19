@@ -1,6 +1,7 @@
 import { loadBank } from '@/lib/bank';
 import { ExamKey, type Exam } from '@/lib/types';
 import ibpsPoRaw from './bank.json';
+import niclRaw from './nicl-bank.json';
 import sbiClerkRaw from './sbi-clerk-bank.json';
 
 const PAPER_QUESTIONS = 50;
@@ -45,6 +46,41 @@ const sbiClerk = defineExam({
   bank: loadBank(sbiClerkRaw),
 });
 
+const niclAssistant = defineExam({
+  key: ExamKey.NiclAssistant,
+  name: 'NICL Assistant Mains 2026',
+  brand: 'NICL Assistant Prep',
+  body: 'NICL',
+  section: 'General Awareness & Computer Knowledge',
+  dateLabel: '30 Oct 2026',
+  endDate: '2026-10-30',
+  syllabus: 'General Awareness, Insurance and Computer Knowledge',
+  rankedAgainst: 'the NICL Assistant Mains 2026 pattern',
+  examDayTip: 'Exam day. Read the Insurance and Computer topics once in Revision mode, then stop and rest.',
+  fullMockBlurb: '50 questions drawn from General Awareness, Insurance and Computer Knowledge, against a 35-minute clock.',
+  guide: [
+    {
+      title: 'Practise topic by topic',
+      note: '120 General Awareness and Insurance questions and 80 Computer Knowledge questions, each with an explanation.',
+    },
+    {
+      title: 'Take a full mock every day',
+      note: '50 questions in 35 minutes, marked +1 / −0.25. Your score trend appears below.',
+    },
+    {
+      title: 'Read the Q&A before the exam',
+      note: 'All 200 questions with answers, topic by topic, or printed as a PDF.',
+    },
+    {
+      title: 'Come back here to see what to fix',
+      note: 'Weak topics, your pace, and the marks you lose to wrong guesses.',
+    },
+  ],
+  marking: { right: 1, wrong: 0.25 },
+  pdf: { prefix: 'nicl-ga-qa', title: 'NICL Assistant Mains Q and A' },
+  bank: loadBank(niclRaw),
+});
+
 const ibpsPo = defineExam({
   key: ExamKey.IbpsPo,
   name: 'IBPS PO Mains 2026',
@@ -79,8 +115,8 @@ const ibpsPo = defineExam({
   bank: loadBank(ibpsPoRaw),
 });
 
-/** Upcoming exam first. */
-export const EXAMS: readonly Exam[] = [sbiClerk, ibpsPo];
+/** Latest exam first. */
+export const EXAMS: readonly Exam[] = [sbiClerk, niclAssistant, ibpsPo];
 
 export function examByKey(key: ExamKey | null): Exam | null {
   return EXAMS.find((e) => e.key === key) ?? null;

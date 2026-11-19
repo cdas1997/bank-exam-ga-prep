@@ -12,6 +12,7 @@ const ROOT = new URL('../../../', import.meta.url);
 const FILES: Record<ExamKey, { bank: string; manifest: string }> = {
   [ExamKey.IbpsPo]: { bank: 'src/data/bank.json', manifest: 'public/pdf/manifest.json' },
   [ExamKey.SbiClerk]: { bank: 'src/data/sbi-clerk-bank.json', manifest: 'public/pdf/sbi-clerk-manifest.json' },
+  [ExamKey.NiclAssistant]: { bank: 'src/data/nicl-bank.json', manifest: 'public/pdf/nicl-manifest.json' },
 };
 
 function publicFile(href: string): URL {
@@ -34,9 +35,7 @@ describe.each(EXAMS.map((exam) => [exam.name, exam] as const))('PDF exports for 
 
 describe('PDF names', () => {
   it('differ per exam so the files never collide', () => {
-    const [first, second] = EXAMS;
-    if (!first || !second) throw new Error('expected two exams');
-    expect(pdfHref(first.pdf, null)).not.toBe(pdfHref(second.pdf, null));
+    expect(new Set(EXAMS.map((exam) => pdfHref(exam.pdf, null))).size).toBe(EXAMS.length);
     expect(pdfHref({ prefix: 'sbi-clerk-ga-qa', title: 'T' }, 'bf-rbi')).toBe('./pdf/sbi-clerk-ga-qa-bf-rbi.pdf');
     expect(pdfFilename({ prefix: 'p', title: 'SBI Clerk Mains GA Q and A' }, 'RBI & monetary policy')).toBe('SBI Clerk Mains GA Q and A - RBI and monetary policy.pdf');
   });

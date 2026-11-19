@@ -1,6 +1,6 @@
 """Print a question bank as A4 PDFs (all categories + one per category) with headless Chrome.
 
-usage: python3 scripts/build_pdfs.py [exam ...]     exam is ibps-po or sbi-clerk; with none, every exam is printed
+usage: python3 scripts/build_pdfs.py [exam ...]     exam is ibps-po, sbi-clerk or nicl; with none, every exam is printed
 Writes public/pdf/<prefix>-<all|category>.pdf. The prefix must match the exam's `pdf.prefix` in src/data/index.ts.
 Each exam's manifest in public/pdf records the hash of the bank file its PDFs were printed from;
 src/features/qa/pdf.test.ts fails when they drift apart.
@@ -38,6 +38,17 @@ EXAMS = {
         'marking': '+1 right, −0.25 wrong',
         'layout': 'readable',
         'all_title': 'SBI Clerk Mains 2026 GA: 400 questions and answers',
+    },
+    'nicl': {
+        'bank': ROOT / 'src' / 'data' / 'nicl-bank.json',
+        'prefix': 'nicl-ga-qa',
+        'manifest': 'nicl-manifest.json',
+        'footer': 'NICL Assistant Prep',
+        'meta': 'NICL Assistant Mains 2026 · General Awareness & Computer Knowledge',
+        'ranked': 'the NICL Assistant Mains 2026 pattern',
+        'marking': '+1 right, −0.25 wrong',
+        'layout': 'readable',
+        'all_title': 'NICL Assistant Mains 2026: 200 questions and answers',
     },
 }
 CHROME = '/Applications/Google Chrome.app/Contents/MacOS/Google Chrome'
